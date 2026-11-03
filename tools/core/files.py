@@ -22,6 +22,12 @@ def ensure_dir(path):
     return path
 
 
+def ensure_parent(path):
+    """Вход: путь файла. Выход: путь. Создать папку-родителя, если нет."""
+    ensure_dir(os.path.dirname(path))
+    return path
+
+
 def list_files(folder, suffix=''):
     """Вход: папка, суффикс. Выход: список имён. Только файлы подпапки."""
     names = []

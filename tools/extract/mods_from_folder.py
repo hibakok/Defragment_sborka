@@ -15,7 +15,7 @@ _TOOLS = os.path.dirname(os.path.abspath(__file__))
 _ROOT = os.path.abspath(os.path.join(_TOOLS, '..', '..'))
 OUT_PATH = os.path.join(_ROOT, 'data', 'mods.jsonl')
 
-_FIELD = re.compile(r'^(modId|displayName|version|description)\s*=\s*"(.*)"',
+_FIELD = re.compile(r'^[ \t]*(modId|displayName|version)\s*=\s*"(.*)"',
                     re.MULTILINE)
 
 
@@ -36,10 +36,12 @@ def read_member(jar_path, member):
 
 def parse_mods_toml(text):
     """Вход: текст mods.toml. Выход: [{modid, name, version}] — все
-    секции [[mods]]."""
+    секции [[mods]]. Секция обрезается на [[dependencies: поля
+    зависимостей (modId="forge" и пр.) не затирают поля самого мода."""
     mods = []
     for block in text.split('[[mods]]')[1:]:
-        fields = dict(_FIELD.findall(block))
+        own = block.split('[[dependencies')[0]
+        fields = dict(_FIELD.findall(own))
         mods.append({
             'modid': fields.get('modId', ''),
             'name': fields.get('displayName', ''),

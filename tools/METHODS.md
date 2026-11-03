@@ -12,6 +12,7 @@ core → snbt/quests (доменные) → plan (отрисовка) → pipeli
 | read_text | путь (str) | текст (str) | Прочитать текстовый файл целиком |
 | write_text | путь, текст | путь | Записать текст в файл (перезапись) |
 | ensure_dir | путь | путь | Создать директорию, если нет |
+| ensure_parent | путь файла | путь | Создать папку-родителя, если нет |
 | list_files | папка, суффикс | список имён | Файлы папки с данным суффиксом |
 
 ## tools/core/jsonio.py — примитивы JSON
@@ -22,6 +23,7 @@ core → snbt/quests (доменные) → plan (отрисовка) → pipeli
 | save_json | путь, объект | путь | Записать JSON (indent=1, юникод) |
 | load_jsonl | путь | список объектов | Прочитать JSONL (1 строка = 1 объект) |
 | save_jsonl | путь, список | путь | Записать JSONL (1 объект = 1 строка) |
+| tolerant_json | текст | объект/None | JSON, прощающий //-комментарии и висячие запятые (lang-файлы модов) |
 
 ## tools/snbt/parser.py — парсер SNBT (диалект FTB Quests)
 
@@ -58,7 +60,7 @@ core → snbt/quests (доменные) → plan (отрисовка) → pipeli
 
 | Метод | Вход | Выход | Функция |
 | --- | --- | --- | --- |
-| parse_task | строка задачи | {type, target, count} | ITEM/KILL/CHECK/ADV/DIM/STRUCT/BIOME/OBSERVE/FLUID |
+| parse_task | строка задачи | {type, target, count} | item/kill/check/adv/dim/struct/biome/observe/fluid |
 | parse_tasks | квест | список задач | Разобрать все задачи квеста |
 | clean_title | титул с &§-кодами | чистый текст | Убрать коды цветов |
 | display_title | квест | титул для показа | Пустой титул → первый таргет |
@@ -141,6 +143,19 @@ core → snbt/quests (доменные) → plan (отрисовка) → pipeli
 | count_file | путь md | (сделано, всего) | Посчитать '- [x]'/'- [ ]' |
 | main | — | — | Сводка по всем plan/auto/*.md |
 
+## tools/pipeline/items_audit.py — аудит предметов
+
+| Метод | Вход | Выход | Функция |
+| --- | --- | --- | --- |
+| item_rows | — | строки items.jsonl | Загрузить предметы |
+| per_mod | строки предметов | Counter modid→число | Счётчик по модам |
+| demand_targets | — | список целей | Предметные цели demand.jsonl |
+| modids_of | строки предметов | множество modid | Пространства имён |
+| split_target | 'mod:item{...}' | (modid, item) | Разбор цели |
+| covered | цели, множество modid | (покрыто, пропало) | Покрытие целей данными |
+| update_meta | счётчики | — | Дополнить meta.json (items, namespaces, дата) |
+| main | — | — | items_stats.jsonl + meta.json + отчёт |
+
 ## tools/extract/quests_from_instance.py — квесты из инстанса
 
 | Метод | Вход | Выход | Функция |
@@ -167,7 +182,7 @@ core → snbt/quests (доменные) → plan (отрисовка) → pipeli
 | --- | --- | --- | --- |
 | jar_files | папка mods | список .jar | Отсортированные имена |
 | read_member | jar, запись | текст/None | Прочитать запись архива |
-| parse_mods_toml | текст mods.toml | [{modid, name, version}] | Все секции [[mods]] |
+| parse_mods_toml | текст mods.toml | [{modid, name, version}] | Секции [[mods]]; блок обрезается на [[dependencies — поля зависимостей не затирают поля мода |
 | scan_jar | путь jar | строки модов | mods.toml одного jar |
 | scan_folder | папка mods | (строки, пропуски) | По всем jar |
 | main | путь | — | Записать data/mods.jsonl |
@@ -178,9 +193,11 @@ core → snbt/quests (доменные) → plan (отрисовка) → pipeli
 | --- | --- | --- | --- |
 | lang_members | ZipFile | [(modid, запись)] | assets/*/lang/en_us.json |
 | item_keys | словарь lang | [(ключ, имя)] | Только item.* и block.* |
-| scan_jar | путь jar | строки предметов | Языковые ключи jar |
-| scan_folder | папка mods | (строки, jar) | По всем jar |
-| main | путь | — | Записать data/items.jsonl |
+| rows_of | modid, словарь lang | строки предметов | Строки для одного lang |
+| scan_jar | путь jar | строки предметов | Языковые ключи jar (tolerant_json) |
+| scan_folder | папка mods | (строки, число jar) | По всем jar |
+| scan_lang_file | путь .../assets/<modid>/lang/en_us.json | строки | Lang-файл инстанса (kubejs) |
+| main | папка + lang:файлы | — | data/items.jsonl (слияние) |
 
 ## tools/extract/recipes_from_mods.py — рецепты
 
@@ -192,12 +209,13 @@ core → snbt/quests (доменные) → plan (отрисовка) → pipeli
 | scan_folder | папка, modid | строки | По всем jar |
 | main | папка, modids | — | data/recipes/<modid>.jsonl на мод |
 
-## tools/extract/kubejs_from_instance.py — KubeJS
+## tools/extract/kubejs_from_instance.py — KubeJS (только полезное)
 
 | Метод | Вход | Выход | Функция |
 | --- | --- | --- | --- |
 | kubejs_files | папка инстанса | [(отн. путь, полный)] | Все .js/.json из kubejs/ |
-| copy_one | пути | строка реестра | Скопировать в data/kubejs/ |
+| useful_rel | отн. путь | bool | Только скрипты + lang + рецепты + chronicles (иначе 500+ файлов мусора) |
+| copy_one | пути | строка реестра | Прочитать и скопировать в data/kubejs/ |
 | main | путь инстанса | — | Копия + _files.jsonl |
 
 ## tools/tests/selftest.py — самотест
