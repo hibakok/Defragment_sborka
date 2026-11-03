@@ -1,0 +1,485 @@
+# Музей: Chipped (chipped)
+
+Предметов: 6967 · крафтимых по данным: 0 (0%) · файлов: 15
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 3 из 15
+
+*В части: 470 предметов.*
+
+- [ ] **Cobbled Nether Bricks** — `chipped:cobbled_nether_bricks` · н
+- [ ] **Cobbled Netherrack** — `chipped:cobbled_netherrack` · н
+- [ ] **Cobbled Obsidian** — `chipped:cobbled_obsidian` · н
+- [ ] **Cobbled Packed Ice** — `chipped:cobbled_packed_ice` · н
+- [ ] **Cobbled Prismarine** — `chipped:cobbled_prismarine` · н
+- [ ] **Cobbled Purpur Block** — `chipped:cobbled_purpur_block` · н
+- [ ] **Cobbled Quartz Block** — `chipped:cobbled_quartz_block` · н
+- [ ] **Cobbled Raw Copper Block** — `chipped:cobbled_raw_copper_block` · н
+- [ ] **Cobbled Raw Gold Block** — `chipped:cobbled_raw_gold_block` · н
+- [ ] **Cobbled Raw Iron Block** — `chipped:cobbled_raw_iron_block` · н
+- [ ] **Cobbled Red Nether Bricks** — `chipped:cobbled_red_nether_bricks` · н
+- [ ] **Cobbled Red Sandstone** — `chipped:cobbled_red_sandstone` · н
+- [ ] **Cobbled Redstone Block** — `chipped:cobbled_redstone_block` · н
+- [ ] **Cobbled Sandstone** — `chipped:cobbled_sandstone` · н
+- [ ] **Cobbled Smooth Stone** — `chipped:cobbled_smooth_stone` · н
+- [ ] **Cobbled Snow Block** — `chipped:cobbled_snow_block` · н
+- [ ] **Cobbled Stone** — `chipped:cobbled_stone` · н
+- [ ] **Cobbled Tuff** — `chipped:cobbled_tuff` · н
+- [ ] **Cobblestone Bricks** — `chipped:cobblestone_bricks` · н
+- [ ] **Cobblestone Mini Tiles** — `chipped:cobblestone_mini_tiles` · н
+- [ ] **Cobblestone Pillar** — `chipped:cobblestone_pillar` · н
+- [ ] **Cobblestone Pillar Top** — `chipped:cobblestone_pillar_top` · н
+- [ ] **Cobblestone Scales** — `chipped:cobblestone_scales` · н
+- [ ] **Cobweb Acacia Trapdoor** — `chipped:cobweb_acacia_trapdoor` · н
+- [ ] **Cobweb Arch** — `chipped:cobweb_arch` · н
+- [ ] **Cobweb Bamboo Trapdoor** — `chipped:cobweb_bamboo_trapdoor` · н
+- [ ] **Cobweb Birch Trapdoor** — `chipped:cobweb_birch_trapdoor` · н
+- [ ] **Cobweb Cherry Trapdoor** — `chipped:cobweb_cherry_trapdoor` · н
+- [ ] **Cobweb Crimson Trapdoor** — `chipped:cobweb_crimson_trapdoor` · н
+- [ ] **Cobweb Dark Oak Trapdoor** — `chipped:cobweb_dark_oak_trapdoor` · н
+- [ ] **Cobweb Floor** — `chipped:cobweb_floor` · н
+- [ ] **Cobweb Jungle Trapdoor** — `chipped:cobweb_jungle_trapdoor` · н
+- [ ] **Cobweb Mangrove Trapdoor** — `chipped:cobweb_mangrove_trapdoor` · н
+- [ ] **Cobweb Oak Trapdoor** — `chipped:cobweb_oak_trapdoor` · н
+- [ ] **Cobweb Spruce Trapdoor** — `chipped:cobweb_spruce_trapdoor` · н
+- [ ] **Cobweb Warped Trapdoor** — `chipped:cobweb_warped_trapdoor` · н
+- [ ] **Compact Dried Kelp Block** — `chipped:compact_dried_kelp_block` · н
+- [ ] **Copper Barrel** — `chipped:copper_barrel` · н
+- [ ] **Cornered Acacia Planks** — `chipped:cornered_acacia_planks` · н
+- [ ] **Cornered Bamboo Planks** — `chipped:cornered_bamboo_planks` · н
+- [ ] **Cornered Birch Planks** — `chipped:cornered_birch_planks` · н
+- [ ] **Cornered Black Carpet** — `chipped:cornered_black_carpet` · н
+- [ ] **Cornered Black Wool** — `chipped:cornered_black_wool` · н
+- [ ] **Cornered Blue Carpet** — `chipped:cornered_blue_carpet` · н
+- [ ] **Cornered Blue Wool** — `chipped:cornered_blue_wool` · н
+- [ ] **Cornered Brown Carpet** — `chipped:cornered_brown_carpet` · н
+- [ ] **Cornered Brown Wool** — `chipped:cornered_brown_wool` · н
+- [ ] **Cornered Cherry Planks** — `chipped:cornered_cherry_planks` · н
+- [ ] **Cornered Crimson Planks** — `chipped:cornered_crimson_planks` · н
+- [ ] **Cornered Cyan Carpet** — `chipped:cornered_cyan_carpet` · н
+- [ ] **Cornered Cyan Wool** — `chipped:cornered_cyan_wool` · н
+- [ ] **Cornered Dark Oak Planks** — `chipped:cornered_dark_oak_planks` · н
+- [ ] **Cornered Gray Carpet** — `chipped:cornered_gray_carpet` · н
+- [ ] **Cornered Gray Wool** — `chipped:cornered_gray_wool` · н
+- [ ] **Cornered Green Carpet** — `chipped:cornered_green_carpet` · н
+- [ ] **Cornered Green Wool** — `chipped:cornered_green_wool` · н
+- [ ] **Cornered Jungle Planks** — `chipped:cornered_jungle_planks` · н
+- [ ] **Cornered Light Blue Carpet** — `chipped:cornered_light_blue_carpet` · н
+- [ ] **Cornered Light Blue Wool** — `chipped:cornered_light_blue_wool` · н
+- [ ] **Cornered Light Gray Carpet** — `chipped:cornered_light_gray_carpet` · н
+- [ ] **Cornered Light Gray Wool** — `chipped:cornered_light_gray_wool` · н
+- [ ] **Cornered Lime Carpet** — `chipped:cornered_lime_carpet` · н
+- [ ] **Cornered Lime Wool** — `chipped:cornered_lime_wool` · н
+- [ ] **Cornered Magenta Carpet** — `chipped:cornered_magenta_carpet` · н
+- [ ] **Cornered Magenta Wool** — `chipped:cornered_magenta_wool` · н
+- [ ] **Cornered Mangrove Planks** — `chipped:cornered_mangrove_planks` · н
+- [ ] **Cornered Oak Planks** — `chipped:cornered_oak_planks` · н
+- [ ] **Cornered Orange Carpet** — `chipped:cornered_orange_carpet` · н
+- [ ] **Cornered Orange Wool** — `chipped:cornered_orange_wool` · н
+- [ ] **Cornered Pink Carpet** — `chipped:cornered_pink_carpet` · н
+- [ ] **Cornered Pink Wool** — `chipped:cornered_pink_wool` · н
+- [ ] **Cornered Purple Carpet** — `chipped:cornered_purple_carpet` · н
+- [ ] **Cornered Purple Wool** — `chipped:cornered_purple_wool` · н
+- [ ] **Cornered Red Carpet** — `chipped:cornered_red_carpet` · н
+- [ ] **Cornered Red Wool** — `chipped:cornered_red_wool` · н
+- [ ] **Cornered Spruce Planks** — `chipped:cornered_spruce_planks` · н
+- [ ] **Cornered Warped Planks** — `chipped:cornered_warped_planks` · н
+- [ ] **Cornered White Carpet** — `chipped:cornered_white_carpet` · н
+- [ ] **Cornered White Wool** — `chipped:cornered_white_wool` · н
+- [ ] **Cornered Yellow Carpet** — `chipped:cornered_yellow_carpet` · н
+- [ ] **Cornered Yellow Wool** — `chipped:cornered_yellow_wool` · н
+- [ ] **Corny Nether Sprouts** — `chipped:corny_nether_sprouts` · н
+- [ ] **Corrupted Nether Sprouts** — `chipped:corrupted_nether_sprouts` · н
+- [ ] **Cracked Amethyst Block Bricks** — `chipped:cracked_amethyst_block_bricks` · н
+- [ ] **Cracked Ancient Debris Bricks** — `chipped:cracked_ancient_debris_bricks` · н
+- [ ] **Cracked Andesite Bricks** — `chipped:cracked_andesite_bricks` · н
+- [ ] **Cracked Basalt Bricks** — `chipped:cracked_basalt_bricks` · н
+- [ ] **Cracked Blue Ice Bricks** — `chipped:cracked_blue_ice_bricks` · н
+- [ ] **Cracked Bone Block** — `chipped:cracked_bone_block` · н
+- [ ] **Cracked Borderless Bricks Bricks** — `chipped:cracked_borderless_bricks_bricks` · н
+- [ ] **Cracked Bricks Bricks** — `chipped:cracked_bricks_bricks` · н
+- [ ] **Cracked Calcite Bricks** — `chipped:cracked_calcite_bricks` · н
+- [ ] **Cracked Clay Bricks** — `chipped:cracked_clay_bricks` · н
+- [ ] **Cracked Coal Block Bricks** — `chipped:cracked_coal_block_bricks` · н
+- [ ] **Cracked Cobblestone Bricks** — `chipped:cracked_cobblestone_bricks` · н
+- [ ] **Cracked Crying Obsidian Bricks** — `chipped:cracked_crying_obsidian_bricks` · н
+- [ ] **Cracked Dark Prismarine Bricks** — `chipped:cracked_dark_prismarine_bricks` · н
+- [ ] **Cracked Diorite Bricks** — `chipped:cracked_diorite_bricks` · н
+- [ ] **Cracked Dirt Bricks** — `chipped:cracked_dirt_bricks` · н
+- [ ] **Cracked Disordered Amethyst Block Bricks** — `chipped:cracked_disordered_amethyst_block_bricks` · н
+- [ ] **Cracked Disordered Ancient Debris Bricks** — `chipped:cracked_disordered_ancient_debris_bricks` · н
+- [ ] **Cracked Disordered Andesite Bricks** — `chipped:cracked_disordered_andesite_bricks` · н
+- [ ] **Cracked Disordered Basalt Bricks** — `chipped:cracked_disordered_basalt_bricks` · н
+- [ ] **Cracked Disordered Blackstone Bricks** — `chipped:cracked_disordered_blackstone_bricks` · н
+- [ ] **Cracked Disordered Blue Ice Bricks** — `chipped:cracked_disordered_blue_ice_bricks` · н
+- [ ] **Cracked Disordered Borderless Bricks Bricks** — `chipped:cracked_disordered_borderless_bricks_bricks` · н
+- [ ] **Cracked Disordered Bricks Bricks** — `chipped:cracked_disordered_bricks_bricks` · н
+- [ ] **Cracked Disordered Calcite Bricks** — `chipped:cracked_disordered_calcite_bricks` · н
+- [ ] **Cracked Disordered Clay Bricks** — `chipped:cracked_disordered_clay_bricks` · н
+- [ ] **Cracked Disordered Coal Block Bricks** — `chipped:cracked_disordered_coal_block_bricks` · н
+- [ ] **Cracked Disordered Cobblestone Bricks** — `chipped:cracked_disordered_cobblestone_bricks` · н
+- [ ] **Cracked Disordered Crying Obsidian Bricks** — `chipped:cracked_disordered_crying_obsidian_bricks` · н
+- [ ] **Cracked Disordered Dark Prismarine Bricks** — `chipped:cracked_disordered_dark_prismarine_bricks` · н
+- [ ] **Cracked Disordered Deepslate Bricks** — `chipped:cracked_disordered_deepslate_bricks` · н
+- [ ] **Cracked Disordered Diorite Bricks** — `chipped:cracked_disordered_diorite_bricks` · н
+- [ ] **Cracked Disordered Dirt Bricks** — `chipped:cracked_disordered_dirt_bricks` · н
+- [ ] **Cracked Disordered Dripstone Block Bricks** — `chipped:cracked_disordered_dripstone_block_bricks` · н
+- [ ] **Cracked Disordered End Stone Bricks** — `chipped:cracked_disordered_end_stone_bricks` · н
+- [ ] **Cracked Disordered Gilded Blackstone Bricks** — `chipped:cracked_disordered_gilded_blackstone_bricks` · н
+- [ ] **Cracked Disordered Granite Bricks** — `chipped:cracked_disordered_granite_bricks` · н
+- [ ] **Cracked Disordered Ice Bricks** — `chipped:cracked_disordered_ice_bricks` · н
+- [ ] **Cracked Disordered Lapis Block Bricks** — `chipped:cracked_disordered_lapis_block_bricks` · н
+- [ ] **Cracked Disordered Lodestone Bricks** — `chipped:cracked_disordered_lodestone_bricks` · н
+- [ ] **Cracked Disordered Magma Block Bricks** — `chipped:cracked_disordered_magma_block_bricks` · н
+- [ ] **Cracked Disordered Mossy Cobblestone Bricks** — `chipped:cracked_disordered_mossy_cobblestone_bricks` · н
+- [ ] **Cracked Disordered Mossy Stone Bricks Bricks** — `chipped:cracked_disordered_mossy_stone_bricks_bricks` · н
+- [ ] **Cracked Disordered Nether Bricks Bricks** — `chipped:cracked_disordered_nether_bricks_bricks` · н
+- [ ] **Cracked Disordered Netherrack Bricks** — `chipped:cracked_disordered_netherrack_bricks` · н
+- [ ] **Cracked Disordered Obsidian Bricks** — `chipped:cracked_disordered_obsidian_bricks` · н
+- [ ] **Cracked Disordered Packed Ice Bricks** — `chipped:cracked_disordered_packed_ice_bricks` · н
+- [ ] **Cracked Disordered Prismarine Bricks** — `chipped:cracked_disordered_prismarine_bricks` · н
+- [ ] **Cracked Disordered Purpur Block Bricks** — `chipped:cracked_disordered_purpur_block_bricks` · н
+- [ ] **Cracked Disordered Quartz Block Bricks** — `chipped:cracked_disordered_quartz_block_bricks` · н
+- [ ] **Cracked Disordered Raw Copper Block Bricks** — `chipped:cracked_disordered_raw_copper_block_bricks` · н
+- [ ] **Cracked Disordered Raw Gold Block Bricks** — `chipped:cracked_disordered_raw_gold_block_bricks` · н
+- [ ] **Cracked Disordered Raw Iron Block Bricks** — `chipped:cracked_disordered_raw_iron_block_bricks` · н
+- [ ] **Cracked Disordered Red Nether Bricks Bricks** — `chipped:cracked_disordered_red_nether_bricks_bricks` · н
+- [ ] **Cracked Disordered Red Sandstone Bricks** — `chipped:cracked_disordered_red_sandstone_bricks` · н
+- [ ] **Cracked Disordered Redstone Block Bricks** — `chipped:cracked_disordered_redstone_block_bricks` · н
+- [ ] **Cracked Disordered Sandstone Bricks** — `chipped:cracked_disordered_sandstone_bricks` · н
+- [ ] **Cracked Disordered Smooth Stone Bricks** — `chipped:cracked_disordered_smooth_stone_bricks` · н
+- [ ] **Cracked Disordered Snow Block Bricks** — `chipped:cracked_disordered_snow_block_bricks` · н
+- [ ] **Cracked Disordered Stone Bricks** — `chipped:cracked_disordered_stone_bricks` · н
+- [ ] **Cracked Disordered Tuff Bricks** — `chipped:cracked_disordered_tuff_bricks` · н
+- [ ] **Cracked Dripstone Block Bricks** — `chipped:cracked_dripstone_block_bricks` · н
+- [ ] **Cracked End Stone Bricks** — `chipped:cracked_end_stone_bricks` · н
+- [ ] **Cracked Flat Amethyst Block Tiles** — `chipped:cracked_flat_amethyst_block_tiles` · н
+- [ ] **Cracked Flat Ancient Debris Tiles** — `chipped:cracked_flat_ancient_debris_tiles` · н
+- [ ] **Cracked Flat Andesite Tiles** — `chipped:cracked_flat_andesite_tiles` · н
+- [ ] **Cracked Flat Basalt Tiles** — `chipped:cracked_flat_basalt_tiles` · н
+- [ ] **Cracked Flat Blackstone Tiles** — `chipped:cracked_flat_blackstone_tiles` · н
+- [ ] **Cracked Flat Blue Ice Tiles** — `chipped:cracked_flat_blue_ice_tiles` · н
+- [ ] **Cracked Flat Borderless Bricks Tiles** — `chipped:cracked_flat_borderless_bricks_tiles` · н
+- [ ] **Cracked Flat Bricks Tiles** — `chipped:cracked_flat_bricks_tiles` · н
+- [ ] **Cracked Flat Calcite Tiles** — `chipped:cracked_flat_calcite_tiles` · н
+- [ ] **Cracked Flat Clay Tiles** — `chipped:cracked_flat_clay_tiles` · н
+- [ ] **Cracked Flat Coal Block Tiles** — `chipped:cracked_flat_coal_block_tiles` · н
+- [ ] **Cracked Flat Cobblestone Tiles** — `chipped:cracked_flat_cobblestone_tiles` · н
+- [ ] **Cracked Flat Crying Obsidian Tiles** — `chipped:cracked_flat_crying_obsidian_tiles` · н
+- [ ] **Cracked Flat Dark Prismarine Tiles** — `chipped:cracked_flat_dark_prismarine_tiles` · н
+- [ ] **Cracked Flat Diorite Tiles** — `chipped:cracked_flat_diorite_tiles` · н
+- [ ] **Cracked Flat Dirt Tiles** — `chipped:cracked_flat_dirt_tiles` · н
+- [ ] **Cracked Flat Dripstone Block Tiles** — `chipped:cracked_flat_dripstone_block_tiles` · н
+- [ ] **Cracked Flat End Stone Tiles** — `chipped:cracked_flat_end_stone_tiles` · н
+- [ ] **Cracked Flat Gilded Blackstone Tiles** — `chipped:cracked_flat_gilded_blackstone_tiles` · н
+- [ ] **Cracked Flat Granite Tiles** — `chipped:cracked_flat_granite_tiles` · н
+- [ ] **Cracked Flat Ice Tiles** — `chipped:cracked_flat_ice_tiles` · н
+- [ ] **Cracked Flat Lapis Block Tiles** — `chipped:cracked_flat_lapis_block_tiles` · н
+- [ ] **Cracked Flat Lodestone Tiles** — `chipped:cracked_flat_lodestone_tiles` · н
+- [ ] **Cracked Flat Magma Block Tiles** — `chipped:cracked_flat_magma_block_tiles` · н
+- [ ] **Cracked Flat Mossy Cobblestone Tiles** — `chipped:cracked_flat_mossy_cobblestone_tiles` · н
+- [ ] **Cracked Flat Mossy Stone Bricks Tiles** — `chipped:cracked_flat_mossy_stone_bricks_tiles` · н
+- [ ] **Cracked Flat Nether Bricks Tiles** — `chipped:cracked_flat_nether_bricks_tiles` · н
+- [ ] **Cracked Flat Netherrack Tiles** — `chipped:cracked_flat_netherrack_tiles` · н
+- [ ] **Cracked Flat Obsidian Tiles** — `chipped:cracked_flat_obsidian_tiles` · н
+- [ ] **Cracked Flat Packed Ice Tiles** — `chipped:cracked_flat_packed_ice_tiles` · н
+- [ ] **Cracked Flat Prismarine Tiles** — `chipped:cracked_flat_prismarine_tiles` · н
+- [ ] **Cracked Flat Purpur Block Tiles** — `chipped:cracked_flat_purpur_block_tiles` · н
+- [ ] **Cracked Flat Quartz Block Tiles** — `chipped:cracked_flat_quartz_block_tiles` · н
+- [ ] **Cracked Flat Raw Copper Block Tiles** — `chipped:cracked_flat_raw_copper_block_tiles` · н
+- [ ] **Cracked Flat Raw Gold Block Tiles** — `chipped:cracked_flat_raw_gold_block_tiles` · н
+- [ ] **Cracked Flat Raw Iron Block Tiles** — `chipped:cracked_flat_raw_iron_block_tiles` · н
+- [ ] **Cracked Flat Red Nether Bricks Tiles** — `chipped:cracked_flat_red_nether_bricks_tiles` · н
+- [ ] **Cracked Flat Red Sandstone Tiles** — `chipped:cracked_flat_red_sandstone_tiles` · н
+- [ ] **Cracked Flat Redstone Block Tiles** — `chipped:cracked_flat_redstone_block_tiles` · н
+- [ ] **Cracked Flat Sandstone Tiles** — `chipped:cracked_flat_sandstone_tiles` · н
+- [ ] **Cracked Flat Smooth Stone Tiles** — `chipped:cracked_flat_smooth_stone_tiles` · н
+- [ ] **Cracked Flat Snow Block Tiles** — `chipped:cracked_flat_snow_block_tiles` · н
+- [ ] **Cracked Flat Stone Tiles** — `chipped:cracked_flat_stone_tiles` · н
+- [ ] **Cracked Flat Tuff Tiles** — `chipped:cracked_flat_tuff_tiles` · н
+- [ ] **Cracked Gilded Blackstone Bricks** — `chipped:cracked_gilded_blackstone_bricks` · н
+- [ ] **Cracked Glowstone** — `chipped:cracked_glowstone` · н
+- [ ] **Cracked Granite Bricks** — `chipped:cracked_granite_bricks` · н
+- [ ] **Cracked Ice Bricks** — `chipped:cracked_ice_bricks` · н
+- [ ] **Cracked Lapis Block Bricks** — `chipped:cracked_lapis_block_bricks` · н
+- [ ] **Cracked Lodestone Bricks** — `chipped:cracked_lodestone_bricks` · н
+- [ ] **Cracked Magma Block Bricks** — `chipped:cracked_magma_block_bricks` · н
+- [ ] **Cracked Mossy Cobblestone Bricks** — `chipped:cracked_mossy_cobblestone_bricks` · н
+- [ ] **Cracked Mossy Stone Bricks Bricks** — `chipped:cracked_mossy_stone_bricks_bricks` · н
+- [ ] **Cracked Mud Bricks** — `chipped:cracked_mud_bricks` · н
+- [ ] **Cracked Mud Bricks Bricks** — `chipped:cracked_mud_bricks_bricks` · н
+- [ ] **Cracked Nether Bricks Bricks** — `chipped:cracked_nether_bricks_bricks` · н
+- [ ] **Cracked Netherrack Bricks** — `chipped:cracked_netherrack_bricks` · н
+- [ ] **Cracked Obsidian Bricks** — `chipped:cracked_obsidian_bricks` · н
+- [ ] **Cracked Packed Ice Bricks** — `chipped:cracked_packed_ice_bricks` · н
+- [ ] **Cracked Packed Mud Bricks** — `chipped:cracked_packed_mud_bricks` · н
+- [ ] **Cracked Prismarine Bricks** — `chipped:cracked_prismarine_bricks` · н
+- [ ] **Cracked Purpur Block Bricks** — `chipped:cracked_purpur_block_bricks` · н
+- [ ] **Cracked Quartz Block Bricks** — `chipped:cracked_quartz_block_bricks` · н
+- [ ] **Cracked Raw Copper Block Bricks** — `chipped:cracked_raw_copper_block_bricks` · н
+- [ ] **Cracked Raw Gold Block Bricks** — `chipped:cracked_raw_gold_block_bricks` · н
+- [ ] **Cracked Raw Iron Block Bricks** — `chipped:cracked_raw_iron_block_bricks` · н
+- [ ] **Cracked Red Nether Bricks Bricks** — `chipped:cracked_red_nether_bricks_bricks` · н
+- [ ] **Cracked Red Sandstone Bricks** — `chipped:cracked_red_sandstone_bricks` · н
+- [ ] **Cracked Redstone Block Bricks** — `chipped:cracked_redstone_block_bricks` · н
+- [ ] **Cracked Sandstone Bricks** — `chipped:cracked_sandstone_bricks` · н
+- [ ] **Cracked Sea Lantern** — `chipped:cracked_sea_lantern` · н
+- [ ] **Cracked Shroomlight** — `chipped:cracked_shroomlight` · н
+- [ ] **Cracked Smooth Stone Bricks** — `chipped:cracked_smooth_stone_bricks` · н
+- [ ] **Cracked Snow Block Bricks** — `chipped:cracked_snow_block_bricks` · н
+- [ ] **Cracked Tuff Bricks** — `chipped:cracked_tuff_bricks` · н
+- [ ] **Crafted Black Carpet** — `chipped:crafted_black_carpet` · н
+- [ ] **Crafted Black Wool** — `chipped:crafted_black_wool` · н
+- [ ] **Crafted Blue Carpet** — `chipped:crafted_blue_carpet` · н
+- [ ] **Crafted Blue Wool** — `chipped:crafted_blue_wool` · н
+- [ ] **Crafted Brown Carpet** — `chipped:crafted_brown_carpet` · н
+- [ ] **Crafted Brown Wool** — `chipped:crafted_brown_wool` · н
+- [ ] **Crafted Cyan Carpet** — `chipped:crafted_cyan_carpet` · н
+- [ ] **Crafted Cyan Wool** — `chipped:crafted_cyan_wool` · н
+- [ ] **Crafted Gray Carpet** — `chipped:crafted_gray_carpet` · н
+- [ ] **Crafted Gray Wool** — `chipped:crafted_gray_wool` · н
+- [ ] **Crafted Green Carpet** — `chipped:crafted_green_carpet` · н
+- [ ] **Crafted Green Wool** — `chipped:crafted_green_wool` · н
+- [ ] **Crafted Light Blue Carpet** — `chipped:crafted_light_blue_carpet` · н
+- [ ] **Crafted Light Blue Wool** — `chipped:crafted_light_blue_wool` · н
+- [ ] **Crafted Light Gray Carpet** — `chipped:crafted_light_gray_carpet` · н
+- [ ] **Crafted Light Gray Wool** — `chipped:crafted_light_gray_wool` · н
+- [ ] **Crafted Lime Carpet** — `chipped:crafted_lime_carpet` · н
+- [ ] **Crafted Lime Wool** — `chipped:crafted_lime_wool` · н
+- [ ] **Crafted Magenta Carpet** — `chipped:crafted_magenta_carpet` · н
+- [ ] **Crafted Magenta Wool** — `chipped:crafted_magenta_wool` · н
+- [ ] **Crafted Orange Carpet** — `chipped:crafted_orange_carpet` · н
+- [ ] **Crafted Orange Wool** — `chipped:crafted_orange_wool` · н
+- [ ] **Crafted Pink Carpet** — `chipped:crafted_pink_carpet` · н
+- [ ] **Crafted Pink Wool** — `chipped:crafted_pink_wool` · н
+- [ ] **Crafted Purple Carpet** — `chipped:crafted_purple_carpet` · н
+- [ ] **Crafted Purple Wool** — `chipped:crafted_purple_wool` · н
+- [ ] **Crafted Red Carpet** — `chipped:crafted_red_carpet` · н
+- [ ] **Crafted Red Wool** — `chipped:crafted_red_wool` · н
+- [ ] **Crafted White Carpet** — `chipped:crafted_white_carpet` · н
+- [ ] **Crafted White Wool** — `chipped:crafted_white_wool` · н
+- [ ] **Crafted Yellow Carpet** — `chipped:crafted_yellow_carpet` · н
+- [ ] **Crafted Yellow Wool** — `chipped:crafted_yellow_wool` · н
+- [ ] **Crated Acacia Planks** — `chipped:crated_acacia_planks` · н
+- [ ] **Crated Bamboo Planks** — `chipped:crated_bamboo_planks` · н
+- [ ] **Crated Birch Planks** — `chipped:crated_birch_planks` · н
+- [ ] **Crated Cherry Planks** — `chipped:crated_cherry_planks` · н
+- [ ] **Crated Crimson Planks** — `chipped:crated_crimson_planks` · н
+- [ ] **Crated Dark Oak Planks** — `chipped:crated_dark_oak_planks` · н
+- [ ] **Crated Jungle Planks** — `chipped:crated_jungle_planks` · н
+- [ ] **Crated Mangrove Planks** — `chipped:crated_mangrove_planks` · н
+- [ ] **Crated Oak Planks** — `chipped:crated_oak_planks` · н
+- [ ] **Crated Spruce Planks** — `chipped:crated_spruce_planks` · н
+- [ ] **Crated Warped Planks** — `chipped:crated_warped_planks` · н
+- [ ] **Creeper Amethyst Block Carving** — `chipped:creeper_amethyst_block_carving` · н
+- [ ] **Creeper Ancient Debris Carving** — `chipped:creeper_ancient_debris_carving` · н
+- [ ] **Creeper Andesite Carving** — `chipped:creeper_andesite_carving` · н
+- [ ] **Creeper Basalt Carving** — `chipped:creeper_basalt_carving` · н
+- [ ] **Creeper Black Concrete** — `chipped:creeper_black_concrete` · н
+- [ ] **Creeper Blackstone Carving** — `chipped:creeper_blackstone_carving` · н
+- [ ] **Creeper Blue Concrete** — `chipped:creeper_blue_concrete` · н
+- [ ] **Creeper Blue Ice Carving** — `chipped:creeper_blue_ice_carving` · н
+- [ ] **Creeper Borderless Bricks Carving** — `chipped:creeper_borderless_bricks_carving` · н
+- [ ] **Creeper Bricks Carving** — `chipped:creeper_bricks_carving` · н
+- [ ] **Creeper Brown Concrete** — `chipped:creeper_brown_concrete` · н
+- [ ] **Creeper Calcite Carving** — `chipped:creeper_calcite_carving` · н
+- [ ] **Creeper Clay Carving** — `chipped:creeper_clay_carving` · н
+- [ ] **Creeper Coal Block Carving** — `chipped:creeper_coal_block_carving` · н
+- [ ] **Creeper Cobblestone Carving** — `chipped:creeper_cobblestone_carving` · н
+- [ ] **Creeper Crying Obsidian Carving** — `chipped:creeper_crying_obsidian_carving` · н
+- [ ] **Creeper Cyan Concrete** — `chipped:creeper_cyan_concrete` · н
+- [ ] **Creeper Dark Prismarine Carving** — `chipped:creeper_dark_prismarine_carving` · н
+- [ ] **Creeper Deepslate Carving** — `chipped:creeper_deepslate_carving` · н
+- [ ] **Creeper Diorite Carving** — `chipped:creeper_diorite_carving` · н
+- [ ] **Creeper Dirt Carving** — `chipped:creeper_dirt_carving` · н
+- [ ] **Creeper Dripstone Block Carving** — `chipped:creeper_dripstone_block_carving` · н
+- [ ] **Creeper End Stone Carving** — `chipped:creeper_end_stone_carving` · н
+- [ ] **Creeper Gilded Blackstone Carving** — `chipped:creeper_gilded_blackstone_carving` · н
+- [ ] **Creeper Granite Carving** — `chipped:creeper_granite_carving` · н
+- [ ] **Creeper Gray Concrete** — `chipped:creeper_gray_concrete` · н
+- [ ] **Creeper Green Concrete** — `chipped:creeper_green_concrete` · н
+- [ ] **Creeper Ice Carving** — `chipped:creeper_ice_carving` · н
+- [ ] **Creeper Lapis Block Carving** — `chipped:creeper_lapis_block_carving` · н
+- [ ] **Creeper Light Blue Concrete** — `chipped:creeper_light_blue_concrete` · н
+- [ ] **Creeper Light Gray Concrete** — `chipped:creeper_light_gray_concrete` · н
+- [ ] **Creeper Lime Concrete** — `chipped:creeper_lime_concrete` · н
+- [ ] **Creeper Lodestone Carving** — `chipped:creeper_lodestone_carving` · н
+- [ ] **Creeper Magenta Concrete** — `chipped:creeper_magenta_concrete` · н
+- [ ] **Creeper Magma Block Carving** — `chipped:creeper_magma_block_carving` · н
+- [ ] **Creeper Mossy Cobblestone Carving** — `chipped:creeper_mossy_cobblestone_carving` · н
+- [ ] **Creeper Mossy Stone Bricks Carving** — `chipped:creeper_mossy_stone_bricks_carving` · н
+- [ ] **Creeper Mud Bricks Carving** — `chipped:creeper_mud_bricks_carving` · н
+- [ ] **Creeper Mud Carving** — `chipped:creeper_mud_carving` · н
+- [ ] **Creeper Nether Bricks Carving** — `chipped:creeper_nether_bricks_carving` · н
+- [ ] **Creeper Netherrack Carving** — `chipped:creeper_netherrack_carving` · н
+- [ ] **Creeper Obsidian Carving** — `chipped:creeper_obsidian_carving` · н
+- [ ] **Creeper Orange Concrete** — `chipped:creeper_orange_concrete` · н
+- [ ] **Creeper Packed Ice Carving** — `chipped:creeper_packed_ice_carving` · н
+- [ ] **Creeper Packed Mud Carving** — `chipped:creeper_packed_mud_carving` · н
+- [ ] **Creeper Pink Concrete** — `chipped:creeper_pink_concrete` · н
+- [ ] **Creeper Prismarine Carving** — `chipped:creeper_prismarine_carving` · н
+- [ ] **Creeper Purple Concrete** — `chipped:creeper_purple_concrete` · н
+- [ ] **Creeper Purpur Block Carving** — `chipped:creeper_purpur_block_carving` · н
+- [ ] **Creeper Quartz Block Carving** — `chipped:creeper_quartz_block_carving` · н
+- [ ] **Creeper Raw Copper Block Carving** — `chipped:creeper_raw_copper_block_carving` · н
+- [ ] **Creeper Raw Gold Block Carving** — `chipped:creeper_raw_gold_block_carving` · н
+- [ ] **Creeper Raw Iron Block Carving** — `chipped:creeper_raw_iron_block_carving` · н
+- [ ] **Creeper Red Concrete** — `chipped:creeper_red_concrete` · н
+- [ ] **Creeper Red Nether Bricks Carving** — `chipped:creeper_red_nether_bricks_carving` · н
+- [ ] **Creeper Red Sandstone Carving** — `chipped:creeper_red_sandstone_carving` · н
+- [ ] **Creeper Redstone Block Carving** — `chipped:creeper_redstone_block_carving` · н
+- [ ] **Creeper Sandstone Carving** — `chipped:creeper_sandstone_carving` · н
+- [ ] **Creeper Smooth Stone Carving** — `chipped:creeper_smooth_stone_carving` · н
+- [ ] **Creeper Snow Block Carving** — `chipped:creeper_snow_block_carving` · н
+- [ ] **Creeper Stone Carving** — `chipped:creeper_stone_carving` · н
+- [ ] **Creeper Tuff Carving** — `chipped:creeper_tuff_carving` · н
+- [ ] **Creeper White Concrete** — `chipped:creeper_white_concrete` · н
+- [ ] **Creeper Yellow Concrete** — `chipped:creeper_yellow_concrete` · н
+- [ ] **Creeping Nether Sprouts** — `chipped:creeping_nether_sprouts` · н
+- [ ] **Creepy Carved Pumpkin** — `chipped:creepy_carved_pumpkin` · н
+- [ ] **Creepy Jack O Lantern** — `chipped:creepy_jack_o_lantern` · н
+- [ ] **Crimson Barrel** — `chipped:crimson_barrel` · н
+- [ ] **Crimson Crate** — `chipped:crimson_crate` · н
+- [ ] **Crimson Dried Kelp Block** — `chipped:crimson_dried_kelp_block` · н
+- [ ] **Crimson Fungus Bulb** — `chipped:crimson_fungus_bulb` · н
+- [ ] **Crimson Fungus Bushel** — `chipped:crimson_fungus_bushel` · н
+- [ ] **Crimson Fungus Cluster** — `chipped:crimson_fungus_cluster` · н
+- [ ] **Crimson Fungus Trio** — `chipped:crimson_fungus_trio` · н
+- [ ] **Crimson Mangrove Roots** — `chipped:crimson_mangrove_roots` · н
+- [ ] **Crimson Planks Mosaic** — `chipped:crimson_planks_mosaic` · н
+- [ ] **Crimson Planks Panel** — `chipped:crimson_planks_panel` · н
+- [ ] **Crimson Planks Shavings** — `chipped:crimson_planks_shavings` · н
+- [ ] **Crimson Redstone Torch** — `chipped:crimson_redstone_torch` · н
+- [ ] **Crimson Roots Bloom** — `chipped:crimson_roots_bloom` · н
+- [ ] **Crimson Roots Bramble** — `chipped:crimson_roots_bramble` · н
+- [ ] **Crimson Roots Bud** — `chipped:crimson_roots_bud` · н
+- [ ] **Crimson Roots Bulb** — `chipped:crimson_roots_bulb` · н
+- [ ] **Crimson Roots Floret** — `chipped:crimson_roots_floret` · н
+- [ ] **Crimson Torch** — `chipped:crimson_torch` · н
+- [ ] **Crooked Ladder** — `chipped:crooked_ladder` · н
+- [ ] **Crooked Plank Ladder** — `chipped:crooked_plank_ladder` · н
+- [ ] **Crooked Ropeplank Ladder** — `chipped:crooked_ropeplank_ladder` · н
+- [ ] **Cross Haired Black Carpet** — `chipped:cross_haired_black_carpet` · н
+- [ ] **Cross Haired Black Wool** — `chipped:cross_haired_black_wool` · н
+- [ ] **Cross Haired Blue Carpet** — `chipped:cross_haired_blue_carpet` · н
+- [ ] **Cross Haired Blue Wool** — `chipped:cross_haired_blue_wool` · н
+- [ ] **Cross Haired Brown Carpet** — `chipped:cross_haired_brown_carpet` · н
+- [ ] **Cross Haired Brown Wool** — `chipped:cross_haired_brown_wool` · н
+- [ ] **Cross Haired Cyan Carpet** — `chipped:cross_haired_cyan_carpet` · н
+- [ ] **Cross Haired Cyan Wool** — `chipped:cross_haired_cyan_wool` · н
+- [ ] **Cross Haired Gray Carpet** — `chipped:cross_haired_gray_carpet` · н
+- [ ] **Cross Haired Gray Wool** — `chipped:cross_haired_gray_wool` · н
+- [ ] **Cross Haired Green Carpet** — `chipped:cross_haired_green_carpet` · н
+- [ ] **Cross Haired Green Wool** — `chipped:cross_haired_green_wool` · н
+- [ ] **Cross Haired Light Blue Carpet** — `chipped:cross_haired_light_blue_carpet` · н
+- [ ] **Cross Haired Light Blue Wool** — `chipped:cross_haired_light_blue_wool` · н
+- [ ] **Cross Haired Light Gray Carpet** — `chipped:cross_haired_light_gray_carpet` · н
+- [ ] **Cross Haired Light Gray Wool** — `chipped:cross_haired_light_gray_wool` · н
+- [ ] **Cross Haired Lime Carpet** — `chipped:cross_haired_lime_carpet` · н
+- [ ] **Cross Haired Lime Wool** — `chipped:cross_haired_lime_wool` · н
+- [ ] **Cross Haired Magenta Carpet** — `chipped:cross_haired_magenta_carpet` · н
+- [ ] **Cross Haired Magenta Wool** — `chipped:cross_haired_magenta_wool` · н
+- [ ] **Cross Haired Orange Carpet** — `chipped:cross_haired_orange_carpet` · н
+- [ ] **Cross Haired Orange Wool** — `chipped:cross_haired_orange_wool` · н
+- [ ] **Cross Haired Pink Carpet** — `chipped:cross_haired_pink_carpet` · н
+- [ ] **Cross Haired Pink Wool** — `chipped:cross_haired_pink_wool` · н
+- [ ] **Cross Haired Purple Carpet** — `chipped:cross_haired_purple_carpet` · н
+- [ ] **Cross Haired Purple Wool** — `chipped:cross_haired_purple_wool` · н
+- [ ] **Cross Haired Red Carpet** — `chipped:cross_haired_red_carpet` · н
+- [ ] **Cross Haired Red Wool** — `chipped:cross_haired_red_wool` · н
+- [ ] **Cross Haired White Carpet** — `chipped:cross_haired_white_carpet` · н
+- [ ] **Cross Haired White Wool** — `chipped:cross_haired_white_wool` · н
+- [ ] **Cross Haired Yellow Carpet** — `chipped:cross_haired_yellow_carpet` · н
+- [ ] **Cross Haired Yellow Wool** — `chipped:cross_haired_yellow_wool` · н
+- [ ] **Cross Laced Acacia Planks** — `chipped:cross_laced_acacia_planks` · н
+- [ ] **Cross Laced Bamboo Planks** — `chipped:cross_laced_bamboo_planks` · н
+- [ ] **Cross Laced Birch Planks** — `chipped:cross_laced_birch_planks` · н
+- [ ] **Cross Laced Cherry Planks** — `chipped:cross_laced_cherry_planks` · н
+- [ ] **Cross Laced Crimson Planks** — `chipped:cross_laced_crimson_planks` · н
+- [ ] **Cross Laced Dark Oak Planks** — `chipped:cross_laced_dark_oak_planks` · н
+- [ ] **Cross Laced Jungle Planks** — `chipped:cross_laced_jungle_planks` · н
+- [ ] **Cross Laced Mangrove Planks** — `chipped:cross_laced_mangrove_planks` · н
+- [ ] **Cross Laced Oak Planks** — `chipped:cross_laced_oak_planks` · н
+- [ ] **Cross Laced Spruce Planks** — `chipped:cross_laced_spruce_planks` · н
+- [ ] **Cross Laced Warped Planks** — `chipped:cross_laced_warped_planks` · н
+- [ ] **Crossbolted Iron Bars** — `chipped:crossbolted_iron_bars` · н
+- [ ] **Crossed Acacia Planks** — `chipped:crossed_acacia_planks` · н
+- [ ] **Crossed Bamboo Planks** — `chipped:crossed_bamboo_planks` · н
+- [ ] **Crossed Birch Planks** — `chipped:crossed_birch_planks` · н
+- [ ] **Crossed Black Terracotta** — `chipped:crossed_black_terracotta` · н
+- [ ] **Crossed Blue Terracotta** — `chipped:crossed_blue_terracotta` · н
+- [ ] **Crossed Brown Terracotta** — `chipped:crossed_brown_terracotta` · н
+- [ ] **Crossed Cherry Planks** — `chipped:crossed_cherry_planks` · н
+- [ ] **Crossed Crimson Planks** — `chipped:crossed_crimson_planks` · н
+- [ ] **Crossed Cyan Terracotta** — `chipped:crossed_cyan_terracotta` · н
+- [ ] **Crossed Dark Oak Planks** — `chipped:crossed_dark_oak_planks` · н
+- [ ] **Crossed Gray Terracotta** — `chipped:crossed_gray_terracotta` · н
+- [ ] **Crossed Green Terracotta** — `chipped:crossed_green_terracotta` · н
+- [ ] **Crossed Iron Bars** — `chipped:crossed_iron_bars` · н
+- [ ] **Crossed Jungle Planks** — `chipped:crossed_jungle_planks` · н
+- [ ] **Crossed Light Blue Terracotta** — `chipped:crossed_light_blue_terracotta` · н
+- [ ] **Crossed Light Gray Terracotta** — `chipped:crossed_light_gray_terracotta` · н
+- [ ] **Crossed Lime Terracotta** — `chipped:crossed_lime_terracotta` · н
+- [ ] **Crossed Magenta Terracotta** — `chipped:crossed_magenta_terracotta` · н
+- [ ] **Crossed Mangrove Planks** — `chipped:crossed_mangrove_planks` · н
+- [ ] **Crossed Oak Planks** — `chipped:crossed_oak_planks` · н
+- [ ] **Crossed Orange Terracotta** — `chipped:crossed_orange_terracotta` · н
+- [ ] **Crossed Pink Terracotta** — `chipped:crossed_pink_terracotta` · н
+- [ ] **Crossed Purple Terracotta** — `chipped:crossed_purple_terracotta` · н
+- [ ] **Crossed Red Terracotta** — `chipped:crossed_red_terracotta` · н
+- [ ] **Crossed Spruce Planks** — `chipped:crossed_spruce_planks` · н
+- [ ] **Crossed Terracotta** — `chipped:crossed_terracotta` · н
+- [ ] **Crossed Warped Planks** — `chipped:crossed_warped_planks` · н
+- [ ] **Crossed White Terracotta** — `chipped:crossed_white_terracotta` · н
+- [ ] **Crossed Yellow Terracotta** — `chipped:crossed_yellow_terracotta` · н
+- [ ] **Crumbled Nether Wart Block** — `chipped:crumbled_nether_wart_block` · н
+- [ ] **Crumbled Warped Wart Block** — `chipped:crumbled_warped_wart_block` · н
+- [ ] **Crunched Bone Block** — `chipped:crunched_bone_block` · н
+- [ ] **Crunched Mud Bricks** — `chipped:crunched_mud_bricks` · н
+- [ ] **Crunched Mud Bricks Bricks** — `chipped:crunched_mud_bricks_bricks` · н
+- [ ] **Crunched Packed Mud Bricks** — `chipped:crunched_packed_mud_bricks` · н
+- [ ] **Crunchy Moss Block** — `chipped:crunchy_moss_block` · н
+- [ ] **Crusted Nether Sprouts** — `chipped:crusted_nether_sprouts` · н
+- [ ] **Crying Amethyst Block** — `chipped:crying_amethyst_block` · н
+- [ ] **Crying Ancient Debris** — `chipped:crying_ancient_debris` · н
+- [ ] **Crying Andesite** — `chipped:crying_andesite` · н
+- [ ] **Crying Basalt** — `chipped:crying_basalt` · н
+- [ ] **Crying Blackstone** — `chipped:crying_blackstone` · н
+- [ ] **Crying Blue Ice** — `chipped:crying_blue_ice` · н
+- [ ] **Crying Borderless Bricks** — `chipped:crying_borderless_bricks` · н
+- [ ] **Crying Bricks** — `chipped:crying_bricks` · н
+- [ ] **Crying Calcite** — `chipped:crying_calcite` · н
+- [ ] **Crying Clay** — `chipped:crying_clay` · н
+- [ ] **Crying Coal Block** — `chipped:crying_coal_block` · н
+- [ ] **Crying Cobblestone** — `chipped:crying_cobblestone` · н
+- [ ] **Crying Crimson Stem** — `chipped:crying_crimson_stem` · н
+- [ ] **Crying Crying Obsidian** — `chipped:crying_crying_obsidian` · н
+- [ ] **Crying Dark Prismarine** — `chipped:crying_dark_prismarine` · н
+- [ ] **Crying Deepslate** — `chipped:crying_deepslate` · н
+- [ ] **Crying Diorite** — `chipped:crying_diorite` · н
+- [ ] **Crying Dirt** — `chipped:crying_dirt` · н
+- [ ] **Crying Dripstone Block** — `chipped:crying_dripstone_block` · н
+- [ ] **Crying End Stone** — `chipped:crying_end_stone` · н
+- [ ] **Crying Gilded Blackstone** — `chipped:crying_gilded_blackstone` · н
+- [ ] **Crying Granite** — `chipped:crying_granite` · н
+- [ ] **Crying Ice** — `chipped:crying_ice` · н
+- [ ] **Crying Lapis Block** — `chipped:crying_lapis_block` · н
+- [ ] **Crying Lodestone** — `chipped:crying_lodestone` · н
+- [ ] **Crying Magma Block** — `chipped:crying_magma_block` · н
+- [ ] **Crying Mossy Cobblestone** — `chipped:crying_mossy_cobblestone` · н
+- [ ] **Crying Mossy Stone Bricks** — `chipped:crying_mossy_stone_bricks` · н
+- [ ] **Crying Mud** — `chipped:crying_mud` · н
+- [ ] **Crying Mud Bricks** — `chipped:crying_mud_bricks` · н
+- [ ] **Crying Nether Bricks** — `chipped:crying_nether_bricks` · н
+- [ ] **Crying Netherrack** — `chipped:crying_netherrack` · н
+- [ ] **Crying Obsidian** — `chipped:crying_obsidian` · н
+- [ ] **Crying Obsidian Bricks** — `chipped:crying_obsidian_bricks` · н
+- [ ] **Crying Obsidian Mini Tiles** — `chipped:crying_obsidian_mini_tiles` · н
+- [ ] **Crying Obsidian Pillar** — `chipped:crying_obsidian_pillar` · н
+- [ ] **Crying Obsidian Pillar Top** — `chipped:crying_obsidian_pillar_top` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

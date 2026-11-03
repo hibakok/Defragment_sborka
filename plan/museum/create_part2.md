@@ -1,0 +1,216 @@
+# Музей: Create (create)
+
+Предметов: 671 · крафтимых по данным: 568 (84%) · файлов: 2
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 2 из 2
+
+*В части: 201 предметов.*
+
+- [ ] **Polished Rose Quartz** — `create:polished_rose_quartz` · к
+- [ ] **Portable Fluid Interface** — `create:portable_fluid_interface` · к
+- [ ] **Portable Storage Interface** — `create:portable_storage_interface` · к
+- [ ] **Potato Cannon** — `create:potato_cannon` · к
+- [ ] **Powdered Obsidian** — `create:powdered_obsidian` · к
+- [ ] **Powered Latch** — `create:powered_latch` · к
+- [ ] **Powered Shaft** — `create:powered_shaft` · н
+- [ ] **Powered Toggle Latch** — `create:powered_toggle_latch` · к
+- [ ] **Precision Mechanism** — `create:precision_mechanism` · к
+- [ ] **Propeller** — `create:propeller` · к
+- [ ] **Pulley Magnet** — `create:pulley_magnet` · н
+- [ ] **Pulse Extender** — `create:pulse_extender` · к
+- [ ] **Pulse Repeater** — `create:pulse_repeater` · к
+- [ ] **Purple Nixie Tube** — `create:purple_nixie_tube` · н
+- [ ] **Purple Sail** — `create:purple_sail` · н
+- [ ] **Purple Seat** — `create:purple_seat` · к
+- [ ] **Purple Toolbox** — `create:purple_toolbox` · н
+- [ ] **Purple Valve Handle** — `create:purple_valve_handle` · к
+- [ ] **Radial Chassis** — `create:radial_chassis` · к
+- [ ] **Train Casing** — `create:railway_casing` · к
+- [ ] **Raw Zinc** — `create:raw_zinc` · к
+- [ ] **Block of Raw Zinc** — `create:raw_zinc_block` · к
+- [ ] **Red Nixie Tube** — `create:red_nixie_tube` · н
+- [ ] **Red Sail** — `create:red_sail` · н
+- [ ] **Red Sand Paper** — `create:red_sand_paper` · к
+- [ ] **Red Seat** — `create:red_seat` · к
+- [ ] **Red Toolbox** — `create:red_toolbox` · н
+- [ ] **Red Valve Handle** — `create:red_valve_handle` · к
+- [ ] **Redstone Contact** — `create:redstone_contact` · к
+- [ ] **Redstone Link** — `create:redstone_link` · к
+- [ ] **Refined Radiance** — `create:refined_radiance` · н
+- [ ] **Radiant Casing** — `create:refined_radiance_casing` · н
+- [ ] **Rope** — `create:rope` · н
+- [ ] **Rope Pulley** — `create:rope_pulley` · к
+- [ ] **Rose Quartz** — `create:rose_quartz` · к
+- [ ] **Block of Rose Quartz** — `create:rose_quartz_block` · к
+- [ ] **Rose Quartz Lamp** — `create:rose_quartz_lamp` · к
+- [ ] **Rose Quartz Tiles** — `create:rose_quartz_tiles` · к
+- [ ] **Rotation Speed Controller** — `create:rotation_speed_controller` · к
+- [ ] **Windmill Sail Frame** — `create:sail_frame` · к
+- [ ] **Sand Paper** — `create:sand_paper` · к
+- [ ] **Train Schedule** — `create:schedule` · к
+- [ ] **Schematic** — `create:schematic` · н
+- [ ] **Schematic And Quill** — `create:schematic_and_quill` · к
+- [ ] **Schematic Table** — `create:schematic_table` · к
+- [ ] **Schematicannon** — `create:schematicannon` · к
+- [ ] **Scorchia** — `create:scorchia` · к
+- [ ] **Scorchia Pillar** — `create:scorchia_pillar` · к
+- [ ] **Scoria** — `create:scoria` · к
+- [ ] **Scoria Pillar** — `create:scoria_pillar` · к
+- [ ] **Secondary Linear Chassis** — `create:secondary_linear_chassis` · к
+- [ ] **Sequenced Gearshift** — `create:sequenced_gearshift` · к
+- [ ] **Shadow Steel** — `create:shadow_steel` · н
+- [ ] **Shadow Casing** — `create:shadow_steel_casing` · н
+- [ ] **Shaft** — `create:shaft` · к
+- [ ] **Small Andesite Brick Slab** — `create:small_andesite_brick_slab` · к
+- [ ] **Small Andesite Brick Stairs** — `create:small_andesite_brick_stairs` · к
+- [ ] **Small Andesite Brick Wall** — `create:small_andesite_brick_wall` · к
+- [ ] **Small Andesite Bricks** — `create:small_andesite_bricks` · к
+- [ ] **Small Asurine Brick Slab** — `create:small_asurine_brick_slab` · к
+- [ ] **Small Asurine Brick Stairs** — `create:small_asurine_brick_stairs` · к
+- [ ] **Small Asurine Brick Wall** — `create:small_asurine_brick_wall` · к
+- [ ] **Small Asurine Bricks** — `create:small_asurine_bricks` · к
+- [ ] **Small Bogey** — `create:small_bogey` · н
+- [ ] **Small Calcite Brick Slab** — `create:small_calcite_brick_slab` · к
+- [ ] **Small Calcite Brick Stairs** — `create:small_calcite_brick_stairs` · к
+- [ ] **Small Calcite Brick Wall** — `create:small_calcite_brick_wall` · к
+- [ ] **Small Calcite Bricks** — `create:small_calcite_bricks` · к
+- [ ] **Small Crimsite Brick Slab** — `create:small_crimsite_brick_slab` · к
+- [ ] **Small Crimsite Brick Stairs** — `create:small_crimsite_brick_stairs` · к
+- [ ] **Small Crimsite Brick Wall** — `create:small_crimsite_brick_wall` · к
+- [ ] **Small Crimsite Bricks** — `create:small_crimsite_bricks` · к
+- [ ] **Small Deepslate Brick Slab** — `create:small_deepslate_brick_slab` · к
+- [ ] **Small Deepslate Brick Stairs** — `create:small_deepslate_brick_stairs` · к
+- [ ] **Small Deepslate Brick Wall** — `create:small_deepslate_brick_wall` · к
+- [ ] **Small Deepslate Bricks** — `create:small_deepslate_bricks` · к
+- [ ] **Small Diorite Brick Slab** — `create:small_diorite_brick_slab` · к
+- [ ] **Small Diorite Brick Stairs** — `create:small_diorite_brick_stairs` · к
+- [ ] **Small Diorite Brick Wall** — `create:small_diorite_brick_wall` · к
+- [ ] **Small Diorite Bricks** — `create:small_diorite_bricks` · к
+- [ ] **Small Dripstone Brick Slab** — `create:small_dripstone_brick_slab` · к
+- [ ] **Small Dripstone Brick Stairs** — `create:small_dripstone_brick_stairs` · к
+- [ ] **Small Dripstone Brick Wall** — `create:small_dripstone_brick_wall` · к
+- [ ] **Small Dripstone Bricks** — `create:small_dripstone_bricks` · к
+- [ ] **Small Granite Brick Slab** — `create:small_granite_brick_slab` · к
+- [ ] **Small Granite Brick Stairs** — `create:small_granite_brick_stairs` · к
+- [ ] **Small Granite Brick Wall** — `create:small_granite_brick_wall` · к
+- [ ] **Small Granite Bricks** — `create:small_granite_bricks` · к
+- [ ] **Small Limestone Brick Slab** — `create:small_limestone_brick_slab` · к
+- [ ] **Small Limestone Brick Stairs** — `create:small_limestone_brick_stairs` · к
+- [ ] **Small Limestone Brick Wall** — `create:small_limestone_brick_wall` · к
+- [ ] **Small Limestone Bricks** — `create:small_limestone_bricks` · к
+- [ ] **Small Ochrum Brick Slab** — `create:small_ochrum_brick_slab` · к
+- [ ] **Small Ochrum Brick Stairs** — `create:small_ochrum_brick_stairs` · к
+- [ ] **Small Ochrum Brick Wall** — `create:small_ochrum_brick_wall` · к
+- [ ] **Small Ochrum Bricks** — `create:small_ochrum_bricks` · к
+- [ ] **Small Rose Quartz Tiles** — `create:small_rose_quartz_tiles` · к
+- [ ] **Small Scorchia Brick Slab** — `create:small_scorchia_brick_slab` · к
+- [ ] **Small Scorchia Brick Stairs** — `create:small_scorchia_brick_stairs` · к
+- [ ] **Small Scorchia Brick Wall** — `create:small_scorchia_brick_wall` · к
+- [ ] **Small Scorchia Bricks** — `create:small_scorchia_bricks` · к
+- [ ] **Small Scoria Brick Slab** — `create:small_scoria_brick_slab` · к
+- [ ] **Small Scoria Brick Stairs** — `create:small_scoria_brick_stairs` · к
+- [ ] **Small Scoria Brick Wall** — `create:small_scoria_brick_wall` · к
+- [ ] **Small Scoria Bricks** — `create:small_scoria_bricks` · к
+- [ ] **Small Tuff Brick Slab** — `create:small_tuff_brick_slab` · к
+- [ ] **Small Tuff Brick Stairs** — `create:small_tuff_brick_stairs` · к
+- [ ] **Small Tuff Brick Wall** — `create:small_tuff_brick_wall` · к
+- [ ] **Small Tuff Bricks** — `create:small_tuff_bricks` · к
+- [ ] **Small Veridium Brick Slab** — `create:small_veridium_brick_slab` · к
+- [ ] **Small Veridium Brick Stairs** — `create:small_veridium_brick_stairs` · к
+- [ ] **Small Veridium Brick Wall** — `create:small_veridium_brick_wall` · к
+- [ ] **Small Veridium Bricks** — `create:small_veridium_bricks` · к
+- [ ] **Smart Chute** — `create:smart_chute` · к
+- [ ] **Smart Fluid Pipe** — `create:smart_fluid_pipe` · к
+- [ ] **Speedometer** — `create:speedometer` · к
+- [ ] **Spout** — `create:spout` · к
+- [ ] **Spruce Window** — `create:spruce_window` · к
+- [ ] **Spruce Window Pane** — `create:spruce_window_pane` · к
+- [ ] **Steam Engine** — `create:steam_engine` · к
+- [ ] **Steam Whistle** — `create:steam_whistle` · к
+- [ ] **Steam Whistle Extension** — `create:steam_whistle_extension` · н
+- [ ] **Sticker** — `create:sticker` · к
+- [ ] **Sticky Mechanical Piston** — `create:sticky_mechanical_piston` · к
+- [ ] **Threshold Switch** — `create:stockpile_switch` · к
+- [ ] **Stressometer** — `create:stressometer` · к
+- [ ] **Sturdy Sheet** — `create:sturdy_sheet` · к
+- [ ] **Super Glue** — `create:super_glue` · к
+- [ ] **Sweet Roll** — `create:sweet_roll` · к
+- [ ] **Tiled Glass** — `create:tiled_glass` · к
+- [ ] **Tiled Glass Pane** — `create:tiled_glass_pane` · к
+- [ ] **Train Track** — `create:track` · к
+- [ ] **Train Observer** — `create:track_observer` · к
+- [ ] **Train Signal** — `create:track_signal` · к
+- [ ] **Train Station** — `create:track_station` · к
+- [ ] **Train Door** — `create:train_door` · к
+- [ ] **Train Trapdoor** — `create:train_trapdoor` · к
+- [ ] **Tree Fertilizer** — `create:tree_fertilizer` · к
+- [ ] **Tuff Pillar** — `create:tuff_pillar` · к
+- [ ] **Turntable** — `create:turntable` · к
+- [ ] **Unprocessed Obsidian Sheet** — `create:unprocessed_obsidian_sheet` · н
+- [ ] **Veridium** — `create:veridium` · к
+- [ ] **Veridium Pillar** — `create:veridium_pillar` · к
+- [ ] **Vertical Framed Glass** — `create:vertical_framed_glass` · к
+- [ ] **Vertical Framed Glass Pane** — `create:vertical_framed_glass_pane` · к
+- [ ] **Vertical Gearbox** — `create:vertical_gearbox` · к
+- [ ] **Wand Of Symmetry** — `create:wand_of_symmetry` · к
+- [ ] **Warped Window** — `create:warped_window` · к
+- [ ] **Warped Window Pane** — `create:warped_window_pane` · к
+- [ ] **Water Wheel** — `create:water_wheel` · к
+- [ ] **Large Water Wheel** — `create:water_wheel_structure` · н
+- [ ] **Waxed Copper Shingle Slab** — `create:waxed_copper_shingle_slab` · к
+- [ ] **Waxed Copper Shingle Stairs** — `create:waxed_copper_shingle_stairs` · к
+- [ ] **Waxed Copper Shingles** — `create:waxed_copper_shingles` · к
+- [ ] **Waxed Copper Tile Slab** — `create:waxed_copper_tile_slab` · к
+- [ ] **Waxed Copper Tile Stairs** — `create:waxed_copper_tile_stairs` · к
+- [ ] **Waxed Copper Tiles** — `create:waxed_copper_tiles` · к
+- [ ] **Waxed Exposed Copper Shingle Slab** — `create:waxed_exposed_copper_shingle_slab` · к
+- [ ] **Waxed Exposed Copper Shingle Stairs** — `create:waxed_exposed_copper_shingle_stairs` · к
+- [ ] **Waxed Exposed Copper Shingles** — `create:waxed_exposed_copper_shingles` · к
+- [ ] **Waxed Exposed Copper Tile Slab** — `create:waxed_exposed_copper_tile_slab` · к
+- [ ] **Waxed Exposed Copper Tile Stairs** — `create:waxed_exposed_copper_tile_stairs` · к
+- [ ] **Waxed Exposed Copper Tiles** — `create:waxed_exposed_copper_tiles` · к
+- [ ] **Waxed Oxidized Copper Shingle Slab** — `create:waxed_oxidized_copper_shingle_slab` · к
+- [ ] **Waxed Oxidized Copper Shingle Stairs** — `create:waxed_oxidized_copper_shingle_stairs` · к
+- [ ] **Waxed Oxidized Copper Shingles** — `create:waxed_oxidized_copper_shingles` · к
+- [ ] **Waxed Oxidized Copper Tile Slab** — `create:waxed_oxidized_copper_tile_slab` · к
+- [ ] **Waxed Oxidized Copper Tile Stairs** — `create:waxed_oxidized_copper_tile_stairs` · к
+- [ ] **Waxed Oxidized Copper Tiles** — `create:waxed_oxidized_copper_tiles` · к
+- [ ] **Waxed Weathered Copper Shingle Slab** — `create:waxed_weathered_copper_shingle_slab` · к
+- [ ] **Waxed Weathered Copper Shingle Stairs** — `create:waxed_weathered_copper_shingle_stairs` · к
+- [ ] **Waxed Weathered Copper Shingles** — `create:waxed_weathered_copper_shingles` · к
+- [ ] **Waxed Weathered Copper Tile Slab** — `create:waxed_weathered_copper_tile_slab` · к
+- [ ] **Waxed Weathered Copper Tile Stairs** — `create:waxed_weathered_copper_tile_stairs` · к
+- [ ] **Waxed Weathered Copper Tiles** — `create:waxed_weathered_copper_tiles` · к
+- [ ] **Weathered Copper Shingle Slab** — `create:weathered_copper_shingle_slab` · к
+- [ ] **Weathered Copper Shingle Stairs** — `create:weathered_copper_shingle_stairs` · к
+- [ ] **Weathered Copper Shingles** — `create:weathered_copper_shingles` · к
+- [ ] **Weathered Copper Tile Slab** — `create:weathered_copper_tile_slab` · к
+- [ ] **Weathered Copper Tile Stairs** — `create:weathered_copper_tile_stairs` · к
+- [ ] **Weathered Copper Tiles** — `create:weathered_copper_tiles` · н
+- [ ] **Weighted Ejector** — `create:weighted_ejector` · к
+- [ ] **Wheat Flour** — `create:wheat_flour` · к
+- [ ] **Whisk** — `create:whisk` · к
+- [ ] **White Nixie Tube** — `create:white_nixie_tube` · н
+- [ ] **Windmill Sail** — `create:white_sail` · к
+- [ ] **White Seat** — `create:white_seat` · к
+- [ ] **White Toolbox** — `create:white_toolbox` · н
+- [ ] **White Valve Handle** — `create:white_valve_handle` · к
+- [ ] **Windmill Bearing** — `create:windmill_bearing` · к
+- [ ] **Wooden Bracket** — `create:wooden_bracket` · к
+- [ ] **Wrench** — `create:wrench` · к
+- [ ] **Yellow Nixie Tube** — `create:yellow_nixie_tube` · н
+- [ ] **Yellow Sail** — `create:yellow_sail` · н
+- [ ] **Yellow Seat** — `create:yellow_seat` · к
+- [ ] **Yellow Toolbox** — `create:yellow_toolbox` · н
+- [ ] **Yellow Valve Handle** — `create:yellow_valve_handle` · к
+- [ ] **Block of Zinc** — `create:zinc_block` · к
+- [ ] **Zinc Ingot** — `create:zinc_ingot` · к
+- [ ] **Zinc Nugget** — `create:zinc_nugget` · к
+- [ ] **Zinc Ore** — `create:zinc_ore` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

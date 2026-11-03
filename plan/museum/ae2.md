@@ -1,0 +1,378 @@
+# Музей: Applied Energistics 2 (ae2)
+
+Предметов: 365 · крафтимых по данным: 330 (90%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 365 предметов.*
+
+- [ ] **16k Crafting Storage** — `ae2:16k_crafting_storage` · к
+- [ ] **1k Crafting Storage** — `ae2:1k_crafting_storage` · к
+- [ ] **256k Crafting Storage** — `ae2:256k_crafting_storage` · к
+- [ ] **4k Crafting Storage** — `ae2:4k_crafting_storage` · к
+- [ ] **64k Crafting Storage** — `ae2:64k_crafting_storage` · к
+- [ ] **Advanced Card** — `ae2:advanced_card` · к
+- [ ] **Annihilation Core** — `ae2:annihilation_core` · к
+- [ ] **ME Annihilation Plane** — `ae2:annihilation_plane` · к
+- [ ] **Basic Card** — `ae2:basic_card` · к
+- [ ] **Black ME Covered Cable** — `ae2:black_covered_cable` · к
+- [ ] **Black ME Dense Covered Cable** — `ae2:black_covered_dense_cable` · к
+- [ ] **Black ME Glass Cable** — `ae2:black_glass_cable` · к
+- [ ] **Black Lumen Paint Ball** — `ae2:black_lumen_paint_ball` · к
+- [ ] **Black Paint Ball** — `ae2:black_paint_ball` · к
+- [ ] **Black ME Smart Cable** — `ae2:black_smart_cable` · к
+- [ ] **Black ME Dense Smart Cable** — `ae2:black_smart_dense_cable` · к
+- [ ] **Blank Pattern** — `ae2:blank_pattern` · к
+- [ ] **Blue ME Covered Cable** — `ae2:blue_covered_cable` · к
+- [ ] **Blue ME Dense Covered Cable** — `ae2:blue_covered_dense_cable` · к
+- [ ] **Blue ME Glass Cable** — `ae2:blue_glass_cable` · к
+- [ ] **Blue Lumen Paint Ball** — `ae2:blue_lumen_paint_ball` · к
+- [ ] **Blue Paint Ball** — `ae2:blue_paint_ball` · к
+- [ ] **Blue ME Smart Cable** — `ae2:blue_smart_cable` · к
+- [ ] **Blue ME Dense Smart Cable** — `ae2:blue_smart_dense_cable` · к
+- [ ] **Brown ME Covered Cable** — `ae2:brown_covered_cable` · к
+- [ ] **Brown ME Dense Covered Cable** — `ae2:brown_covered_dense_cable` · к
+- [ ] **Brown ME Glass Cable** — `ae2:brown_glass_cable` · к
+- [ ] **Brown Lumen Paint Ball** — `ae2:brown_lumen_paint_ball` · к
+- [ ] **Brown Paint Ball** — `ae2:brown_paint_ball` · к
+- [ ] **Brown ME Smart Cable** — `ae2:brown_smart_cable` · к
+- [ ] **Brown ME Dense Smart Cable** — `ae2:brown_smart_dense_cable` · к
+- [ ] **Cable Anchor** — `ae2:cable_anchor` · к
+- [ ] **AE2 Cable and/or Bus** — `ae2:cable_bus` · н
+- [ ] **Energy Acceptor** — `ae2:cable_energy_acceptor` · к
+- [ ] **ME Interface** — `ae2:cable_interface` · к
+- [ ] **ME Pattern Provider** — `ae2:cable_pattern_provider` · к
+- [ ] **Calculation Processor** — `ae2:calculation_processor` · к
+- [ ] **Inscriber Calculation Press** — `ae2:calculation_processor_press` · к
+- [ ] **Capacity Card** — `ae2:capacity_card` · к
+- [ ] **16k ME Storage Component** — `ae2:cell_component_16k` · к
+- [ ] **1k ME Storage Component** — `ae2:cell_component_1k` · к
+- [ ] **256k ME Storage Component** — `ae2:cell_component_256k` · к
+- [ ] **4k ME Storage Component** — `ae2:cell_component_4k` · к
+- [ ] **64k ME Storage Component** — `ae2:cell_component_64k` · к
+- [ ] **Cell Workbench** — `ae2:cell_workbench` · к
+- [ ] **Certus Quartz Axe** — `ae2:certus_quartz_axe` · к
+- [ ] **Certus Quartz Crystal** — `ae2:certus_quartz_crystal` · к
+- [ ] **Certus Quartz Cutting Knife** — `ae2:certus_quartz_cutting_knife` · к
+- [ ] **Certus Quartz Dust** — `ae2:certus_quartz_dust` · к
+- [ ] **Certus Quartz Hoe** — `ae2:certus_quartz_hoe` · к
+- [ ] **Certus Quartz Pickaxe** — `ae2:certus_quartz_pickaxe` · к
+- [ ] **Certus Quartz Shovel** — `ae2:certus_quartz_shovel` · к
+- [ ] **Certus Quartz Sword** — `ae2:certus_quartz_sword` · к
+- [ ] **Certus Quartz Wrench** — `ae2:certus_quartz_wrench` · к
+- [ ] **Charged Certus Quartz Crystal** — `ae2:charged_certus_quartz_crystal` · к
+- [ ] **Charged Staff** — `ae2:charged_staff` · к
+- [ ] **Charger** — `ae2:charger` · к
+- [ ] **ME Chest** — `ae2:chest` · к
+- [ ] **Chipped Budding Certus Quartz** — `ae2:chipped_budding_quartz` · к
+- [ ] **Chiseled Certus Quartz Block** — `ae2:chiseled_quartz_block` · к
+- [ ] **Chiseled Certus Quartz Slab** — `ae2:chiseled_quartz_slab` · к
+- [ ] **Chiseled Certus Quartz Stairs** — `ae2:chiseled_quartz_stairs` · к
+- [ ] **Chiseled Certus Quartz Wall** — `ae2:chiseled_quartz_wall` · к
+- [ ] **Color Applicator** — `ae2:color_applicator` · к
+- [ ] **Matter Condenser** — `ae2:condenser` · к
+- [ ] **ME Controller** — `ae2:controller` · к
+- [ ] **ME Conversion Monitor** — `ae2:conversion_monitor` · к
+- [ ] **Crafting Co-Processing Unit** — `ae2:crafting_accelerator` · к
+- [ ] **Crafting Card** — `ae2:crafting_card` · к
+- [ ] **Crafting Monitor** — `ae2:crafting_monitor` · к
+- [ ] **Crafting Pattern** — `ae2:crafting_pattern` · н
+- [ ] **ME Crafting Terminal** — `ae2:crafting_terminal` · к
+- [ ] **Crafting Unit** — `ae2:crafting_unit` · к
+- [ ] **Wooden Crank** — `ae2:crank` · к
+- [ ] **Creative Energy Cell** — `ae2:creative_energy_cell` · н
+- [ ] **Creative ME Fluid Cell** — `ae2:creative_fluid_cell` · н
+- [ ] **Creative ME Item Cell** — `ae2:creative_item_cell` · н
+- [ ] **Crystal Resonance Generator** — `ae2:crystal_resonance_generator` · к
+- [ ] **Cut Certus Quartz Block** — `ae2:cut_quartz_block` · к
+- [ ] **Cut Certus Quartz Slab** — `ae2:cut_quartz_slab` · к
+- [ ] **Cut Certus Quartz Stairs** — `ae2:cut_quartz_stairs` · к
+- [ ] **Cut Certus Quartz Wall** — `ae2:cut_quartz_wall` · к
+- [ ] **Cyan ME Covered Cable** — `ae2:cyan_covered_cable` · к
+- [ ] **Cyan ME Dense Covered Cable** — `ae2:cyan_covered_dense_cable` · к
+- [ ] **Cyan ME Glass Cable** — `ae2:cyan_glass_cable` · к
+- [ ] **Cyan Lumen Paint Ball** — `ae2:cyan_lumen_paint_ball` · к
+- [ ] **Cyan Paint Ball** — `ae2:cyan_paint_ball` · к
+- [ ] **Cyan ME Smart Cable** — `ae2:cyan_smart_cable` · к
+- [ ] **Cyan ME Dense Smart Cable** — `ae2:cyan_smart_dense_cable` · к
+- [ ] **Damaged Budding Certus Quartz** — `ae2:damaged_budding_quartz` · к
+- [ ] **Dark Illuminated Panel** — `ae2:dark_monitor` · к
+- [ ] **Dev.DebugCard** — `ae2:debug_card` · н
+- [ ] **Dev.ChunkLoader** — `ae2:debug_chunk_loader` · н
+- [ ] **Dev.CubeGen** — `ae2:debug_cube_gen` · н
+- [ ] **Dev.EnergyGen** — `ae2:debug_energy_gen` · н
+- [ ] **Dev.Eraser** — `ae2:debug_eraser` · н
+- [ ] **Dev.ItemGen** — `ae2:debug_item_gen` · н
+- [ ] **Dev.MeteoritePlacer** — `ae2:debug_meteorite_placer` · н
+- [ ] **Dev.PhantomNode** — `ae2:debug_phantom_node` · н
+- [ ] **Dev.ReplicatorCard** — `ae2:debug_replicator_card` · н
+- [ ] **Dense Energy Cell** — `ae2:dense_energy_cell` · к
+- [ ] **ME Drive** — `ae2:drive` · к
+- [ ] **Ender Dust** — `ae2:ender_dust` · к
+- [ ] **Energy Acceptor** — `ae2:energy_acceptor` · к
+- [ ] **Energy Card** — `ae2:energy_card` · к
+- [ ] **Energy Cell** — `ae2:energy_cell` · к
+- [ ] **ME Energy Level Emitter** — `ae2:energy_level_emitter` · к
+- [ ] **Engineering Processor** — `ae2:engineering_processor` · к
+- [ ] **Inscriber Engineering Press** — `ae2:engineering_processor_press` · к
+- [ ] **Entropy Manipulator** — `ae2:entropy_manipulator` · к
+- [ ] **Equal Distribution Card** — `ae2:equal_distribution_card` · к
+- [ ] **ME Export Bus** — `ae2:export_bus` · к
+- [ ] **Cable Facade** — `ae2:facade` · н
+- [ ] **Energy P2P Tunnel** — `ae2:fe_p2p_tunnel` · н
+- [ ] **Flawed Budding Certus Quartz** — `ae2:flawed_budding_quartz` · к
+- [ ] **Flawless Budding Certus Quartz** — `ae2:flawless_budding_quartz` · н
+- [ ] **ME Fluid Cell Housing** — `ae2:fluid_cell_housing` · к
+- [ ] **Fluid P2P Tunnel** — `ae2:fluid_p2p_tunnel` · н
+- [ ] **16k ME Fluid Storage Cell** — `ae2:fluid_storage_cell_16k` · к
+- [ ] **1k ME Fluid Storage Cell** — `ae2:fluid_storage_cell_1k` · к
+- [ ] **256k ME Fluid Storage Cell** — `ae2:fluid_storage_cell_256k` · к
+- [ ] **4k ME Fluid Storage Cell** — `ae2:fluid_storage_cell_4k` · к
+- [ ] **64k ME Fluid Storage Cell** — `ae2:fluid_storage_cell_64k` · к
+- [ ] **Fluix Axe** — `ae2:fluix_axe` · к
+- [ ] **Fluix Block** — `ae2:fluix_block` · к
+- [ ] **Fluix ME Covered Cable** — `ae2:fluix_covered_cable` · к
+- [ ] **Fluix ME Dense Covered Cable** — `ae2:fluix_covered_dense_cable` · к
+- [ ] **Fluix Crystal** — `ae2:fluix_crystal` · к
+- [ ] **Fluix Dust** — `ae2:fluix_dust` · к
+- [ ] **Fluix ME Glass Cable** — `ae2:fluix_glass_cable` · к
+- [ ] **Fluix Hoe** — `ae2:fluix_hoe` · к
+- [ ] **Fluix Pearl** — `ae2:fluix_pearl` · к
+- [ ] **Fluix Pickaxe** — `ae2:fluix_pickaxe` · к
+- [ ] **Fluix Shovel** — `ae2:fluix_shovel` · к
+- [ ] **Fluix Slab** — `ae2:fluix_slab` · к
+- [ ] **Fluix ME Smart Cable** — `ae2:fluix_smart_cable` · к
+- [ ] **Fluix ME Dense Smart Cable** — `ae2:fluix_smart_dense_cable` · к
+- [ ] **Fluix Stairs** — `ae2:fluix_stairs` · к
+- [ ] **Fluix Sword** — `ae2:fluix_sword` · к
+- [ ] **Fluix Upgrade** — `ae2:fluix_upgrade_smithing_template` · к
+- [ ] **Fluix Wall** — `ae2:fluix_wall` · к
+- [ ] **Formation Core** — `ae2:formation_core` · к
+- [ ] **ME Formation Plane** — `ae2:formation_plane` · к
+- [ ] **Fuzzy Card** — `ae2:fuzzy_card` · к
+- [ ] **Gray ME Covered Cable** — `ae2:gray_covered_cable` · к
+- [ ] **Gray ME Dense Covered Cable** — `ae2:gray_covered_dense_cable` · к
+- [ ] **Gray ME Glass Cable** — `ae2:gray_glass_cable` · к
+- [ ] **Gray Lumen Paint Ball** — `ae2:gray_lumen_paint_ball` · к
+- [ ] **Gray Paint Ball** — `ae2:gray_paint_ball` · к
+- [ ] **Gray ME Smart Cable** — `ae2:gray_smart_cable` · к
+- [ ] **Gray ME Dense Smart Cable** — `ae2:gray_smart_dense_cable` · к
+- [ ] **Green ME Covered Cable** — `ae2:green_covered_cable` · к
+- [ ] **Green ME Dense Covered Cable** — `ae2:green_covered_dense_cable` · к
+- [ ] **Green ME Glass Cable** — `ae2:green_glass_cable` · к
+- [ ] **Green Lumen Paint Ball** — `ae2:green_lumen_paint_ball` · к
+- [ ] **Green Paint Ball** — `ae2:green_paint_ball` · к
+- [ ] **Green ME Smart Cable** — `ae2:green_smart_cable` · к
+- [ ] **Green ME Dense Smart Cable** — `ae2:green_smart_dense_cable` · к
+- [ ] **Growth Accelerator** — `ae2:growth_accelerator` · к
+- [ ] **Guide** — `ae2:guide` · к
+- [ ] **ME Import Bus** — `ae2:import_bus` · к
+- [ ] **Inscriber** — `ae2:inscriber` · к
+- [ ] **ME Interface** — `ae2:interface` · к
+- [ ] **ME Inverted Toggle Bus** — `ae2:inverted_toggle_bus` · к
+- [ ] **Inverter Card** — `ae2:inverter_card` · к
+- [ ] **ME IO Port** — `ae2:io_port` · к
+- [ ] **ME Item Cell Housing** — `ae2:item_cell_housing` · к
+- [ ] **Item P2P Tunnel** — `ae2:item_p2p_tunnel` · н
+- [ ] **16k ME Item Storage Cell** — `ae2:item_storage_cell_16k` · к
+- [ ] **1k ME Item Storage Cell** — `ae2:item_storage_cell_1k` · к
+- [ ] **256k ME Item Storage Cell** — `ae2:item_storage_cell_256k` · к
+- [ ] **4k ME Item Storage Cell** — `ae2:item_storage_cell_4k` · к
+- [ ] **64k ME Item Storage Cell** — `ae2:item_storage_cell_64k` · к
+- [ ] **Large Certus Quartz Bud** — `ae2:large_quartz_bud` · н
+- [ ] **ME Level Emitter** — `ae2:level_emitter` · к
+- [ ] **Light Blue ME Covered Cable** — `ae2:light_blue_covered_cable` · к
+- [ ] **Light Blue ME Dense Covered Cable** — `ae2:light_blue_covered_dense_cable` · к
+- [ ] **Light Blue ME Glass Cable** — `ae2:light_blue_glass_cable` · к
+- [ ] **Light Blue Lumen Paint Ball** — `ae2:light_blue_lumen_paint_ball` · к
+- [ ] **Light Blue Paint Ball** — `ae2:light_blue_paint_ball` · к
+- [ ] **Light Blue ME Smart Cable** — `ae2:light_blue_smart_cable` · к
+- [ ] **Light Blue ME Dense Smart Cable** — `ae2:light_blue_smart_dense_cable` · к
+- [ ] **Light Detecting Fixture** — `ae2:light_detector` · к
+- [ ] **Light Gray ME Covered Cable** — `ae2:light_gray_covered_cable` · к
+- [ ] **Light Gray ME Dense Covered Cable** — `ae2:light_gray_covered_dense_cable` · к
+- [ ] **Light Gray ME Glass Cable** — `ae2:light_gray_glass_cable` · к
+- [ ] **Light Gray Lumen Paint Ball** — `ae2:light_gray_lumen_paint_ball` · к
+- [ ] **Light Gray Paint Ball** — `ae2:light_gray_paint_ball` · к
+- [ ] **Light Gray ME Smart Cable** — `ae2:light_gray_smart_cable` · к
+- [ ] **Light Gray ME Dense Smart Cable** — `ae2:light_gray_smart_dense_cable` · к
+- [ ] **Light P2P Tunnel** — `ae2:light_p2p_tunnel` · н
+- [ ] **Lime ME Covered Cable** — `ae2:lime_covered_cable` · к
+- [ ] **Lime ME Dense Covered Cable** — `ae2:lime_covered_dense_cable` · к
+- [ ] **Lime ME Glass Cable** — `ae2:lime_glass_cable` · к
+- [ ] **Lime Lumen Paint Ball** — `ae2:lime_lumen_paint_ball` · к
+- [ ] **Lime Paint Ball** — `ae2:lime_paint_ball` · к
+- [ ] **Lime ME Smart Cable** — `ae2:lime_smart_cable` · к
+- [ ] **Lime ME Dense Smart Cable** — `ae2:lime_smart_dense_cable` · к
+- [ ] **Logic Processor** — `ae2:logic_processor` · к
+- [ ] **Inscriber Logic Press** — `ae2:logic_processor_press` · к
+- [ ] **Magenta ME Covered Cable** — `ae2:magenta_covered_cable` · к
+- [ ] **Magenta ME Dense Covered Cable** — `ae2:magenta_covered_dense_cable` · к
+- [ ] **Magenta ME Glass Cable** — `ae2:magenta_glass_cable` · к
+- [ ] **Magenta Lumen Paint Ball** — `ae2:magenta_lumen_paint_ball` · к
+- [ ] **Magenta Paint Ball** — `ae2:magenta_paint_ball` · к
+- [ ] **Magenta ME Smart Cable** — `ae2:magenta_smart_cable` · к
+- [ ] **Magenta ME Dense Smart Cable** — `ae2:magenta_smart_dense_cable` · к
+- [ ] **Matrix Frame** — `ae2:matrix_frame` · н
+- [ ] **Matter Ball** — `ae2:matter_ball` · н
+- [ ] **Matter Cannon** — `ae2:matter_cannon` · к
+- [ ] **ME P2P Tunnel** — `ae2:me_p2p_tunnel` · к
+- [ ] **Medium Certus Quartz Bud** — `ae2:medium_quartz_bud` · н
+- [ ] **Memory Card** — `ae2:memory_card` · к
+- [ ] **Meteorite Compass** — `ae2:meteorite_compass` · к
+- [ ] **Molecular Assembler** — `ae2:molecular_assembler` · к
+- [ ] **Bright Illuminated Panel** — `ae2:monitor` · к
+- [ ] **Mysterious Cube** — `ae2:mysterious_cube` · н
+- [ ] **Inscriber Name Press** — `ae2:name_press` · н
+- [ ] **Nether Quartz Axe** — `ae2:nether_quartz_axe` · к
+- [ ] **Nether Quartz Cutting Knife** — `ae2:nether_quartz_cutting_knife` · к
+- [ ] **Nether Quartz Hoe** — `ae2:nether_quartz_hoe` · к
+- [ ] **Nether Quartz Pickaxe** — `ae2:nether_quartz_pickaxe` · к
+- [ ] **Nether Quartz Shovel** — `ae2:nether_quartz_shovel` · к
+- [ ] **Nether Quartz Sword** — `ae2:nether_quartz_sword` · к
+- [ ] **Nether Quartz Wrench** — `ae2:nether_quartz_wrench` · к
+- [ ] **Network Tool** — `ae2:network_tool` · к
+- [ ] **Not So Mysterious Cube** — `ae2:not_so_mysterious_cube` · к
+- [ ] **Orange ME Covered Cable** — `ae2:orange_covered_cable` · к
+- [ ] **Orange ME Dense Covered Cable** — `ae2:orange_covered_dense_cable` · к
+- [ ] **Orange ME Glass Cable** — `ae2:orange_glass_cable` · к
+- [ ] **Orange Lumen Paint Ball** — `ae2:orange_lumen_paint_ball` · к
+- [ ] **Orange Paint Ball** — `ae2:orange_paint_ball` · к
+- [ ] **Orange ME Smart Cable** — `ae2:orange_smart_cable` · к
+- [ ] **Orange ME Dense Smart Cable** — `ae2:orange_smart_dense_cable` · к
+- [ ] **Paint** — `ae2:paint` · н
+- [ ] **ME Pattern Access Terminal** — `ae2:pattern_access_terminal` · к
+- [ ] **ME Pattern Encoding Terminal** — `ae2:pattern_encoding_terminal` · к
+- [ ] **ME Pattern Provider** — `ae2:pattern_provider` · к
+- [ ] **Pink ME Covered Cable** — `ae2:pink_covered_cable` · к
+- [ ] **Pink ME Dense Covered Cable** — `ae2:pink_covered_dense_cable` · к
+- [ ] **Pink ME Glass Cable** — `ae2:pink_glass_cable` · к
+- [ ] **Pink Lumen Paint Ball** — `ae2:pink_lumen_paint_ball` · к
+- [ ] **Pink Paint Ball** — `ae2:pink_paint_ball` · к
+- [ ] **Pink ME Smart Cable** — `ae2:pink_smart_cable` · к
+- [ ] **Pink ME Dense Smart Cable** — `ae2:pink_smart_dense_cable` · к
+- [ ] **16k Portable Fluid Cell** — `ae2:portable_fluid_cell_16k` · к
+- [ ] **1k Portable Fluid Cell** — `ae2:portable_fluid_cell_1k` · к
+- [ ] **256k Portable Fluid Cell** — `ae2:portable_fluid_cell_256k` · к
+- [ ] **4k Portable Fluid Cell** — `ae2:portable_fluid_cell_4k` · к
+- [ ] **64k Portable Fluid Cell** — `ae2:portable_fluid_cell_64k` · к
+- [ ] **16k Portable Item Cell** — `ae2:portable_item_cell_16k` · к
+- [ ] **1k Portable Item Cell** — `ae2:portable_item_cell_1k` · к
+- [ ] **256k Portable Item Cell** — `ae2:portable_item_cell_256k` · к
+- [ ] **4k Portable Item Cell** — `ae2:portable_item_cell_4k` · к
+- [ ] **64k Portable Item Cell** — `ae2:portable_item_cell_64k` · к
+- [ ] **Printed Calculation Circuit** — `ae2:printed_calculation_processor` · к
+- [ ] **Printed Engineering Circuit** — `ae2:printed_engineering_processor` · к
+- [ ] **Printed Logic Circuit** — `ae2:printed_logic_processor` · к
+- [ ] **Printed Silicon** — `ae2:printed_silicon` · к
+- [ ] **Processing Pattern** — `ae2:processing_pattern` · н
+- [ ] **Purple ME Covered Cable** — `ae2:purple_covered_cable` · к
+- [ ] **Purple ME Dense Covered Cable** — `ae2:purple_covered_dense_cable` · к
+- [ ] **Purple ME Glass Cable** — `ae2:purple_glass_cable` · к
+- [ ] **Purple Lumen Paint Ball** — `ae2:purple_lumen_paint_ball` · к
+- [ ] **Purple Paint Ball** — `ae2:purple_paint_ball` · к
+- [ ] **Purple ME Smart Cable** — `ae2:purple_smart_cable` · к
+- [ ] **Purple ME Dense Smart Cable** — `ae2:purple_smart_dense_cable` · к
+- [ ] **Quantum Entangled Singularity** — `ae2:quantum_entangled_singularity` · к
+- [ ] **ME Quantum Link Chamber** — `ae2:quantum_link` · к
+- [ ] **ME Quantum Ring** — `ae2:quantum_ring` · к
+- [ ] **Certus Quartz Block** — `ae2:quartz_block` · к
+- [ ] **Certus Quartz Brick Slab** — `ae2:quartz_brick_slab` · к
+- [ ] **Certus Quartz Brick Stairs** — `ae2:quartz_brick_stairs` · к
+- [ ] **Certus Quartz Brick Wall** — `ae2:quartz_brick_wall` · к
+- [ ] **Certus Quartz Bricks** — `ae2:quartz_bricks` · к
+- [ ] **Certus Quartz Cluster** — `ae2:quartz_cluster` · н
+- [ ] **Quartz Fiber** — `ae2:quartz_fiber` · к
+- [ ] **Charged Quartz Fixture** — `ae2:quartz_fixture` · к
+- [ ] **Quartz Glass** — `ae2:quartz_glass` · к
+- [ ] **Certus Quartz Pillar** — `ae2:quartz_pillar` · к
+- [ ] **Certus Quartz Pillar Slab** — `ae2:quartz_pillar_slab` · к
+- [ ] **Certus Quartz Pillar Stairs** — `ae2:quartz_pillar_stairs` · к
+- [ ] **Certus Quartz Pillar Wall** — `ae2:quartz_pillar_wall` · к
+- [ ] **Certus Quartz Slab** — `ae2:quartz_slab` · к
+- [ ] **Certus Quartz Stairs** — `ae2:quartz_stairs` · к
+- [ ] **Vibrant Quartz Glass** — `ae2:quartz_vibrant_glass` · к
+- [ ] **Certus Quartz Wall** — `ae2:quartz_wall` · к
+- [ ] **Red ME Covered Cable** — `ae2:red_covered_cable` · к
+- [ ] **Red ME Dense Covered Cable** — `ae2:red_covered_dense_cable` · к
+- [ ] **Red ME Glass Cable** — `ae2:red_glass_cable` · к
+- [ ] **Red Lumen Paint Ball** — `ae2:red_lumen_paint_ball` · к
+- [ ] **Red Paint Ball** — `ae2:red_paint_ball` · к
+- [ ] **Red ME Smart Cable** — `ae2:red_smart_cable` · к
+- [ ] **Red ME Dense Smart Cable** — `ae2:red_smart_dense_cable` · к
+- [ ] **Redstone Card** — `ae2:redstone_card` · к
+- [ ] **Redstone P2P Tunnel** — `ae2:redstone_p2p_tunnel` · н
+- [ ] **Illuminated Panel** — `ae2:semi_dark_monitor` · к
+- [ ] **Silicon** — `ae2:silicon` · к
+- [ ] **Inscriber Silicon Press** — `ae2:silicon_press` · к
+- [ ] **Singularity** — `ae2:singularity` · н
+- [ ] **Sky Stone Dust** — `ae2:sky_dust` · к
+- [ ] **Sky Stone** — `ae2:sky_stone_block` · к
+- [ ] **Sky Stone Brick** — `ae2:sky_stone_brick` · к
+- [ ] **Sky Stone Brick Slab** — `ae2:sky_stone_brick_slab` · к
+- [ ] **Sky Stone Brick Stairs** — `ae2:sky_stone_brick_stairs` · к
+- [ ] **Sky Stone Brick Wall** — `ae2:sky_stone_brick_wall` · к
+- [ ] **Sky Stone Chest** — `ae2:sky_stone_chest` · к
+- [ ] **Sky Stone Slab** — `ae2:sky_stone_slab` · к
+- [ ] **Sky Stone Small Brick** — `ae2:sky_stone_small_brick` · к
+- [ ] **Sky Stone Small Brick Slab** — `ae2:sky_stone_small_brick_slab` · к
+- [ ] **Sky Stone Small Brick Stairs** — `ae2:sky_stone_small_brick_stairs` · к
+- [ ] **Sky Stone Small Brick Wall** — `ae2:sky_stone_small_brick_wall` · к
+- [ ] **Sky Stone Stairs** — `ae2:sky_stone_stairs` · к
+- [ ] **Sky Stone Tank** — `ae2:sky_stone_tank` · к
+- [ ] **Sky Stone Wall** — `ae2:sky_stone_wall` · к
+- [ ] **Small Certus Quartz Bud** — `ae2:small_quartz_bud` · н
+- [ ] **Smithing Table Pattern** — `ae2:smithing_table_pattern` · н
+- [ ] **Smooth Certus Quartz Block** — `ae2:smooth_quartz_block` · к
+- [ ] **Smooth Certus Quartz Slab** — `ae2:smooth_quartz_slab` · к
+- [ ] **Smooth Certus Quartz Stairs** — `ae2:smooth_quartz_stairs` · к
+- [ ] **Smooth Certus Quartz Wall** — `ae2:smooth_quartz_wall` · к
+- [ ] **Sky Stone Block** — `ae2:smooth_sky_stone_block` · к
+- [ ] **Sky Stone Block Chest** — `ae2:smooth_sky_stone_chest` · к
+- [ ] **Sky Stone Block Slab** — `ae2:smooth_sky_stone_slab` · к
+- [ ] **Sky Stone Block Stairs** — `ae2:smooth_sky_stone_stairs` · к
+- [ ] **Sky Stone Block Wall** — `ae2:smooth_sky_stone_wall` · к
+- [ ] **Spatial Anchor** — `ae2:spatial_anchor` · к
+- [ ] **128³ Spatial Component** — `ae2:spatial_cell_component_128` · к
+- [ ] **16³ Spatial Component** — `ae2:spatial_cell_component_16` · к
+- [ ] **2³ Spatial Component** — `ae2:spatial_cell_component_2` · к
+- [ ] **Spatial IO Port** — `ae2:spatial_io_port` · к
+- [ ] **Spatial Pylon** — `ae2:spatial_pylon` · к
+- [ ] **128³ Spatial Storage Cell** — `ae2:spatial_storage_cell_128` · к
+- [ ] **16³ Spatial Storage Cell** — `ae2:spatial_storage_cell_16` · к
+- [ ] **2³ Spatial Storage Cell** — `ae2:spatial_storage_cell_2` · к
+- [ ] **Acceleration Card** — `ae2:speed_card` · к
+- [ ] **Stonecutting Pattern** — `ae2:stonecutting_pattern` · н
+- [ ] **ME Storage Bus** — `ae2:storage_bus` · к
+- [ ] **ME Storage Monitor** — `ae2:storage_monitor` · к
+- [ ] **ME Terminal** — `ae2:terminal` · к
+- [ ] **Tiny TNT** — `ae2:tiny_tnt` · к
+- [ ] **ME Toggle Bus** — `ae2:toggle_bus` · к
+- [ ] **Vibration Chamber** — `ae2:vibration_chamber` · к
+- [ ] **View Cell** — `ae2:view_cell` · к
+- [ ] **Overflow Destruction Card** — `ae2:void_card` · к
+- [ ] **White ME Covered Cable** — `ae2:white_covered_cable` · к
+- [ ] **White ME Dense Covered Cable** — `ae2:white_covered_dense_cable` · к
+- [ ] **White ME Glass Cable** — `ae2:white_glass_cable` · к
+- [ ] **White Lumen Paint Ball** — `ae2:white_lumen_paint_ball` · к
+- [ ] **White Paint Ball** — `ae2:white_paint_ball` · к
+- [ ] **White ME Smart Cable** — `ae2:white_smart_cable` · к
+- [ ] **White ME Dense Smart Cable** — `ae2:white_smart_dense_cable` · к
+- [ ] **ME Wireless Access Point** — `ae2:wireless_access_point` · к
+- [ ] **Wireless Booster** — `ae2:wireless_booster` · к
+- [ ] **Wireless Crafting Terminal** — `ae2:wireless_crafting_terminal` · к
+- [ ] **Wireless Receiver** — `ae2:wireless_receiver` · к
+- [ ] **Wireless Terminal** — `ae2:wireless_terminal` · к
+- [ ] **Wrapped Generic Stack** — `ae2:wrapped_generic_stack` · н
+- [ ] **Yellow ME Covered Cable** — `ae2:yellow_covered_cable` · к
+- [ ] **Yellow ME Dense Covered Cable** — `ae2:yellow_covered_dense_cable` · к
+- [ ] **Yellow ME Glass Cable** — `ae2:yellow_glass_cable` · к
+- [ ] **Yellow Lumen Paint Ball** — `ae2:yellow_lumen_paint_ball` · к
+- [ ] **Yellow Paint Ball** — `ae2:yellow_paint_ball` · к
+- [ ] **Yellow ME Smart Cable** — `ae2:yellow_smart_cable` · к
+- [ ] **Yellow ME Dense Smart Cable** — `ae2:yellow_smart_dense_cable` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

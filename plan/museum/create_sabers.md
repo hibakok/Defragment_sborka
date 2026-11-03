@@ -1,0 +1,123 @@
+# Музей: Create Sabers (create_sabers)
+
+Предметов: 110 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 110 предметов.*
+
+- [ ] **Black Brass Saber** — `create_sabers:brass_saber_black` · н
+- [ ] **Black Brass Saber** — `create_sabers:brass_saber_black_off` · н
+- [ ] **Blue Brass Saber** — `create_sabers:brass_saber_blue` · н
+- [ ] **Blue Brass Saber** — `create_sabers:brass_saber_blue_off` · н
+- [ ] **Black Brass Saber** — `create_sabers:brass_saber_galaxy` · н
+- [ ] **Black Brass Saber** — `create_sabers:brass_saber_galaxy_off` · н
+- [ ] **Lime Brass Saber** — `create_sabers:brass_saber_lime` · н
+- [ ] **Lime Brass Saber** — `create_sabers:brass_saber_lime_off` · н
+- [ ] **Orange Brass Saber** — `create_sabers:brass_saber_orange` · н
+- [ ] **Orange Brass Saber** — `create_sabers:brass_saber_orange_off` · н
+- [ ] **Pink Brass Saber** — `create_sabers:brass_saber_pink` · н
+- [ ] **Pink Brass Saber** — `create_sabers:brass_saber_pink_off` · н
+- [ ] **Purple Brass Saber** — `create_sabers:brass_saber_purple` · н
+- [ ] **Purple Brass Saber** — `create_sabers:brass_saber_purple_off` · н
+- [ ] **Red Brass Saber** — `create_sabers:brass_saber_red` · н
+- [ ] **Red Brass Saber** — `create_sabers:brass_saber_red_off` · н
+- [ ] **Brass Saber** — `create_sabers:brass_saber_white` · н
+- [ ] **Brass Saber** — `create_sabers:brass_saber_white_off` · н
+- [ ] **Yellow Brass Saber** — `create_sabers:brass_saber_yellow` · н
+- [ ] **Yellow Brass Saber** — `create_sabers:brass_saber_yellow_off` · н
+- [ ] **Black Copper Saber** — `create_sabers:copper_saber_black` · н
+- [ ] **Black Copper Saber** — `create_sabers:copper_saber_black_off` · н
+- [ ] **Blue Copper Saber** — `create_sabers:copper_saber_blue` · н
+- [ ] **Blue Copper Saber** — `create_sabers:copper_saber_blue_off` · н
+- [ ] **Lime Copper Saber** — `create_sabers:copper_saber_lime` · н
+- [ ] **Lime Copper Saber** — `create_sabers:copper_saber_lime_off` · н
+- [ ] **Orange Copper Saber** — `create_sabers:copper_saber_orange` · н
+- [ ] **Orange Copper Saber** — `create_sabers:copper_saber_orange_off` · н
+- [ ] **Pink Copper Saber** — `create_sabers:copper_saber_pink` · н
+- [ ] **Pink Copper Saber** — `create_sabers:copper_saber_pink_off` · н
+- [ ] **Purple Copper Saber** — `create_sabers:copper_saber_purple` · н
+- [ ] **Purple Copper Saber** — `create_sabers:copper_saber_purple_off` · н
+- [ ] **Red Copper Saber** — `create_sabers:copper_saber_red` · н
+- [ ] **Red Copper Saber** — `create_sabers:copper_saber_red_off` · н
+- [ ] **Copper Saber** — `create_sabers:copper_saber_white` · н
+- [ ] **Copper Saber** — `create_sabers:copper_saber_white_off` · н
+- [ ] **Yellow Copper Saber** — `create_sabers:copper_saber_yellow` · н
+- [ ] **Yellow Copper Saber** — `create_sabers:copper_saber_yellow_off` · н
+- [ ] **Black Double Brass Saber** — `create_sabers:double_brass_saber_black` · н
+- [ ] **Black Double Brass Saber** — `create_sabers:double_brass_saber_black_off` · н
+- [ ] **Blue Double Brass Saber** — `create_sabers:double_brass_saber_blue` · н
+- [ ] **Blue Double Brass Saber** — `create_sabers:double_brass_saber_blue_off` · н
+- [ ] **Lime Double Brass Saber** — `create_sabers:double_brass_saber_lime` · н
+- [ ] **Lime Double Brass Saber** — `create_sabers:double_brass_saber_lime_off` · н
+- [ ] **Orange Double Brass Saber** — `create_sabers:double_brass_saber_orange` · н
+- [ ] **Orange Double Brass Saber** — `create_sabers:double_brass_saber_orange_off` · н
+- [ ] **Pink Double Brass Saber** — `create_sabers:double_brass_saber_pink` · н
+- [ ] **Pink Double Brass Saber** — `create_sabers:double_brass_saber_pink_off` · н
+- [ ] **Purple Double Brass Saber** — `create_sabers:double_brass_saber_purple` · н
+- [ ] **Purple Double Brass Saber** — `create_sabers:double_brass_saber_purple_off` · н
+- [ ] **Red Double Brass Saber** — `create_sabers:double_brass_saber_red` · н
+- [ ] **Red Double Brass Saber** — `create_sabers:double_brass_saber_red_off` · н
+- [ ] **Double Brass Saber** — `create_sabers:double_brass_saber_white` · н
+- [ ] **Double Brass Saber** — `create_sabers:double_brass_saber_white_off` · н
+- [ ] **Yellow Double Brass Saber** — `create_sabers:double_brass_saber_yellow` · н
+- [ ] **Yellow Double Brass Saber** — `create_sabers:double_brass_saber_yellow_off` · н
+- [ ] **Black Double Copper Saber** — `create_sabers:double_copper_saber_black` · н
+- [ ] **Black Double Copper Saber** — `create_sabers:double_copper_saber_black_off` · н
+- [ ] **Double Copper Saber** — `create_sabers:double_copper_saber_blue` · н
+- [ ] **Blue Double Copper Saber** — `create_sabers:double_copper_saber_blue_off` · н
+- [ ] **Lime Double Copper Saber** — `create_sabers:double_copper_saber_lime` · н
+- [ ] **Lime Double Copper Saber** — `create_sabers:double_copper_saber_lime_off` · н
+- [ ] **Orange Double Copper Saber** — `create_sabers:double_copper_saber_orange` · н
+- [ ] **Orange Double Copper Saber** — `create_sabers:double_copper_saber_orange_off` · н
+- [ ] **Pink Double Copper Saber** — `create_sabers:double_copper_saber_pink` · н
+- [ ] **Pink Double Copper Saber** — `create_sabers:double_copper_saber_pink_off` · н
+- [ ] **Purple Double Copper Saber** — `create_sabers:double_copper_saber_purple` · н
+- [ ] **Purple Double Copper Saber** — `create_sabers:double_copper_saber_purple_off` · н
+- [ ] **Red Double Copper Saber** — `create_sabers:double_copper_saber_red` · н
+- [ ] **Red Double Copper Saber** — `create_sabers:double_copper_saber_red_off` · н
+- [ ] **Double Copper Saber** — `create_sabers:double_copper_saber_white` · н
+- [ ] **Double Copper Saber** — `create_sabers:double_copper_saber_white_off` · н
+- [ ] **Yellow Double Copper Saber** — `create_sabers:double_copper_saber_yellow` · н
+- [ ] **Yellow Double Copper Saber** — `create_sabers:double_copper_saber_yellow_off` · н
+- [ ] **Black Double Zinc Saber** — `create_sabers:double_zinc_saber_black` · н
+- [ ] **Black Double Zinc Saber** — `create_sabers:double_zinc_saber_black_off` · н
+- [ ] **Blue Double Zinc Saber** — `create_sabers:double_zinc_saber_blue` · н
+- [ ] **Blue Double Zinc Saber** — `create_sabers:double_zinc_saber_blue_off` · н
+- [ ] **Lime Double Zinc Saber** — `create_sabers:double_zinc_saber_lime` · н
+- [ ] **Lime Double Zinc Saber** — `create_sabers:double_zinc_saber_lime_off` · н
+- [ ] **Orange Double Zinc Saber** — `create_sabers:double_zinc_saber_orange` · н
+- [ ] **Orange Double Zinc Saber** — `create_sabers:double_zinc_saber_orange_off` · н
+- [ ] **Pink Double Zinc Saber** — `create_sabers:double_zinc_saber_pink` · н
+- [ ] **Pink Double Zinc Saber** — `create_sabers:double_zinc_saber_pink_off` · н
+- [ ] **Purple Double Zinc Saber** — `create_sabers:double_zinc_saber_purple` · н
+- [ ] **Purple Double Zinc Saber** — `create_sabers:double_zinc_saber_purple_off` · н
+- [ ] **Red Double Zinc Saber** — `create_sabers:double_zinc_saber_red` · н
+- [ ] **Red Double Zinc Saber** — `create_sabers:double_zinc_saber_red_off` · н
+- [ ] **Double Zinc Saber** — `create_sabers:double_zinc_saber_white` · н
+- [ ] **Double Zinc Saber** — `create_sabers:double_zinc_saber_white_off` · н
+- [ ] **Yellow Double Zinc Saber** — `create_sabers:double_zinc_saber_yellow` · н
+- [ ] **Yellow Double Zinc Saber** — `create_sabers:double_zinc_saber_yellow_off` · н
+- [ ] **Black Zinc Saber** — `create_sabers:zinc_saber_black` · н
+- [ ] **Black Zinc Saber** — `create_sabers:zinc_saber_black_off` · н
+- [ ] **Blue Zinc Saber** — `create_sabers:zinc_saber_blue` · н
+- [ ] **Blue Zinc Saber** — `create_sabers:zinc_saber_blue_off` · н
+- [ ] **Lime Zinc Saber** — `create_sabers:zinc_saber_lime` · н
+- [ ] **Lime Zinc Saber** — `create_sabers:zinc_saber_lime_off` · н
+- [ ] **Orange Zinc Saber** — `create_sabers:zinc_saber_orange` · н
+- [ ] **Orange Zinc Saber** — `create_sabers:zinc_saber_orange_off` · н
+- [ ] **Pink Zinc Saber** — `create_sabers:zinc_saber_pink` · н
+- [ ] **Pink Zinc Saber** — `create_sabers:zinc_saber_pink_off` · н
+- [ ] **Purple Zinc Saber** — `create_sabers:zinc_saber_purple` · н
+- [ ] **Purple Zinc Saber** — `create_sabers:zinc_saber_purple_off` · н
+- [ ] **Red Zinc Saber** — `create_sabers:zinc_saber_red` · н
+- [ ] **Red Zinc Saber** — `create_sabers:zinc_saber_red_off` · н
+- [ ] **Zinc Saber** — `create_sabers:zinc_saber_white` · н
+- [ ] **Zinc Saber** — `create_sabers:zinc_saber_white_off` · н
+- [ ] **Yellow Zinc Saber** — `create_sabers:zinc_saber_yellow` · н
+- [ ] **Yellow Zinc Saber** — `create_sabers:zinc_saber_yellow_off` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

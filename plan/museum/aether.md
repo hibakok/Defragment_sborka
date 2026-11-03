@@ -1,0 +1,300 @@
+# Музей: The Aether (aether)
+
+Предметов: 287 · крафтимых по данным: 137 (47%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 287 предметов.*
+
+- [ ] **Aechor Petal** — `aether:aechor_petal` · н
+- [ ] **Aechor Plant Spawn Egg** — `aether:aechor_plant_spawn_egg` · н
+- [ ] **Aerbunny Spawn Egg** — `aether:aerbunny_spawn_egg` · н
+- [ ] **Aerogel** — `aether:aerogel` · н
+- [ ] **Aerogel Slab** — `aether:aerogel_slab` · к
+- [ ] **Aerogel Stairs** — `aether:aerogel_stairs` · к
+- [ ] **Aerogel Wall** — `aether:aerogel_wall` · к
+- [ ] **Aerwhale Spawn Egg** — `aether:aerwhale_spawn_egg` · н
+- [ ] **Aether Dirt** — `aether:aether_dirt` · н
+- [ ] **Aether Dirt Path** — `aether:aether_dirt_path` · к
+- [ ] **Aether Farmland** — `aether:aether_farmland` · н
+- [ ] **Aether Grass Block** — `aether:aether_grass_block` · к
+- [ ] **Aether Portal** — `aether:aether_portal` · н
+- [ ] **Aether Portal Frame** — `aether:aether_portal_frame` · н
+- [ ] **Agility Cape** — `aether:agility_cape` · н
+- [ ] **Altar** — `aether:altar` · к
+- [ ] **Block of Ambrosium** — `aether:ambrosium_block` · к
+- [ ] **Ambrosium Ore** — `aether:ambrosium_ore` · н
+- [ ] **Ambrosium Shard** — `aether:ambrosium_shard` · к
+- [ ] **Ambrosium Torch** — `aether:ambrosium_torch` · к
+- [ ] **Angelic Slab** — `aether:angelic_slab` · к
+- [ ] **Angelic Stairs** — `aether:angelic_stairs` · к
+- [ ] **Angelic Stone** — `aether:angelic_stone` · к
+- [ ] **Angelic Wall** — `aether:angelic_wall` · к
+- [ ] **Berry Bush** — `aether:berry_bush` · н
+- [ ] **Bush Stem** — `aether:berry_bush_stem` · н
+- [ ] **Black Moa Egg** — `aether:black_moa_egg` · н
+- [ ] **Blue Aercloud** — `aether:blue_aercloud` · к
+- [ ] **Blue Berry** — `aether:blue_berry` · н
+- [ ] **Blue Cape** — `aether:blue_cape` · к
+- [ ] **Blue Gummy Swet** — `aether:blue_gummy_swet` · н
+- [ ] **Blue Moa Egg** — `aether:blue_moa_egg` · н
+- [ ] **Blue Swet Spawn Egg** — `aether:blue_swet_spawn_egg` · н
+- [ ] **Book of Lore** — `aether:book_of_lore` · к
+- [ ] **Boss Doorway Angelic Stone** — `aether:boss_doorway_angelic_stone` · н
+- [ ] **Boss Doorway Carved Stone** — `aether:boss_doorway_carved_stone` · н
+- [ ] **Boss Doorway Hellfire Stone** — `aether:boss_doorway_hellfire_stone` · н
+- [ ] **Boss Doorway Light Angelic Stone** — `aether:boss_doorway_light_angelic_stone` · н
+- [ ] **Boss Doorway Light Hellfire Stone** — `aether:boss_doorway_light_hellfire_stone` · н
+- [ ] **Boss Doorway Sentry Stone** — `aether:boss_doorway_sentry_stone` · н
+- [ ] **Bronze Key** — `aether:bronze_dungeon_key` · н
+- [ ] **Candy Cane** — `aether:candy_cane` · н
+- [ ] **Candy Cane Sword** — `aether:candy_cane_sword` · н
+- [ ] **Carved Slab** — `aether:carved_slab` · к
+- [ ] **Carved Stairs** — `aether:carved_stairs` · к
+- [ ] **Carved Stone** — `aether:carved_stone` · к
+- [ ] **Carved Wall** — `aether:carved_wall` · к
+- [ ] **Chainmail Gloves** — `aether:chainmail_gloves` · н
+- [ ] **Chest Mimic** — `aether:chest_mimic` · н
+- [ ] **Cloud Staff** — `aether:cloud_staff` · н
+- [ ] **Cockatrice Spawn Egg** — `aether:cockatrice_spawn_egg` · н
+- [ ] **Cold Aercloud** — `aether:cold_aercloud` · н
+- [ ] **Cold Parachute** — `aether:cold_parachute` · к
+- [ ] **Crystal Fruit Leaves** — `aether:crystal_fruit_leaves` · н
+- [ ] **Crystal Leaves** — `aether:crystal_leaves` · к
+- [ ] **Decorated Holiday Leaves** — `aether:decorated_holiday_leaves` · н
+- [ ] **Diamond Gloves** — `aether:diamond_gloves` · к
+- [ ] **Enchanted Aether Grass Block** — `aether:enchanted_aether_grass_block` · н
+- [ ] **Enchanted Berry** — `aether:enchanted_berry` · к
+- [ ] **Enchanted Dart** — `aether:enchanted_dart` · к
+- [ ] **Enchanted Dart Shooter** — `aether:enchanted_dart_shooter` · к
+- [ ] **Enchanted Gravitite** — `aether:enchanted_gravitite` · к
+- [ ] **Evil Whirlwind Spawn Egg** — `aether:evil_whirlwind_spawn_egg` · н
+- [ ] **Fire Minion Spawn Egg** — `aether:fire_minion_spawn_egg` · н
+- [ ] **Flaming Sword** — `aether:flaming_sword` · н
+- [ ] **Flying Cow Spawn Egg** — `aether:flying_cow_spawn_egg` · н
+- [ ] **Freezer** — `aether:freezer` · к
+- [ ] **Frosted Ice** — `aether:frosted_ice` · н
+- [ ] **Ginger Bread Man** — `aether:gingerbread_man` · н
+- [ ] **Gold Key** — `aether:gold_dungeon_key` · н
+- [ ] **Golden Aercloud** — `aether:golden_aercloud` · к
+- [ ] **Golden Amber** — `aether:golden_amber` · н
+- [ ] **Golden Dart** — `aether:golden_dart` · к
+- [ ] **Golden Dart Shooter** — `aether:golden_dart_shooter` · к
+- [ ] **Golden Feather** — `aether:golden_feather` · н
+- [ ] **Golden Gloves** — `aether:golden_gloves` · к
+- [ ] **Golden Gummy Swet** — `aether:golden_gummy_swet` · н
+- [ ] **Golden Oak Leaves** — `aether:golden_oak_leaves` · н
+- [ ] **Golden Oak Log** — `aether:golden_oak_log` · н
+- [ ] **Golden Oak Sapling** — `aether:golden_oak_sapling` · н
+- [ ] **Golden Oak Wood** — `aether:golden_oak_wood` · к
+- [ ] **Golden Parachute** — `aether:golden_parachute` · к
+- [ ] **Golden Pendant** — `aether:golden_pendant` · к
+- [ ] **Golden Ring** — `aether:golden_ring` · к
+- [ ] **Golden Swet Spawn Egg** — `aether:golden_swet_spawn_egg` · н
+- [ ] **Gravitite Axe** — `aether:gravitite_axe` · к
+- [ ] **Gravitite Boots** — `aether:gravitite_boots` · к
+- [ ] **Gravitite Chestplate** — `aether:gravitite_chestplate` · к
+- [ ] **Gravitite Gloves** — `aether:gravitite_gloves` · к
+- [ ] **Gravitite Helmet** — `aether:gravitite_helmet` · к
+- [ ] **Gravitite Hoe** — `aether:gravitite_hoe` · к
+- [ ] **Gravitite Leggings** — `aether:gravitite_leggings` · к
+- [ ] **Gravitite Ore** — `aether:gravitite_ore` · н
+- [ ] **Gravitite Pickaxe** — `aether:gravitite_pickaxe` · к
+- [ ] **Gravitite Shovel** — `aether:gravitite_shovel` · к
+- [ ] **Gravitite Sword** — `aether:gravitite_sword` · к
+- [ ] **Hammer of Kingbdogz** — `aether:hammer_of_kingbdogz` · н
+- [ ] **Healing Stone** — `aether:healing_stone` · к
+- [ ] **Hellfire Slab** — `aether:hellfire_slab` · к
+- [ ] **Hellfire Stairs** — `aether:hellfire_stairs` · к
+- [ ] **Hellfire Stone** — `aether:hellfire_stone` · к
+- [ ] **Hellfire Wall** — `aether:hellfire_wall` · к
+- [ ] **Holiday Leaves** — `aether:holiday_leaves` · н
+- [ ] **Holy Sword** — `aether:holy_sword` · н
+- [ ] **Holystone** — `aether:holystone` · к
+- [ ] **Holystone Axe** — `aether:holystone_axe` · к
+- [ ] **Holystone Brick Slab** — `aether:holystone_brick_slab` · к
+- [ ] **Holystone Brick Stairs** — `aether:holystone_brick_stairs` · к
+- [ ] **Holystone Brick Wall** — `aether:holystone_brick_wall` · к
+- [ ] **Holystone Bricks** — `aether:holystone_bricks` · к
+- [ ] **Holystone Button** — `aether:holystone_button` · к
+- [ ] **Holystone Hoe** — `aether:holystone_hoe` · к
+- [ ] **Holystone Pickaxe** — `aether:holystone_pickaxe` · к
+- [ ] **Holystone Pressure Plate** — `aether:holystone_pressure_plate` · к
+- [ ] **Holystone Shovel** — `aether:holystone_shovel` · к
+- [ ] **Holystone Slab** — `aether:holystone_slab` · к
+- [ ] **Holystone Stairs** — `aether:holystone_stairs` · к
+- [ ] **Holystone Sword** — `aether:holystone_sword` · к
+- [ ] **Holystone Wall** — `aether:holystone_wall` · к
+- [ ] **Ice Pendant** — `aether:ice_pendant` · к
+- [ ] **Ice Ring** — `aether:ice_ring` · к
+- [ ] **Icestone** — `aether:icestone` · н
+- [ ] **Icestone Slab** — `aether:icestone_slab` · к
+- [ ] **Icestone Stairs** — `aether:icestone_stairs` · к
+- [ ] **Icestone Wall** — `aether:icestone_wall` · к
+- [ ] **Incubator** — `aether:incubator` · к
+- [ ] **Invisibility Cloak** — `aether:invisibility_cloak` · н
+- [ ] **Iron Bubble** — `aether:iron_bubble` · н
+- [ ] **Iron Gloves** — `aether:iron_gloves` · к
+- [ ] **Iron Pendant** — `aether:iron_pendant` · к
+- [ ] **Iron Ring** — `aether:iron_ring` · к
+- [ ] **Leather Gloves** — `aether:leather_gloves` · к
+- [ ] **Life Shard** — `aether:life_shard` · н
+- [ ] **Light Angelic Stone** — `aether:light_angelic_stone` · к
+- [ ] **Light Hellfire Stone** — `aether:light_hellfire_stone` · к
+- [ ] **Lightning Knife** — `aether:lightning_knife` · н
+- [ ] **Lightning Sword** — `aether:lightning_sword` · н
+- [ ] **Locked Angelic Stone** — `aether:locked_angelic_stone` · н
+- [ ] **Locked Carved Stone** — `aether:locked_carved_stone` · н
+- [ ] **Locked Hellfire Stone** — `aether:locked_hellfire_stone` · н
+- [ ] **Locked Light Angelic Stone** — `aether:locked_light_angelic_stone` · н
+- [ ] **Locked Light Hellfire Stone** — `aether:locked_light_hellfire_stone` · н
+- [ ] **Locked Sentry Stone** — `aether:locked_sentry_stone` · н
+- [ ] **Mimic Spawn Egg** — `aether:mimic_spawn_egg` · н
+- [ ] **Moa Spawn Egg** — `aether:moa_spawn_egg` · н
+- [ ] **Mossy Holystone** — `aether:mossy_holystone` · к
+- [ ] **Mossy Holystone Slab** — `aether:mossy_holystone_slab` · к
+- [ ] **Mossy Holystone Stairs** — `aether:mossy_holystone_stairs` · к
+- [ ] **Mossy Holystone Wall** — `aether:mossy_holystone_wall` · к
+- [ ] **Blue Music Disc** — `aether:music_disc_aether_tune` · к
+- [ ] **Valkyrie Music Disc** — `aether:music_disc_ascending_dawn` · н
+- [ ] **Sepia Music Disc** — `aether:music_disc_chinchilla` · к
+- [ ] **Super Music Disc** — `aether:music_disc_high` · к
+- [ ] **Blackened Music Disc** — `aether:music_disc_klepto` · к
+- [ ] **Carved Music Disc** — `aether:music_disc_sliders_wrath` · н
+- [ ] **Nature Staff** — `aether:nature_staff` · к
+- [ ] **Neptune Boots** — `aether:neptune_boots` · н
+- [ ] **Neptune Chestplate** — `aether:neptune_chestplate` · н
+- [ ] **Neptune Gloves** — `aether:neptune_gloves` · н
+- [ ] **Neptune Helmet** — `aether:neptune_helmet` · н
+- [ ] **Neptune Leggings** — `aether:neptune_leggings` · н
+- [ ] **Netherite Gloves** — `aether:netherite_gloves` · к
+- [ ] **Obsidian Boots** — `aether:obsidian_boots` · н
+- [ ] **Obsidian Chestplate** — `aether:obsidian_chestplate` · н
+- [ ] **Obsidian Gloves** — `aether:obsidian_gloves` · н
+- [ ] **Obsidian Helmet** — `aether:obsidian_helmet` · н
+- [ ] **Obsidian Leggings** — `aether:obsidian_leggings` · н
+- [ ] **Phoenix Boots** — `aether:phoenix_boots` · н
+- [ ] **Phoenix Bow** — `aether:phoenix_bow` · н
+- [ ] **Phoenix Chestplate** — `aether:phoenix_chestplate` · н
+- [ ] **Phoenix Gloves** — `aether:phoenix_gloves` · н
+- [ ] **Phoenix Helmet** — `aether:phoenix_helmet` · н
+- [ ] **Phoenix Leggings** — `aether:phoenix_leggings` · н
+- [ ] **Phyg Spawn Egg** — `aether:phyg_spawn_egg` · н
+- [ ] **Pig Slayer** — `aether:pig_slayer` · н
+- [ ] **Pillar** — `aether:pillar` · к
+- [ ] **Pillar Top** — `aether:pillar_top` · к
+- [ ] **Poison Dart** — `aether:poison_dart` · к
+- [ ] **Poison Dart Shooter** — `aether:poison_dart_shooter` · к
+- [ ] **Present** — `aether:present` · н
+- [ ] **Purple Flower** — `aether:purple_flower` · н
+- [ ] **Quicksoil** — `aether:quicksoil` · н
+- [ ] **Quicksoil Glass** — `aether:quicksoil_glass` · к
+- [ ] **Quicksoil Glass Pane** — `aether:quicksoil_glass_pane` · к
+- [ ] **Red Cape** — `aether:red_cape` · к
+- [ ] **Regeneration Stone** — `aether:regeneration_stone` · н
+- [ ] **Sentry Boots** — `aether:sentry_boots` · н
+- [ ] **Sentry Spawn Egg** — `aether:sentry_spawn_egg` · н
+- [ ] **Sentry Stone** — `aether:sentry_stone` · к
+- [ ] **Sheepuff Spawn Egg** — `aether:sheepuff_spawn_egg` · н
+- [ ] **Shield of Repulsion** — `aether:shield_of_repulsion` · н
+- [ ] **Silver Key** — `aether:silver_dungeon_key` · н
+- [ ] **Skyroot Axe** — `aether:skyroot_axe` · к
+- [ ] **Skyroot Bucket of Axolotl** — `aether:skyroot_axolotl_bucket` · н
+- [ ] **Skyroot Bed** — `aether:skyroot_bed` · к
+- [ ] **Skyroot Boat** — `aether:skyroot_boat` · к
+- [ ] **Skyroot Bookshelf** — `aether:skyroot_bookshelf` · к
+- [ ] **Skyroot Bucket** — `aether:skyroot_bucket` · к
+- [ ] **Skyroot Button** — `aether:skyroot_button` · к
+- [ ] **Skyroot Boat with Chest** — `aether:skyroot_chest_boat` · к
+- [ ] **Skyroot Bucket of Cod** — `aether:skyroot_cod_bucket` · н
+- [ ] **Skyroot Door** — `aether:skyroot_door` · к
+- [ ] **Skyroot Fence** — `aether:skyroot_fence` · к
+- [ ] **Skyroot Fence Gate** — `aether:skyroot_fence_gate` · к
+- [ ] **Skyroot Hanging Sign** — `aether:skyroot_hanging_sign` · к
+- [ ] **Skyroot Hoe** — `aether:skyroot_hoe` · к
+- [ ] **Skyroot Leaves** — `aether:skyroot_leaves` · н
+- [ ] **Skyroot Log** — `aether:skyroot_log` · н
+- [ ] **Skyroot Milk Bucket** — `aether:skyroot_milk_bucket` · н
+- [ ] **Skyroot Pickaxe** — `aether:skyroot_pickaxe` · к
+- [ ] **Skyroot Planks** — `aether:skyroot_planks` · к
+- [ ] **Skyroot Poison Bucket** — `aether:skyroot_poison_bucket` · н
+- [ ] **Skyroot Powder Snow Bucket** — `aether:skyroot_powder_snow_bucket` · н
+- [ ] **Skyroot Pressure Plate** — `aether:skyroot_pressure_plate` · к
+- [ ] **Skyroot Bucket of Pufferfish** — `aether:skyroot_pufferfish_bucket` · н
+- [ ] **Skyroot Remedy Bucket** — `aether:skyroot_remedy_bucket` · к
+- [ ] **Skyroot Bucket of Salmon** — `aether:skyroot_salmon_bucket` · н
+- [ ] **Skyroot Sapling** — `aether:skyroot_sapling` · н
+- [ ] **Skyroot Shovel** — `aether:skyroot_shovel` · к
+- [ ] **Skyroot Sign** — `aether:skyroot_sign` · к
+- [ ] **Skyroot Slab** — `aether:skyroot_slab` · к
+- [ ] **Skyroot Stairs** — `aether:skyroot_stairs` · к
+- [ ] **Skyroot Stick** — `aether:skyroot_stick` · к
+- [ ] **Skyroot Sword** — `aether:skyroot_sword` · к
+- [ ] **Skyroot Bucket of Tadpole** — `aether:skyroot_tadpole_bucket` · н
+- [ ] **Skyroot Trapdoor** — `aether:skyroot_trapdoor` · к
+- [ ] **Skyroot Bucket of Tropical Fish** — `aether:skyroot_tropical_fish_bucket` · н
+- [ ] **Skyroot Water Bucket** — `aether:skyroot_water_bucket` · н
+- [ ] **Skyroot Wood** — `aether:skyroot_wood` · к
+- [ ] **Slider Spawn Egg** — `aether:slider_spawn_egg` · н
+- [ ] **Stripped Skyroot Log** — `aether:stripped_skyroot_log` · н
+- [ ] **Stripped Skyroot Wood** — `aether:stripped_skyroot_wood` · к
+- [ ] **Sun Altar** — `aether:sun_altar` · н
+- [ ] **Sun Spirit Spawn Egg** — `aether:sun_spirit_spawn_egg` · н
+- [ ] **Swet Ball** — `aether:swet_ball` · н
+- [ ] **Swet Cape** — `aether:swet_cape` · н
+- [ ] **Trapped Angelic Stone** — `aether:trapped_angelic_stone` · н
+- [ ] **Trapped Carved Stone** — `aether:trapped_carved_stone` · н
+- [ ] **Trapped Hellfire Stone** — `aether:trapped_hellfire_stone` · н
+- [ ] **Trapped Light Angelic Stone** — `aether:trapped_light_angelic_stone` · н
+- [ ] **Trapped Light Hellfire Stone** — `aether:trapped_light_hellfire_stone` · н
+- [ ] **Trapped Sentry Stone** — `aether:trapped_sentry_stone` · н
+- [ ] **Treasure Chest** — `aether:treasure_chest` · н
+- [ ] **Treasure Doorway Angelic Stone** — `aether:treasure_doorway_angelic_stone` · н
+- [ ] **Treasure Doorway Carved Stone** — `aether:treasure_doorway_carved_stone` · н
+- [ ] **Treasure Doorway Hellfire Stone** — `aether:treasure_doorway_hellfire_stone` · н
+- [ ] **Treasure Doorway Light Angelic Stone** — `aether:treasure_doorway_light_angelic_stone` · н
+- [ ] **Treasure Doorway Light Hellfire Stone** — `aether:treasure_doorway_light_hellfire_stone` · н
+- [ ] **Treasure Doorway Sentry Stone** — `aether:treasure_doorway_sentry_stone` · н
+- [ ] **Unstable Obsidian** — `aether:unstable_obsidian` · н
+- [ ] **Valkyrie Axe** — `aether:valkyrie_axe` · н
+- [ ] **Valkyrie Boots** — `aether:valkyrie_boots` · н
+- [ ] **Valkyrie Cape** — `aether:valkyrie_cape` · н
+- [ ] **Valkyrie Chestplate** — `aether:valkyrie_chestplate` · н
+- [ ] **Valkyrie Gloves** — `aether:valkyrie_gloves` · н
+- [ ] **Valkyrie Helmet** — `aether:valkyrie_helmet` · н
+- [ ] **Valkyrie Hoe** — `aether:valkyrie_hoe` · н
+- [ ] **Valkyrie Lance** — `aether:valkyrie_lance` · н
+- [ ] **Valkyrie Leggings** — `aether:valkyrie_leggings` · н
+- [ ] **Valkyrie Pickaxe** — `aether:valkyrie_pickaxe` · н
+- [ ] **Valkyrie Queen Spawn Egg** — `aether:valkyrie_queen_spawn_egg` · н
+- [ ] **Valkyrie Shovel** — `aether:valkyrie_shovel` · н
+- [ ] **Valkyrie Spawn Egg** — `aether:valkyrie_spawn_egg` · н
+- [ ] **Vampire Blade** — `aether:vampire_blade` · н
+- [ ] **Victory Medal** — `aether:victory_medal` · н
+- [ ] **Whirlwind Spawn Egg** — `aether:whirlwind_spawn_egg` · н
+- [ ] **White Apple** — `aether:white_apple` · н
+- [ ] **White Cape** — `aether:white_cape` · к
+- [ ] **White Flower** — `aether:white_flower` · н
+- [ ] **White Moa Egg** — `aether:white_moa_egg` · н
+- [ ] **Yellow Cape** — `aether:yellow_cape` · к
+- [ ] **Zanite Axe** — `aether:zanite_axe` · к
+- [ ] **Block of Zanite** — `aether:zanite_block` · к
+- [ ] **Zanite Boots** — `aether:zanite_boots` · к
+- [ ] **Zanite Chestplate** — `aether:zanite_chestplate` · к
+- [ ] **Zanite Gemstone** — `aether:zanite_gemstone` · к
+- [ ] **Zanite Gloves** — `aether:zanite_gloves` · к
+- [ ] **Zanite Helmet** — `aether:zanite_helmet` · к
+- [ ] **Zanite Hoe** — `aether:zanite_hoe` · к
+- [ ] **Zanite Leggings** — `aether:zanite_leggings` · к
+- [ ] **Zanite Ore** — `aether:zanite_ore` · н
+- [ ] **Zanite Pendant** — `aether:zanite_pendant` · к
+- [ ] **Zanite Pickaxe** — `aether:zanite_pickaxe` · к
+- [ ] **Zanite Ring** — `aether:zanite_ring` · к
+- [ ] **Zanite Shovel** — `aether:zanite_shovel` · к
+- [ ] **Zanite Sword** — `aether:zanite_sword` · к
+- [ ] **Zephyr Spawn Egg** — `aether:zephyr_spawn_egg` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

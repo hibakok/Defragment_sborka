@@ -1,0 +1,348 @@
+# Музей: Ars Nouveau (ars_nouveau)
+
+Предметов: 335 · крафтимых по данным: 199 (59%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 335 предметов.*
+
+- [ ] **Abjuration Essence** — `ars_nouveau:abjuration_essence` · н
+- [ ] **Agronomic Sourcelink** — `ars_nouveau:agronomic_sourcelink` · к
+- [ ] **Air Essence** — `ars_nouveau:air_essence` · н
+- [ ] **Alchemical Sourcelink** — `ars_nouveau:alchemical_sourcelink` · к
+- [ ] **Alchemist's Crown** — `ars_nouveau:alchemists_crown` · н
+- [ ] **Item Scroll: Allow** — `ars_nouveau:allow_scroll` · к
+- [ ] **Alteration Table** — `ars_nouveau:alteration_table` · к
+- [ ] **Amethyst Golem Charm** — `ars_nouveau:amethyst_golem_charm` · н
+- [ ] **Augment Arrow: Amplify** — `ars_nouveau:amplify_arrow` · н
+- [ ] **Amulet of Mana Boost** — `ars_nouveau:amulet_of_mana_boost` · н
+- [ ] **Amulet of Mana Regen** — `ars_nouveau:amulet_of_mana_regen` · н
+- [ ] **Annotated Codex** — `ars_nouveau:annotated_codex` · к
+- [ ] **Mage's Spell Book** — `ars_nouveau:apprentice_spell_book` · к
+- [ ] **Arcane Core** — `ars_nouveau:arcane_core` · к
+- [ ] **Arcane Pedestal** — `ars_nouveau:arcane_pedestal` · к
+- [ ] **Arcane Platform** — `ars_nouveau:arcane_platform` · к
+- [ ] **Arcanist's Treads** — `ars_nouveau:arcanist_boots` · к
+- [ ] **Arcanist's Hat** — `ars_nouveau:arcanist_hood` · к
+- [ ] **Arcanist's Pants** — `ars_nouveau:arcanist_leggings` · к
+- [ ] **Arcanist's Robes** — `ars_nouveau:arcanist_robes` · к
+- [ ] **Archmage Spell Book** — `ars_nouveau:archmage_spell_book` · к
+- [ ] **Archwood Button** — `ars_nouveau:archwood_button` · к
+- [ ] **Archwood Chest** — `ars_nouveau:archwood_chest` · к
+- [ ] **Archwood Door** — `ars_nouveau:archwood_door` · к
+- [ ] **Archwood Fence** — `ars_nouveau:archwood_fence` · к
+- [ ] **Archwood Fence Gate** — `ars_nouveau:archwood_fence_gate` · к
+- [ ] **Archwood Planks** — `ars_nouveau:archwood_planks` · к
+- [ ] **Archwood Pressure Plate** — `ars_nouveau:archwood_pressure_plate` · к
+- [ ] **Archwood Sconce** — `ars_nouveau:archwood_sconce` · к
+- [ ] **Archwood Slab** — `ars_nouveau:archwood_slab` · к
+- [ ] **Archwood Stairs** — `ars_nouveau:archwood_stairs` · к
+- [ ] **Archwood Trapdoor** — `ars_nouveau:archwood_trapdoor` · к
+- [ ] **Basic Spell Turret** — `ars_nouveau:basic_spell_turret` · к
+- [ ] **Bastion Fruit** — `ars_nouveau:bastion_pod` · н
+- [ ] **Battlemage's Boots** — `ars_nouveau:battlemage_boots` · к
+- [ ] **Battlemage's Hood** — `ars_nouveau:battlemage_hood` · к
+- [ ] **Battlemage's Legguards** — `ars_nouveau:battlemage_leggings` · к
+- [ ] **Battlemage's Gambeson** — `ars_nouveau:battlemage_robes` · к
+- [ ] **Belt of Levitation** — `ars_nouveau:belt_of_levitation` · н
+- [ ] **Belt of Unstable Gifts** — `ars_nouveau:belt_of_unstable_gifts` · н
+- [ ] **Blank Glyph** — `ars_nouveau:blank_glyph` · н
+- [ ] **Blank Parchment** — `ars_nouveau:blank_parchment` · к
+- [ ] **Blank Thread** — `ars_nouveau:blank_thread` · к
+- [ ] **Blaze Fiber** — `ars_nouveau:blaze_fiber` · н
+- [ ] **Cascading Archwood Leaves** — `ars_nouveau:blue_archwood_leaves` · н
+- [ ] **Cascading Archwood Log** — `ars_nouveau:blue_archwood_log` · н
+- [ ] **Cascading Archwood Sapling** — `ars_nouveau:blue_archwood_sapling` · к
+- [ ] **Cascading Archwood Wood** — `ars_nouveau:blue_archwood_wood` · к
+- [ ] **Blue Magebloom Bed** — `ars_nouveau:blue_sbed` · к
+- [ ] **Bombegranate** — `ars_nouveau:bombegranate_pod` · н
+- [ ] **Bookwyrm Charm** — `ars_nouveau:bookwyrm_charm` · н
+- [ ] **Bookwyrm Lectern** — `ars_nouveau:bookwyrm_lectern` · н
+- [ ] **Ritual Brazier Relay** — `ars_nouveau:brazier_relay` · н
+- [ ] **Caster Tome** — `ars_nouveau:caster_tome` · н
+- [ ] **Conjuration Essence** — `ars_nouveau:conjuration_essence` · н
+- [ ] **Creative Source Jar** — `ars_nouveau:creative_source_jar` · н
+- [ ] **Creative Spell Book** — `ars_nouveau:creative_spell_book` · н
+- [ ] **Item Scroll: Deny** — `ars_nouveau:deny_scroll` · к
+- [ ] **Dominion Wand** — `ars_nouveau:dominion_wand` · н
+- [ ] **Dowsing Rod** — `ars_nouveau:dowsing_rod` · к
+- [ ] **Drygmy Charm** — `ars_nouveau:drygmy_charm` · н
+- [ ] **Drygmy Spawn Egg** — `ars_nouveau:drygmy_se` · н
+- [ ] **Drygmy Token** — `ars_nouveau:drygmy_shard` · н
+- [ ] **Drygmy Henge** — `ars_nouveau:drygmy_stone` · н
+- [ ] **Dull Trinket** — `ars_nouveau:dull_trinket` · к
+- [ ] **Earth Essence** — `ars_nouveau:earth_essence` · н
+- [ ] **Enchanter's Eye** — `ars_nouveau:enchanters_eye` · н
+- [ ] **Enchanter's Mirror** — `ars_nouveau:enchanters_mirror` · н
+- [ ] **Enchanter's Shield** — `ars_nouveau:enchanters_shield` · н
+- [ ] **Enchanter's Sword** — `ars_nouveau:enchanters_sword` · н
+- [ ] **Enchanting Apparatus** — `ars_nouveau:enchanting_apparatus` · к
+- [ ] **End Fiber** — `ars_nouveau:end_fiber` · н
+- [ ] **Experience Gem** — `ars_nouveau:experience_gem` · к
+- [ ] **Falseweave** — `ars_nouveau:falseweave` · к
+- [ ] **Amethyst Golem** — `ars_nouveau:familiar_amethyst_golem` · н
+- [ ] **Bookwyrm** — `ars_nouveau:familiar_bookwyrm` · н
+- [ ] **Drygmy** — `ars_nouveau:familiar_drygmy` · н
+- [ ] **Starbuncle** — `ars_nouveau:familiar_starbuncle` · н
+- [ ] **Whirlisprig** — `ars_nouveau:familiar_whirlisprig` · н
+- [ ] **Wixie** — `ars_nouveau:familiar_wixie` · н
+- [ ] **Fire Essence** — `ars_nouveau:fire_essence` · н
+- [ ] **Frostaya** — `ars_nouveau:frostaya_pod` · н
+- [ ] **Ghostweave** — `ars_nouveau:ghostweave` · к
+- [ ] **Gilded Sourcestone: Alternating** — `ars_nouveau:gilded_sourcestone_alternating` · к
+- [ ] **Gilded Sourcestone: Alternating Slab** — `ars_nouveau:gilded_sourcestone_alternating_slab` · к
+- [ ] **Gilded Sourcestone: Alternating Stairs** — `ars_nouveau:gilded_sourcestone_alternating_stairs` · к
+- [ ] **Gilded Sourcestone: Basketweave** — `ars_nouveau:gilded_sourcestone_basketweave` · к
+- [ ] **Gilded Sourcestone: Basketweave Slab** — `ars_nouveau:gilded_sourcestone_basketweave_slab` · к
+- [ ] **Gilded Sourcestone: Basketweave Stairs** — `ars_nouveau:gilded_sourcestone_basketweave_stairs` · к
+- [ ] **Gilded Sourcestone: Large Bricks** — `ars_nouveau:gilded_sourcestone_large_bricks` · к
+- [ ] **Gilded Sourcestone: Large Bricks Slab** — `ars_nouveau:gilded_sourcestone_large_bricks_slab` · к
+- [ ] **Gilded Sourcestone: Large Bricks Stairs** — `ars_nouveau:gilded_sourcestone_large_bricks_stairs` · к
+- [ ] **Gilded Sourcestone: Mosaic** — `ars_nouveau:gilded_sourcestone_mosaic` · к
+- [ ] **Gilded Sourcestone: Mosaic Slab** — `ars_nouveau:gilded_sourcestone_mosaic_slab` · к
+- [ ] **Gilded Sourcestone: Mosaic Stairs** — `ars_nouveau:gilded_sourcestone_mosaic_stairs` · к
+- [ ] **Gilded Sourcestone: Small Bricks** — `ars_nouveau:gilded_sourcestone_small_bricks` · к
+- [ ] **Gilded Sourcestone: Small Bricks Slab** — `ars_nouveau:gilded_sourcestone_small_bricks_slab` · к
+- [ ] **Gilded Sourcestone: Small Bricks Stairs** — `ars_nouveau:gilded_sourcestone_small_bricks_stairs` · к
+- [ ] **Ring of Greater Discount** — `ars_nouveau:greater_discount_ring` · н
+- [ ] **Greater Experience Gem** — `ars_nouveau:greater_experience_gem` · к
+- [ ] **Flourishing Archwood Leaves** — `ars_nouveau:green_archwood_leaves` · н
+- [ ] **Flourishing Archwood Log** — `ars_nouveau:green_archwood_log` · н
+- [ ] **Flourishing Archwood Sapling** — `ars_nouveau:green_archwood_sapling` · к
+- [ ] **Flourishing Archwood Wood** — `ars_nouveau:green_archwood_wood` · к
+- [ ] **Green Magebloom Bed** — `ars_nouveau:green_sbed` · к
+- [ ] **Imbuement Chamber** — `ars_nouveau:imbuement_chamber` · к
+- [ ] **Intangible Air** — `ars_nouveau:intangible_air` · н
+- [ ] **Display Case** — `ars_nouveau:item_detector` · к
+- [ ] **Jar of Light** — `ars_nouveau:jar_of_light` · н
+- [ ] **Ring of Jumping** — `ars_nouveau:jump_ring` · н
+- [ ] **Lava Lily** — `ars_nouveau:lava_lily` · н
+- [ ] **Ring of Lesser Discount** — `ars_nouveau:lesser_discount_ring` · н
+- [ ] **Magelight** — `ars_nouveau:light_block` · н
+- [ ] **Lingering Flask Cannon** — `ars_nouveau:lingering_flask_cannon` · н
+- [ ] **Mage Block** — `ars_nouveau:mage_block` · н
+- [ ] **Magebloom** — `ars_nouveau:magebloom` · н
+- [ ] **Magebloom Block** — `ars_nouveau:magebloom_block` · к
+- [ ] **Magebloom Seed** — `ars_nouveau:magebloom_crop` · н
+- [ ] **Magebloom Fiber** — `ars_nouveau:magebloom_fiber` · к
+- [ ] **Magelight Torch** — `ars_nouveau:magelight_torch` · к
+- [ ] **Magic Clay** — `ars_nouveau:magic_clay` · н
+- [ ] **Mage Fire** — `ars_nouveau:magic_fire` · н
+- [ ] **Manipulation Essence** — `ars_nouveau:manipulation_essence` · н
+- [ ] **Marvelous Clay** — `ars_nouveau:marvelous_clay` · н
+- [ ] **Mendosteen** — `ars_nouveau:mendosteen_pod` · н
+- [ ] **Mimic Scroll** — `ars_nouveau:mimic_scroll` · к
+- [ ] **Mirrorweave** — `ars_nouveau:mirrorweave` · к
+- [ ] **Containment Jar** — `ars_nouveau:mob_jar` · к
+- [ ] **Mundane Belt** — `ars_nouveau:mundane_belt` · к
+- [ ] **Music Disc** — `ars_nouveau:music_disc_aria_biblio` · н
+- [ ] **Music Disc** — `ars_nouveau:music_disc_firel_the_wild_hunt` · н
+- [ ] **Music Disc** — `ars_nouveau:music_disc_thistle_the_sound_of_glass` · н
+- [ ] **Mycelial Sourcelink** — `ars_nouveau:mycelial_sourcelink` · к
+- [ ] **Mythical Clay** — `ars_nouveau:mythical_clay` · н
+- [ ] **Novice Spell Book** — `ars_nouveau:novice_spell_book` · к
+- [ ] **Orange Magebloom Bed** — `ars_nouveau:orange_sbed` · к
+- [ ] **Augment Arrow: Pierce** — `ars_nouveau:pierce_arrow` · н
+- [ ] **Polished Sourcestone Sconce** — `ars_nouveau:polished_sconce` · к
+- [ ] **Warp Portal** — `ars_nouveau:portal` · н
+- [ ] **Potion Diffuser** — `ars_nouveau:potion_diffuser` · н
+- [ ] **Potion Flask** — `ars_nouveau:potion_flask` · к
+- [ ] **Enchanted Potion Flask: Amplify** — `ars_nouveau:potion_flask_amplify` · к
+- [ ] **Enchanted Potion Flask: Extend Time** — `ars_nouveau:potion_flask_extend_time` · к
+- [ ] **Potion Jar** — `ars_nouveau:potion_jar` · к
+- [ ] **Potion Melder** — `ars_nouveau:potion_melder` · н
+- [ ] **Vexing Archwood Leaves** — `ars_nouveau:purple_archwood_leaves` · н
+- [ ] **Vexing Archwood Log** — `ars_nouveau:purple_archwood_log` · н
+- [ ] **Vexing Archwood Sapling** — `ars_nouveau:purple_archwood_sapling` · к
+- [ ] **Vexing Archwood Wood** — `ars_nouveau:purple_archwood_wood` · к
+- [ ] **Purple Magebloom Bed** — `ars_nouveau:purple_sbed` · к
+- [ ] **Blazing Archwood Leaves** — `ars_nouveau:red_archwood_leaves` · н
+- [ ] **Blazing Archwood Log** — `ars_nouveau:red_archwood_log` · н
+- [ ] **Blazing Archwood Sapling** — `ars_nouveau:red_archwood_sapling` · к
+- [ ] **Blazing Archwood Wood** — `ars_nouveau:red_archwood_wood` · к
+- [ ] **Red Magebloom Bed** — `ars_nouveau:red_sbed` · к
+- [ ] **Redstone Air** — `ars_nouveau:redstone_air` · н
+- [ ] **Redstone Relay** — `ars_nouveau:redstone_relay` · к
+- [ ] **Source Relay** — `ars_nouveau:relay` · к
+- [ ] **Source Relay: Collector** — `ars_nouveau:relay_collector` · н
+- [ ] **Source Relay: Depositor** — `ars_nouveau:relay_deposit` · н
+- [ ] **Source Relay: Splitter** — `ars_nouveau:relay_splitter` · н
+- [ ] **Source Relay: Warper** — `ars_nouveau:relay_warp` · н
+- [ ] **Repository** — `ars_nouveau:repository` · к
+- [ ] **Ring of Amplify** — `ars_nouveau:ring_of_amplify` · н
+- [ ] **Ring of Greater Discount** — `ars_nouveau:ring_of_greater_discount` · н
+- [ ] **Ring of Lesser Discount** — `ars_nouveau:ring_of_lesser_discount` · н
+- [ ] **Ring of Potential** — `ars_nouveau:ring_of_potential` · к
+- [ ] **Summon Animals** — `ars_nouveau:ritual_animal_summon` · к
+- [ ] **Awakening** — `ars_nouveau:ritual_awakening` · к
+- [ ] **Binding** — `ars_nouveau:ritual_binding` · к
+- [ ] **Ritual Brazier** — `ars_nouveau:ritual_brazier` · к
+- [ ] **Burrowing** — `ars_nouveau:ritual_burrowing` · к
+- [ ] **Challenge** — `ars_nouveau:ritual_challenge` · к
+- [ ] **Cloudshaping** — `ars_nouveau:ritual_cloudshaping` · к
+- [ ] **Conjure Island: Desert** — `ars_nouveau:ritual_conjure_island_desert` · к
+- [ ] **Conjure Island: Plains** — `ars_nouveau:ritual_conjure_island_plains` · к
+- [ ] **Containment** — `ars_nouveau:ritual_containment` · к
+- [ ] **Disintegration** — `ars_nouveau:ritual_disintegration` · к
+- [ ] **Fertility** — `ars_nouveau:ritual_fertility` · к
+- [ ] **Flight** — `ars_nouveau:ritual_flight` · к
+- [ ] **Flowering** — `ars_nouveau:ritual_flowering` · к
+- [ ] **Forestation** — `ars_nouveau:ritual_forestation` · к
+- [ ] **Gravity** — `ars_nouveau:ritual_gravity` · к
+- [ ] **Harvest** — `ars_nouveau:ritual_harvest` · к
+- [ ] **Moonfall** — `ars_nouveau:ritual_moonfall` · к
+- [ ] **Overgrowth** — `ars_nouveau:ritual_overgrowth` · к
+- [ ] **Restoration** — `ars_nouveau:ritual_restoration` · к
+- [ ] **Sanctuary** — `ars_nouveau:ritual_sanctuary` · к
+- [ ] **Scrying** — `ars_nouveau:ritual_scrying` · к
+- [ ] **Sunrise** — `ars_nouveau:ritual_sunrise` · к
+- [ ] **Warping** — `ars_nouveau:ritual_warping` · к
+- [ ] **Summon Wilden** — `ars_nouveau:ritual_wilden_summon` · к
+- [ ] **Adjustable Spell Turret** — `ars_nouveau:rotating_spell_turret` · к
+- [ ] **Rune** — `ars_nouveau:rune` · н
+- [ ] **Runic Chalk** — `ars_nouveau:runic_chalk` · к
+- [ ] **Gold Sconce** — `ars_nouveau:sconce` · к
+- [ ] **Scribe's Table** — `ars_nouveau:scribes_table` · к
+- [ ] **Scryer's Scroll** — `ars_nouveau:scryer_scroll` · н
+- [ ] **Scry Crystal** — `ars_nouveau:scryers_crystal` · к
+- [ ] **Scryer's Oculus** — `ars_nouveau:scryers_oculus` · н
+- [ ] **Focus of Block Shaping** — `ars_nouveau:shapers_focus` · н
+- [ ] **Skyweave** — `ars_nouveau:sky_block` · к
+- [ ] **Smooth Gilded Sourcestone: Alternating** — `ars_nouveau:smooth_gilded_sourcestone_alternating` · к
+- [ ] **Smooth Gilded Sourcestone: Alternating Slab** — `ars_nouveau:smooth_gilded_sourcestone_alternating_slab` · к
+- [ ] **Smooth Gilded Sourcestone: Alternating Stairs** — `ars_nouveau:smooth_gilded_sourcestone_alternating_stairs` · к
+- [ ] **Smooth Gilded Sourcestone: Basketweave** — `ars_nouveau:smooth_gilded_sourcestone_basketweave` · к
+- [ ] **Smooth Gilded Sourcestone: Basketweave Slab** — `ars_nouveau:smooth_gilded_sourcestone_basketweave_slab` · к
+- [ ] **Smooth Gilded Sourcestone: Basketweave Stairs** — `ars_nouveau:smooth_gilded_sourcestone_basketweave_stairs` · к
+- [ ] **Smooth Gilded Sourcestone: Large Bricks** — `ars_nouveau:smooth_gilded_sourcestone_large_bricks` · к
+- [ ] **Smooth Gilded Sourcestone: Large Bricks Slab** — `ars_nouveau:smooth_gilded_sourcestone_large_bricks_slab` · к
+- [ ] **Smooth Gilded Sourcestone: Large Bricks Stairs** — `ars_nouveau:smooth_gilded_sourcestone_large_bricks_stairs` · к
+- [ ] **Smooth Gilded Sourcestone: Mosaic** — `ars_nouveau:smooth_gilded_sourcestone_mosaic` · к
+- [ ] **Smooth Gilded Sourcestone: Mosaic Slab** — `ars_nouveau:smooth_gilded_sourcestone_mosaic_slab` · к
+- [ ] **Smooth Gilded Sourcestone: Mosaic Stairs** — `ars_nouveau:smooth_gilded_sourcestone_mosaic_stairs` · к
+- [ ] **Smooth Gilded Sourcestone: Small Bricks** — `ars_nouveau:smooth_gilded_sourcestone_small_bricks` · к
+- [ ] **Smooth Gilded Sourcestone: Small Bricks Slab** — `ars_nouveau:smooth_gilded_sourcestone_small_bricks_slab` · к
+- [ ] **Smooth Gilded Sourcestone: Small Bricks Stairs** — `ars_nouveau:smooth_gilded_sourcestone_small_bricks_stairs` · к
+- [ ] **Smooth Sourcestone** — `ars_nouveau:smooth_sourcestone` · к
+- [ ] **Smooth Sourcestone: Alternating** — `ars_nouveau:smooth_sourcestone_alternating` · к
+- [ ] **Smooth Sourcestone: Alternating Slab** — `ars_nouveau:smooth_sourcestone_alternating_slab` · к
+- [ ] **Smooth Sourcestone: Alternating Stairs** — `ars_nouveau:smooth_sourcestone_alternating_stairs` · к
+- [ ] **Smooth Sourcestone: Basketweave** — `ars_nouveau:smooth_sourcestone_basketweave` · к
+- [ ] **Smooth Sourcestone: Basketweave Slab** — `ars_nouveau:smooth_sourcestone_basketweave_slab` · к
+- [ ] **Smooth Sourcestone: Basketweave Stairs** — `ars_nouveau:smooth_sourcestone_basketweave_stairs` · к
+- [ ] **Smooth Sourcestone: Large Bricks** — `ars_nouveau:smooth_sourcestone_large_bricks` · к
+- [ ] **Smooth Sourcestone: Large Bricks Slab** — `ars_nouveau:smooth_sourcestone_large_bricks_slab` · к
+- [ ] **Smooth Sourcestone: Large Bricks Stairs** — `ars_nouveau:smooth_sourcestone_large_bricks_stairs` · к
+- [ ] **Smooth Sourcestone: Mosaic** — `ars_nouveau:smooth_sourcestone_mosaic` · к
+- [ ] **Smooth Sourcestone: Mosaic Slab** — `ars_nouveau:smooth_sourcestone_mosaic_slab` · к
+- [ ] **Smooth Sourcestone: Mosaic Stairs** — `ars_nouveau:smooth_sourcestone_mosaic_stairs` · к
+- [ ] **Smooth Sourcestone Slab** — `ars_nouveau:smooth_sourcestone_slab` · к
+- [ ] **Smooth Sourcestone: Small Bricks** — `ars_nouveau:smooth_sourcestone_small_bricks` · к
+- [ ] **Smooth Sourcestone: Small Bricks Slab** — `ars_nouveau:smooth_sourcestone_small_bricks_slab` · к
+- [ ] **Smooth Sourcestone: Small Bricks Stairs** — `ars_nouveau:smooth_sourcestone_small_bricks_stairs` · к
+- [ ] **Smooth Sourcestone Stairs** — `ars_nouveau:smooth_sourcestone_stairs` · к
+- [ ] **Sorceror's Footpads** — `ars_nouveau:sorcerer_boots` · к
+- [ ] **Sorceror's Collar** — `ars_nouveau:sorcerer_hood` · к
+- [ ] **Sorceror's Leggings** — `ars_nouveau:sorcerer_leggings` · к
+- [ ] **Sorceror's Wrap** — `ars_nouveau:sorcerer_robes` · к
+- [ ] **Source Berry Pie** — `ars_nouveau:source_berry_pie` · к
+- [ ] **Source Berry Roll** — `ars_nouveau:source_berry_roll` · к
+- [ ] **Source Gem** — `ars_nouveau:source_gem` · к
+- [ ] **Source Gem Block** — `ars_nouveau:source_gem_block` · к
+- [ ] **Source Jar** — `ars_nouveau:source_jar` · к
+- [ ] **Sourceberry** — `ars_nouveau:sourceberry_bush` · к
+- [ ] **Sourceberry Sack** — `ars_nouveau:sourceberry_sack` · к
+- [ ] **Sourcestone** — `ars_nouveau:sourcestone` · к
+- [ ] **Sourcestone: Alternating** — `ars_nouveau:sourcestone_alternating` · к
+- [ ] **Sourcestone: Alternating Slab** — `ars_nouveau:sourcestone_alternating_slab` · к
+- [ ] **Sourcestone: Alternating Stairs** — `ars_nouveau:sourcestone_alternating_stairs` · к
+- [ ] **Sourcestone: Basketweave** — `ars_nouveau:sourcestone_basketweave` · к
+- [ ] **Sourcestone: Basketweave Slab** — `ars_nouveau:sourcestone_basketweave_slab` · к
+- [ ] **Sourcestone: Basketweave Stairs** — `ars_nouveau:sourcestone_basketweave_stairs` · к
+- [ ] **Sourcestone: Large Bricks** — `ars_nouveau:sourcestone_large_bricks` · к
+- [ ] **Sourcestone: Large Bricks Slab** — `ars_nouveau:sourcestone_large_bricks_slab` · к
+- [ ] **Sourcestone: Large Bricks Stairs** — `ars_nouveau:sourcestone_large_bricks_stairs` · к
+- [ ] **Sourcestone: Mosaic** — `ars_nouveau:sourcestone_mosaic` · к
+- [ ] **Sourcestone: Mosaic Slab** — `ars_nouveau:sourcestone_mosaic_slab` · к
+- [ ] **Sourcestone: Mosaic Stairs** — `ars_nouveau:sourcestone_mosaic_stairs` · к
+- [ ] **Sourcestone Sconce** — `ars_nouveau:sourcestone_sconce` · к
+- [ ] **Sourcestone Slab** — `ars_nouveau:sourcestone_slab` · н
+- [ ] **Sourcestone: Small Bricks** — `ars_nouveau:sourcestone_small_bricks` · к
+- [ ] **Sourcestone: Small Bricks Slab** — `ars_nouveau:sourcestone_small_bricks_slab` · к
+- [ ] **Sourcestone: Small Bricks Stairs** — `ars_nouveau:sourcestone_small_bricks_stairs` · к
+- [ ] **Sourcestone Stairs** — `ars_nouveau:sourcestone_stairs` · н
+- [ ] **Enchanter's Bow** — `ars_nouveau:spell_bow` · н
+- [ ] **Enchanter's Crossbow** — `ars_nouveau:spell_crossbow` · н
+- [ ] **Spell Parchment** — `ars_nouveau:spell_parchment` · н
+- [ ] **Spell Prism** — `ars_nouveau:spell_prism` · к
+- [ ] **Spell Sensor** — `ars_nouveau:spell_sensor` · н
+- [ ] **Enchanted Spell Turret** — `ars_nouveau:spell_turret` · н
+- [ ] **Splash Flask Cannon** — `ars_nouveau:splash_flask_cannon` · н
+- [ ] **Augment Arrow: Split** — `ars_nouveau:split_arrow` · н
+- [ ] **Stabilized Warp Scroll** — `ars_nouveau:stable_warp_scroll` · к
+- [ ] **Starbuncle Charm** — `ars_nouveau:starbuncle_charm` · н
+- [ ] **Starbuncle Spawn Egg** — `ars_nouveau:starbuncle_se` · н
+- [ ] **Starbuncle Shades** — `ars_nouveau:starbuncle_shades` · к
+- [ ] **Starbuncle Token** — `ars_nouveau:starbuncle_shards` · к
+- [ ] **Starbuncle Gift** — `ars_nouveau:starby_gift` · н
+- [ ] **Storage Lectern** — `ars_nouveau:storage_lectern` · н
+- [ ] **Stripped Cascading Archwood Log** — `ars_nouveau:stripped_blue_archwood_log` · к
+- [ ] **Stripped Cascading Archwood Wood** — `ars_nouveau:stripped_blue_archwood_wood` · к
+- [ ] **Stripped Flourishing Archwood Log** — `ars_nouveau:stripped_green_archwood_log` · к
+- [ ] **Stripped Flourishing Archwood Wood** — `ars_nouveau:stripped_green_archwood_wood` · к
+- [ ] **Stripped Vexing Archwood Log** — `ars_nouveau:stripped_purple_archwood_log` · к
+- [ ] **Stripped Vexing Archwood Wood** — `ars_nouveau:stripped_purple_archwood_wood` · к
+- [ ] **Stripped Blazing Archwood Log** — `ars_nouveau:stripped_red_archwood_log` · к
+- [ ] **Stripped Blazing Archwood Wood** — `ars_nouveau:stripped_red_archwood_wood` · к
+- [ ] **Focus of Summoning** — `ars_nouveau:summon_focus` · н
+- [ ] **Temporary Magelight** — `ars_nouveau:temporary_light_block` · н
+- [ ] **The Amethyst Golem** — `ars_nouveau:thread_amethyst_golem` · н
+- [ ] **Chilling** — `ars_nouveau:thread_chilling` · н
+- [ ] **Depths** — `ars_nouveau:thread_depths` · н
+- [ ] **The Drygmy** — `ars_nouveau:thread_drygmy` · н
+- [ ] **Feather** — `ars_nouveau:thread_feather` · н
+- [ ] **Gliding** — `ars_nouveau:thread_gliding` · н
+- [ ] **Heights** — `ars_nouveau:thread_heights` · н
+- [ ] **High Step** — `ars_nouveau:thread_high_step` · н
+- [ ] **Immolation** — `ars_nouveau:thread_immolation` · н
+- [ ] **Kindling** — `ars_nouveau:thread_kindling` · н
+- [ ] **Life Drain** — `ars_nouveau:thread_life_drain` · н
+- [ ] **Magic Capacity** — `ars_nouveau:thread_magic_capacity` · н
+- [ ] **Repairing** — `ars_nouveau:thread_repairing` · н
+- [ ] **Spell Power** — `ars_nouveau:thread_spellpower` · н
+- [ ] **The Starbuncle** — `ars_nouveau:thread_starbuncle` · н
+- [ ] **Undying** — `ars_nouveau:thread_undying` · н
+- [ ] **Warding** — `ars_nouveau:thread_warding` · н
+- [ ] **The Whirlisprig** — `ars_nouveau:thread_whirlisprig` · н
+- [ ] **The Wixie** — `ars_nouveau:thread_wixie` · н
+- [ ] **Timer Spell Turret** — `ars_nouveau:timer_spell_turret` · н
+- [ ] **Vitalic Sourcelink** — `ars_nouveau:vitalic_sourcelink` · к
+- [ ] **Jar of Voiding** — `ars_nouveau:void_jar` · н
+- [ ] **Void Prism** — `ars_nouveau:void_prism` · к
+- [ ] **Volcanic Sourcelink** — `ars_nouveau:volcanic_sourcelink` · к
+- [ ] **Enchanter's Wand** — `ars_nouveau:wand` · н
+- [ ] **Warding Stone** — `ars_nouveau:warding_stone` · н
+- [ ] **Warp Scroll** — `ars_nouveau:warp_scroll` · к
+- [ ] **Water Essence** — `ars_nouveau:water_essence` · н
+- [ ] **Whirlisprig Charm** — `ars_nouveau:whirlisprig_charm` · н
+- [ ] **Whirlisprig Blossom** — `ars_nouveau:whirlisprig_flower` · н
+- [ ] **Whirlisprig Spawn Egg** — `ars_nouveau:whirlisprig_se` · н
+- [ ] **Whirlisprig Token** — `ars_nouveau:whirlisprig_shards` · н
+- [ ] **Wilden Guardian Spawn Egg** — `ars_nouveau:wilden_guardian_se` · н
+- [ ] **Wilden Horn** — `ars_nouveau:wilden_horn` · н
+- [ ] **Wilden Hunter Spawn Egg** — `ars_nouveau:wilden_hunter_se` · н
+- [ ] **Wilden Spike** — `ars_nouveau:wilden_spike` · н
+- [ ] **Wilden Stalker Spawn Egg** — `ars_nouveau:wilden_stalker_se` · н
+- [ ] **Wilden Tribute** — `ars_nouveau:wilden_tribute` · н
+- [ ] **Wilden Wing** — `ars_nouveau:wilden_wing` · н
+- [ ] **Wixie Cauldron** — `ars_nouveau:wixie_cauldron` · н
+- [ ] **Wixie Charm** — `ars_nouveau:wixie_charm` · н
+- [ ] **Wixie Hat** — `ars_nouveau:wixie_hat` · к
+- [ ] **Wixie Token** — `ars_nouveau:wixie_shards` · н
+- [ ] **Worn Notebook** — `ars_nouveau:worn_notebook` · к
+- [ ] **Yellow Magebloom Bed** — `ars_nouveau:yellow_sbed` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

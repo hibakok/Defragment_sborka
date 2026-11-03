@@ -1,0 +1,485 @@
+# Музей: Create (create)
+
+Предметов: 671 · крафтимых по данным: 568 (84%) · файлов: 2
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 1 из 2
+
+*В части: 470 предметов.*
+
+- [ ] **Acacia Window** — `create:acacia_window` · к
+- [ ] **Acacia Window Pane** — `create:acacia_window_pane` · к
+- [ ] **Adjustable Chain Gearshift** — `create:adjustable_chain_gearshift` · к
+- [ ] **Analog Lever** — `create:analog_lever` · к
+- [ ] **Andesite Alloy** — `create:andesite_alloy` · к
+- [ ] **Block of Andesite Alloy** — `create:andesite_alloy_block` · к
+- [ ] **Andesite Bars** — `create:andesite_bars` · к
+- [ ] **Andesite Belt Funnel** — `create:andesite_belt_funnel` · н
+- [ ] **Andesite Casing** — `create:andesite_casing` · к
+- [ ] **Andesite Door** — `create:andesite_door` · к
+- [ ] **Andesite Encased Cogwheel** — `create:andesite_encased_cogwheel` · н
+- [ ] **Andesite Encased Large Cogwheel** — `create:andesite_encased_large_cogwheel` · н
+- [ ] **Andesite Encased Shaft** — `create:andesite_encased_shaft` · н
+- [ ] **Andesite Funnel** — `create:andesite_funnel` · к
+- [ ] **Andesite Ladder** — `create:andesite_ladder` · к
+- [ ] **Andesite Pillar** — `create:andesite_pillar` · к
+- [ ] **Andesite Scaffolding** — `create:andesite_scaffolding` · к
+- [ ] **Andesite Tunnel** — `create:andesite_tunnel` · к
+- [ ] **Asurine** — `create:asurine` · к
+- [ ] **Asurine Pillar** — `create:asurine_pillar` · к
+- [ ] **Attribute Filter** — `create:attribute_filter` · к
+- [ ] **Bar of Chocolate** — `create:bar_of_chocolate` · к
+- [ ] **Basin** — `create:basin` · к
+- [ ] **Belt** — `create:belt` · н
+- [ ] **Mechanical Belt** — `create:belt_connector` · к
+- [ ] **Birch Window** — `create:birch_window` · к
+- [ ] **Birch Window Pane** — `create:birch_window_pane` · к
+- [ ] **Black Nixie Tube** — `create:black_nixie_tube` · н
+- [ ] **Black Sail** — `create:black_sail` · н
+- [ ] **Black Seat** — `create:black_seat` · к
+- [ ] **Black Toolbox** — `create:black_toolbox` · н
+- [ ] **Black Valve Handle** — `create:black_valve_handle` · к
+- [ ] **Blaze Burner** — `create:blaze_burner` · н
+- [ ] **Blaze Cake** — `create:blaze_cake` · к
+- [ ] **Blaze Cake Base** — `create:blaze_cake_base` · к
+- [ ] **Blue Nixie Tube** — `create:blue_nixie_tube` · н
+- [ ] **Blue Sail** — `create:blue_sail` · н
+- [ ] **Blue Seat** — `create:blue_seat` · к
+- [ ] **Blue Toolbox** — `create:blue_toolbox` · н
+- [ ] **Blue Valve Handle** — `create:blue_valve_handle` · к
+- [ ] **Brass Bars** — `create:brass_bars` · к
+- [ ] **Brass Belt Funnel** — `create:brass_belt_funnel` · н
+- [ ] **Block of Brass** — `create:brass_block` · к
+- [ ] **Brass Casing** — `create:brass_casing` · к
+- [ ] **Brass Door** — `create:brass_door` · к
+- [ ] **Brass Encased Cogwheel** — `create:brass_encased_cogwheel` · н
+- [ ] **Brass Encased Large Cogwheel** — `create:brass_encased_large_cogwheel` · н
+- [ ] **Brass Encased Shaft** — `create:brass_encased_shaft` · н
+- [ ] **Brass Funnel** — `create:brass_funnel` · к
+- [ ] **Brass Hand** — `create:brass_hand` · к
+- [ ] **Brass Ingot** — `create:brass_ingot` · к
+- [ ] **Brass Ladder** — `create:brass_ladder` · к
+- [ ] **Brass Nugget** — `create:brass_nugget` · к
+- [ ] **Brass Scaffolding** — `create:brass_scaffolding` · к
+- [ ] **Brass Sheet** — `create:brass_sheet` · к
+- [ ] **Brass Tunnel** — `create:brass_tunnel` · к
+- [ ] **Brown Nixie Tube** — `create:brown_nixie_tube` · н
+- [ ] **Brown Sail** — `create:brown_sail` · н
+- [ ] **Brown Seat** — `create:brown_seat` · к
+- [ ] **Brown Toolbox** — `create:brown_toolbox` · к
+- [ ] **Brown Valve Handle** — `create:brown_valve_handle` · к
+- [ ] **Builder's Tea** — `create:builders_tea` · к
+- [ ] **Calcite Pillar** — `create:calcite_pillar` · к
+- [ ] **Cart Assembler** — `create:cart_assembler` · к
+- [ ] **Chest Minecart Contraption** — `create:chest_minecart_contraption` · н
+- [ ] **Chocolate** — `create:chocolate` · н
+- [ ] **Chocolate Bucket** — `create:chocolate_bucket` · н
+- [ ] **Chocolate Glazed Berries** — `create:chocolate_glazed_berries` · к
+- [ ] **Chromatic Compound** — `create:chromatic_compound` · н
+- [ ] **Chute** — `create:chute` · к
+- [ ] **Cinder Flour** — `create:cinder_flour` · к
+- [ ] **Clipboard** — `create:clipboard` · к
+- [ ] **Clockwork Bearing** — `create:clockwork_bearing` · к
+- [ ] **Clutch** — `create:clutch` · к
+- [ ] **Cogwheel** — `create:cogwheel` · к
+- [ ] **Smart Observer** — `create:content_observer` · к
+- [ ] **Contraption Controls** — `create:contraption_controls` · к
+- [ ] **Controller Rail** — `create:controller_rail` · к
+- [ ] **Train Controls** — `create:controls` · к
+- [ ] **Copper Backtank** — `create:copper_backtank` · к
+- [ ] **Copper Backtank Placeable** — `create:copper_backtank_placeable` · н
+- [ ] **Copper Bars** — `create:copper_bars` · к
+- [ ] **Copper Casing** — `create:copper_casing` · к
+- [ ] **Copper Diving Boots** — `create:copper_diving_boots` · к
+- [ ] **Copper Diving Helmet** — `create:copper_diving_helmet` · к
+- [ ] **Copper Door** — `create:copper_door` · к
+- [ ] **Copper Ladder** — `create:copper_ladder` · к
+- [ ] **Copper Nugget** — `create:copper_nugget` · к
+- [ ] **Copper Scaffolding** — `create:copper_scaffolding` · к
+- [ ] **Copper Sheet** — `create:copper_sheet` · к
+- [ ] **Copper Shingle Slab** — `create:copper_shingle_slab` · к
+- [ ] **Copper Shingle Stairs** — `create:copper_shingle_stairs` · к
+- [ ] **Copper Shingles** — `create:copper_shingles` · к
+- [ ] **Copper Tile Slab** — `create:copper_tile_slab` · к
+- [ ] **Copper Tile Stairs** — `create:copper_tile_stairs` · к
+- [ ] **Copper Tiles** — `create:copper_tiles` · к
+- [ ] **Copper Valve Handle** — `create:copper_valve_handle` · к
+- [ ] **Copycat Bars** — `create:copycat_bars` · н
+- [ ] **Copycat Base** — `create:copycat_base` · н
+- [ ] **Copycat Panel** — `create:copycat_panel` · к
+- [ ] **Copycat Step** — `create:copycat_step` · к
+- [ ] **Crafter Slot Cover** — `create:crafter_slot_cover` · к
+- [ ] **Crafting Blueprint** — `create:crafting_blueprint` · к
+- [ ] **Creative Blaze Cake** — `create:creative_blaze_cake` · н
+- [ ] **Creative Crate** — `create:creative_crate` · н
+- [ ] **Creative Fluid Tank** — `create:creative_fluid_tank` · н
+- [ ] **Creative Motor** — `create:creative_motor` · н
+- [ ] **Crimsite** — `create:crimsite` · к
+- [ ] **Crimsite Pillar** — `create:crimsite_pillar` · к
+- [ ] **Crimson Window** — `create:crimson_window` · к
+- [ ] **Crimson Window Pane** — `create:crimson_window_pane` · к
+- [ ] **Crushed Raw Aluminum** — `create:crushed_raw_aluminum` · к
+- [ ] **Crushed Raw Copper** — `create:crushed_raw_copper` · к
+- [ ] **Crushed Raw Gold** — `create:crushed_raw_gold` · к
+- [ ] **Crushed Raw Iron** — `create:crushed_raw_iron` · к
+- [ ] **Crushed Raw Lead** — `create:crushed_raw_lead` · к
+- [ ] **Crushed Raw Nickel** — `create:crushed_raw_nickel` · к
+- [ ] **Crushed Raw Osmium** — `create:crushed_raw_osmium` · к
+- [ ] **Crushed Raw Platinum** — `create:crushed_raw_platinum` · к
+- [ ] **Crushed Raw Quicksilver** — `create:crushed_raw_quicksilver` · к
+- [ ] **Crushed Raw Silver** — `create:crushed_raw_silver` · к
+- [ ] **Crushed Raw Tin** — `create:crushed_raw_tin` · к
+- [ ] **Crushed Raw Uranium** — `create:crushed_raw_uranium` · к
+- [ ] **Crushed Raw Zinc** — `create:crushed_raw_zinc` · к
+- [ ] **Crushing Wheel** — `create:crushing_wheel` · к
+- [ ] **Crushing Wheel Controller** — `create:crushing_wheel_controller` · н
+- [ ] **Cuckoo Clock** — `create:cuckoo_clock` · к
+- [ ] **Cut Andesite** — `create:cut_andesite` · к
+- [ ] **Cut Andesite Brick Slab** — `create:cut_andesite_brick_slab` · к
+- [ ] **Cut Andesite Brick Stairs** — `create:cut_andesite_brick_stairs` · к
+- [ ] **Cut Andesite Brick Wall** — `create:cut_andesite_brick_wall` · к
+- [ ] **Cut Andesite Bricks** — `create:cut_andesite_bricks` · к
+- [ ] **Cut Andesite Slab** — `create:cut_andesite_slab` · к
+- [ ] **Cut Andesite Stairs** — `create:cut_andesite_stairs` · к
+- [ ] **Cut Andesite Wall** — `create:cut_andesite_wall` · к
+- [ ] **Cut Asurine** — `create:cut_asurine` · к
+- [ ] **Cut Asurine Brick Slab** — `create:cut_asurine_brick_slab` · к
+- [ ] **Cut Asurine Brick Stairs** — `create:cut_asurine_brick_stairs` · к
+- [ ] **Cut Asurine Brick Wall** — `create:cut_asurine_brick_wall` · к
+- [ ] **Cut Asurine Bricks** — `create:cut_asurine_bricks` · к
+- [ ] **Cut Asurine Slab** — `create:cut_asurine_slab` · к
+- [ ] **Cut Asurine Stairs** — `create:cut_asurine_stairs` · к
+- [ ] **Cut Asurine Wall** — `create:cut_asurine_wall` · к
+- [ ] **Cut Calcite** — `create:cut_calcite` · к
+- [ ] **Cut Calcite Brick Slab** — `create:cut_calcite_brick_slab` · к
+- [ ] **Cut Calcite Brick Stairs** — `create:cut_calcite_brick_stairs` · к
+- [ ] **Cut Calcite Brick Wall** — `create:cut_calcite_brick_wall` · к
+- [ ] **Cut Calcite Bricks** — `create:cut_calcite_bricks` · к
+- [ ] **Cut Calcite Slab** — `create:cut_calcite_slab` · к
+- [ ] **Cut Calcite Stairs** — `create:cut_calcite_stairs` · к
+- [ ] **Cut Calcite Wall** — `create:cut_calcite_wall` · к
+- [ ] **Cut Crimsite** — `create:cut_crimsite` · к
+- [ ] **Cut Crimsite Brick Slab** — `create:cut_crimsite_brick_slab` · к
+- [ ] **Cut Crimsite Brick Stairs** — `create:cut_crimsite_brick_stairs` · к
+- [ ] **Cut Crimsite Brick Wall** — `create:cut_crimsite_brick_wall` · к
+- [ ] **Cut Crimsite Bricks** — `create:cut_crimsite_bricks` · к
+- [ ] **Cut Crimsite Slab** — `create:cut_crimsite_slab` · к
+- [ ] **Cut Crimsite Stairs** — `create:cut_crimsite_stairs` · к
+- [ ] **Cut Crimsite Wall** — `create:cut_crimsite_wall` · к
+- [ ] **Cut Deepslate** — `create:cut_deepslate` · к
+- [ ] **Cut Deepslate Brick Slab** — `create:cut_deepslate_brick_slab` · к
+- [ ] **Cut Deepslate Brick Stairs** — `create:cut_deepslate_brick_stairs` · к
+- [ ] **Cut Deepslate Brick Wall** — `create:cut_deepslate_brick_wall` · к
+- [ ] **Cut Deepslate Bricks** — `create:cut_deepslate_bricks` · к
+- [ ] **Cut Deepslate Slab** — `create:cut_deepslate_slab` · к
+- [ ] **Cut Deepslate Stairs** — `create:cut_deepslate_stairs` · к
+- [ ] **Cut Deepslate Wall** — `create:cut_deepslate_wall` · к
+- [ ] **Cut Diorite** — `create:cut_diorite` · к
+- [ ] **Cut Diorite Brick Slab** — `create:cut_diorite_brick_slab` · к
+- [ ] **Cut Diorite Brick Stairs** — `create:cut_diorite_brick_stairs` · к
+- [ ] **Cut Diorite Brick Wall** — `create:cut_diorite_brick_wall` · к
+- [ ] **Cut Diorite Bricks** — `create:cut_diorite_bricks` · к
+- [ ] **Cut Diorite Slab** — `create:cut_diorite_slab` · к
+- [ ] **Cut Diorite Stairs** — `create:cut_diorite_stairs` · к
+- [ ] **Cut Diorite Wall** — `create:cut_diorite_wall` · к
+- [ ] **Cut Dripstone** — `create:cut_dripstone` · к
+- [ ] **Cut Dripstone Brick Slab** — `create:cut_dripstone_brick_slab` · к
+- [ ] **Cut Dripstone Brick Stairs** — `create:cut_dripstone_brick_stairs` · к
+- [ ] **Cut Dripstone Brick Wall** — `create:cut_dripstone_brick_wall` · к
+- [ ] **Cut Dripstone Bricks** — `create:cut_dripstone_bricks` · к
+- [ ] **Cut Dripstone Slab** — `create:cut_dripstone_slab` · к
+- [ ] **Cut Dripstone Stairs** — `create:cut_dripstone_stairs` · к
+- [ ] **Cut Dripstone Wall** — `create:cut_dripstone_wall` · к
+- [ ] **Cut Granite** — `create:cut_granite` · к
+- [ ] **Cut Granite Brick Slab** — `create:cut_granite_brick_slab` · к
+- [ ] **Cut Granite Brick Stairs** — `create:cut_granite_brick_stairs` · к
+- [ ] **Cut Granite Brick Wall** — `create:cut_granite_brick_wall` · к
+- [ ] **Cut Granite Bricks** — `create:cut_granite_bricks` · к
+- [ ] **Cut Granite Slab** — `create:cut_granite_slab` · к
+- [ ] **Cut Granite Stairs** — `create:cut_granite_stairs` · к
+- [ ] **Cut Granite Wall** — `create:cut_granite_wall` · к
+- [ ] **Cut Limestone** — `create:cut_limestone` · к
+- [ ] **Cut Limestone Brick Slab** — `create:cut_limestone_brick_slab` · к
+- [ ] **Cut Limestone Brick Stairs** — `create:cut_limestone_brick_stairs` · к
+- [ ] **Cut Limestone Brick Wall** — `create:cut_limestone_brick_wall` · к
+- [ ] **Cut Limestone Bricks** — `create:cut_limestone_bricks` · к
+- [ ] **Cut Limestone Slab** — `create:cut_limestone_slab` · к
+- [ ] **Cut Limestone Stairs** — `create:cut_limestone_stairs` · к
+- [ ] **Cut Limestone Wall** — `create:cut_limestone_wall` · к
+- [ ] **Cut Ochrum** — `create:cut_ochrum` · к
+- [ ] **Cut Ochrum Brick Slab** — `create:cut_ochrum_brick_slab` · к
+- [ ] **Cut Ochrum Brick Stairs** — `create:cut_ochrum_brick_stairs` · к
+- [ ] **Cut Ochrum Brick Wall** — `create:cut_ochrum_brick_wall` · к
+- [ ] **Cut Ochrum Bricks** — `create:cut_ochrum_bricks` · к
+- [ ] **Cut Ochrum Slab** — `create:cut_ochrum_slab` · к
+- [ ] **Cut Ochrum Stairs** — `create:cut_ochrum_stairs` · к
+- [ ] **Cut Ochrum Wall** — `create:cut_ochrum_wall` · к
+- [ ] **Cut Scorchia** — `create:cut_scorchia` · к
+- [ ] **Cut Scorchia Brick Slab** — `create:cut_scorchia_brick_slab` · к
+- [ ] **Cut Scorchia Brick Stairs** — `create:cut_scorchia_brick_stairs` · к
+- [ ] **Cut Scorchia Brick Wall** — `create:cut_scorchia_brick_wall` · к
+- [ ] **Cut Scorchia Bricks** — `create:cut_scorchia_bricks` · к
+- [ ] **Cut Scorchia Slab** — `create:cut_scorchia_slab` · к
+- [ ] **Cut Scorchia Stairs** — `create:cut_scorchia_stairs` · к
+- [ ] **Cut Scorchia Wall** — `create:cut_scorchia_wall` · к
+- [ ] **Cut Scoria** — `create:cut_scoria` · к
+- [ ] **Cut Scoria Brick Slab** — `create:cut_scoria_brick_slab` · к
+- [ ] **Cut Scoria Brick Stairs** — `create:cut_scoria_brick_stairs` · к
+- [ ] **Cut Scoria Brick Wall** — `create:cut_scoria_brick_wall` · к
+- [ ] **Cut Scoria Bricks** — `create:cut_scoria_bricks` · к
+- [ ] **Cut Scoria Slab** — `create:cut_scoria_slab` · к
+- [ ] **Cut Scoria Stairs** — `create:cut_scoria_stairs` · к
+- [ ] **Cut Scoria Wall** — `create:cut_scoria_wall` · к
+- [ ] **Cut Tuff** — `create:cut_tuff` · к
+- [ ] **Cut Tuff Brick Slab** — `create:cut_tuff_brick_slab` · к
+- [ ] **Cut Tuff Brick Stairs** — `create:cut_tuff_brick_stairs` · к
+- [ ] **Cut Tuff Brick Wall** — `create:cut_tuff_brick_wall` · к
+- [ ] **Cut Tuff Bricks** — `create:cut_tuff_bricks` · к
+- [ ] **Cut Tuff Slab** — `create:cut_tuff_slab` · к
+- [ ] **Cut Tuff Stairs** — `create:cut_tuff_stairs` · к
+- [ ] **Cut Tuff Wall** — `create:cut_tuff_wall` · к
+- [ ] **Cut Veridium** — `create:cut_veridium` · к
+- [ ] **Cut Veridium Brick Slab** — `create:cut_veridium_brick_slab` · к
+- [ ] **Cut Veridium Brick Stairs** — `create:cut_veridium_brick_stairs` · к
+- [ ] **Cut Veridium Brick Wall** — `create:cut_veridium_brick_wall` · к
+- [ ] **Cut Veridium Bricks** — `create:cut_veridium_bricks` · к
+- [ ] **Cut Veridium Slab** — `create:cut_veridium_slab` · к
+- [ ] **Cut Veridium Stairs** — `create:cut_veridium_stairs` · к
+- [ ] **Cut Veridium Wall** — `create:cut_veridium_wall` · к
+- [ ] **Cyan Nixie Tube** — `create:cyan_nixie_tube` · н
+- [ ] **Cyan Sail** — `create:cyan_sail` · н
+- [ ] **Cyan Seat** — `create:cyan_seat` · к
+- [ ] **Cyan Toolbox** — `create:cyan_toolbox` · н
+- [ ] **Cyan Valve Handle** — `create:cyan_valve_handle` · к
+- [ ] **Dark Oak Window** — `create:dark_oak_window` · к
+- [ ] **Dark Oak Window Pane** — `create:dark_oak_window_pane` · к
+- [ ] **Deepslate Pillar** — `create:deepslate_pillar` · к
+- [ ] **Deepslate Zinc Ore** — `create:deepslate_zinc_ore` · н
+- [ ] **Deployer** — `create:deployer` · к
+- [ ] **Depot** — `create:depot` · к
+- [ ] **Diorite Pillar** — `create:diorite_pillar` · к
+- [ ] **Display Board** — `create:display_board` · к
+- [ ] **Display Link** — `create:display_link` · к
+- [ ] **Dough** — `create:dough` · к
+- [ ] **Dripstone Pillar** — `create:dripstone_pillar` · к
+- [ ] **Electron Tube** — `create:electron_tube` · к
+- [ ] **Elevator Contact** — `create:elevator_contact` · н
+- [ ] **Elevator Pulley** — `create:elevator_pulley` · к
+- [ ] **Empty Blaze Burner** — `create:empty_blaze_burner` · к
+- [ ] **Empty Schematic** — `create:empty_schematic` · к
+- [ ] **Encased Chain Drive** — `create:encased_chain_drive` · к
+- [ ] **Encased Fan** — `create:encased_fan` · к
+- [ ] **Encased Fluid Pipe** — `create:encased_fluid_pipe` · н
+- [ ] **Block of Experience** — `create:experience_block` · к
+- [ ] **Nugget of Experience** — `create:experience_nugget` · к
+- [ ] **Exposed Copper Shingle Slab** — `create:exposed_copper_shingle_slab` · к
+- [ ] **Exposed Copper Shingle Stairs** — `create:exposed_copper_shingle_stairs` · к
+- [ ] **Exposed Copper Shingles** — `create:exposed_copper_shingles` · к
+- [ ] **Exposed Copper Tile Slab** — `create:exposed_copper_tile_slab` · к
+- [ ] **Exposed Copper Tile Stairs** — `create:exposed_copper_tile_stairs` · к
+- [ ] **Exposed Copper Tiles** — `create:exposed_copper_tiles` · н
+- [ ] **Extendo Grip** — `create:extendo_grip` · к
+- [ ] **Track Marker for Maps** — `create:fake_track` · н
+- [ ] **List Filter** — `create:filter` · к
+- [ ] **Fluid Pipe** — `create:fluid_pipe` · к
+- [ ] **Fluid Tank** — `create:fluid_tank` · к
+- [ ] **Fluid Valve** — `create:fluid_valve` · к
+- [ ] **Flywheel** — `create:flywheel` · к
+- [ ] **Framed Glass** — `create:framed_glass` · к
+- [ ] **Framed Glass Door** — `create:framed_glass_door` · к
+- [ ] **Framed Glass Pane** — `create:framed_glass_pane` · к
+- [ ] **Framed Glass Trapdoor** — `create:framed_glass_trapdoor` · к
+- [ ] **Furnace Minecart Contraption** — `create:furnace_minecart_contraption` · н
+- [ ] **Gantry Carriage** — `create:gantry_carriage` · к
+- [ ] **Gantry Shaft** — `create:gantry_shaft` · к
+- [ ] **Gearbox** — `create:gearbox` · к
+- [ ] **Gearshift** — `create:gearshift` · к
+- [ ] **Glass Fluid Pipe** — `create:glass_fluid_pipe` · н
+- [ ] **Engineer's Goggles** — `create:goggles` · к
+- [ ] **Golden Sheet** — `create:golden_sheet` · к
+- [ ] **Granite Pillar** — `create:granite_pillar` · к
+- [ ] **Gray Nixie Tube** — `create:gray_nixie_tube` · н
+- [ ] **Gray Sail** — `create:gray_sail` · н
+- [ ] **Gray Seat** — `create:gray_seat` · к
+- [ ] **Gray Toolbox** — `create:gray_toolbox` · н
+- [ ] **Gray Valve Handle** — `create:gray_valve_handle` · к
+- [ ] **Green Nixie Tube** — `create:green_nixie_tube` · н
+- [ ] **Green Sail** — `create:green_sail` · н
+- [ ] **Green Seat** — `create:green_seat` · к
+- [ ] **Green Toolbox** — `create:green_toolbox` · н
+- [ ] **Green Valve Handle** — `create:green_valve_handle` · к
+- [ ] **Hand Crank** — `create:hand_crank` · к
+- [ ] **Creative Worldshaper** — `create:handheld_worldshaper` · н
+- [ ] **Haunted Bell** — `create:haunted_bell` · к
+- [ ] **Honey** — `create:honey` · н
+- [ ] **Honey Bucket** — `create:honey_bucket` · н
+- [ ] **Honeyed Apple** — `create:honeyed_apple` · к
+- [ ] **Horizontal Framed Glass** — `create:horizontal_framed_glass` · к
+- [ ] **Horizontal Framed Glass Pane** — `create:horizontal_framed_glass_pane` · к
+- [ ] **Hose Pulley** — `create:hose_pulley` · к
+- [ ] **Incomplete Precision Mechanism** — `create:incomplete_precision_mechanism` · н
+- [ ] **Incomplete Track** — `create:incomplete_track` · н
+- [ ] **Block of Industrial Iron** — `create:industrial_iron_block` · к
+- [ ] **Iron Sheet** — `create:iron_sheet` · к
+- [ ] **Item Drain** — `create:item_drain` · к
+- [ ] **Item Vault** — `create:item_vault` · к
+- [ ] **Jungle Window** — `create:jungle_window` · к
+- [ ] **Jungle Window Pane** — `create:jungle_window_pane` · к
+- [ ] **Large Bogey** — `create:large_bogey` · н
+- [ ] **Large Cogwheel** — `create:large_cogwheel` · к
+- [ ] **Large Water Wheel** — `create:large_water_wheel` · к
+- [ ] **Layered Andesite** — `create:layered_andesite` · к
+- [ ] **Layered Asurine** — `create:layered_asurine` · к
+- [ ] **Layered Calcite** — `create:layered_calcite` · к
+- [ ] **Layered Crimsite** — `create:layered_crimsite` · к
+- [ ] **Layered Deepslate** — `create:layered_deepslate` · к
+- [ ] **Layered Diorite** — `create:layered_diorite` · к
+- [ ] **Layered Dripstone** — `create:layered_dripstone` · к
+- [ ] **Layered Granite** — `create:layered_granite` · к
+- [ ] **Layered Limestone** — `create:layered_limestone` · к
+- [ ] **Layered Ochrum** — `create:layered_ochrum` · к
+- [ ] **Layered Scorchia** — `create:layered_scorchia` · к
+- [ ] **Layered Scoria** — `create:layered_scoria` · к
+- [ ] **Layered Tuff** — `create:layered_tuff` · к
+- [ ] **Layered Veridium** — `create:layered_veridium` · к
+- [ ] **Lectern Controller** — `create:lectern_controller` · н
+- [ ] **Light Blue Nixie Tube** — `create:light_blue_nixie_tube` · н
+- [ ] **Light Blue Sail** — `create:light_blue_sail` · н
+- [ ] **Light Blue Seat** — `create:light_blue_seat` · к
+- [ ] **Light Blue Toolbox** — `create:light_blue_toolbox` · н
+- [ ] **Light Blue Valve Handle** — `create:light_blue_valve_handle` · к
+- [ ] **Light Gray Nixie Tube** — `create:light_gray_nixie_tube` · н
+- [ ] **Light Gray Sail** — `create:light_gray_sail` · н
+- [ ] **Light Gray Seat** — `create:light_gray_seat` · к
+- [ ] **Light Gray Toolbox** — `create:light_gray_toolbox` · н
+- [ ] **Light Gray Valve Handle** — `create:light_gray_valve_handle` · к
+- [ ] **Lime Nixie Tube** — `create:lime_nixie_tube` · н
+- [ ] **Lime Sail** — `create:lime_sail` · н
+- [ ] **Lime Seat** — `create:lime_seat` · к
+- [ ] **Lime Toolbox** — `create:lime_toolbox` · н
+- [ ] **Lime Valve Handle** — `create:lime_valve_handle` · к
+- [ ] **Limestone** — `create:limestone` · к
+- [ ] **Limestone Pillar** — `create:limestone_pillar` · к
+- [ ] **Linear Chassis** — `create:linear_chassis` · к
+- [ ] **Linked Controller** — `create:linked_controller` · к
+- [ ] **Lit Blaze Burner** — `create:lit_blaze_burner` · н
+- [ ] **Magenta Nixie Tube** — `create:magenta_nixie_tube` · н
+- [ ] **Magenta Sail** — `create:magenta_sail` · н
+- [ ] **Magenta Seat** — `create:magenta_seat` · к
+- [ ] **Magenta Toolbox** — `create:magenta_toolbox` · н
+- [ ] **Magenta Valve Handle** — `create:magenta_valve_handle` · к
+- [ ] **Mangrove Window** — `create:mangrove_window` · к
+- [ ] **Mangrove Window Pane** — `create:mangrove_window_pane` · к
+- [ ] **Mechanical Arm** — `create:mechanical_arm` · к
+- [ ] **Mechanical Bearing** — `create:mechanical_bearing` · к
+- [ ] **Mechanical Crafter** — `create:mechanical_crafter` · к
+- [ ] **Mechanical Drill** — `create:mechanical_drill` · к
+- [ ] **Mechanical Harvester** — `create:mechanical_harvester` · к
+- [ ] **Mechanical Mixer** — `create:mechanical_mixer` · к
+- [ ] **Mechanical Piston** — `create:mechanical_piston` · к
+- [ ] **Mechanical Piston Head** — `create:mechanical_piston_head` · н
+- [ ] **Mechanical Plough** — `create:mechanical_plough` · к
+- [ ] **Mechanical Press** — `create:mechanical_press` · к
+- [ ] **Mechanical Pump** — `create:mechanical_pump` · к
+- [ ] **Mechanical Roller** — `create:mechanical_roller` · к
+- [ ] **Mechanical Saw** — `create:mechanical_saw` · к
+- [ ] **Metal Bracket** — `create:metal_bracket` · к
+- [ ] **Metal Girder** — `create:metal_girder` · к
+- [ ] **Metal Girder Encased Shaft** — `create:metal_girder_encased_shaft` · н
+- [ ] **Millstone** — `create:millstone` · к
+- [ ] **Minecart Anchor** — `create:minecart_anchor` · н
+- [ ] **Minecart Contraption** — `create:minecart_contraption` · н
+- [ ] **Minecart Coupling** — `create:minecart_coupling` · к
+- [ ] **Cuckoo Clock** — `create:mysterious_cuckoo_clock` · к
+- [ ] **Netherite Backtank** — `create:netherite_backtank` · к
+- [ ] **Netherite Backtank Placeable** — `create:netherite_backtank_placeable` · н
+- [ ] **Netherite Diving Boots** — `create:netherite_diving_boots` · к
+- [ ] **Netherite Diving Helmet** — `create:netherite_diving_helmet` · к
+- [ ] **Nixie Tube** — `create:nixie_tube` · к
+- [ ] **Nozzle** — `create:nozzle` · к
+- [ ] **Oak Window** — `create:oak_window` · к
+- [ ] **Oak Window Pane** — `create:oak_window_pane` · к
+- [ ] **Ochrum** — `create:ochrum` · к
+- [ ] **Ochrum Pillar** — `create:ochrum_pillar` · к
+- [ ] **Orange Sail** — `create:orange_sail` · н
+- [ ] **Orange Seat** — `create:orange_seat` · к
+- [ ] **Orange Toolbox** — `create:orange_toolbox` · н
+- [ ] **Orange Valve Handle** — `create:orange_valve_handle` · к
+- [ ] **Ornate Iron Window** — `create:ornate_iron_window` · к
+- [ ] **Ornate Iron Window Pane** — `create:ornate_iron_window_pane` · к
+- [ ] **Oxidized Copper Shingle Slab** — `create:oxidized_copper_shingle_slab` · к
+- [ ] **Oxidized Copper Shingle Stairs** — `create:oxidized_copper_shingle_stairs` · к
+- [ ] **Oxidized Copper Shingles** — `create:oxidized_copper_shingles` · н
+- [ ] **Oxidized Copper Tile Slab** — `create:oxidized_copper_tile_slab` · к
+- [ ] **Oxidized Copper Tile Stairs** — `create:oxidized_copper_tile_stairs` · к
+- [ ] **Oxidized Copper Tiles** — `create:oxidized_copper_tiles` · н
+- [ ] **Peculiar Bell** — `create:peculiar_bell` · к
+- [ ] **Pink Nixie Tube** — `create:pink_nixie_tube` · н
+- [ ] **Pink Sail** — `create:pink_sail` · н
+- [ ] **Pink Seat** — `create:pink_seat` · к
+- [ ] **Pink Toolbox** — `create:pink_toolbox` · н
+- [ ] **Pink Valve Handle** — `create:pink_valve_handle` · к
+- [ ] **Piston Extension Pole** — `create:piston_extension_pole` · к
+- [ ] **Placard** — `create:placard` · к
+- [ ] **Polished Cut Andesite** — `create:polished_cut_andesite` · к
+- [ ] **Polished Cut Andesite Slab** — `create:polished_cut_andesite_slab` · к
+- [ ] **Polished Cut Andesite Stairs** — `create:polished_cut_andesite_stairs` · к
+- [ ] **Polished Cut Andesite Wall** — `create:polished_cut_andesite_wall` · к
+- [ ] **Polished Cut Asurine** — `create:polished_cut_asurine` · к
+- [ ] **Polished Cut Asurine Slab** — `create:polished_cut_asurine_slab` · к
+- [ ] **Polished Cut Asurine Stairs** — `create:polished_cut_asurine_stairs` · к
+- [ ] **Polished Cut Asurine Wall** — `create:polished_cut_asurine_wall` · к
+- [ ] **Polished Cut Calcite** — `create:polished_cut_calcite` · к
+- [ ] **Polished Cut Calcite Slab** — `create:polished_cut_calcite_slab` · к
+- [ ] **Polished Cut Calcite Stairs** — `create:polished_cut_calcite_stairs` · к
+- [ ] **Polished Cut Calcite Wall** — `create:polished_cut_calcite_wall` · к
+- [ ] **Polished Cut Crimsite** — `create:polished_cut_crimsite` · к
+- [ ] **Polished Cut Crimsite Slab** — `create:polished_cut_crimsite_slab` · к
+- [ ] **Polished Cut Crimsite Stairs** — `create:polished_cut_crimsite_stairs` · к
+- [ ] **Polished Cut Crimsite Wall** — `create:polished_cut_crimsite_wall` · к
+- [ ] **Polished Cut Deepslate** — `create:polished_cut_deepslate` · к
+- [ ] **Polished Cut Deepslate Slab** — `create:polished_cut_deepslate_slab` · к
+- [ ] **Polished Cut Deepslate Stairs** — `create:polished_cut_deepslate_stairs` · к
+- [ ] **Polished Cut Deepslate Wall** — `create:polished_cut_deepslate_wall` · к
+- [ ] **Polished Cut Diorite** — `create:polished_cut_diorite` · к
+- [ ] **Polished Cut Diorite Slab** — `create:polished_cut_diorite_slab` · к
+- [ ] **Polished Cut Diorite Stairs** — `create:polished_cut_diorite_stairs` · к
+- [ ] **Polished Cut Diorite Wall** — `create:polished_cut_diorite_wall` · к
+- [ ] **Polished Cut Dripstone** — `create:polished_cut_dripstone` · к
+- [ ] **Polished Cut Dripstone Slab** — `create:polished_cut_dripstone_slab` · к
+- [ ] **Polished Cut Dripstone Stairs** — `create:polished_cut_dripstone_stairs` · к
+- [ ] **Polished Cut Dripstone Wall** — `create:polished_cut_dripstone_wall` · к
+- [ ] **Polished Cut Granite** — `create:polished_cut_granite` · к
+- [ ] **Polished Cut Granite Slab** — `create:polished_cut_granite_slab` · к
+- [ ] **Polished Cut Granite Stairs** — `create:polished_cut_granite_stairs` · к
+- [ ] **Polished Cut Granite Wall** — `create:polished_cut_granite_wall` · к
+- [ ] **Polished Cut Limestone** — `create:polished_cut_limestone` · к
+- [ ] **Polished Cut Limestone Slab** — `create:polished_cut_limestone_slab` · к
+- [ ] **Polished Cut Limestone Stairs** — `create:polished_cut_limestone_stairs` · к
+- [ ] **Polished Cut Limestone Wall** — `create:polished_cut_limestone_wall` · к
+- [ ] **Polished Cut Ochrum** — `create:polished_cut_ochrum` · к
+- [ ] **Polished Cut Ochrum Slab** — `create:polished_cut_ochrum_slab` · к
+- [ ] **Polished Cut Ochrum Stairs** — `create:polished_cut_ochrum_stairs` · к
+- [ ] **Polished Cut Ochrum Wall** — `create:polished_cut_ochrum_wall` · к
+- [ ] **Polished Cut Scorchia** — `create:polished_cut_scorchia` · к
+- [ ] **Polished Cut Scorchia Slab** — `create:polished_cut_scorchia_slab` · к
+- [ ] **Polished Cut Scorchia Stairs** — `create:polished_cut_scorchia_stairs` · к
+- [ ] **Polished Cut Scorchia Wall** — `create:polished_cut_scorchia_wall` · к
+- [ ] **Polished Cut Scoria** — `create:polished_cut_scoria` · к
+- [ ] **Polished Cut Scoria Slab** — `create:polished_cut_scoria_slab` · к
+- [ ] **Polished Cut Scoria Stairs** — `create:polished_cut_scoria_stairs` · к
+- [ ] **Polished Cut Scoria Wall** — `create:polished_cut_scoria_wall` · к
+- [ ] **Polished Cut Tuff** — `create:polished_cut_tuff` · к
+- [ ] **Polished Cut Tuff Slab** — `create:polished_cut_tuff_slab` · к
+- [ ] **Polished Cut Tuff Stairs** — `create:polished_cut_tuff_stairs` · к
+- [ ] **Polished Cut Tuff Wall** — `create:polished_cut_tuff_wall` · к
+- [ ] **Polished Cut Veridium** — `create:polished_cut_veridium` · к
+- [ ] **Polished Cut Veridium Slab** — `create:polished_cut_veridium_slab` · к
+- [ ] **Polished Cut Veridium Stairs** — `create:polished_cut_veridium_stairs` · к
+- [ ] **Polished Cut Veridium Wall** — `create:polished_cut_veridium_wall` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

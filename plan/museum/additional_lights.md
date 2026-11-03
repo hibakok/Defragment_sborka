@@ -1,0 +1,160 @@
+# Музей: Additional Lights (additional_lights)
+
+Предметов: 147 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 147 предметов.*
+
+- [ ] **Acacia Lamp** — `additional_lights:al_lamp_acacia_planks` · н
+- [ ] **Birch Lamp** — `additional_lights:al_lamp_birch_planks` · н
+- [ ] **BlackStone Lamp** — `additional_lights:al_lamp_blackstone` · н
+- [ ] **CobbleStone Lamp** — `additional_lights:al_lamp_cobblestone` · н
+- [ ] **Crimson Lamp** — `additional_lights:al_lamp_crimson_planks` · н
+- [ ] **Dark Oak Lamp** — `additional_lights:al_lamp_dark_oak_planks` · н
+- [ ] **Diamond Lamp** — `additional_lights:al_lamp_diamond_block` · н
+- [ ] **End Stone Lamp** — `additional_lights:al_lamp_end_stone` · н
+- [ ] **Glass Lamp** — `additional_lights:al_lamp_glass` · н
+- [ ] **Gold Lamp** — `additional_lights:al_lamp_gold_block` · н
+- [ ] **Iron Lamp** — `additional_lights:al_lamp_iron_block` · н
+- [ ] **Jungle Lamp** — `additional_lights:al_lamp_jungle_planks` · н
+- [ ] **Magenta Wool Lamp** — `additional_lights:al_lamp_magenta_wool` · н
+- [ ] **Mossy CobbleStone Lamp** — `additional_lights:al_lamp_mossy_cobblestone` · н
+- [ ] **Nether Bricks Lamp** — `additional_lights:al_lamp_nether_bricks` · н
+- [ ] **Oak Lamp** — `additional_lights:al_lamp_oak_planks` · н
+- [ ] **Ice Lamp** — `additional_lights:al_lamp_packed_ice` · н
+- [ ] **Pink Wool Lamp** — `additional_lights:al_lamp_pink_wool` · н
+- [ ] **Red Nether Bricks Lamp** — `additional_lights:al_lamp_red_nether_bricks` · н
+- [ ] **SandStone Lamp** — `additional_lights:al_lamp_sandstone` · н
+- [ ] **Spruce Lamp** — `additional_lights:al_lamp_spruce_planks` · н
+- [ ] **Stone Lamp** — `additional_lights:al_lamp_stone` · н
+- [ ] **Warped Lamp** — `additional_lights:al_lamp_warped_planks` · н
+- [ ] **Acacia AlTorch** — `additional_lights:al_torch_acacia_planks` · н
+- [ ] **Birch AlTorch** — `additional_lights:al_torch_birch_planks` · н
+- [ ] **BlackStone AlTorch** — `additional_lights:al_torch_blackstone` · н
+- [ ] **CobbleStone AlTorch** — `additional_lights:al_torch_cobblestone` · н
+- [ ] **Crimson AlTorch** — `additional_lights:al_torch_crimson_planks` · н
+- [ ] **Dark Oak AlTorch** — `additional_lights:al_torch_dark_oak_planks` · н
+- [ ] **Diamond AlTorch** — `additional_lights:al_torch_diamond_block` · н
+- [ ] **End Stone AlTorch** — `additional_lights:al_torch_end_stone` · н
+- [ ] **End Stone Bricks AlTorch** — `additional_lights:al_torch_end_stone_bricks` · н
+- [ ] **Glass AlTorch** — `additional_lights:al_torch_glass` · н
+- [ ] **Gold AlTorch** — `additional_lights:al_torch_gold_block` · н
+- [ ] **Iron AlTorch** — `additional_lights:al_torch_iron_block` · н
+- [ ] **Jungle AlTorch** — `additional_lights:al_torch_jungle_planks` · н
+- [ ] **Magenta Wool AlTorch** — `additional_lights:al_torch_magenta_wool` · н
+- [ ] **Mossy CobbleStone AlTorch** — `additional_lights:al_torch_mossy_cobblestone` · н
+- [ ] **Mossy Stone Bricks AlTorch** — `additional_lights:al_torch_mossy_stone_bricks` · н
+- [ ] **Nether Bricks AlTorch** — `additional_lights:al_torch_nether_bricks` · н
+- [ ] **Oak AlTorch** — `additional_lights:al_torch_oak_planks` · н
+- [ ] **Ice AlTorch** — `additional_lights:al_torch_packed_ice` · н
+- [ ] **Pink Wool AlTorch** — `additional_lights:al_torch_pink_wool` · н
+- [ ] **Red Nether Bricks AlTorch** — `additional_lights:al_torch_red_nether_bricks` · н
+- [ ] **SandStone AlTorch** — `additional_lights:al_torch_sandstone` · н
+- [ ] **Smooth Stone AlTorch** — `additional_lights:al_torch_smooth_stone` · н
+- [ ] **Spruce AlTorch** — `additional_lights:al_torch_spruce_planks` · н
+- [ ] **Stone AlTorch** — `additional_lights:al_torch_stone` · н
+- [ ] **Stone Bricks AlTorch** — `additional_lights:al_torch_stone_bricks` · н
+- [ ] **Warped AlTorch** — `additional_lights:al_torch_warped_planks` · н
+- [ ] **Fire For Fire Pit L** — `additional_lights:fire_for_fire_pit_l` · н
+- [ ] **Fire For Fire Pit** — `additional_lights:fire_for_fire_pit_s` · н
+- [ ] **Fire For Standing Torch L** — `additional_lights:fire_for_standing_torch_l` · н
+- [ ] **Fire For Standing Torch** — `additional_lights:fire_for_standing_torch_s` · н
+- [ ] **CobbleStone Fire Pit - L** — `additional_lights:fire_pit_l_cobblestone` · н
+- [ ] **Cut SandStone Fire Pit - L** — `additional_lights:fire_pit_l_cut_sandstone` · н
+- [ ] **Diamond Fire Pit - L** — `additional_lights:fire_pit_l_diamond_block` · н
+- [ ] **End Stone Fire Pit - L** — `additional_lights:fire_pit_l_end_stone` · н
+- [ ] **End Stone Bricks Fire Pit - L** — `additional_lights:fire_pit_l_end_stone_bricks` · н
+- [ ] **Gold Fire Pit - L** — `additional_lights:fire_pit_l_gold_block` · н
+- [ ] **Iron Fire Pit - L** — `additional_lights:fire_pit_l_iron_block` · н
+- [ ] **Magenta Wool Fire Pit - L** — `additional_lights:fire_pit_l_magenta_wool` · н
+- [ ] **Mossy CobbleStone Fire Pit - L** — `additional_lights:fire_pit_l_mossy_cobblestone` · н
+- [ ] **Mossy Stone Bricks Fire Pit - L** — `additional_lights:fire_pit_l_mossy_stone_bricks` · н
+- [ ] **Nether Bricks Fire Pit - L** — `additional_lights:fire_pit_l_nether_bricks` · н
+- [ ] **Ice Fire Pit - L** — `additional_lights:fire_pit_l_packed_ice` · н
+- [ ] **Pink Wool Fire Pit - L** — `additional_lights:fire_pit_l_pink_wool` · н
+- [ ] **Polished Andesite Fire Pit - L** — `additional_lights:fire_pit_l_polished_andesite` · н
+- [ ] **Polished BlackStone Fire Pit - L** — `additional_lights:fire_pit_l_polished_blackstone` · н
+- [ ] **Polished Diorite Fire Pit - L** — `additional_lights:fire_pit_l_polished_diorite` · н
+- [ ] **Polished Granite Fire Pit - L** — `additional_lights:fire_pit_l_polished_granite` · н
+- [ ] **Red Nether Bricks Fire Pit - L** — `additional_lights:fire_pit_l_red_nether_bricks` · н
+- [ ] **SandStone Fire Pit - L** — `additional_lights:fire_pit_l_sandstone` · н
+- [ ] **Smooth Stone Fire Pit - L** — `additional_lights:fire_pit_l_smooth_stone` · н
+- [ ] **Stone Fire Pit - L** — `additional_lights:fire_pit_l_stone` · н
+- [ ] **Stone Bricks Fire Pit - L** — `additional_lights:fire_pit_l_stone_bricks` · н
+- [ ] **CobbleStone Fire Pit** — `additional_lights:fire_pit_s_cobblestone` · н
+- [ ] **Cut SandStone Fire Pit** — `additional_lights:fire_pit_s_cut_sandstone` · н
+- [ ] **Diamond Fire Pit** — `additional_lights:fire_pit_s_diamond_block` · н
+- [ ] **End Stone Fire Pit** — `additional_lights:fire_pit_s_end_stone` · н
+- [ ] **End Stone Bricks Fire Pit** — `additional_lights:fire_pit_s_end_stone_bricks` · н
+- [ ] **Gold Fire Pit** — `additional_lights:fire_pit_s_gold_block` · н
+- [ ] **Iron Fire Pit** — `additional_lights:fire_pit_s_iron_block` · н
+- [ ] **Magenta Wool Fire Pit** — `additional_lights:fire_pit_s_magenta_wool` · н
+- [ ] **Mossy CobbleStone Fire Pit** — `additional_lights:fire_pit_s_mossy_cobblestone` · н
+- [ ] **Mossy Stone Bricks Fire Pit** — `additional_lights:fire_pit_s_mossy_stone_bricks` · н
+- [ ] **Nether Bricks Fire Pit** — `additional_lights:fire_pit_s_nether_bricks` · н
+- [ ] **Ice Fire Pit** — `additional_lights:fire_pit_s_packed_ice` · н
+- [ ] **Pink Wool Fire Pit** — `additional_lights:fire_pit_s_pink_wool` · н
+- [ ] **Polished Andesite Fire Pit** — `additional_lights:fire_pit_s_polished_andesite` · н
+- [ ] **Polished BlackStone Fire Pit** — `additional_lights:fire_pit_s_polished_blackstone` · н
+- [ ] **Polished Diorite Fire Pit** — `additional_lights:fire_pit_s_polished_diorite` · н
+- [ ] **Polished Granite Fire Pit** — `additional_lights:fire_pit_s_polished_granite` · н
+- [ ] **Red Nether Bricks Fire Pit** — `additional_lights:fire_pit_s_red_nether_bricks` · н
+- [ ] **SandStone Fire Pit** — `additional_lights:fire_pit_s_sandstone` · н
+- [ ] **Smooth Stone Fire Pit** — `additional_lights:fire_pit_s_smooth_stone` · н
+- [ ] **Stone Fire Pit** — `additional_lights:fire_pit_s_stone` · н
+- [ ] **Stone Bricks Fire Pit** — `additional_lights:fire_pit_s_stone_bricks` · н
+- [ ] **Soul Fire For Fire Pit L** — `additional_lights:soul_fire_for_fire_pit_l` · н
+- [ ] **Soul Fire For Fire Pit** — `additional_lights:soul_fire_for_fire_pit_s` · н
+- [ ] **Soul Fire For Standing Torch L** — `additional_lights:soul_fire_for_standing_torch_l` · н
+- [ ] **Soul Fire For Standing Torch** — `additional_lights:soul_fire_for_standing_torch_s` · н
+- [ ] **Soul Wand** — `additional_lights:soul_wand` · н
+- [ ] **CobbleStone Standing Torch - L** — `additional_lights:standing_torch_l_cobblestone` · н
+- [ ] **Cut SandStone Standing Torch - L** — `additional_lights:standing_torch_l_cut_sandstone` · н
+- [ ] **Diamond Standing Torch - L** — `additional_lights:standing_torch_l_diamond_block` · н
+- [ ] **End Stone Standing Torch - L** — `additional_lights:standing_torch_l_end_stone` · н
+- [ ] **End Stone Bricks Standing Torch - L** — `additional_lights:standing_torch_l_end_stone_bricks` · н
+- [ ] **Gold Standing Torch - L** — `additional_lights:standing_torch_l_gold_block` · н
+- [ ] **Iron Standing Torch - L** — `additional_lights:standing_torch_l_iron_block` · н
+- [ ] **Magenta Wool Standing Torch - L** — `additional_lights:standing_torch_l_magenta_wool` · н
+- [ ] **Mossy CobbleStone Standing Torch - L** — `additional_lights:standing_torch_l_mossy_cobblestone` · н
+- [ ] **Mossy Stone Bricks Standing Torch - L** — `additional_lights:standing_torch_l_mossy_stone_bricks` · н
+- [ ] **Nether Bricks Standing Torch - L** — `additional_lights:standing_torch_l_nether_bricks` · н
+- [ ] **Ice Standing Torch - L** — `additional_lights:standing_torch_l_packed_ice` · н
+- [ ] **Pink Wool Standing Torch - L** — `additional_lights:standing_torch_l_pink_wool` · н
+- [ ] **Polished Andesite Standing Torch - L** — `additional_lights:standing_torch_l_polished_andesite` · н
+- [ ] **Polished BlackStone Standing Torch - L** — `additional_lights:standing_torch_l_polished_blackstone` · н
+- [ ] **Polished Diorite Standing Torch - L** — `additional_lights:standing_torch_l_polished_diorite` · н
+- [ ] **Polished Granite Standing Torch - L** — `additional_lights:standing_torch_l_polished_granite` · н
+- [ ] **Red Nether Bricks Standing Torch - L** — `additional_lights:standing_torch_l_red_nether_bricks` · н
+- [ ] **SandStone Standing Torch - L** — `additional_lights:standing_torch_l_sandstone` · н
+- [ ] **Smooth Stone Standing Torch - L** — `additional_lights:standing_torch_l_smooth_stone` · н
+- [ ] **Stone Standing Torch - L** — `additional_lights:standing_torch_l_stone` · н
+- [ ] **Stone Bricks Standing Torch - L** — `additional_lights:standing_torch_l_stone_bricks` · н
+- [ ] **CobbleStone Standing Torch** — `additional_lights:standing_torch_s_cobblestone` · н
+- [ ] **Cut SandStone Standing Torch** — `additional_lights:standing_torch_s_cut_sandstone` · н
+- [ ] **Diamond Standing Torch** — `additional_lights:standing_torch_s_diamond_block` · н
+- [ ] **End Stone Standing Torch** — `additional_lights:standing_torch_s_end_stone` · н
+- [ ] **End Stone Bricks Standing Torch** — `additional_lights:standing_torch_s_end_stone_bricks` · н
+- [ ] **Gold Standing Torch** — `additional_lights:standing_torch_s_gold_block` · н
+- [ ] **Iron  Standing Torch** — `additional_lights:standing_torch_s_iron_block` · н
+- [ ] **Magenta Wool Standing Torch** — `additional_lights:standing_torch_s_magenta_wool` · н
+- [ ] **Mossy CobbleStone Standing Torch** — `additional_lights:standing_torch_s_mossy_cobblestone` · н
+- [ ] **Mossy Stone Bricks Standing Torch** — `additional_lights:standing_torch_s_mossy_stone_bricks` · н
+- [ ] **Nether Bricks Standing Torch** — `additional_lights:standing_torch_s_nether_bricks` · н
+- [ ] **Ice Standing Torch** — `additional_lights:standing_torch_s_packed_ice` · н
+- [ ] **Pink Wool Standing Torch** — `additional_lights:standing_torch_s_pink_wool` · н
+- [ ] **Polished Andesite Standing Torch** — `additional_lights:standing_torch_s_polished_andesite` · н
+- [ ] **Polished BlackStone Standing Torch** — `additional_lights:standing_torch_s_polished_blackstone` · н
+- [ ] **Polished Diorite Standing Torch** — `additional_lights:standing_torch_s_polished_diorite` · н
+- [ ] **Polished Granite Standing Torch** — `additional_lights:standing_torch_s_polished_granite` · н
+- [ ] **Red Nether Bricks Standing Torch** — `additional_lights:standing_torch_s_red_nether_bricks` · н
+- [ ] **SandStone Standing Torch** — `additional_lights:standing_torch_s_sandstone` · н
+- [ ] **Smooth Stone Standing Torch** — `additional_lights:standing_torch_s_smooth_stone` · н
+- [ ] **Stone Standing Torch** — `additional_lights:standing_torch_s_stone` · н
+- [ ] **Stone Bricks Standing Torch** — `additional_lights:standing_torch_s_stone_bricks` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

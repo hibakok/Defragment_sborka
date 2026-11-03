@@ -1,0 +1,485 @@
+# Музей: Blue Skies (blue_skies)
+
+Предметов: 743 · крафтимых по данным: 385 (51%) · файлов: 2
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 1 из 2
+
+*В части: 470 предметов.*
+
+- [ ] **Alchemist Spawn Egg** — `blue_skies:alchemist_spawn_egg` · н
+- [ ] **Alchemist Trophy** — `blue_skies:alchemist_trophy` · н
+- [ ] **Alchemy Scroll** — `blue_skies:alchemy_scroll` · н
+- [ ] **Alchemy Table** — `blue_skies:alchemy_table` · н
+- [ ] **Aquatic Arc** — `blue_skies:aquatic_arc` · н
+- [ ] **Aquatic Dungeon Key** — `blue_skies:aquatic_key` · н
+- [ ] **Aquatic Keystone** — `blue_skies:aquatic_keystone` · н
+- [ ] **Aquatic Slab** — `blue_skies:aquatic_slab` · н
+- [ ] **Aquatic Stairs** — `blue_skies:aquatic_stairs` · н
+- [ ] **Aquatic Stone** — `blue_skies:aquatic_stone` · н
+- [ ] **Aquatic Wall** — `blue_skies:aquatic_wall` · н
+- [ ] **Aquite** — `blue_skies:aquite` · к
+- [ ] **Aquite Axe** — `blue_skies:aquite_axe` · н
+- [ ] **Block of Aquite** — `blue_skies:aquite_block` · к
+- [ ] **Aquite Boots** — `blue_skies:aquite_boots` · к
+- [ ] **Aquite Chestplate** — `blue_skies:aquite_chestplate` · к
+- [ ] **Aquite Helmet** — `blue_skies:aquite_helmet` · к
+- [ ] **Aquite Hoe** — `blue_skies:aquite_hoe` · н
+- [ ] **Aquite Leggings** — `blue_skies:aquite_leggings` · к
+- [ ] **Aquite Pickaxe** — `blue_skies:aquite_pickaxe` · н
+- [ ] **Aquite Shovel** — `blue_skies:aquite_shovel` · н
+- [ ] **Aquite Sword** — `blue_skies:aquite_sword` · н
+- [ ] **Arachnarch Spawn Egg** — `blue_skies:arachnarch_spawn_egg` · н
+- [ ] **Arachnarch Trophy** — `blue_skies:arachnarch_trophy` · н
+- [ ] **Armored Frost Spirit Spawn Egg** — `blue_skies:armored_frost_spirit_spawn_egg` · н
+- [ ] **Artificial Golem Spawn Egg** — `blue_skies:artificial_golem_spawn_egg` · н
+- [ ] **Astrolabe** — `blue_skies:astrolabe` · н
+- [ ] **Azulfo Horn** — `blue_skies:azulfo_horn` · н
+- [ ] **Azulfo Spawn Egg** — `blue_skies:azulfo_spawn_egg` · н
+- [ ] **Bag of Spoils** — `blue_skies:bag_of_spoils` · к
+- [ ] **Baneful Mushroom** — `blue_skies:baneful_mushroom` · н
+- [ ] **Black Brewberry** — `blue_skies:black_brewberry` · н
+- [ ] **Dark Fire** — `blue_skies:black_fire` · н
+- [ ] **Blaze Bud** — `blue_skies:blaze_bud` · н
+- [ ] **Blinding Dungeon Key** — `blue_skies:blinding_key` · н
+- [ ] **Blinding Slab** — `blue_skies:blinding_slab` · к
+- [ ] **Blinding Stairs** — `blue_skies:blinding_stairs` · к
+- [ ] **Blinding Stone** — `blue_skies:blinding_stone` · н
+- [ ] **Blinding Stone Pillar** — `blue_skies:blinding_stone_pillar` · к
+- [ ] **Blinding Wall** — `blue_skies:blinding_wall` · к
+- [ ] **Blue Fire** — `blue_skies:blue_fire` · н
+- [ ] **Blue Journal** — `blue_skies:blue_journal` · н
+- [ ] **Bluebright Wood Axe** — `blue_skies:bluebright_axe` · н
+- [ ] **Bluebright Bookshelf** — `blue_skies:bluebright_bookshelf` · к
+- [ ] **Bluebright Button** — `blue_skies:bluebright_button` · к
+- [ ] **Bluebright Chest** — `blue_skies:bluebright_chest` · к
+- [ ] **Bluebright Crafting Table** — `blue_skies:bluebright_crafting_table` · к
+- [ ] **Bluebright Door** — `blue_skies:bluebright_door` · к
+- [ ] **Bluebright Fence** — `blue_skies:bluebright_fence` · к
+- [ ] **Bluebright Fence Gate** — `blue_skies:bluebright_fence_gate` · к
+- [ ] **Bluebright Hanging Sign** — `blue_skies:bluebright_hanging_sign` · к
+- [ ] **Bluebright Wood Hoe** — `blue_skies:bluebright_hoe` · н
+- [ ] **Bluebright Ladder** — `blue_skies:bluebright_ladder` · к
+- [ ] **Bluebright Leaves** — `blue_skies:bluebright_leaves` · н
+- [ ] **Bluebright Log** — `blue_skies:bluebright_log` · н
+- [ ] **Bluebright Wood Pickaxe** — `blue_skies:bluebright_pickaxe` · н
+- [ ] **Bluebright Planks** — `blue_skies:bluebright_planks` · к
+- [ ] **Bluebright Pressure Plate** — `blue_skies:bluebright_pressure_plate` · к
+- [ ] **Bluebright Sapling** — `blue_skies:bluebright_sapling` · н
+- [ ] **Bluebright Wood Shovel** — `blue_skies:bluebright_shovel` · н
+- [ ] **Bluebright Sign** — `blue_skies:bluebright_sign` · к
+- [ ] **Bluebright Wood Slab** — `blue_skies:bluebright_slab` · к
+- [ ] **Bluebright Spear** — `blue_skies:bluebright_spear` · к
+- [ ] **Bluebright Wood Stairs** — `blue_skies:bluebright_stairs` · к
+- [ ] **Bluebright Stick** — `blue_skies:bluebright_stick` · к
+- [ ] **Bluebright Wood Sword** — `blue_skies:bluebright_sword` · н
+- [ ] **Bluebright Trapdoor** — `blue_skies:bluebright_trapdoor` · к
+- [ ] **Bluebright Vines** — `blue_skies:bluebright_vine` · н
+- [ ] **Bluebright Wood** — `blue_skies:bluebright_wood` · к
+- [ ] **Blush Blossom** — `blue_skies:blush_blossom` · н
+- [ ] **Brewberry** — `blue_skies:brewberry` · н
+- [ ] **Brewberry Bush** — `blue_skies:brewberry_bush` · н
+- [ ] **Blinding Keystone (Everbright)** — `blue_skies:bright_blinding_keystone` · н
+- [ ] **Briskbloom** — `blue_skies:briskbloom` · н
+- [ ] **Brittlebush** — `blue_skies:brittlebush` · н
+- [ ] **Brumble** — `blue_skies:brumble` · н
+- [ ] **Brumble Block** — `blue_skies:brumble_block` · к
+- [ ] **Brumble Lantern** — `blue_skies:brumble_lantern` · к
+- [ ] **Brumble Slab** — `blue_skies:brumble_slab` · н
+- [ ] **Brumble Stairs** — `blue_skies:brumble_stairs` · н
+- [ ] **Brumble Vine** — `blue_skies:brumble_vine` · н
+- [ ] **Brumble Vine** — `blue_skies:brumble_vine_top` · н
+- [ ] **Brumble Wall** — `blue_skies:brumble_wall` · н
+- [ ] **Bug Guts** — `blue_skies:bug_guts` · н
+- [ ] **Camel Saddle** — `blue_skies:camel_saddle` · к
+- [ ] **Camellia** — `blue_skies:camellia` · н
+- [ ] **Raw Carabeef** — `blue_skies:carabeef` · н
+- [ ] **Carved Blinding Stone** — `blue_skies:carved_blinding_stone` · к
+- [ ] **Carved Nature Stone Bricks** — `blue_skies:carved_nature_stonebrick` · к
+- [ ] **Carved Poison Stone Bricks** — `blue_skies:carved_poison_stonebrick` · к
+- [ ] **Charoite** — `blue_skies:charoite` · к
+- [ ] **Charoite Axe** — `blue_skies:charoite_axe` · н
+- [ ] **Block of Charoite** — `blue_skies:charoite_block` · к
+- [ ] **Charoite Boots** — `blue_skies:charoite_boots` · к
+- [ ] **Charoite Chestplate** — `blue_skies:charoite_chestplate` · к
+- [ ] **Charoite Helmet** — `blue_skies:charoite_helmet` · к
+- [ ] **Charoite Hoe** — `blue_skies:charoite_hoe` · н
+- [ ] **Charoite Leggings** — `blue_skies:charoite_leggings` · к
+- [ ] **Charoite Pickaxe** — `blue_skies:charoite_pickaxe` · н
+- [ ] **Charoite Shovel** — `blue_skies:charoite_shovel` · н
+- [ ] **Charoite Sword** — `blue_skies:charoite_sword` · н
+- [ ] **Raw Charscale Moki** — `blue_skies:charscale_moki` · н
+- [ ] **Charscale Moki Spawn Egg** — `blue_skies:charscale_moki_spawn_egg` · н
+- [ ] **Chilled Lily Pad** — `blue_skies:chilled_lily_pad` · н
+- [ ] **Chillweed** — `blue_skies:chillweed` · н
+- [ ] **Chiseled Crystal Sandstone** — `blue_skies:chiseled_crystal_sandstone` · к
+- [ ] **Chiseled Lunar Stone Bricks** — `blue_skies:chiseled_lunar_stonebrick` · к
+- [ ] **Chiseled Midnight Sandstone** — `blue_skies:chiseled_midnight_sandstone` · к
+- [ ] **Chiseled Polished Brumble** — `blue_skies:chiseled_polished_brumble` · н
+- [ ] **Chiseled Turquoise Stone Bricks** — `blue_skies:chiseled_turquoise_stonebrick` · к
+- [ ] **Cinderstone** — `blue_skies:cinderstone` · н
+- [ ] **Cinderstone Slab** — `blue_skies:cinderstone_slab` · к
+- [ ] **Cinderstone Stairs** — `blue_skies:cinderstone_stairs` · к
+- [ ] **Cinderstone Wall** — `blue_skies:cinderstone_wall` · к
+- [ ] **Coarse Lunar Dirt** — `blue_skies:coarse_lunar_dirt` · к
+- [ ] **Coarse Turquoise Dirt** — `blue_skies:coarse_turquoise_dirt` · к
+- [ ] **Comet Wood Axe** — `blue_skies:comet_axe` · н
+- [ ] **Comet Berries** — `blue_skies:comet_berries` · н
+- [ ] **Comet Berry Pie** — `blue_skies:comet_berry_pie` · к
+- [ ] **Comet Bookshelf** — `blue_skies:comet_bookshelf` · к
+- [ ] **Comet Button** — `blue_skies:comet_button` · к
+- [ ] **Comet Chest** — `blue_skies:comet_chest` · к
+- [ ] **Comet Crafting Table** — `blue_skies:comet_crafting_table` · к
+- [ ] **Comet Door** — `blue_skies:comet_door` · к
+- [ ] **Comet Fence** — `blue_skies:comet_fence` · к
+- [ ] **Comet Fence Gate** — `blue_skies:comet_fence_gate` · к
+- [ ] **Comet Grass** — `blue_skies:comet_grass` · н
+- [ ] **Comet Hanging Sign** — `blue_skies:comet_hanging_sign` · к
+- [ ] **Comet Wood Hoe** — `blue_skies:comet_hoe` · н
+- [ ] **Comet Ladder** — `blue_skies:comet_ladder` · к
+- [ ] **Comet Leaves** — `blue_skies:comet_leaves` · н
+- [ ] **Comet Log** — `blue_skies:comet_log` · н
+- [ ] **Comet Wood Pickaxe** — `blue_skies:comet_pickaxe` · н
+- [ ] **Comet Planks** — `blue_skies:comet_planks` · к
+- [ ] **Comet Pressure Plate** — `blue_skies:comet_pressure_plate` · к
+- [ ] **Comet Sapling** — `blue_skies:comet_sapling` · н
+- [ ] **Comet Wood Shovel** — `blue_skies:comet_shovel` · н
+- [ ] **Comet Sign** — `blue_skies:comet_sign` · к
+- [ ] **Comet Wood Slab** — `blue_skies:comet_slab` · к
+- [ ] **Comet Spear** — `blue_skies:comet_spear` · к
+- [ ] **Comet Wood Stairs** — `blue_skies:comet_stairs` · к
+- [ ] **Comet Stick** — `blue_skies:comet_stick` · к
+- [ ] **Comet Wood Sword** — `blue_skies:comet_sword` · н
+- [ ] **Comet Trapdoor** — `blue_skies:comet_trapdoor` · к
+- [ ] **Comet Wood** — `blue_skies:comet_wood` · к
+- [ ] **Smoked Carabeef** — `blue_skies:cooked_carabeef` · к
+- [ ] **Cooked Charscale Moki** — `blue_skies:cooked_charscale_moki` · к
+- [ ] **Cooked Grittle Flatfish** — `blue_skies:cooked_grittle_flatfish` · к
+- [ ] **Cooked Horizofin Tunid** — `blue_skies:cooked_horizofin_tunid` · к
+- [ ] **Roasted Monitor Tail** — `blue_skies:cooked_monitor_tail` · к
+- [ ] **Cooked Municipal Monkfish** — `blue_skies:cooked_municipal_monkfish` · к
+- [ ] **Venison Steak** — `blue_skies:cooked_venison` · к
+- [ ] **Cosmic Fox Spawn Egg** — `blue_skies:cosmic_fox_spawn_egg` · н
+- [ ] **Cracked Lunar Stone Bricks** — `blue_skies:cracked_lunar_stonebrick` · к
+- [ ] **Cracked Lunar Stone Brick Slab** — `blue_skies:cracked_lunar_stonebrick_slab` · к
+- [ ] **Cracked Lunar Stone Brick Stairs** — `blue_skies:cracked_lunar_stonebrick_stairs` · к
+- [ ] **Cracked Lunar Stone Brick Wall** — `blue_skies:cracked_lunar_stonebrick_wall` · к
+- [ ] **Cracked Turquoise Stone Bricks** — `blue_skies:cracked_turquoise_stonebrick` · к
+- [ ] **Cracked Turquoise Stone Brick Slab** — `blue_skies:cracked_turquoise_stonebrick_slab` · к
+- [ ] **Cracked Turquoise Stone Brick Stairs** — `blue_skies:cracked_turquoise_stonebrick_stairs` · к
+- [ ] **Cracked Turquoise Stone Brick Wall** — `blue_skies:cracked_turquoise_stonebrick_wall` · к
+- [ ] **Crescent Fruit** — `blue_skies:crescent_fruit` · н
+- [ ] **Crescent Fruit Leaves** — `blue_skies:crescent_fruit_leaves` · н
+- [ ] **Crescent Fruit Sapling** — `blue_skies:crescent_fruit_sapling` · н
+- [ ] **Crogre Spawn Egg** — `blue_skies:crogre_spawn_egg` · н
+- [ ] **Crushing Hammer** — `blue_skies:crushing_hammer` · н
+- [ ] **Crynocerous Spawn Egg** — `blue_skies:crynocerous_spawn_egg` · н
+- [ ] **Cryo Root** — `blue_skies:cryo_root` · н
+- [ ] **Cryo Roots** — `blue_skies:cryo_roots` · н
+- [ ] **Crystal Camel Spawn Egg** — `blue_skies:crystal_camel_spawn_egg` · н
+- [ ] **Crystal Flower** — `blue_skies:crystal_flower` · н
+- [ ] **Crystal Glass** — `blue_skies:crystal_glass` · к
+- [ ] **Crystal Glass Pane** — `blue_skies:crystal_glass_pane` · к
+- [ ] **Crystal Sand** — `blue_skies:crystal_sand` · н
+- [ ] **Crystal Sandstone** — `blue_skies:crystal_sandstone` · к
+- [ ] **Crystal Sandstone Pillar** — `blue_skies:crystal_sandstone_pillar` · к
+- [ ] **Crystal Sandstone Slab** — `blue_skies:crystal_sandstone_slab` · к
+- [ ] **Crystal Sandstone Stairs** — `blue_skies:crystal_sandstone_stairs` · к
+- [ ] **Crystal Sandstone Wall** — `blue_skies:crystal_sandstone_wall` · к
+- [ ] **Crystallized Button** — `blue_skies:crystallized_button` · к
+- [ ] **Crystallized Door** — `blue_skies:crystallized_door` · к
+- [ ] **Crystallized Grass** — `blue_skies:crystallized_grass` · н
+- [ ] **Crystallized Leaves** — `blue_skies:crystallized_leaves` · н
+- [ ] **Crystallized Log** — `blue_skies:crystallized_log` · н
+- [ ] **Crystallized Planks** — `blue_skies:crystallized_planks` · к
+- [ ] **Crystallized Pressure Plate** — `blue_skies:crystallized_pressure_plate` · к
+- [ ] **Crystallized Slab** — `blue_skies:crystallized_slab` · к
+- [ ] **Crystallized Stairs** — `blue_skies:crystallized_stairs` · к
+- [ ] **Crystallized Trapdoor** — `blue_skies:crystallized_trapdoor` · к
+- [ ] **Crystallized Wall** — `blue_skies:crystallized_wall` · к
+- [ ] **Crystallized Wood** — `blue_skies:crystallized_wood` · к
+- [ ] **Cut Crystal Sandstone** — `blue_skies:cut_crystal_sandstone` · к
+- [ ] **Cut Crystal Sandstone Slab** — `blue_skies:cut_crystal_sandstone_slab` · к
+- [ ] **Cut Midnight Sandstone** — `blue_skies:cut_midnight_sandstone` · к
+- [ ] **Cut Midnight Sandstone Slab** — `blue_skies:cut_midnight_sandstone_slab` · к
+- [ ] **Blinding Keystone (Everdawn)** — `blue_skies:dawn_blinding_keystone` · н
+- [ ] **Debug Sword** — `blue_skies:debug_sword` · н
+- [ ] **Decaying Spike** — `blue_skies:decaying_spike` · н
+- [ ] **Different Sword** — `blue_skies:different_sword` · н
+- [ ] **Diophyde Prowler Spawn Egg** — `blue_skies:diophyde_prowler_spawn_egg` · н
+- [ ] **Diopside Axe** — `blue_skies:diopside_axe` · н
+- [ ] **Block of Diopside** — `blue_skies:diopside_block` · к
+- [ ] **Diopside Boots** — `blue_skies:diopside_boots` · к
+- [ ] **Diopside Chestplate** — `blue_skies:diopside_chestplate` · к
+- [ ] **Diopside Gemstone** — `blue_skies:diopside_gem` · к
+- [ ] **Diopside Helmet** — `blue_skies:diopside_helmet` · к
+- [ ] **Diopside Hoe** — `blue_skies:diopside_hoe` · н
+- [ ] **Diopside Leggings** — `blue_skies:diopside_leggings` · к
+- [ ] **Diopside Pickaxe** — `blue_skies:diopside_pickaxe` · н
+- [ ] **Diopside Shovel** — `blue_skies:diopside_shovel` · н
+- [ ] **Diopside Sword** — `blue_skies:diopside_sword` · н
+- [ ] **Axe** — `blue_skies:display_axe` · н
+- [ ] **Hoe** — `blue_skies:display_hoe` · н
+- [ ] **Pickaxe** — `blue_skies:display_pickaxe` · н
+- [ ] **Shovel** — `blue_skies:display_shovel` · н
+- [ ] **Sword** — `blue_skies:display_sword` · н
+- [ ] **Dusk Arc** — `blue_skies:dusk_arc` · н
+- [ ] **Dusk Wood Axe** — `blue_skies:dusk_axe` · н
+- [ ] **Dusk Bookshelf** — `blue_skies:dusk_bookshelf` · к
+- [ ] **Dusk Button** — `blue_skies:dusk_button` · к
+- [ ] **Dusk Chest** — `blue_skies:dusk_chest` · к
+- [ ] **Dusk Crafting Table** — `blue_skies:dusk_crafting_table` · к
+- [ ] **Dusk Door** — `blue_skies:dusk_door` · к
+- [ ] **Dusk Fence** — `blue_skies:dusk_fence` · к
+- [ ] **Dusk Fence Gate** — `blue_skies:dusk_fence_gate` · к
+- [ ] **Dusk Hanging Sign** — `blue_skies:dusk_hanging_sign` · к
+- [ ] **Dusk Wood Hoe** — `blue_skies:dusk_hoe` · н
+- [ ] **Dusk Ladder** — `blue_skies:dusk_ladder` · к
+- [ ] **Dusk Leaves** — `blue_skies:dusk_leaves` · н
+- [ ] **Dusk Log** — `blue_skies:dusk_log` · н
+- [ ] **Dusk Wood Pickaxe** — `blue_skies:dusk_pickaxe` · н
+- [ ] **Dusk Planks** — `blue_skies:dusk_planks` · к
+- [ ] **Dusk Pressure Plate** — `blue_skies:dusk_pressure_plate` · к
+- [ ] **Dusk Sapling** — `blue_skies:dusk_sapling` · н
+- [ ] **Dusk Wood Shovel** — `blue_skies:dusk_shovel` · н
+- [ ] **Dusk Sign** — `blue_skies:dusk_sign` · к
+- [ ] **Dusk Wood Slab** — `blue_skies:dusk_slab` · к
+- [ ] **Dusk Spear** — `blue_skies:dusk_spear` · к
+- [ ] **Dusk Wood Stairs** — `blue_skies:dusk_stairs` · к
+- [ ] **Dusk Stick** — `blue_skies:dusk_stick` · к
+- [ ] **Dusk Wood Sword** — `blue_skies:dusk_sword` · н
+- [ ] **Dusk Trapdoor** — `blue_skies:dusk_trapdoor` · к
+- [ ] **Dusk Vines** — `blue_skies:dusk_vine` · н
+- [ ] **Dusk Wood** — `blue_skies:dusk_wood` · к
+- [ ] **Emberback Spawn Egg** — `blue_skies:emberback_spawn_egg` · н
+- [ ] **Ethereal Arc** — `blue_skies:ethereal_arc` · н
+- [ ] **Aquite Ore** — `blue_skies:everbright_aquite_ore` · н
+- [ ] **Charoite Ore** — `blue_skies:everbright_charoite_ore` · н
+- [ ] **Diopside Ore** — `blue_skies:everbright_diopside_ore` · н
+- [ ] **Emerald Ore** — `blue_skies:everbright_emerald_ore` · н
+- [ ] **Moonstone Ore** — `blue_skies:everbright_moonstone_ore` · н
+- [ ] **Everbright Portal Block** — `blue_skies:everbright_portal` · н
+- [ ] **Pyrope Ore** — `blue_skies:everbright_pyrope_ore` · н
+- [ ] **Aquite Ore** — `blue_skies:everdawn_aquite_ore` · н
+- [ ] **Charoite Ore** — `blue_skies:everdawn_charoite_ore` · н
+- [ ] **Diopside Ore** — `blue_skies:everdawn_diopside_ore` · н
+- [ ] **Emerald Ore** — `blue_skies:everdawn_emerald_ore` · н
+- [ ] **Moonstone Ore** — `blue_skies:everdawn_moonstone_ore` · н
+- [ ] **Everdawn Portal Block** — `blue_skies:everdawn_portal` · н
+- [ ] **Pyrope Ore** — `blue_skies:everdawn_pyrope_ore` · н
+- [ ] **Block of Falsite** — `blue_skies:falsite_block` · к
+- [ ] **Falsite Ingot** — `blue_skies:falsite_ingot` · к
+- [ ] **Falsite Nugget** — `blue_skies:falsite_nugget` · к
+- [ ] **Falsite Ore** — `blue_skies:falsite_ore` · н
+- [ ] **Fiery Bean Seeds** — `blue_skies:fiery_bean_seeds` · к
+- [ ] **Fiery Beans** — `blue_skies:fiery_beans` · н
+- [ ] **Firefly Spawn Egg** — `blue_skies:firefly_spawn_egg` · н
+- [ ] **Flare Floret** — `blue_skies:flare_floret` · н
+- [ ] **Food Prep Table** — `blue_skies:food_prep_table` · к
+- [ ] **Fox Pelt** — `blue_skies:fox_pelt` · н
+- [ ] **Frose** — `blue_skies:frose` · н
+- [ ] **Frost Spirit Spawn Egg** — `blue_skies:frost_spirit_spawn_egg` · н
+- [ ] **Frostbright Wood Axe** — `blue_skies:frostbright_axe` · н
+- [ ] **Frostbright Bookshelf** — `blue_skies:frostbright_bookshelf` · к
+- [ ] **Frostbright Button** — `blue_skies:frostbright_button` · к
+- [ ] **Frostbright Chest** — `blue_skies:frostbright_chest` · к
+- [ ] **Frostbright Crafting Table** — `blue_skies:frostbright_crafting_table` · к
+- [ ] **Frostbright Door** — `blue_skies:frostbright_door` · к
+- [ ] **Frostbright Fence** — `blue_skies:frostbright_fence` · к
+- [ ] **Frostbright Fence Gate** — `blue_skies:frostbright_fence_gate` · к
+- [ ] **Frostbright Hanging Sign** — `blue_skies:frostbright_hanging_sign` · к
+- [ ] **Frostbright Wood Hoe** — `blue_skies:frostbright_hoe` · н
+- [ ] **Frostbright Ladder** — `blue_skies:frostbright_ladder` · к
+- [ ] **Frostbright Leaves** — `blue_skies:frostbright_leaves` · н
+- [ ] **Frostbright Log** — `blue_skies:frostbright_log` · н
+- [ ] **Frostbright Wood Pickaxe** — `blue_skies:frostbright_pickaxe` · н
+- [ ] **Frostbright Planks** — `blue_skies:frostbright_planks` · к
+- [ ] **Frostbright Pressure Plate** — `blue_skies:frostbright_pressure_plate` · к
+- [ ] **Frostbright Sapling** — `blue_skies:frostbright_sapling` · н
+- [ ] **Frostbright Wood Shovel** — `blue_skies:frostbright_shovel` · н
+- [ ] **Frostbright Sign** — `blue_skies:frostbright_sign` · к
+- [ ] **Frostbright Wood Slab** — `blue_skies:frostbright_slab` · к
+- [ ] **Frostbright Spear** — `blue_skies:frostbright_spear` · к
+- [ ] **Frostbright Wood Stairs** — `blue_skies:frostbright_stairs` · к
+- [ ] **Frostbright Stick** — `blue_skies:frostbright_stick` · к
+- [ ] **Frostbright Wood Sword** — `blue_skies:frostbright_sword` · н
+- [ ] **Frostbright Trapdoor** — `blue_skies:frostbright_trapdoor` · к
+- [ ] **Frostbright Vines** — `blue_skies:frostbright_vine` · н
+- [ ] **Frostbright Wood** — `blue_skies:frostbright_wood` · к
+- [ ] **Gatekeeper Spawn Egg** — `blue_skies:gatekeeper_spawn_egg` · н
+- [ ] **Glimmer Reeds** — `blue_skies:glimmer_reed` · н
+- [ ] **Glowing Aquatic Slab** — `blue_skies:glowing_aquatic_slab` · н
+- [ ] **Glowing Aquatic Stairs** — `blue_skies:glowing_aquatic_stairs` · н
+- [ ] **Glowing Aquatic Stone** — `blue_skies:glowing_aquatic_stone` · н
+- [ ] **Glowing Aquatic Wall** — `blue_skies:glowing_aquatic_wall` · н
+- [ ] **Glowing Blinding Slab** — `blue_skies:glowing_blinding_slab` · к
+- [ ] **Glowing Blinding Stairs** — `blue_skies:glowing_blinding_stairs` · к
+- [ ] **Glowing Blinding Stone** — `blue_skies:glowing_blinding_stone` · к
+- [ ] **Glowing Blinding Wall** — `blue_skies:glowing_blinding_wall` · к
+- [ ] **Glowing Life Slab** — `blue_skies:glowing_life_slab` · н
+- [ ] **Glowing Life Stairs** — `blue_skies:glowing_life_stairs` · н
+- [ ] **Glowing Life Stone** — `blue_skies:glowing_life_stone` · н
+- [ ] **Glowing Life Wall** — `blue_skies:glowing_life_wall` · н
+- [ ] **Glowing Nature Stone** — `blue_skies:glowing_nature_stone` · к
+- [ ] **Glowing Nature Stone Slab** — `blue_skies:glowing_nature_stone_slab` · к
+- [ ] **Glowing Nature Stone Stairs** — `blue_skies:glowing_nature_stone_stairs` · к
+- [ ] **Glowing Nature Stone Bricks** — `blue_skies:glowing_nature_stonebrick` · к
+- [ ] **Glowing Nature Stone Brick Slab** — `blue_skies:glowing_nature_stonebrick_slab` · к
+- [ ] **Glowing Nature Stone Brick Stairs** — `blue_skies:glowing_nature_stonebrick_stairs` · к
+- [ ] **Glowing Nature Stone Brick Wall** — `blue_skies:glowing_nature_stonebrick_wall` · к
+- [ ] **Glowing Poison Stone** — `blue_skies:glowing_poison_stone` · к
+- [ ] **Glowing Poison Stone Slab** — `blue_skies:glowing_poison_stone_slab` · к
+- [ ] **Glowing Poison Stone Stairs** — `blue_skies:glowing_poison_stone_stairs` · к
+- [ ] **Raw Grittle Flatfish** — `blue_skies:grittle_flatfish` · н
+- [ ] **Grittle Flatfish Spawn Egg** — `blue_skies:grittle_flatfish_spawn_egg` · н
+- [ ] **Raw Horizofin Tunid** — `blue_skies:horizofin_tunid` · н
+- [ ] **Horizofin Tunid Spawn Egg** — `blue_skies:horizofin_tunid_spawn_egg` · н
+- [ ] **Horizonite Axe** — `blue_skies:horizonite_axe` · н
+- [ ] **Block of Horizonite** — `blue_skies:horizonite_block` · к
+- [ ] **Horizonite Boots** — `blue_skies:horizonite_boots` · к
+- [ ] **Horizonite Chestplate** — `blue_skies:horizonite_chestplate` · к
+- [ ] **Horizonite Forge** — `blue_skies:horizonite_forge` · к
+- [ ] **Horizonite Helmet** — `blue_skies:horizonite_helmet` · к
+- [ ] **Horizonite Hoe** — `blue_skies:horizonite_hoe` · н
+- [ ] **Horizonite Ingot** — `blue_skies:horizonite_ingot` · к
+- [ ] **Horizonite Leggings** — `blue_skies:horizonite_leggings` · к
+- [ ] **Horizonite Nugget** — `blue_skies:horizonite_nugget` · к
+- [ ] **Horizonite Ore** — `blue_skies:horizonite_ore` · н
+- [ ] **Horizonite Pickaxe** — `blue_skies:horizonite_pickaxe` · н
+- [ ] **Horizonite Shovel** — `blue_skies:horizonite_shovel` · н
+- [ ] **Horizonite Sword** — `blue_skies:horizonite_sword` · н
+- [ ] **Igneous Root** — `blue_skies:igneous_root` · н
+- [ ] **Infested Swarmer Spawn Egg** — `blue_skies:infested_swarmer_spawn_egg` · н
+- [ ] **Infused Arc Sword** — `blue_skies:infused_arc_sword` · н
+- [ ] **Jelly Drifter Spawn Egg** — `blue_skies:jelly_drifter_spawn_egg` · н
+- [ ] **Life Arc** — `blue_skies:life_arc` · н
+- [ ] **Life Dungeon Key** — `blue_skies:life_key` · н
+- [ ] **Life Keystone** — `blue_skies:life_keystone` · н
+- [ ] **Life Slab** — `blue_skies:life_slab` · н
+- [ ] **Life Stairs** — `blue_skies:life_stairs` · н
+- [ ] **Life Stone** — `blue_skies:life_stone` · н
+- [ ] **Life Wall** — `blue_skies:life_wall` · н
+- [ ] **Loot Bag** — `blue_skies:loot_bag` · н
+- [ ] **Alchemist Loot Bag** — `blue_skies:loot_bag_alchemist` · н
+- [ ] **Arachnarch Loot Bag** — `blue_skies:loot_bag_arachnarch` · н
+- [ ] **Starlit Crusher Loot Bag** — `blue_skies:loot_bag_starlit_crusher` · н
+- [ ] **Summoner Loot Bag** — `blue_skies:loot_bag_summoner` · н
+- [ ] **Lost Page** — `blue_skies:lost_page` · н
+- [ ] **Lucentroot** — `blue_skies:lucentroot` · н
+- [ ] **Lunar Wood Axe** — `blue_skies:lunar_axe` · н
+- [ ] **Lunar Bookshelf** — `blue_skies:lunar_bookshelf` · к
+- [ ] **Lunar Button** — `blue_skies:lunar_button` · к
+- [ ] **Lunar Chest** — `blue_skies:lunar_chest` · к
+- [ ] **Lunar Cobblestone** — `blue_skies:lunar_cobblestone` · н
+- [ ] **Lunar Cobblestone Slab** — `blue_skies:lunar_cobblestone_slab` · к
+- [ ] **Lunar Cobblestone Stairs** — `blue_skies:lunar_cobblestone_stairs` · к
+- [ ] **Lunar Cobblestone Wall** — `blue_skies:lunar_cobblestone_wall` · к
+- [ ] **Comet Grass Block** — `blue_skies:lunar_comet_grass_block` · н
+- [ ] **Lunar Crafting Table** — `blue_skies:lunar_crafting_table` · к
+- [ ] **Lunar Dirt** — `blue_skies:lunar_dirt` · н
+- [ ] **Lunar Door** — `blue_skies:lunar_door` · к
+- [ ] **Lunar Dripstone** — `blue_skies:lunar_dripstone` · к
+- [ ] **Lunar Farmland** — `blue_skies:lunar_farmland` · н
+- [ ] **Lunar Fence** — `blue_skies:lunar_fence` · к
+- [ ] **Lunar Fence Gate** — `blue_skies:lunar_fence_gate` · к
+- [ ] **Lunar Grass** — `blue_skies:lunar_grass` · н
+- [ ] **Lunar Grass Block** — `blue_skies:lunar_grass_block` · н
+- [ ] **Lunar Hanging Sign** — `blue_skies:lunar_hanging_sign` · к
+- [ ] **Lunar Wood Hoe** — `blue_skies:lunar_hoe` · н
+- [ ] **Lunar Ladder** — `blue_skies:lunar_ladder` · к
+- [ ] **Lunar Leaves** — `blue_skies:lunar_leaves` · н
+- [ ] **Lunar Lever** — `blue_skies:lunar_lever` · к
+- [ ] **Lunar Log** — `blue_skies:lunar_log` · н
+- [ ] **Lunar Mud** — `blue_skies:lunar_mud` · н
+- [ ] **Lunar Wood Pickaxe** — `blue_skies:lunar_pickaxe` · н
+- [ ] **Lunar Planks** — `blue_skies:lunar_planks` · к
+- [ ] **Lunar Pressure Plate** — `blue_skies:lunar_pressure_plate` · к
+- [ ] **Lunar Sapling** — `blue_skies:lunar_sapling` · н
+- [ ] **Lunar Wood Shovel** — `blue_skies:lunar_shovel` · н
+- [ ] **Lunar Sign** — `blue_skies:lunar_sign` · к
+- [ ] **Lunar Wood Slab** — `blue_skies:lunar_slab` · к
+- [ ] **Lunar Spear** — `blue_skies:lunar_spear` · к
+- [ ] **Lunar Wood Stairs** — `blue_skies:lunar_stairs` · к
+- [ ] **Lunar Stick** — `blue_skies:lunar_stick` · к
+- [ ] **Lunar Stone** — `blue_skies:lunar_stone` · к
+- [ ] **Lunar Stone Axe** — `blue_skies:lunar_stone_axe` · н
+- [ ] **Lunar Stone Button** — `blue_skies:lunar_stone_button` · к
+- [ ] **Lunar Stone Hoe** — `blue_skies:lunar_stone_hoe` · н
+- [ ] **Lunar Stone Pickaxe** — `blue_skies:lunar_stone_pickaxe` · н
+- [ ] **Lunar Stone Pressure Plate** — `blue_skies:lunar_stone_pressure_plate` · к
+- [ ] **Lunar Stone Shovel** — `blue_skies:lunar_stone_shovel` · н
+- [ ] **Lunar Stone Slab** — `blue_skies:lunar_stone_slab` · к
+- [ ] **Lunar Stone Stairs** — `blue_skies:lunar_stone_stairs` · к
+- [ ] **Lunar Stone Sword** — `blue_skies:lunar_stone_sword` · н
+- [ ] **Lunar Stone Bricks** — `blue_skies:lunar_stonebrick` · к
+- [ ] **Lunar Stone Brick Slab** — `blue_skies:lunar_stonebrick_slab` · к
+- [ ] **Lunar Stone Brick Stairs** — `blue_skies:lunar_stonebrick_stairs` · к
+- [ ] **Lunar Stone Brick Wall** — `blue_skies:lunar_stonebrick_wall` · к
+- [ ] **Lunar Wood Sword** — `blue_skies:lunar_sword` · н
+- [ ] **Lunar Trapdoor** — `blue_skies:lunar_trapdoor` · к
+- [ ] **Lunar Vines** — `blue_skies:lunar_vine` · н
+- [ ] **Lunar Wood** — `blue_skies:lunar_wood` · к
+- [ ] **Maple Wood Axe** — `blue_skies:maple_axe` · н
+- [ ] **Maple Bookshelf** — `blue_skies:maple_bookshelf` · к
+- [ ] **Maple Button** — `blue_skies:maple_button` · к
+- [ ] **Maple Chest** — `blue_skies:maple_chest` · к
+- [ ] **Maple Crafting Table** — `blue_skies:maple_crafting_table` · к
+- [ ] **Maple Door** — `blue_skies:maple_door` · к
+- [ ] **Maple Fence** — `blue_skies:maple_fence` · к
+- [ ] **Maple Fence Gate** — `blue_skies:maple_fence_gate` · к
+- [ ] **Maple Hanging Sign** — `blue_skies:maple_hanging_sign` · к
+- [ ] **Maple Wood Hoe** — `blue_skies:maple_hoe` · н
+- [ ] **Maple Ladder** — `blue_skies:maple_ladder` · к
+- [ ] **Maple Leaves** — `blue_skies:maple_leaves` · н
+- [ ] **Maple Log** — `blue_skies:maple_log` · н
+- [ ] **Maple Wood Pickaxe** — `blue_skies:maple_pickaxe` · н
+- [ ] **Maple Planks** — `blue_skies:maple_planks` · к
+- [ ] **Maple Pressure Plate** — `blue_skies:maple_pressure_plate` · к
+- [ ] **Maple Sapling** — `blue_skies:maple_sapling` · н
+- [ ] **Maple Wood Shovel** — `blue_skies:maple_shovel` · н
+- [ ] **Maple Sign** — `blue_skies:maple_sign` · к
+- [ ] **Maple Wood Slab** — `blue_skies:maple_slab` · к
+- [ ] **Maple Spear** — `blue_skies:maple_spear` · к
+- [ ] **Maple Wood Stairs** — `blue_skies:maple_stairs` · к
+- [ ] **Maple Stick** — `blue_skies:maple_stick` · к
+- [ ] **Maple Wood Sword** — `blue_skies:maple_sword` · н
+- [ ] **Maple Trapdoor** — `blue_skies:maple_trapdoor` · к
+- [ ] **Maple Vines** — `blue_skies:maple_vine` · н
+- [ ] **Maple Wood** — `blue_skies:maple_wood` · к
+- [ ] **Midday Bayhop** — `blue_skies:midday_bayhop` · н
+- [ ] **Midnight Glass** — `blue_skies:midnight_glass` · к
+- [ ] **Midnight Glass Pane** — `blue_skies:midnight_glass_pane` · к
+- [ ] **Midnight Sand** — `blue_skies:midnight_sand` · н
+- [ ] **Midnight Sandstone** — `blue_skies:midnight_sandstone` · к
+- [ ] **Midnight Sandstone Pillar** — `blue_skies:midnight_sandstone_pillar` · к
+- [ ] **Midnight Sandstone Slab** — `blue_skies:midnight_sandstone_slab` · к
+- [ ] **Midnight Sandstone Stairs** — `blue_skies:midnight_sandstone_stairs` · к
+- [ ] **Midnight Sandstone Wall** — `blue_skies:midnight_sandstone_wall` · к
+- [ ] **Monitor Tail** — `blue_skies:monitor_tail` · н
+- [ ] **Moonlit Bloom** — `blue_skies:moonlit_bloom` · н
+- [ ] **Moonlit Water Lily** — `blue_skies:moonlit_water_lily` · н
+- [ ] **Moonstone** — `blue_skies:moonstone` · к
+- [ ] **Block of Moonstone** — `blue_skies:moonstone_block` · к
+- [ ] **Moonstone Button** — `blue_skies:moonstone_button` · н
+- [ ] **Moonstone Crystal** — `blue_skies:moonstone_crystal` · н
+- [ ] **Moonstone Lantern** — `blue_skies:moonstone_lantern` · н
+- [ ] **Moonstone Pressure Plate** — `blue_skies:moonstone_pressure_plate` · к
+- [ ] **Moonstone Shard** — `blue_skies:moonstone_shard` · н
+- [ ] **Moonstone Shield** — `blue_skies:moonstone_shield` · к
+- [ ] **Mossy Lunar Cobblestone** — `blue_skies:mossy_lunar_cobblestone` · к
+- [ ] **Mossy Lunar Cobblestone Slab** — `blue_skies:mossy_lunar_cobblestone_slab` · к
+- [ ] **Mossy Lunar Cobblestone Stairs** — `blue_skies:mossy_lunar_cobblestone_stairs` · к
+- [ ] **Mossy Lunar Cobblestone Wall** — `blue_skies:mossy_lunar_cobblestone_wall` · к
+- [ ] **Mossy Lunar Stone Bricks** — `blue_skies:mossy_lunar_stonebrick` · к
+- [ ] **Mossy Lunar Stone Brick Slab** — `blue_skies:mossy_lunar_stonebrick_slab` · к
+- [ ] **Mossy Lunar Stone Brick Stairs** — `blue_skies:mossy_lunar_stonebrick_stairs` · к
+- [ ] **Mossy Lunar Stone Brick Wall** — `blue_skies:mossy_lunar_stonebrick_wall` · к
+- [ ] **Mossy Turquoise Cobblestone** — `blue_skies:mossy_turquoise_cobblestone` · к
+- [ ] **Mossy Turquoise Cobblestone Slab** — `blue_skies:mossy_turquoise_cobblestone_slab` · к
+- [ ] **Mossy Turquoise Cobblestone Stairs** — `blue_skies:mossy_turquoise_cobblestone_stairs` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

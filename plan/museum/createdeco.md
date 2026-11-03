@@ -1,0 +1,418 @@
+# Музей: Create Deco (createdeco)
+
+Предметов: 405 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 405 предметов.*
+
+- [ ] **Andesite Bars** — `createdeco:andesite_bars` · н
+- [ ] **Andesite Bars Overlay** — `createdeco:andesite_bars_overlay` · н
+- [ ] **Andesite Catwalk** — `createdeco:andesite_catwalk` · н
+- [ ] **Andesite Catwalk Railing** — `createdeco:andesite_catwalk_railing` · н
+- [ ] **Andesite Catwalk Stairs** — `createdeco:andesite_catwalk_stairs` · н
+- [ ] **Andesite Door** — `createdeco:andesite_door` · н
+- [ ] **Andesite Train Hull** — `createdeco:andesite_hull` · н
+- [ ] **Andesite Mesh Fence** — `createdeco:andesite_mesh_fence` · н
+- [ ] **Andesite Alloy Sheet** — `createdeco:andesite_sheet` · н
+- [ ] **Andesite Sheet Metal** — `createdeco:andesite_sheet_metal` · н
+- [ ] **Andesite Support** — `createdeco:andesite_support` · н
+- [ ] **Andesite Support Wedge** — `createdeco:andesite_support_wedge` · н
+- [ ] **Andesite Trapdoor** — `createdeco:andesite_trapdoor` · н
+- [ ] **Andesite Window** — `createdeco:andesite_window` · н
+- [ ] **Andesite Window Pane** — `createdeco:andesite_window_pane` · н
+- [ ] **Black Placard** — `createdeco:black_placard` · н
+- [ ] **Black Shipping Container** — `createdeco:black_shipping_container` · н
+- [ ] **Blue Andesite Cage Lamp** — `createdeco:blue_andesite_lamp` · н
+- [ ] **Blue Brass Cage Lamp** — `createdeco:blue_brass_lamp` · н
+- [ ] **Blue Brick Slab** — `createdeco:blue_brick_slab` · н
+- [ ] **Blue Brick Stairs** — `createdeco:blue_brick_stairs` · н
+- [ ] **Blue Brick Wall** — `createdeco:blue_brick_wall` · н
+- [ ] **Blue Bricks** — `createdeco:blue_bricks` · н
+- [ ] **Blue Copper Cage Lamp** — `createdeco:blue_copper_lamp` · н
+- [ ] **Blue Industrial Iron Cage Lamp** — `createdeco:blue_industrial_iron_lamp` · н
+- [ ] **Blue Iron Cage Lamp** — `createdeco:blue_iron_lamp` · н
+- [ ] **Blue Placard** — `createdeco:blue_placard` · н
+- [ ] **Blue Shipping Container** — `createdeco:blue_shipping_container` · н
+- [ ] **Blue Zinc Cage Lamp** — `createdeco:blue_zinc_lamp` · н
+- [ ] **Brass Bars** — `createdeco:brass_bars` · н
+- [ ] **Brass Bars Overlay** — `createdeco:brass_bars_overlay` · н
+- [ ] **Brass Catwalk** — `createdeco:brass_catwalk` · н
+- [ ] **Brass Catwalk Railing** — `createdeco:brass_catwalk_railing` · н
+- [ ] **Brass Catwalk Stairs** — `createdeco:brass_catwalk_stairs` · н
+- [ ] **Brass Coin** — `createdeco:brass_coin` · н
+- [ ] **BrassCoin Stack Block** — `createdeco:brass_coinstack` · н
+- [ ] **Brass Door** — `createdeco:brass_door` · н
+- [ ] **Brass Train Hull** — `createdeco:brass_hull` · н
+- [ ] **Brass Mesh Fence** — `createdeco:brass_mesh_fence` · н
+- [ ] **Brass Sheet Metal** — `createdeco:brass_sheet_metal` · н
+- [ ] **Brass Support** — `createdeco:brass_support` · н
+- [ ] **Brass Support Wedge** — `createdeco:brass_support_wedge` · н
+- [ ] **Brass Trapdoor** — `createdeco:brass_trapdoor` · н
+- [ ] **Brass Window** — `createdeco:brass_window` · н
+- [ ] **Brass Window Pane** — `createdeco:brass_window_pane` · н
+- [ ] **Brown Placard** — `createdeco:brown_placard` · н
+- [ ] **Brown Shipping Container** — `createdeco:brown_shipping_container` · н
+- [ ] **Copper Bars** — `createdeco:copper_bars` · н
+- [ ] **Copper Bars Overlay** — `createdeco:copper_bars_overlay` · н
+- [ ] **Copper Catwalk** — `createdeco:copper_catwalk` · н
+- [ ] **Copper Catwalk Railing** — `createdeco:copper_catwalk_railing` · н
+- [ ] **Copper Catwalk Stairs** — `createdeco:copper_catwalk_stairs` · н
+- [ ] **Copper Coin** — `createdeco:copper_coin` · н
+- [ ] **CopperCoin Stack Block** — `createdeco:copper_coinstack` · н
+- [ ] **Copper Door** — `createdeco:copper_door` · н
+- [ ] **Copper Train Hull** — `createdeco:copper_hull` · н
+- [ ] **Copper Mesh Fence** — `createdeco:copper_mesh_fence` · н
+- [ ] **Copper Sheet Metal** — `createdeco:copper_sheet_metal` · н
+- [ ] **Copper Support** — `createdeco:copper_support` · н
+- [ ] **Copper Support Wedge** — `createdeco:copper_support_wedge` · н
+- [ ] **Copper Trapdoor** — `createdeco:copper_trapdoor` · н
+- [ ] **Copper Window** — `createdeco:copper_window` · н
+- [ ] **Copper Window Pane** — `createdeco:copper_window_pane` · н
+- [ ] **Corner Blue Brick Slab** — `createdeco:corner_blue_brick_slab` · н
+- [ ] **Corner Blue Brick Stairs** — `createdeco:corner_blue_brick_stairs` · н
+- [ ] **Corner Blue Brick Wall** — `createdeco:corner_blue_brick_wall` · н
+- [ ] **Corner Blue Bricks** — `createdeco:corner_blue_bricks` · н
+- [ ] **Corner Dean Brick Slab** — `createdeco:corner_dean_brick_slab` · н
+- [ ] **Corner Dean Brick Stairs** — `createdeco:corner_dean_brick_stairs` · н
+- [ ] **Corner Dean Brick Wall** — `createdeco:corner_dean_brick_wall` · н
+- [ ] **Corner Dean Bricks** — `createdeco:corner_dean_bricks` · н
+- [ ] **Corner Dusk Brick Slab** — `createdeco:corner_dusk_brick_slab` · н
+- [ ] **Corner Dusk Brick Stairs** — `createdeco:corner_dusk_brick_stairs` · н
+- [ ] **Corner Dusk Brick Wall** — `createdeco:corner_dusk_brick_wall` · н
+- [ ] **Corner Dusk Bricks** — `createdeco:corner_dusk_bricks` · н
+- [ ] **Corner Pearl Brick Slab** — `createdeco:corner_pearl_brick_slab` · н
+- [ ] **Corner Pearl Brick Stairs** — `createdeco:corner_pearl_brick_stairs` · н
+- [ ] **Corner Pearl Brick Wall** — `createdeco:corner_pearl_brick_wall` · н
+- [ ] **Corner Pearl Bricks** — `createdeco:corner_pearl_bricks` · н
+- [ ] **Corner Red Brick Slab** — `createdeco:corner_red_brick_slab` · н
+- [ ] **Corner Red Brick Stairs** — `createdeco:corner_red_brick_stairs` · н
+- [ ] **Corner Red Brick Wall** — `createdeco:corner_red_brick_wall` · н
+- [ ] **Corner Red Bricks** — `createdeco:corner_red_bricks` · н
+- [ ] **Corner Scarlet Brick Slab** — `createdeco:corner_scarlet_brick_slab` · н
+- [ ] **Corner Scarlet Brick Stairs** — `createdeco:corner_scarlet_brick_stairs` · н
+- [ ] **Corner Scarlet Brick Wall** — `createdeco:corner_scarlet_brick_wall` · н
+- [ ] **Corner Scarlet Bricks** — `createdeco:corner_scarlet_bricks` · н
+- [ ] **Corner Umber Brick Slab** — `createdeco:corner_umber_brick_slab` · н
+- [ ] **Corner Umber Brick Stairs** — `createdeco:corner_umber_brick_stairs` · н
+- [ ] **Corner Umber Brick Wall** — `createdeco:corner_umber_brick_wall` · н
+- [ ] **Corner Umber Bricks** — `createdeco:corner_umber_bricks` · н
+- [ ] **Corner Verdant Brick Slab** — `createdeco:corner_verdant_brick_slab` · н
+- [ ] **Corner Verdant Brick Stairs** — `createdeco:corner_verdant_brick_stairs` · н
+- [ ] **Corner Verdant Brick Wall** — `createdeco:corner_verdant_brick_wall` · н
+- [ ] **Corner Verdant Bricks** — `createdeco:corner_verdant_bricks` · н
+- [ ] **Cracked Blue Brick Slab** — `createdeco:cracked_blue_brick_slab` · н
+- [ ] **Cracked Blue Brick Stairs** — `createdeco:cracked_blue_brick_stairs` · н
+- [ ] **Cracked Blue Brick Wall** — `createdeco:cracked_blue_brick_wall` · н
+- [ ] **Cracked Blue Bricks** — `createdeco:cracked_blue_bricks` · н
+- [ ] **Cracked Dean Brick Slab** — `createdeco:cracked_dean_brick_slab` · н
+- [ ] **Cracked Dean Brick Stairs** — `createdeco:cracked_dean_brick_stairs` · н
+- [ ] **Cracked Dean Brick Wall** — `createdeco:cracked_dean_brick_wall` · н
+- [ ] **Cracked Dean Bricks** — `createdeco:cracked_dean_bricks` · н
+- [ ] **Cracked Dusk Brick Slab** — `createdeco:cracked_dusk_brick_slab` · н
+- [ ] **Cracked Dusk Brick Stairs** — `createdeco:cracked_dusk_brick_stairs` · н
+- [ ] **Cracked Dusk Brick Wall** — `createdeco:cracked_dusk_brick_wall` · н
+- [ ] **Cracked Dusk Bricks** — `createdeco:cracked_dusk_bricks` · н
+- [ ] **Cracked Pearl Brick Slab** — `createdeco:cracked_pearl_brick_slab` · н
+- [ ] **Cracked Pearl Brick Stairs** — `createdeco:cracked_pearl_brick_stairs` · н
+- [ ] **Cracked Pearl Brick Wall** — `createdeco:cracked_pearl_brick_wall` · н
+- [ ] **Cracked Pearl Bricks** — `createdeco:cracked_pearl_bricks` · н
+- [ ] **Cracked Red Brick Slab** — `createdeco:cracked_red_brick_slab` · н
+- [ ] **Cracked Red Brick Stairs** — `createdeco:cracked_red_brick_stairs` · н
+- [ ] **Cracked Red Brick Wall** — `createdeco:cracked_red_brick_wall` · н
+- [ ] **Cracked Red Bricks** — `createdeco:cracked_red_bricks` · н
+- [ ] **Cracked Scarlet Brick Slab** — `createdeco:cracked_scarlet_brick_slab` · н
+- [ ] **Cracked Scarlet Brick Stairs** — `createdeco:cracked_scarlet_brick_stairs` · н
+- [ ] **Cracked Scarlet Brick Wall** — `createdeco:cracked_scarlet_brick_wall` · н
+- [ ] **Cracked Scarlet Bricks** — `createdeco:cracked_scarlet_bricks` · н
+- [ ] **Cracked Umber Brick Slab** — `createdeco:cracked_umber_brick_slab` · н
+- [ ] **Cracked Umber Brick Stairs** — `createdeco:cracked_umber_brick_stairs` · н
+- [ ] **Cracked Umber Brick Wall** — `createdeco:cracked_umber_brick_wall` · н
+- [ ] **Cracked Umber Bricks** — `createdeco:cracked_umber_bricks` · н
+- [ ] **Cracked Verdant Brick Slab** — `createdeco:cracked_verdant_brick_slab` · н
+- [ ] **Cracked Verdant Brick Stairs** — `createdeco:cracked_verdant_brick_stairs` · н
+- [ ] **Cracked Verdant Brick Wall** — `createdeco:cracked_verdant_brick_wall` · н
+- [ ] **Cracked Verdant Bricks** — `createdeco:cracked_verdant_bricks` · н
+- [ ] **Cyan Placard** — `createdeco:cyan_placard` · н
+- [ ] **Cyan Shipping Container** — `createdeco:cyan_shipping_container` · н
+- [ ] **Dean Brick Slab** — `createdeco:dean_brick_slab` · н
+- [ ] **Dean Brick Stairs** — `createdeco:dean_brick_stairs` · н
+- [ ] **Dean Brick Wall** — `createdeco:dean_brick_wall` · н
+- [ ] **Dean Bricks** — `createdeco:dean_bricks` · н
+- [ ] **Creeper Decal** — `createdeco:decal_creeper` · н
+- [ ] **Cross Decal** — `createdeco:decal_cross` · н
+- [ ] **Down Arrow Decal** — `createdeco:decal_down` · н
+- [ ] **Down Left Arrow Decal** — `createdeco:decal_down_left` · н
+- [ ] **Down Right Arrow Decal** — `createdeco:decal_down_right` · н
+- [ ] **Electrical Decal** — `createdeco:decal_electrical` · н
+- [ ] **Fire Decal** — `createdeco:decal_fire` · н
+- [ ] **Fire Diamond Decal** — `createdeco:decal_fire_diamond` · н
+- [ ] **Flow Decal** — `createdeco:decal_flow` · н
+- [ ] **Fluid Decal** — `createdeco:decal_fluid` · н
+- [ ] **Ice Decal** — `createdeco:decal_ice` · н
+- [ ] **Left Arrow Decal** — `createdeco:decal_left` · н
+- [ ] **No Entry Decal** — `createdeco:decal_no_entry` · н
+- [ ] **Radioactive Decal** — `createdeco:decal_radioactive` · н
+- [ ] **Right Arrow Decal** — `createdeco:decal_right` · н
+- [ ] **Skull Decal** — `createdeco:decal_skull` · н
+- [ ] **Up Left Arrow Decal** — `createdeco:decal_top_left` · н
+- [ ] **Up Right Arrow Decal** — `createdeco:decal_top_right` · н
+- [ ] **Up Arrow Decal** — `createdeco:decal_up` · н
+- [ ] **Warning Decal** — `createdeco:decal_warning` · н
+- [ ] **Dusk Brick Slab** — `createdeco:dusk_brick_slab` · н
+- [ ] **Dusk Brick Stairs** — `createdeco:dusk_brick_stairs` · н
+- [ ] **Dusk Brick Wall** — `createdeco:dusk_brick_wall` · н
+- [ ] **Dusk Bricks** — `createdeco:dusk_bricks` · н
+- [ ] **Gold Coin** — `createdeco:gold_coin` · н
+- [ ] **GoldCoin Stack Block** — `createdeco:gold_coinstack` · н
+- [ ] **Gray Placard** — `createdeco:gray_placard` · н
+- [ ] **Gray Shipping Container** — `createdeco:gray_shipping_container` · н
+- [ ] **Green Andesite Cage Lamp** — `createdeco:green_andesite_lamp` · н
+- [ ] **Green Brass Cage Lamp** — `createdeco:green_brass_lamp` · н
+- [ ] **Green Copper Cage Lamp** — `createdeco:green_copper_lamp` · н
+- [ ] **Green Industrial Iron Cage Lamp** — `createdeco:green_industrial_iron_lamp` · н
+- [ ] **Green Iron Cage Lamp** — `createdeco:green_iron_lamp` · н
+- [ ] **Green Placard** — `createdeco:green_placard` · н
+- [ ] **Green Shipping Container** — `createdeco:green_shipping_container` · н
+- [ ] **Green Zinc Cage Lamp** — `createdeco:green_zinc_lamp` · н
+- [ ] **Industrial Iron Bars** — `createdeco:industrial_iron_bars` · н
+- [ ] **Industrial Iron Bars Overlay** — `createdeco:industrial_iron_bars_overlay` · н
+- [ ] **Industrial Iron Catwalk** — `createdeco:industrial_iron_catwalk` · н
+- [ ] **Industrial Iron Catwalk Railing** — `createdeco:industrial_iron_catwalk_railing` · н
+- [ ] **Industrial Iron Catwalk Stairs** — `createdeco:industrial_iron_catwalk_stairs` · н
+- [ ] **Industrial Iron Coin** — `createdeco:industrial_iron_coin` · н
+- [ ] **Industrial IronCoin Stack Block** — `createdeco:industrial_iron_coinstack` · н
+- [ ] **Industrial Iron Door** — `createdeco:industrial_iron_door` · н
+- [ ] **Industrial Iron Train Hull** — `createdeco:industrial_iron_hull` · н
+- [ ] **Industrial Iron Ingot** — `createdeco:industrial_iron_ingot` · н
+- [ ] **Industrial Iron Ladder** — `createdeco:industrial_iron_ladder` · н
+- [ ] **Industrial Iron Mesh Fence** — `createdeco:industrial_iron_mesh_fence` · н
+- [ ] **Industrial Iron Nugget** — `createdeco:industrial_iron_nugget` · н
+- [ ] **Industrial Iron Sheet** — `createdeco:industrial_iron_sheet` · н
+- [ ] **Industrial Iron Sheet Metal** — `createdeco:industrial_iron_sheet_metal` · н
+- [ ] **Industrial Iron Support** — `createdeco:industrial_iron_support` · н
+- [ ] **Industrial Iron Support Wedge** — `createdeco:industrial_iron_support_wedge` · н
+- [ ] **Industrial Iron Trapdoor** — `createdeco:industrial_iron_trapdoor` · н
+- [ ] **Industrial Iron Window** — `createdeco:industrial_iron_window` · н
+- [ ] **Industrial Iron Window Pane** — `createdeco:industrial_iron_window_pane` · н
+- [ ] **Iron Bars Overlay** — `createdeco:iron_bars_overlay` · н
+- [ ] **Iron Catwalk** — `createdeco:iron_catwalk` · н
+- [ ] **Iron Catwalk Railing** — `createdeco:iron_catwalk_railing` · н
+- [ ] **Iron Catwalk Stairs** — `createdeco:iron_catwalk_stairs` · н
+- [ ] **Iron Coin** — `createdeco:iron_coin` · н
+- [ ] **IronCoin Stack Block** — `createdeco:iron_coinstack` · н
+- [ ] **Iron Train Hull** — `createdeco:iron_hull` · н
+- [ ] **Iron Ladder** — `createdeco:iron_ladder` · н
+- [ ] **Iron Mesh Fence** — `createdeco:iron_mesh_fence` · н
+- [ ] **Iron Sheet Metal** — `createdeco:iron_sheet_metal` · н
+- [ ] **Iron Support** — `createdeco:iron_support` · н
+- [ ] **Iron Support Wedge** — `createdeco:iron_support_wedge` · н
+- [ ] **Iron Window** — `createdeco:iron_window` · н
+- [ ] **Iron Window Pane** — `createdeco:iron_window_pane` · н
+- [ ] **Light Blue Placard** — `createdeco:light_blue_placard` · н
+- [ ] **Light blue Shipping Container** — `createdeco:light_blue_shipping_container` · н
+- [ ] **Light Gray Placard** — `createdeco:light_gray_placard` · н
+- [ ] **Light gray Shipping Container** — `createdeco:light_gray_shipping_container` · н
+- [ ] **Lime Placard** — `createdeco:lime_placard` · н
+- [ ] **Lime Shipping Container** — `createdeco:lime_shipping_container` · н
+- [ ] **Locked Andesite Door** — `createdeco:locked_andesite_door` · н
+- [ ] **Locked Brass Door** — `createdeco:locked_brass_door` · н
+- [ ] **Locked Copper Door** — `createdeco:locked_copper_door` · н
+- [ ] **Locked Industrial Iron Door** — `createdeco:locked_industrial_iron_door` · н
+- [ ] **Locked Zinc Door** — `createdeco:locked_zinc_door` · н
+- [ ] **Long Blue Brick Slab** — `createdeco:long_blue_brick_slab` · н
+- [ ] **Long Blue Brick Stairs** — `createdeco:long_blue_brick_stairs` · н
+- [ ] **Long Blue Brick Wall** — `createdeco:long_blue_brick_wall` · н
+- [ ] **Long Blue Bricks** — `createdeco:long_blue_bricks` · н
+- [ ] **Long Dean Brick Slab** — `createdeco:long_dean_brick_slab` · н
+- [ ] **Long Dean Brick Stairs** — `createdeco:long_dean_brick_stairs` · н
+- [ ] **Long Dean Brick Wall** — `createdeco:long_dean_brick_wall` · н
+- [ ] **Long Dean Bricks** — `createdeco:long_dean_bricks` · н
+- [ ] **Long Dusk Brick Slab** — `createdeco:long_dusk_brick_slab` · н
+- [ ] **Long Dusk Brick Stairs** — `createdeco:long_dusk_brick_stairs` · н
+- [ ] **Long Dusk Brick Wall** — `createdeco:long_dusk_brick_wall` · н
+- [ ] **Long Dusk Bricks** — `createdeco:long_dusk_bricks` · н
+- [ ] **Long Pearl Brick Slab** — `createdeco:long_pearl_brick_slab` · н
+- [ ] **Long Pearl Brick Stairs** — `createdeco:long_pearl_brick_stairs` · н
+- [ ] **Long Pearl Brick Wall** — `createdeco:long_pearl_brick_wall` · н
+- [ ] **Long Pearl Bricks** — `createdeco:long_pearl_bricks` · н
+- [ ] **Long Red Brick Slab** — `createdeco:long_red_brick_slab` · н
+- [ ] **Long Red Brick Stairs** — `createdeco:long_red_brick_stairs` · н
+- [ ] **Long Red Brick Wall** — `createdeco:long_red_brick_wall` · н
+- [ ] **Long Red Bricks** — `createdeco:long_red_bricks` · н
+- [ ] **Long Scarlet Brick Slab** — `createdeco:long_scarlet_brick_slab` · н
+- [ ] **Long Scarlet Brick Stairs** — `createdeco:long_scarlet_brick_stairs` · н
+- [ ] **Long Scarlet Brick Wall** — `createdeco:long_scarlet_brick_wall` · н
+- [ ] **Long Scarlet Bricks** — `createdeco:long_scarlet_bricks` · н
+- [ ] **Long Umber Brick Slab** — `createdeco:long_umber_brick_slab` · н
+- [ ] **Long Umber Brick Stairs** — `createdeco:long_umber_brick_stairs` · н
+- [ ] **Long Umber Brick Wall** — `createdeco:long_umber_brick_wall` · н
+- [ ] **Long Umber Bricks** — `createdeco:long_umber_bricks` · н
+- [ ] **Long Verdant Brick Slab** — `createdeco:long_verdant_brick_slab` · н
+- [ ] **Long Verdant Brick Stairs** — `createdeco:long_verdant_brick_stairs` · н
+- [ ] **Long Verdant Brick Wall** — `createdeco:long_verdant_brick_wall` · н
+- [ ] **Long Verdant Bricks** — `createdeco:long_verdant_bricks` · н
+- [ ] **Magenta Placard** — `createdeco:magenta_placard` · н
+- [ ] **Magenta Shipping Container** — `createdeco:magenta_shipping_container` · н
+- [ ] **Mossy Blue Brick Slab** — `createdeco:mossy_blue_brick_slab` · н
+- [ ] **Mossy Blue Brick Stairs** — `createdeco:mossy_blue_brick_stairs` · н
+- [ ] **Mossy Blue Brick Wall** — `createdeco:mossy_blue_brick_wall` · н
+- [ ] **Mossy Blue Bricks** — `createdeco:mossy_blue_bricks` · н
+- [ ] **Mossy Dean Brick Slab** — `createdeco:mossy_dean_brick_slab` · н
+- [ ] **Mossy Dean Brick Stairs** — `createdeco:mossy_dean_brick_stairs` · н
+- [ ] **Mossy Dean Brick Wall** — `createdeco:mossy_dean_brick_wall` · н
+- [ ] **Mossy Dean Bricks** — `createdeco:mossy_dean_bricks` · н
+- [ ] **Mossy Dusk Brick Slab** — `createdeco:mossy_dusk_brick_slab` · н
+- [ ] **Mossy Dusk Brick Stairs** — `createdeco:mossy_dusk_brick_stairs` · н
+- [ ] **Mossy Dusk Brick Wall** — `createdeco:mossy_dusk_brick_wall` · н
+- [ ] **Mossy Dusk Bricks** — `createdeco:mossy_dusk_bricks` · н
+- [ ] **Mossy Pearl Brick Slab** — `createdeco:mossy_pearl_brick_slab` · н
+- [ ] **Mossy Pearl Brick Stairs** — `createdeco:mossy_pearl_brick_stairs` · н
+- [ ] **Mossy Pearl Brick Wall** — `createdeco:mossy_pearl_brick_wall` · н
+- [ ] **Mossy Pearl Bricks** — `createdeco:mossy_pearl_bricks` · н
+- [ ] **Mossy Red Brick Slab** — `createdeco:mossy_red_brick_slab` · н
+- [ ] **Mossy Red Brick Stairs** — `createdeco:mossy_red_brick_stairs` · н
+- [ ] **Mossy Red Brick Wall** — `createdeco:mossy_red_brick_wall` · н
+- [ ] **Mossy Red Bricks** — `createdeco:mossy_red_bricks` · н
+- [ ] **Mossy Scarlet Brick Slab** — `createdeco:mossy_scarlet_brick_slab` · н
+- [ ] **Mossy Scarlet Brick Stairs** — `createdeco:mossy_scarlet_brick_stairs` · н
+- [ ] **Mossy Scarlet Brick Wall** — `createdeco:mossy_scarlet_brick_wall` · н
+- [ ] **Mossy Scarlet Bricks** — `createdeco:mossy_scarlet_bricks` · н
+- [ ] **Mossy Umber Brick Slab** — `createdeco:mossy_umber_brick_slab` · н
+- [ ] **Mossy Umber Brick Stairs** — `createdeco:mossy_umber_brick_stairs` · н
+- [ ] **Mossy Umber Brick Wall** — `createdeco:mossy_umber_brick_wall` · н
+- [ ] **Mossy Umber Bricks** — `createdeco:mossy_umber_bricks` · н
+- [ ] **Mossy Verdant Brick Slab** — `createdeco:mossy_verdant_brick_slab` · н
+- [ ] **Mossy Verdant Brick Stairs** — `createdeco:mossy_verdant_brick_stairs` · н
+- [ ] **Mossy Verdant Brick Wall** — `createdeco:mossy_verdant_brick_wall` · н
+- [ ] **Mossy Verdant Bricks** — `createdeco:mossy_verdant_bricks` · н
+- [ ] **Netherite Coin** — `createdeco:netherite_coin` · н
+- [ ] **NetheriteCoin Stack Block** — `createdeco:netherite_coinstack` · н
+- [ ] **Netherite Nugget** — `createdeco:netherite_nugget` · н
+- [ ] **Netherite Sheet** — `createdeco:netherite_sheet` · н
+- [ ] **Orange Placard** — `createdeco:orange_placard` · н
+- [ ] **Orange Shipping Container** — `createdeco:orange_shipping_container` · н
+- [ ] **Pearl Brick Slab** — `createdeco:pearl_brick_slab` · н
+- [ ] **Pearl Brick Stairs** — `createdeco:pearl_brick_stairs` · н
+- [ ] **Pearl Brick Wall** — `createdeco:pearl_brick_wall` · н
+- [ ] **Pearl Bricks** — `createdeco:pearl_bricks` · н
+- [ ] **Pink Placard** — `createdeco:pink_placard` · н
+- [ ] **Pink Shipping Container** — `createdeco:pink_shipping_container` · н
+- [ ] **Purple Placard** — `createdeco:purple_placard` · н
+- [ ] **Purple Shipping Container** — `createdeco:purple_shipping_container` · н
+- [ ] **Red Andesite Cage Lamp** — `createdeco:red_andesite_lamp` · н
+- [ ] **Red Brass Cage Lamp** — `createdeco:red_brass_lamp` · н
+- [ ] **Red Copper Cage Lamp** — `createdeco:red_copper_lamp` · н
+- [ ] **Red Industrial Iron Cage Lamp** — `createdeco:red_industrial_iron_lamp` · н
+- [ ] **Red Iron Cage Lamp** — `createdeco:red_iron_lamp` · н
+- [ ] **Red Placard** — `createdeco:red_placard` · н
+- [ ] **Red Shipping Container** — `createdeco:red_shipping_container` · н
+- [ ] **Red Zinc Cage Lamp** — `createdeco:red_zinc_lamp` · н
+- [ ] **Scarlet Brick Slab** — `createdeco:scarlet_brick_slab` · н
+- [ ] **Scarlet Brick Stairs** — `createdeco:scarlet_brick_stairs` · н
+- [ ] **Scarlet Brick Wall** — `createdeco:scarlet_brick_wall` · н
+- [ ] **Scarlet Bricks** — `createdeco:scarlet_bricks` · н
+- [ ] **Short Blue Brick Slab** — `createdeco:short_blue_brick_slab` · н
+- [ ] **Short Blue Brick Stairs** — `createdeco:short_blue_brick_stairs` · н
+- [ ] **Short Blue Brick Wall** — `createdeco:short_blue_brick_wall` · н
+- [ ] **Short Blue Bricks** — `createdeco:short_blue_bricks` · н
+- [ ] **Short Dean Brick Slab** — `createdeco:short_dean_brick_slab` · н
+- [ ] **Short Dean Brick Stairs** — `createdeco:short_dean_brick_stairs` · н
+- [ ] **Short Dean Brick Wall** — `createdeco:short_dean_brick_wall` · н
+- [ ] **Short Dean Bricks** — `createdeco:short_dean_bricks` · н
+- [ ] **Short Dusk Brick Slab** — `createdeco:short_dusk_brick_slab` · н
+- [ ] **Short Dusk Brick Stairs** — `createdeco:short_dusk_brick_stairs` · н
+- [ ] **Short Dusk Brick Wall** — `createdeco:short_dusk_brick_wall` · н
+- [ ] **Short Dusk Bricks** — `createdeco:short_dusk_bricks` · н
+- [ ] **Short Pearl Brick Slab** — `createdeco:short_pearl_brick_slab` · н
+- [ ] **Short Pearl Brick Stairs** — `createdeco:short_pearl_brick_stairs` · н
+- [ ] **Short Pearl Brick Wall** — `createdeco:short_pearl_brick_wall` · н
+- [ ] **Short Pearl Bricks** — `createdeco:short_pearl_bricks` · н
+- [ ] **Short Red Brick Slab** — `createdeco:short_red_brick_slab` · н
+- [ ] **Short Red Brick Stairs** — `createdeco:short_red_brick_stairs` · н
+- [ ] **Short Red Brick Wall** — `createdeco:short_red_brick_wall` · н
+- [ ] **Short Red Bricks** — `createdeco:short_red_bricks` · н
+- [ ] **Short Scarlet Brick Slab** — `createdeco:short_scarlet_brick_slab` · н
+- [ ] **Short Scarlet Brick Stairs** — `createdeco:short_scarlet_brick_stairs` · н
+- [ ] **Short Scarlet Brick Wall** — `createdeco:short_scarlet_brick_wall` · н
+- [ ] **Short Scarlet Bricks** — `createdeco:short_scarlet_bricks` · н
+- [ ] **Short Umber Brick Slab** — `createdeco:short_umber_brick_slab` · н
+- [ ] **Short Umber Brick Stairs** — `createdeco:short_umber_brick_stairs` · н
+- [ ] **Short Umber Brick Wall** — `createdeco:short_umber_brick_wall` · н
+- [ ] **Short Umber Bricks** — `createdeco:short_umber_bricks` · н
+- [ ] **Short Verdant Brick Slab** — `createdeco:short_verdant_brick_slab` · н
+- [ ] **Short Verdant Brick Stairs** — `createdeco:short_verdant_brick_stairs` · н
+- [ ] **Short Verdant Brick Wall** — `createdeco:short_verdant_brick_wall` · н
+- [ ] **Short Verdant Bricks** — `createdeco:short_verdant_bricks` · н
+- [ ] **Tiled Blue Brick Slab** — `createdeco:tiled_blue_brick_slab` · н
+- [ ] **Tiled Blue Brick Stairs** — `createdeco:tiled_blue_brick_stairs` · н
+- [ ] **Tiled Blue Brick Wall** — `createdeco:tiled_blue_brick_wall` · н
+- [ ] **Tiled Blue Bricks** — `createdeco:tiled_blue_bricks` · н
+- [ ] **Tiled Dean Brick Slab** — `createdeco:tiled_dean_brick_slab` · н
+- [ ] **Tiled Dean Brick Stairs** — `createdeco:tiled_dean_brick_stairs` · н
+- [ ] **Tiled Dean Brick Wall** — `createdeco:tiled_dean_brick_wall` · н
+- [ ] **Tiled Dean Bricks** — `createdeco:tiled_dean_bricks` · н
+- [ ] **Tiled Dusk Brick Slab** — `createdeco:tiled_dusk_brick_slab` · н
+- [ ] **Tiled Dusk Brick Stairs** — `createdeco:tiled_dusk_brick_stairs` · н
+- [ ] **Tiled Dusk Brick Wall** — `createdeco:tiled_dusk_brick_wall` · н
+- [ ] **Tiled Dusk Bricks** — `createdeco:tiled_dusk_bricks` · н
+- [ ] **Tiled Pearl Brick Slab** — `createdeco:tiled_pearl_brick_slab` · н
+- [ ] **Tiled Pearl Brick Stairs** — `createdeco:tiled_pearl_brick_stairs` · н
+- [ ] **Tiled Pearl Brick Wall** — `createdeco:tiled_pearl_brick_wall` · н
+- [ ] **Tiled Pearl Bricks** — `createdeco:tiled_pearl_bricks` · н
+- [ ] **Tiled Red Brick Slab** — `createdeco:tiled_red_brick_slab` · н
+- [ ] **Tiled Red Brick Stairs** — `createdeco:tiled_red_brick_stairs` · н
+- [ ] **Tiled Red Brick Wall** — `createdeco:tiled_red_brick_wall` · н
+- [ ] **Tiled Red Bricks** — `createdeco:tiled_red_bricks` · н
+- [ ] **Tiled Scarlet Brick Slab** — `createdeco:tiled_scarlet_brick_slab` · н
+- [ ] **Tiled Scarlet Brick Stairs** — `createdeco:tiled_scarlet_brick_stairs` · н
+- [ ] **Tiled Scarlet Brick Wall** — `createdeco:tiled_scarlet_brick_wall` · н
+- [ ] **Tiled Scarlet Bricks** — `createdeco:tiled_scarlet_bricks` · н
+- [ ] **Tiled Umber Brick Slab** — `createdeco:tiled_umber_brick_slab` · н
+- [ ] **Tiled Umber Brick Stairs** — `createdeco:tiled_umber_brick_stairs` · н
+- [ ] **Tiled Umber Brick Wall** — `createdeco:tiled_umber_brick_wall` · н
+- [ ] **Tiled Umber Bricks** — `createdeco:tiled_umber_bricks` · н
+- [ ] **Tiled Verdant Brick Slab** — `createdeco:tiled_verdant_brick_slab` · н
+- [ ] **Tiled Verdant Brick Stairs** — `createdeco:tiled_verdant_brick_stairs` · н
+- [ ] **Tiled Verdant Brick Wall** — `createdeco:tiled_verdant_brick_wall` · н
+- [ ] **Tiled Verdant Bricks** — `createdeco:tiled_verdant_bricks` · н
+- [ ] **Umber Brick Slab** — `createdeco:umber_brick_slab` · н
+- [ ] **Umber Brick Stairs** — `createdeco:umber_brick_stairs` · н
+- [ ] **Umber Brick Wall** — `createdeco:umber_brick_wall` · н
+- [ ] **Umber Bricks** — `createdeco:umber_bricks` · н
+- [ ] **Verdant Brick Slab** — `createdeco:verdant_brick_slab` · н
+- [ ] **Verdant Brick Stairs** — `createdeco:verdant_brick_stairs` · н
+- [ ] **Verdant Brick Wall** — `createdeco:verdant_brick_wall` · н
+- [ ] **Verdant Bricks** — `createdeco:verdant_bricks` · н
+- [ ] **White Shipping Container** — `createdeco:white_shipping_container` · н
+- [ ] **Yellow Andesite Cage Lamp** — `createdeco:yellow_andesite_lamp` · н
+- [ ] **Yellow Brass Cage Lamp** — `createdeco:yellow_brass_lamp` · н
+- [ ] **Yellow Copper Cage Lamp** — `createdeco:yellow_copper_lamp` · н
+- [ ] **Yellow Industrial Iron Cage Lamp** — `createdeco:yellow_industrial_iron_lamp` · н
+- [ ] **Yellow Iron Cage Lamp** — `createdeco:yellow_iron_lamp` · н
+- [ ] **Yellow Placard** — `createdeco:yellow_placard` · н
+- [ ] **Yellow Shipping Container** — `createdeco:yellow_shipping_container` · н
+- [ ] **Yellow Zinc Cage Lamp** — `createdeco:yellow_zinc_lamp` · н
+- [ ] **Zinc Bars** — `createdeco:zinc_bars` · н
+- [ ] **Zinc Bars Overlay** — `createdeco:zinc_bars_overlay` · н
+- [ ] **Zinc Catwalk** — `createdeco:zinc_catwalk` · н
+- [ ] **Zinc Catwalk Railing** — `createdeco:zinc_catwalk_railing` · н
+- [ ] **Zinc Catwalk Stairs** — `createdeco:zinc_catwalk_stairs` · н
+- [ ] **Zinc Coin** — `createdeco:zinc_coin` · н
+- [ ] **ZincCoin Stack Block** — `createdeco:zinc_coinstack` · н
+- [ ] **Zinc Door** — `createdeco:zinc_door` · н
+- [ ] **Zinc Train Hull** — `createdeco:zinc_hull` · н
+- [ ] **Zinc Ladder** — `createdeco:zinc_ladder` · н
+- [ ] **Zinc Mesh Fence** — `createdeco:zinc_mesh_fence` · н
+- [ ] **Zinc Sheet** — `createdeco:zinc_sheet` · н
+- [ ] **Zinc Sheet Metal** — `createdeco:zinc_sheet_metal` · н
+- [ ] **Zinc Support** — `createdeco:zinc_support` · н
+- [ ] **Zinc Support Wedge** — `createdeco:zinc_support_wedge` · н
+- [ ] **Zinc Trapdoor** — `createdeco:zinc_trapdoor` · н
+- [ ] **Zinc Window** — `createdeco:zinc_window` · н
+- [ ] **Zinc Window Pane** — `createdeco:zinc_window_pane` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

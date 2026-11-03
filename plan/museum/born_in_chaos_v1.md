@@ -1,0 +1,327 @@
+# Музей: Born in Chaos  (born_in_chaos_v1)
+
+Предметов: 314 · крафтимых по данным: 107 (34%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 314 предметов.*
+
+- [ ] **§4Ai** — `born_in_chaos_v1:ai` · н
+- [ ] **All Charm** — `born_in_chaos_v1:all_charm` · н
+- [ ] **§cMusic Disc** — `born_in_chaos_v1:anluka_doors` · н
+- [ ] **Argillite Lamp** — `born_in_chaos_v1:argillite_lamp` · к
+- [ ] **Dark Metal Armor Plate** — `born_in_chaos_v1:armor_plate_from_dark_metal` · к
+- [ ] **Baby Skeleton Spawn Egg** — `born_in_chaos_v1:baby_skeleton_minion_spawn_egg` · н
+- [ ] **Baby Skeleton Spawn Egg** — `born_in_chaos_v1:baby_skeleton_spawn_egg` · н
+- [ ] **Baby Spider Spawn Egg** — `born_in_chaos_v1:baby_spider_controlled_spawn_egg` · н
+- [ ] **Baby Spider Spawn Egg** — `born_in_chaos_v1:baby_spider_spawn_egg` · н
+- [ ] **§6Bag of Candy** — `born_in_chaos_v1:bagof_candy` · н
+- [ ] **Barrel Zombie Spawn Egg** — `born_in_chaos_v1:barrel_zombie_spawn_egg` · н
+- [ ] **Black Argillite** — `born_in_chaos_v1:black_argillite` · н
+- [ ] **Black Argillite Brick** — `born_in_chaos_v1:black_argillite_brick` · к
+- [ ] **§4Cursed Black Argillite Brick** — `born_in_chaos_v1:black_argillite_brick_n` · н
+- [ ] **Black Argillite Brick Slab** — `born_in_chaos_v1:black_argillite_brick_slab` · к
+- [ ] **§4Cursed Black Argillite Brick Slab** — `born_in_chaos_v1:black_argillite_brick_slab_n` · н
+- [ ] **Black Argillite Brick Stairs** — `born_in_chaos_v1:black_argillite_brick_stairs` · к
+- [ ] **§4Cursed Black Argillite Brick Stairs** — `born_in_chaos_v1:black_argillite_brick_stairs_n` · н
+- [ ] **Black Argillite Brick Wall** — `born_in_chaos_v1:black_argillite_brick_wall` · к
+- [ ] **§4Cursed Black Argillite Brick Wall** — `born_in_chaos_v1:black_argillite_brick_wall_n` · н
+- [ ] **Black Argillite Button** — `born_in_chaos_v1:black_argillite_button` · к
+- [ ] **Black Argillite Column** — `born_in_chaos_v1:black_argillite_column` · к
+- [ ] **§4Cursed Black Argillite Column** — `born_in_chaos_v1:black_argillite_column_n` · н
+- [ ] **Black Argillite Column Slab** — `born_in_chaos_v1:black_argillite_column_slab` · к
+- [ ] **§4Cursed Black Argillite Column Slab** — `born_in_chaos_v1:black_argillite_column_slab_n` · н
+- [ ] **§4Cursed Black Argillite** — `born_in_chaos_v1:black_argillite_n` · н
+- [ ] **Black Argillite Slab** — `born_in_chaos_v1:black_argillite_slab` · к
+- [ ] **§4Cursed Black Argillite Slab** — `born_in_chaos_v1:black_argillite_slab_n` · н
+- [ ] **Black Argillite Stairs** — `born_in_chaos_v1:black_argillite_stairs` · к
+- [ ] **§4Cursed Black Argillite Stairs** — `born_in_chaos_v1:black_argillite_stairs_n` · н
+- [ ] **Black Argillite Wall** — `born_in_chaos_v1:black_argillite_wall` · к
+- [ ] **§4Cursed Black Argillite Wall** — `born_in_chaos_v1:black_argillite_wall_n` · н
+- [ ] **Black Argillite Pressure Plate** — `born_in_chaos_v1:black_argillitepressureplate` · к
+- [ ] **Bloody Gadfly Eye** — `born_in_chaos_v1:bloody_gadfly_eye` · н
+- [ ] **Bloody Gadfly Spawn Egg** — `born_in_chaos_v1:bloody_gadfly_spawn_egg` · н
+- [ ] **Bone Handle** — `born_in_chaos_v1:bone_handle` · к
+- [ ] **Bone Heart** — `born_in_chaos_v1:bone_heart` · к
+- [ ] **Bone Imp Spawn Egg** — `born_in_chaos_v1:bone_imp_minion_spawn_egg` · н
+- [ ] **Bone Imp Spawn Egg** — `born_in_chaos_v1:bone_imp_spawn_egg` · н
+- [ ] **Bonescaller Spawn Egg** — `born_in_chaos_v1:bonescaller_not_despawn_spawn_egg` · н
+- [ ] **Bonescaller Spawn Egg** — `born_in_chaos_v1:bonescaller_spawn_egg` · н
+- [ ] **§6Bonescaller Staff** — `born_in_chaos_v1:bonescaller_staff` · к
+- [ ] **§cBottle of Magical Energy** — `born_in_chaos_v1:bottle_of_magical_energy` · н
+- [ ] **Bundle of Bones** — `born_in_chaos_v1:bundle_of_bones` · к
+- [ ] **Bury them all** — `born_in_chaos_v1:burythemall_icon` · н
+- [ ] **§4Cursed Cracked Black Argillite Brick** — `born_in_chaos_v1:c_black_argillite_brick_n` · н
+- [ ] **Caramel Pepper** — `born_in_chaos_v1:caramel_pepper` · н
+- [ ] **Carved Black Argillite** — `born_in_chaos_v1:carved_black_argillite` · к
+- [ ] **§4Cursed Carved Black Argillite** — `born_in_chaos_v1:carved_black_argillite_n` · н
+- [ ] **§cChaos Component** — `born_in_chaos_v1:chaos_component` · н
+- [ ] **Chaos Icon** — `born_in_chaos_v1:chaos_icon` · н
+- [ ] **§eCharm of Endurance** — `born_in_chaos_v1:charmof_endurance` · н
+- [ ] **§4Charm of Fury** — `born_in_chaos_v1:charmof_fury` · н
+- [ ] **§cCharm of Strength** — `born_in_chaos_v1:charmof_power` · н
+- [ ] **§bCharm of Resistance** — `born_in_chaos_v1:charmof_resistance` · н
+- [ ] **§2Charm of Stealth** — `born_in_chaos_v1:charmof_stealth` · н
+- [ ] **Cracked Black Argillite Brick** — `born_in_chaos_v1:chipped_black_argillite_brick` · к
+- [ ] **Chocolate Heart** — `born_in_chaos_v1:chocolate_heart` · н
+- [ ] **§6Closed Hound Trap** — `born_in_chaos_v1:closed_hound_trap` · н
+- [ ] **Cobweb Cover** — `born_in_chaos_v1:cobweb_cover` · к
+- [ ] **Coffee Candy** — `born_in_chaos_v1:coffee_candy` · н
+- [ ] **Controlled Baby Skeleton Spawn Egg** — `born_in_chaos_v1:controlled_baby_skeleton_spawn_egg` · н
+- [ ] **Controlled Baby Skeleton Spawn Egg** — `born_in_chaos_v1:controlled_spiritual_assistant_spawn_egg` · н
+- [ ] **Corpse Fish Spawn Egg** — `born_in_chaos_v1:corpse_fish_spawn_egg` · н
+- [ ] **Corpse Fly Spawn Egg** — `born_in_chaos_v1:corpse_fly_spawn_egg` · н
+- [ ] **Corpse Maggot** — `born_in_chaos_v1:corpse_maggot` · н
+- [ ] **Cultivated Pumpkin** — `born_in_chaos_v1:cultivated_pumpkin` · к
+- [ ] **§4Cursed Scarlet Ornate Glass Pane** — `born_in_chaos_v1:cursed_scarlet_ornate_glass_pane` · н
+- [ ] **§6Damned Demoman's Hat** — `born_in_chaos_v1:damned_demomans_hat_helmet` · н
+- [ ] **§cDark Atrium** — `born_in_chaos_v1:dark_atrium` · к
+- [ ] **Dark Charge** — `born_in_chaos_v1:dark_charge` · к
+- [ ] **Dark Grid** — `born_in_chaos_v1:dark_grid` · к
+- [ ] **Dark Ice** — `born_in_chaos_v1:dark_ice` · н
+- [ ] **§6Dark Metal Boots** — `born_in_chaos_v1:dark_metal_armor_boots` · к
+- [ ] **§6Dark Metal Chestplate** — `born_in_chaos_v1:dark_metal_armor_chestplate` · к
+- [ ] **§6Dark Metal Helmet** — `born_in_chaos_v1:dark_metal_armor_helmet` · к
+- [ ] **§6Dark Metal Leggings** — `born_in_chaos_v1:dark_metal_armor_leggings` · к
+- [ ] **Dark Metal Block** — `born_in_chaos_v1:dark_metal_block` · к
+- [ ] **Dark Metal Deposit** — `born_in_chaos_v1:dark_metal_deposit` · н
+- [ ] **Dark Metal Ingot** — `born_in_chaos_v1:dark_metal_ingot` · к
+- [ ] **Dark Metal Nugget** — `born_in_chaos_v1:dark_metal_nugget` · к
+- [ ] **§6Dark Ritual Dagger** — `born_in_chaos_v1:dark_ritual_dagger` · к
+- [ ] **Dark Rod** — `born_in_chaos_v1:dark_rod` · н
+- [ ] **Ornate Glass** — `born_in_chaos_v1:dark_stained_glass` · к
+- [ ] **Ornate Glass Pane** — `born_in_chaos_v1:dark_stained_glass_panel` · к
+- [ ] **Smithing Template** — `born_in_chaos_v1:dark_upgrade` · к
+- [ ] **Dark Vortex Spawn Egg** — `born_in_chaos_v1:dark_vortex_spawn_egg` · н
+- [ ] **§6Dark Warblade** — `born_in_chaos_v1:darkwarblade` · к
+- [ ] **§6Death Totem** — `born_in_chaos_v1:death_totem` · к
+- [ ] **Decaying Zombie Spawn Egg** — `born_in_chaos_v1:decaying_zombie_not_despawn_spawn_egg` · н
+- [ ] **Decaying Zombie Spawn Egg** — `born_in_chaos_v1:decaying_zombie_spawn_egg` · н
+- [ ] **Deceived Hopes Icon** — `born_in_chaos_v1:deceived_hopes_icon` · н
+- [ ] **Decrepit Skeleton Spawn Egg** — `born_in_chaos_v1:decrepit_skeleton_spawn_egg` · н
+- [ ] **Diamond Termite Shard** — `born_in_chaos_v1:diamond_termite_shard` · н
+- [ ] **Diamond Termite Spawn Egg** — `born_in_chaos_v1:diamond_termite_spawn_egg` · н
+- [ ] **Dire Hound Leader Spawn Egg** — `born_in_chaos_v1:dire_hound_leader_spawn_egg` · н
+- [ ] **Door Knight Spawn Egg** — `born_in_chaos_v1:door_knight_not_despawn_spawn_egg` · н
+- [ ] **Door Knight Spawn Egg** — `born_in_chaos_v1:door_knight_spawn_egg` · н
+- [ ] **Double Troubleicon** — `born_in_chaos_v1:double_troubleicon` · н
+- [ ] **Dread Hound Spawn Egg** — `born_in_chaos_v1:dread_hound_not_despawn_spawn_egg` · н
+- [ ] **Dread Hound Spawn Egg** — `born_in_chaos_v1:dread_hound_spawn_egg` · н
+- [ ] **§cElixir of Vampirism** — `born_in_chaos_v1:elixir_of_vampirism` · н
+- [ ] **§cElixir of Insect Protection** — `born_in_chaos_v1:elixirof_insect_protection` · н
+- [ ] **§cElixir of Wither Resistance** — `born_in_chaos_v1:elixirof_wither_resistance` · н
+- [ ] **Empty Fel Lamp** — `born_in_chaos_v1:empty_fel_lamp` · н
+- [ ] **§9Et§ber§ana§el §eC§6an§cdy** — `born_in_chaos_v1:eternal_candy` · к
+- [ ] **Ethereal Spirit** — `born_in_chaos_v1:ethereal_spirit` · н
+- [ ] **Evil Carved Pumpkin** — `born_in_chaos_v1:evil_carved_pumpkin` · н
+- [ ] **Excessflyswattericon** — `born_in_chaos_v1:excessflyswattericon` · н
+- [ ] **Exorcism Icon** — `born_in_chaos_v1:exorcism_icon` · н
+- [ ] **Fallen Chaos Knight Spawn Egg** — `born_in_chaos_v1:fallen_chaos_knight_spawn_egg` · н
+- [ ] **Fang of the Hound Leader** — `born_in_chaos_v1:fangofthe_hound_leader` · н
+- [ ] **§aFel Lamp** — `born_in_chaos_v1:fel_lamp` · к
+- [ ] **§aFel Soil** — `born_in_chaos_v1:fel_soil` · к
+- [ ] **§aFel Soil** — `born_in_chaos_v1:fel_soil_destructible` · н
+- [ ] **Felsteed Spawn Egg** — `born_in_chaos_v1:felsteed_spawn_egg` · н
+- [ ] **Fire Light Dust** — `born_in_chaos_v1:fire_dust` · н
+- [ ] **Fired Black Argillite** — `born_in_chaos_v1:fired_black_argillite` · к
+- [ ] **§4Cursed Fired Black Argillite** — `born_in_chaos_v1:fired_black_argillite_n` · н
+- [ ] **Firelight Spawn Egg** — `born_in_chaos_v1:firelight_not_despawn_spawn_egg` · н
+- [ ] **Firelight Spawn Egg** — `born_in_chaos_v1:firelight_spawn_egg` · н
+- [ ] **Flaming Evil Pumpkin** — `born_in_chaos_v1:flaming_evil_pumpkin` · к
+- [ ] **Fragile Scorched Planks** — `born_in_chaos_v1:fragile_scorched_boards` · н
+- [ ] **Fried Maggot** — `born_in_chaos_v1:fried_maggot` · к
+- [ ] **Fused Bone** — `born_in_chaos_v1:fused_bone` · н
+- [ ] **Glutton Fish Spawn Egg** — `born_in_chaos_v1:glutton_fish_spawn_egg` · н
+- [ ] **Gnawed Bones** — `born_in_chaos_v1:gnawed_bones` · н
+- [ ] **Good Demoman Icon** — `born_in_chaos_v1:good_demoman_icon` · н
+- [ ] **Gravestone Icon** — `born_in_chaos_v1:gravestone_icon` · н
+- [ ] **§6Great Reaper Axe** — `born_in_chaos_v1:great_reaper_axe` · к
+- [ ] **Green Ornate Glass** — `born_in_chaos_v1:green_stained_glass` · к
+- [ ] **Green Ornate Glass Pane** — `born_in_chaos_v1:green_stained_glass_panel` · к
+- [ ] **Gummy Vampire Teeth** — `born_in_chaos_v1:gummy_vampire_teeth` · н
+- [ ] **Hats** — `born_in_chaos_v1:hats` · н
+- [ ] **Holiday Candy** — `born_in_chaos_v1:holiday_candy` · н
+- [ ] **§6Hound Trap** — `born_in_chaos_v1:hound_trap` · к
+- [ ] **§3Infected Diamond Ore** — `born_in_chaos_v1:infected_deepslate_diamond_ore` · н
+- [ ] **§3Infected Diamond Ore** — `born_in_chaos_v1:infected_diamond_ore` · н
+- [ ] **Infernal Evil Pumpkin** — `born_in_chaos_v1:infernal_evil_pumpkin` · к
+- [ ] **§aInfernal Evil Pumpkin** — `born_in_chaos_v1:infernal_evil_pumpkin_s` · н
+- [ ] **Infernal Medicine Icon** — `born_in_chaos_v1:infernal_medicine_icon` · н
+- [ ] **Infernal Spirit Spawn Egg** — `born_in_chaos_v1:infernal_spirit_spawn_egg` · н
+- [ ] **§dIntoxicating Bomb** — `born_in_chaos_v1:intoxicatind_bomb` · к
+- [ ] **§6Intoxicating Dagger** — `born_in_chaos_v1:intoxicating_dagger` · к
+- [ ] **Intoxicating Decoction** — `born_in_chaos_v1:intoxicating_decoction` · н
+- [ ] **Lifestealer Bone** — `born_in_chaos_v1:lifestealer_bone` · н
+- [ ] **Lifestealer Skull** — `born_in_chaos_v1:lifestealer_skull` · н
+- [ ] **Lifestealer Spawn Egg** — `born_in_chaos_v1:lifestealer_spawn_egg` · н
+- [ ] **Lifestealer Spawn Egg** — `born_in_chaos_v1:lifestealer_true_form_spawn_egg` · н
+- [ ] **Lifeturnedouttobeacomedyicon** — `born_in_chaos_v1:lifeturnedouttobeacomedyicon` · н
+- [ ] **§aLord Pumpkinhead Spawn Egg** — `born_in_chaos_v1:lord_pumpkinhead_head_spawn_egg` · н
+- [ ] **Lord Pumpkinhead Icon** — `born_in_chaos_v1:lord_pumpkinhead_icon` · н
+- [ ] **§aLord Pumpkinhead Spawn Egg** — `born_in_chaos_v1:lord_pumpkinhead_spawn_egg` · н
+- [ ] **§aLord Pumpkinhead Spawn Egg** — `born_in_chaos_v1:lord_pumpkinhead_withouta_horse_spawn_egg` · н
+- [ ] **Lord Pumpkinhead's Empty Lamp** — `born_in_chaos_v1:lord_pumpkinheads_empty_lamp` · н
+- [ ] **§6Lord Pumpkinhead's Hat** — `born_in_chaos_v1:lord_pumpkinheads_hat_helmet` · н
+- [ ] **§aLord Pumpkinhead's Lamp** — `born_in_chaos_v1:lord_pumpkinheads_lamp` · к
+- [ ] **§aLord The Headless Spawn Egg** — `born_in_chaos_v1:lord_the_headless_spawn_egg` · н
+- [ ] **§aLord's Felsteed Spawn Egg** — `born_in_chaos_v1:lords_felsteed_spawn_egg` · н
+- [ ] **Corpse Maggot Spawn Egg** — `born_in_chaos_v1:maggot_spawn_egg` · н
+- [ ] **§bMagical Holiday Candy** — `born_in_chaos_v1:magical_holiday_candy` · н
+- [ ] **Magicskull** — `born_in_chaos_v1:magicskull` · н
+- [ ] **Marigolds** — `born_in_chaos_v1:marigolds` · н
+- [ ] **Mesh Door** — `born_in_chaos_v1:mesh_door` · н
+- [ ] **Mint Candy** — `born_in_chaos_v1:mint_candy` · к
+- [ ] **Mint Ice Cream** — `born_in_chaos_v1:mint_ice_cream` · к
+- [ ] **§6Missionary Hat** — `born_in_chaos_v1:missionary_hat_helmet` · н
+- [ ] **Missionary icon** — `born_in_chaos_v1:missionaryicon` · н
+- [ ] **Missionary Spawn Egg** — `born_in_chaos_v1:missioner_spawn_egg` · н
+- [ ] **Monster Flesh** — `born_in_chaos_v1:monster_flesh` · н
+- [ ] **Monster Skin** — `born_in_chaos_v1:monster_skin` · н
+- [ ] **Mossy Black Argillite Brick** — `born_in_chaos_v1:mossy_black_argillite_brick` · к
+- [ ] **§4Cursed Mossy Black Argillite Brick** — `born_in_chaos_v1:mossy_black_argillite_brick_n` · н
+- [ ] **Spiders Mother Spawn Egg** — `born_in_chaos_v1:mother_spider_spawn_egg` · н
+- [ ] **Mr. Pumpkin Spawn Egg** — `born_in_chaos_v1:mr_pumpkin_controlled_spawn_egg` · н
+- [ ] **Mr. Pumpkin Spawn Egg** — `born_in_chaos_v1:mr_pumpkin_spawn_egg` · н
+- [ ] **Mrs Pumpkin Spawn Egg** — `born_in_chaos_v1:mrs_pumpkin_spawn_egg` · н
+- [ ] **Nightmare Claw** — `born_in_chaos_v1:nightmare_claw` · н
+- [ ] **§6Nightmare Boots** — `born_in_chaos_v1:nightmare_mantleofthe_night_boots` · к
+- [ ] **§6Nightmare Robe** — `born_in_chaos_v1:nightmare_mantleofthe_night_chestplate` · к
+- [ ] **§6Nightmare Mask** — `born_in_chaos_v1:nightmare_mantleofthe_night_helmet` · к
+- [ ] **§6Nightmare Pants** — `born_in_chaos_v1:nightmare_mantleofthe_night_leggings` · к
+- [ ] **§6Nightmare Scythe** — `born_in_chaos_v1:nightmare_scythe` · к
+- [ ] **Nightmare Stalker Skull** — `born_in_chaos_v1:nightmare_stalker_skull` · н
+- [ ] **Nightmare Stalker Spawn Egg** — `born_in_chaos_v1:nightmare_stalker_spawn_egg` · н
+- [ ] **Orange Ornate Glass** — `born_in_chaos_v1:orange_stained_glass` · к
+- [ ] **Orange Ornate Glass Pane** — `born_in_chaos_v1:orange_stained_glass_panel` · к
+- [ ] **§4Orb of the Summoner** — `born_in_chaos_v1:orbofthe_summoner` · н
+- [ ] **§dPhantom Bomb** — `born_in_chaos_v1:phantom_bomb` · к
+- [ ] **Phantom Creeper Spawn Egg** — `born_in_chaos_v1:phantom_creeper_copy_spawn_egg` · н
+- [ ] **Phantom Creeper Spawn Egg** — `born_in_chaos_v1:phantom_creeper_spawn_egg` · н
+- [ ] **Phantom Powder** — `born_in_chaos_v1:phantom_powder` · н
+- [ ] **Piece of Dark Metal** — `born_in_chaos_v1:pieceofdarkmetal` · к
+- [ ] **Pile of Skulls** — `born_in_chaos_v1:pile_of_skulls` · к
+- [ ] **Pile of Dark Metal** — `born_in_chaos_v1:pileof_dark_metal` · к
+- [ ] **§cElixir of Rampage** — `born_in_chaos_v1:potion_of_rampage` · н
+- [ ] **Puddle of stimulation** — `born_in_chaos_v1:puddleof_stimulation` · н
+- [ ] **Puddle of intoxication** — `born_in_chaos_v1:puddleofintoxication` · н
+- [ ] **Pumpkin Bomb Spawn Egg** — `born_in_chaos_v1:pumpkin_bomb_spawn_egg` · н
+- [ ] **Pumpkin Bruiser Spawn Egg** — `born_in_chaos_v1:pumpkin_bruiser_spawn_egg` · н
+- [ ] **§6Pumpkin Bullet** — `born_in_chaos_v1:pumpkin_bullet` · к
+- [ ] **Pumpkin Dunce Spawn Egg** — `born_in_chaos_v1:pumpkin_dunce_spawn_egg` · н
+- [ ] **Pumpkin Spirit Icon** — `born_in_chaos_v1:pumpkin_spirit_icon` · н
+- [ ] **Pumpkin Spirit Spawn Egg** — `born_in_chaos_v1:pumpkin_spirit_spawn_egg` · н
+- [ ] **§6Pumpkin Pistol** — `born_in_chaos_v1:pumpkinhandgun` · н
+- [ ] **Pumpkinhead Icon** — `born_in_chaos_v1:pumpkinhead_icon` · н
+- [ ] **Pumpkinhead Spawn Egg** — `born_in_chaos_v1:pumpkinhead_spawn_egg` · н
+- [ ] **§6Pumpkin Staff** — `born_in_chaos_v1:pumpkinstaffa` · н
+- [ ] **Purple Ornate Glass** — `born_in_chaos_v1:purple_stained_glass` · к
+- [ ] **Purple Ornate Glass Pane** — `born_in_chaos_v1:purple_stained_glass_panel` · к
+- [ ] **Restless Spirit Spawn Egg** — `born_in_chaos_v1:restless_spirit_spawn_egg` · н
+- [ ] **Felsteed Spawn Egg** — `born_in_chaos_v1:riding_felsteed_spawn_egg` · н
+- [ ] **Felsteed Spawn Egg** — `born_in_chaos_v1:riding_lords_felsteed_spawn_egg` · н
+- [ ] **River Mint** — `born_in_chaos_v1:river_mint` · н
+- [ ] **Rotten Fish** — `born_in_chaos_v1:rotten_fish` · н
+- [ ] **Rotten Infernal Pumpkin** — `born_in_chaos_v1:rotten_infernal_pumpkin` · к
+- [ ] **Rotten Soil** — `born_in_chaos_v1:rotten_soil` · к
+- [ ] **Scarlet Persecutor Spawn Egg** — `born_in_chaos_v1:scarlet_persecutor_spawn_egg` · н
+- [ ] **Scarlet Ornate Glass** — `born_in_chaos_v1:scarlet_stained_glass` · к
+- [ ] **Scarlet Ornate Glass Pane** — `born_in_chaos_v1:scarlet_stained_glass_panel` · к
+- [ ] **Scorched Log** — `born_in_chaos_v1:scorched_log` · к
+- [ ] **Scorched Planks** — `born_in_chaos_v1:scorched_planks` · к
+- [ ] **Scorched Button** — `born_in_chaos_v1:scorched_planks_button` · к
+- [ ] **Scorched Planks Door** — `born_in_chaos_v1:scorched_planks_door` · к
+- [ ] **Scorched Fence** — `born_in_chaos_v1:scorched_planks_fence` · к
+- [ ] **Scorched Fence Gate** — `born_in_chaos_v1:scorched_planks_fence_gate` · к
+- [ ] **Scorched Pressure Plate** — `born_in_chaos_v1:scorched_planks_pressure_plates` · к
+- [ ] **Scorched Planks Slab** — `born_in_chaos_v1:scorched_planks_slab` · к
+- [ ] **Scorched Planks Stairs** — `born_in_chaos_v1:scorched_planks_stairs` · к
+- [ ] **Scorched Trapdoor** — `born_in_chaos_v1:scorched_planks_trapdoor` · к
+- [ ] **Scorched Wood** — `born_in_chaos_v1:scorched_wood` · к
+- [ ] **Glutton Fish Eye** — `born_in_chaos_v1:sea_terror_eye` · н
+- [ ] **Glutton Fish Stomach** — `born_in_chaos_v1:sea_terror_stomach` · н
+- [ ] **Seared Spirit Spawn Egg** — `born_in_chaos_v1:seared_spirit_not_despawn_spawn_egg` · н
+- [ ] **Seared Spirit Spawn Egg** — `born_in_chaos_v1:seared_spirit_spawn_egg` · н
+- [ ] **Seed of Chaos** — `born_in_chaos_v1:seedof_chaos` · н
+- [ ] **Senor Pumpkin Spawn Egg** — `born_in_chaos_v1:senor_pumpkin_spawn_egg` · н
+- [ ] **§6Music Disc** — `born_in_chaos_v1:serpumpkinhead_m` · н
+- [ ] **Shake and Mix** — `born_in_chaos_v1:shakeand_mixicon` · н
+- [ ] **§6Sharpened Dark Metal Sword** — `born_in_chaos_v1:sharpened_dark_metal_sword` · к
+- [ ] **Shattered Skull** — `born_in_chaos_v1:shattered_skull` · к
+- [ ] **§6Shell Mace** — `born_in_chaos_v1:shell_mace` · к
+- [ ] **Siamese Skeletons Spawn Egg** — `born_in_chaos_v1:siamese_skeletons_spawn_egg` · н
+- [ ] **Siamese Skeleton Spawn Egg** — `born_in_chaos_v1:siamese_skeletonsleft_spawn_egg` · н
+- [ ] **Siamese Skeleton Spawn Egg** — `born_in_chaos_v1:siamese_skeletonsright_spawn_egg` · н
+- [ ] **Sir Pumpkinhead Spawn Egg** — `born_in_chaos_v1:sir_pumpkinhead_spawn_egg` · н
+- [ ] **Sir Pumpkinhead Spawn Egg** — `born_in_chaos_v1:sir_pumpkinhead_without_horse_spawn_egg` · н
+- [ ] **Sir The Headless Spawn Egg** — `born_in_chaos_v1:sir_the_headless_spawn_egg` · н
+- [ ] **Skeleton Demoman Spawn Egg** — `born_in_chaos_v1:skeleton_demoman_spawn_egg` · н
+- [ ] **Skeleton Thrasher Spawn Egg** — `born_in_chaos_v1:skeleton_thrasher_not_despawn_spawn_egg` · н
+- [ ] **Skeleton Thrasher Spawn Egg** — `born_in_chaos_v1:skeleton_thrasher_spawn_egg` · н
+- [ ] **§6Skullbreaker Hammer** — `born_in_chaos_v1:skullbreaker_hammer` · к
+- [ ] **Smoked Fish** — `born_in_chaos_v1:smoked_fish` · к
+- [ ] **Smoked Flesh** — `born_in_chaos_v1:smoked_flesh` · к
+- [ ] **Smoked Monster Flesh** — `born_in_chaos_v1:smoked_monster_flesh` · к
+- [ ] **§aSmoldering Infernal Ember** — `born_in_chaos_v1:smoldering_infernal_ember` · н
+- [ ] **Smoldering Scorched Log** — `born_in_chaos_v1:smoldering_scorched_log` · к
+- [ ] **Smoldering Scorched Wood** — `born_in_chaos_v1:smoldering_scorched_wood` · к
+- [ ] **§6Soul Saber** — `born_in_chaos_v1:soul_cutlass` · к
+- [ ] **§6Soulbane** — `born_in_chaos_v1:soulbane` · н
+- [ ] **Spawn Structure: §7Mound Hounds** — `born_in_chaos_v1:spawn_structure_mound_hounds` · н
+- [ ] **Spawn Structures: §5Clown Caravan** — `born_in_chaos_v1:spawn_structures_clown_cart` · н
+- [ ] **Spawn Structures: §4Dark Tower** — `born_in_chaos_v1:spawn_structures_dark_tower` · н
+- [ ] **Spawn Structures: §eFarm** — `born_in_chaos_v1:spawn_structures_farm` · н
+- [ ] **Spawn Structures: §cFirewell** — `born_in_chaos_v1:spawn_structures_firewell` · н
+- [ ] **Spawn Structures: §6Lookout Tower** — `born_in_chaos_v1:spawn_structures_lookout_tower` · н
+- [ ] **§6Spider Bite** — `born_in_chaos_v1:spider_bite_sword` · к
+- [ ] **Spider Mandible** — `born_in_chaos_v1:spider_mandible` · н
+- [ ] **Spiny Shell** — `born_in_chaos_v1:spiny_shell` · н
+- [ ] **§6Spiny Shell Chestplate** — `born_in_chaos_v1:spiny_shell_armor_chestplate` · к
+- [ ] **§6Spiny Shell Helmet** — `born_in_chaos_v1:spiny_shell_armor_helmet` · к
+- [ ] **§6Spiny Shell Trap** — `born_in_chaos_v1:spiny_shell_trap` · к
+- [ ] **Spirit Guide Assistant Spawn Egg** — `born_in_chaos_v1:spirit_guide_assistant_spawn_egg` · н
+- [ ] **Spirit Guide Spawn Egg** — `born_in_chaos_v1:spirit_guide_spawn_egg` · н
+- [ ] **Spirit Guideicon** — `born_in_chaos_v1:spirit_guideicon` · н
+- [ ] **Spirit of Chaos Spawn Egg** — `born_in_chaos_v1:spiritof_chaos_spawn_egg` · н
+- [ ] **Spiritual Dust** — `born_in_chaos_v1:spiritual_dust` · к
+- [ ] **§6Spiritual Guide Sombrero** — `born_in_chaos_v1:spiritual_guide_sombrero_helmet` · н
+- [ ] **§6Spirit Divider** — `born_in_chaos_v1:spiritual_sword` · к
+- [ ] **Spruce Cowboy In The Moonlighticon** — `born_in_chaos_v1:spruce_cowboy_in_the_moonlighticon` · н
+- [ ] **Squire of the dark lord** — `born_in_chaos_v1:squireofthedarklordicon` · н
+- [ ] **§6Staff of Magic Arrows** — `born_in_chaos_v1:staff_of_magic_arrows` · к
+- [ ] **Staff of Blindness** — `born_in_chaos_v1:staffof_blindness` · н
+- [ ] **Stained Black Argillite Brick** — `born_in_chaos_v1:stained_black_argillite_brick` · к
+- [ ] **§4Cursed Stained Black Argillite Brick** — `born_in_chaos_v1:stained_black_argillite_brick_n` · н
+- [ ] **§6Stimulating Bomb** — `born_in_chaos_v1:stimulating_bomb` · к
+- [ ] **Stimulating Decoction** — `born_in_chaos_v1:stimulating_decoction` · н
+- [ ] **§4Stop Hammer** — `born_in_chaos_v1:stop_hammer` · н
+- [ ] **Stripped Scorched Log** — `born_in_chaos_v1:stripped_scorched_log` · н
+- [ ] **Stripped Scorched Wood** — `born_in_chaos_v1:stripped_scorched_wood` · н
+- [ ] **Supreme Bonescaller Spawn Egg** — `born_in_chaos_v1:supreme_bonescaller_not_despawn_spawn_egg` · н
+- [ ] **Supreme Bonescaller Spawn Egg** — `born_in_chaos_v1:supreme_bonescaller_spawn_egg` · н
+- [ ] **Supreme Bonescaller Spawn Egg** — `born_in_chaos_v1:supreme_bonescaller_stage_2_spawn_egg` · н
+- [ ] **§4Supreme Measure** — `born_in_chaos_v1:supreme_measure` · н
+- [ ] **Swarmer Spawn Egg** — `born_in_chaos_v1:swarmer_spawn_egg` · н
+- [ ] **§6Sweet Axe** — `born_in_chaos_v1:sweet_axe` · к
+- [ ] **§6Sweet Sword** — `born_in_chaos_v1:sweet_sword` · к
+- [ ] **Thornshell Crab Spawn Egg** — `born_in_chaos_v1:thornshell_crab_spawn_egg` · н
+- [ ] **§bTombstone: 2003wise** — `born_in_chaos_v1:tombstone_2003wise` · н
+- [ ] **§cTombstone: DarkTitan066** — `born_in_chaos_v1:tombstone_dark_titan_066` · н
+- [ ] **§dTombstone: Derivas** — `born_in_chaos_v1:tombstone_derivas` · н
+- [ ] **§bTombstone: Fubuki Banzai** — `born_in_chaos_v1:tombstone_fubuki_banzai` · н
+- [ ] **§6Tombstone: Orion** — `born_in_chaos_v1:tombstone_orion` · н
+- [ ] **§6Tombstone: Petasi** — `born_in_chaos_v1:tombstone_petasi` · н
+- [ ] **Transformative Flower** — `born_in_chaos_v1:transformative_flower` · к
+- [ ] **§bTransmuting Elixir** — `born_in_chaos_v1:transmuting_elixir` · к
+- [ ] **§6Pitchfork** — `born_in_chaos_v1:trident_hayfork` · н
+- [ ] **Webbed Stone** — `born_in_chaos_v1:webbed_cobblestone` · к
+- [ ] **§6Wood Splitter** — `born_in_chaos_v1:wood_splitter_axe` · н
+- [ ] **Zombie Bruiser Spawn Egg** — `born_in_chaos_v1:zombie_bruiser_spawn_egg` · н
+- [ ] **Zombie Clown Spawn Egg** — `born_in_chaos_v1:zombie_clown_not_despawn_spawn_egg` · н
+- [ ] **Zombie Clown Spawn Egg** — `born_in_chaos_v1:zombie_clown_spawn_egg` · н
+- [ ] **Zombie Fisherman Spawn Egg** — `born_in_chaos_v1:zombie_fisherman_spawn_egg` · н
+- [ ] **Zombie Lumberjack Spawn Egg** — `born_in_chaos_v1:zombie_lumberjack_spawn_egg` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

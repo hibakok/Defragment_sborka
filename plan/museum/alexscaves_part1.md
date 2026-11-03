@@ -1,0 +1,485 @@
+# Музей: Alex's Caves (alexscaves)
+
+Предметов: 546 · крафтимых по данным: 308 (56%) · файлов: 2
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 1 из 2
+
+*В части: 470 предметов.*
+
+- [ ] **Abyssal Altar** — `alexscaves:abyssal_altar` · к
+- [ ] **Abyssmarine** — `alexscaves:abyssmarine` · н
+- [ ] **Abyssmarine Brick Slab** — `alexscaves:abyssmarine_brick_slab` · к
+- [ ] **Abyssmarine Brick Stairs** — `alexscaves:abyssmarine_brick_stairs` · к
+- [ ] **Abyssmarine Brick Wall** — `alexscaves:abyssmarine_brick_wall` · к
+- [ ] **Abyssmarine Bricks** — `alexscaves:abyssmarine_bricks` · к
+- [ ] **Abyssmarine Pillar** — `alexscaves:abyssmarine_pillar` · к
+- [ ] **Abyssmarine Slab** — `alexscaves:abyssmarine_slab` · к
+- [ ] **Abyssmarine Stairs** — `alexscaves:abyssmarine_stairs` · к
+- [ ] **Abyssmarine Tiles** — `alexscaves:abyssmarine_tiles` · к
+- [ ] **Abyssmarine Wall** — `alexscaves:abyssmarine_wall` · к
+- [ ] **Acid** — `alexscaves:acid` · н
+- [ ] **Bucket of Acid** — `alexscaves:acid_bucket` · н
+- [ ] **Acidic Radrock** — `alexscaves:acidic_radrock` · к
+- [ ] **Alex's Caves Icon** — `alexscaves:advancement_tab_icon` · н
+- [ ] **Alex Meal** — `alexscaves:alex_meal` · к
+- [ ] **Amber** — `alexscaves:amber` · к
+- [ ] **Amber Curiosity** — `alexscaves:amber_curiosity` · н
+- [ ] **Amber Monolith** — `alexscaves:amber_monolith` · к
+- [ ] **Ambersol** — `alexscaves:ambersol` · н
+- [ ] **Ancient Leaves** — `alexscaves:ancient_leaves` · н
+- [ ] **Ancient Sapling** — `alexscaves:ancient_sapling` · н
+- [ ] **Archaic Vine** — `alexscaves:archaic_vine` · н
+- [ ] **Archaic Vine** — `alexscaves:archaic_vine_plant` · н
+- [ ] **Atlatitan Egg** — `alexscaves:atlatitan_egg` · н
+- [ ] **Azure Magnet** — `alexscaves:azure_magnet` · к
+- [ ] **Azure Neodymium Ingot** — `alexscaves:azure_neodymium_ingot` · к
+- [ ] **Azure Neodymium Node** — `alexscaves:azure_neodymium_node` · к
+- [ ] **Azure Neodymium Pillar** — `alexscaves:azure_neodymium_pillar` · к
+- [ ] **Baleen-Covered Bone** — `alexscaves:baleen_bone` · н
+- [ ] **Beholder** — `alexscaves:beholder` · к
+- [ ] **Bioluminescent Torch** — `alexscaves:bioluminescent_torch` · к
+- [ ] **Bioluminescent Torch** — `alexscaves:bioluminescent_wall_torch` · н
+- [ ] **Bioluminesscence** — `alexscaves:bioluminesscence` · н
+- [ ] **Biome Treat** — `alexscaves:biome_treat` · к
+- [ ] **Block of Azure Neodymium** — `alexscaves:block_of_azure_neodymium` · к
+- [ ] **Block of Chiseled Chocolate** — `alexscaves:block_of_chiseled_chocolate` · к
+- [ ] **Block of Chocolate** — `alexscaves:block_of_chocolate` · н
+- [ ] **Block of Chocolate Frosting** — `alexscaves:block_of_chocolate_frosting` · к
+- [ ] **Block of Frosted Chocolate** — `alexscaves:block_of_frosted_chocolate` · к
+- [ ] **Block of Frosting** — `alexscaves:block_of_frosting` · к
+- [ ] **Block of Pearl** — `alexscaves:block_of_pearl` · к
+- [ ] **Block of Polished Chocolate** — `alexscaves:block_of_polished_chocolate` · к
+- [ ] **Block of Scarlet Neodymium** — `alexscaves:block_of_scarlet_neodymium` · к
+- [ ] **Block of Uranium** — `alexscaves:block_of_uranium` · к
+- [ ] **Block of Vanilla Frosting** — `alexscaves:block_of_vanilla_frosting` · к
+- [ ] **Bone Nodule** — `alexscaves:bone_nodule` · к
+- [ ] **Bone Ribs** — `alexscaves:bone_ribs` · к
+- [ ] **Bone Worms** — `alexscaves:bone_worms` · н
+- [ ] **Burrowing Arrow** — `alexscaves:burrowing_arrow` · к
+- [ ] **Cake Layer** — `alexscaves:cake_layer` · н
+- [ ] **Candy Cane** — `alexscaves:candy_cane` · н
+- [ ] **Candy Cane Block** — `alexscaves:candy_cane_block` · к
+- [ ] **Candy Cane Hook** — `alexscaves:candy_cane_hook` · к
+- [ ] **Candy Cane Pole** — `alexscaves:candy_cane_pole` · к
+- [ ] **Caramel** — `alexscaves:caramel` · н
+- [ ] **Caramel Apple** — `alexscaves:caramel_apple` · к
+- [ ] **Carmine Froglight** — `alexscaves:carmine_froglight` · н
+- [ ] **Cave Compendium** — `alexscaves:cave_book` · к
+- [ ] **Cave Codex** — `alexscaves:cave_codex` · н
+- [ ] **Cave Biome Map** — `alexscaves:cave_map` · н
+- [ ] **Cave Biome Map** — `alexscaves:cave_map_filled` · н
+- [ ] **Cave Biome Map** — `alexscaves:cave_map_inventory` · н
+- [ ] **Cave Biome Map** — `alexscaves:cave_map_loading` · н
+- [ ] **Cave Painting** — `alexscaves:cave_painting` · н
+- [ ] **Cave Tablet** — `alexscaves:cave_tablet` · н
+- [ ] **Charred Remnant** — `alexscaves:charred_remnant` · н
+- [ ] **Chiseled Candy Cane Block** — `alexscaves:chiseled_candy_cane_block` · к
+- [ ] **Chocolate Ice Cream** — `alexscaves:chocolate_ice_cream` · к
+- [ ] **Chocolate Ice Cream Scoop** — `alexscaves:chocolate_ice_cream_scoop` · н
+- [ ] **Cinder Block** — `alexscaves:cinder_block` · к
+- [ ] **Cinder Block Slab** — `alexscaves:cinder_block_slab` · к
+- [ ] **Cinder Block Stairs** — `alexscaves:cinder_block_stairs` · к
+- [ ] **Cinder Block Wall** — `alexscaves:cinder_block_wall` · к
+- [ ] **Cinder Brick** — `alexscaves:cinder_brick` · к
+- [ ] **Cloak of Darkness** — `alexscaves:cloak_of_darkness` · к
+- [ ] **Confection Oven** — `alexscaves:confection_oven` · к
+- [ ] **Conversion Crucible** — `alexscaves:conversion_crucible` · к
+- [ ] **Cooked Dinosaur Chop** — `alexscaves:cooked_dinosaur_chop` · к
+- [ ] **Cooked Lanternfish** — `alexscaves:cooked_lanternfish` · к
+- [ ] **Cooked Mussel** — `alexscaves:cooked_mussel` · к
+- [ ] **Cooked Radgill** — `alexscaves:cooked_radgill` · к
+- [ ] **Cooked Trilocaris Tail** — `alexscaves:cooked_trilocaris_tail` · к
+- [ ] **Cooked Tripodfish** — `alexscaves:cooked_tripodfish` · к
+- [ ] **Cookie Block** — `alexscaves:cookie_block` · к
+- [ ] **Copper Valve** — `alexscaves:copper_valve` · к
+- [ ] **Coprolith** — `alexscaves:coprolith` · к
+- [ ] **Coprolith Coal Ore** — `alexscaves:coprolith_coal_ore` · н
+- [ ] **Coprolith Slab** — `alexscaves:coprolith_slab` · к
+- [ ] **Coprolith Stairs** — `alexscaves:coprolith_stairs` · к
+- [ ] **Coprolith Wall** — `alexscaves:coprolith_wall` · к
+- [ ] **Corrodent Teeth** — `alexscaves:corrodent_teeth` · н
+- [ ] **Curly Fern** — `alexscaves:curly_fern` · н
+- [ ] **Cycad** — `alexscaves:cycad` · н
+- [ ] **Dark Tatters** — `alexscaves:dark_tatters` · н
+- [ ] **Darkened Apple** — `alexscaves:darkened_apple` · к
+- [ ] **Deep Sea Sushi Roll** — `alexscaves:deep_sea_sushi_roll` · к
+- [ ] **Depth Charge** — `alexscaves:depth_charge` · н
+- [ ] **Depth Glass** — `alexscaves:depth_glass` · к
+- [ ] **Desolate Dagger** — `alexscaves:desolate_dagger` · н
+- [ ] **Dinosaur Chop** — `alexscaves:dinosaur_chop` · н
+- [ ] **Dinosaur Nugget** — `alexscaves:dinosaur_nugget` · к
+- [ ] **Dinosaur Pottery Sherd** — `alexscaves:dinosaur_pottery_sherd` · н
+- [ ] **Dinosaur Train** — `alexscaves:dinosaur_train` · н
+- [ ] **Disc Fragment** — `alexscaves:disc_fragment_fusion` · н
+- [ ] **Disc Fragment** — `alexscaves:disc_fragment_tasty` · н
+- [ ] **Diving Boots** — `alexscaves:diving_boots` · н
+- [ ] **Diving Chestplate** — `alexscaves:diving_chestplate` · н
+- [ ] **Diving Helmet** — `alexscaves:diving_helmet` · н
+- [ ] **Diving Leggings** — `alexscaves:diving_leggings` · н
+- [ ] **Dough Block** — `alexscaves:dough_block` · н
+- [ ] **Drain** — `alexscaves:drain` · к
+- [ ] **Dreadbow** — `alexscaves:dreadbow` · к
+- [ ] **Dreadbow** — `alexscaves:dreadbow_inventory` · н
+- [ ] **Dreadbow** — `alexscaves:dreadbow_pulling_0_inventory` · н
+- [ ] **Dreadbow** — `alexscaves:dreadbow_pulling_1_inventory` · н
+- [ ] **Dreadbow** — `alexscaves:dreadbow_pulling_2_inventory` · н
+- [ ] **Dusk Anemone** — `alexscaves:dusk_anemone` · н
+- [ ] **Azure Energized Galena** — `alexscaves:energized_galena_azure` · к
+- [ ] **Energized Galena** — `alexscaves:energized_galena_neutral` · к
+- [ ] **Scarlet Energized Galena** — `alexscaves:energized_galena_scarlet` · к
+- [ ] **Enigmatic Engine** — `alexscaves:enigmatic_engine` · н
+- [ ] **Extinction Spear** — `alexscaves:extinction_spear` · к
+- [ ] **Extinction Spear** — `alexscaves:extinction_spear_inventory` · н
+- [ ] **Fern Thatch** — `alexscaves:fern_thatch` · к
+- [ ] **Ferrouslimeball** — `alexscaves:ferrouslime_ball` · н
+- [ ] **Fertilizer** — `alexscaves:fertilizer` · к
+- [ ] **Fiddlehead** — `alexscaves:fiddlehead` · н
+- [ ] **Fissile Core** — `alexscaves:fissile_core` · н
+- [ ] **Primal Magma** — `alexscaves:fissure_primal_magma` · н
+- [ ] **Floater** — `alexscaves:floater` · к
+- [ ] **Flood Basalt** — `alexscaves:flood_basalt` · н
+- [ ] **Flytrap** — `alexscaves:flytrap` · н
+- [ ] **Footprint Pottery Sherd** — `alexscaves:footprint_pottery_sherd` · н
+- [ ] **Forsaken Idol** — `alexscaves:forsaken_idol` · к
+- [ ] **Frosted Gingerbread Block** — `alexscaves:frosted_gingerbread_block` · к
+- [ ] **Frosted Gingerbread Brick Slab** — `alexscaves:frosted_gingerbread_brick_slab` · к
+- [ ] **Frosted Gingerbread Brick Stairs** — `alexscaves:frosted_gingerbread_brick_stairs` · к
+- [ ] **Frosted Gingerbread Brick Wall** — `alexscaves:frosted_gingerbread_brick_wall` · к
+- [ ] **Frosted Gingerbread Bricks** — `alexscaves:frosted_gingerbread_bricks` · к
+- [ ] **Frosted Gingerbread Door** — `alexscaves:frosted_gingerbread_door` · к
+- [ ] **Frosted Gingerbread Slab** — `alexscaves:frosted_gingerbread_slab` · к
+- [ ] **Frosted Gingerbread Stairs** — `alexscaves:frosted_gingerbread_stairs` · к
+- [ ] **Frosted Gingerbread Wall** — `alexscaves:frosted_gingerbread_wall` · к
+- [ ] **Frostmint** — `alexscaves:frostmint` · к
+- [ ] **Frostmint Spear** — `alexscaves:frostmint_spear` · к
+- [ ] **Frostmint Spear** — `alexscaves:frostmint_spear_inventory` · н
+- [ ] **Galena** — `alexscaves:galena` · к
+- [ ] **Galena Brick Slab** — `alexscaves:galena_brick_slab` · к
+- [ ] **Galena Brick Stairs** — `alexscaves:galena_brick_stairs` · к
+- [ ] **Galena Brick Wall** — `alexscaves:galena_brick_wall` · к
+- [ ] **Galena Bricks** — `alexscaves:galena_bricks` · к
+- [ ] **Galena Gauntlet** — `alexscaves:galena_gauntlet` · к
+- [ ] **Galena Iron Ore** — `alexscaves:galena_iron_ore` · н
+- [ ] **Galena Pillar** — `alexscaves:galena_pillar` · к
+- [ ] **Galena Slab** — `alexscaves:galena_slab` · к
+- [ ] **Galena Spire** — `alexscaves:galena_spire` · к
+- [ ] **Galena Stairs** — `alexscaves:galena_stairs` · к
+- [ ] **Galena Wall** — `alexscaves:galena_wall` · к
+- [ ] **Game Controller** — `alexscaves:game_controller` · н
+- [ ] **Gazing Pearl** — `alexscaves:gazing_pearl` · н
+- [ ] **Blue Gelatin** — `alexscaves:gelatin_blue` · к
+- [ ] **Green Gelatin** — `alexscaves:gelatin_green` · к
+- [ ] **Pink Gelatin** — `alexscaves:gelatin_pink` · к
+- [ ] **Red Gelatin** — `alexscaves:gelatin_red` · к
+- [ ] **Yellow Gelatin** — `alexscaves:gelatin_yellow` · к
+- [ ] **Geothermal Vent** — `alexscaves:geothermal_vent` · н
+- [ ] **Medium Geothermal Vent** — `alexscaves:geothermal_vent_medium` · к
+- [ ] **Thin Geothermal Vent** — `alexscaves:geothermal_vent_thin` · к
+- [ ] **Giant Sweetberry** — `alexscaves:giant_sweetberry` · н
+- [ ] **Gingerbarrel** — `alexscaves:gingerbarrel` · к
+- [ ] **Gingerbread Block** — `alexscaves:gingerbread_block` · к
+- [ ] **Gingerbread Boots** — `alexscaves:gingerbread_boots` · н
+- [ ] **Gingerbread Brick Slab** — `alexscaves:gingerbread_brick_slab` · к
+- [ ] **Gingerbread Brick Stairs** — `alexscaves:gingerbread_brick_stairs` · к
+- [ ] **Gingerbread Brick Wall** — `alexscaves:gingerbread_brick_wall` · к
+- [ ] **Gingerbread Bricks** — `alexscaves:gingerbread_bricks` · к
+- [ ] **Gingerbread Chestplate** — `alexscaves:gingerbread_chestplate` · н
+- [ ] **Gingerbread Crumbs** — `alexscaves:gingerbread_crumbs` · н
+- [ ] **Gingerbread Door** — `alexscaves:gingerbread_door` · к
+- [ ] **Gingerbread Helmet** — `alexscaves:gingerbread_helmet` · н
+- [ ] **Gingerbread Leggings** — `alexscaves:gingerbread_leggings` · н
+- [ ] **Gingerbread Slab** — `alexscaves:gingerbread_slab` · к
+- [ ] **Gingerbread Stairs** — `alexscaves:gingerbread_stairs` · к
+- [ ] **Gingerbread Wall** — `alexscaves:gingerbread_wall` · к
+- [ ] **Glow Ink Bomb** — `alexscaves:glow_ink_bomb` · н
+- [ ] **Gobthumper** — `alexscaves:gobthumper` · к
+- [ ] **Bucket of Gossamer Worm** — `alexscaves:gossamer_worm_bucket` · н
+- [ ] **Green Soylent** — `alexscaves:green_soylent` · н
+- [ ] **Grottoceratops Egg** — `alexscaves:grottoceratops_egg` · н
+- [ ] **Guano** — `alexscaves:guano` · н
+- [ ] **Guano Block** — `alexscaves:guano_block` · к
+- [ ] **Guano Pile** — `alexscaves:guano_layer` · к
+- [ ] **Guanostone** — `alexscaves:guanostone` · к
+- [ ] **Guanostone Brick Slab** — `alexscaves:guanostone_brick_slab` · к
+- [ ] **Guanostone Brick Stairs** — `alexscaves:guanostone_brick_stairs` · к
+- [ ] **Guanostone Brick Wall** — `alexscaves:guanostone_brick_wall` · к
+- [ ] **Guanostone Bricks** — `alexscaves:guanostone_bricks` · к
+- [ ] **Chiseled Guanostone** — `alexscaves:guanostone_chiseled` · к
+- [ ] **Guanostone Redstone Ore** — `alexscaves:guanostone_redstone_ore` · н
+- [ ] **Guanostone Slab** — `alexscaves:guanostone_slab` · к
+- [ ] **Guanostone Stairs** — `alexscaves:guanostone_stairs` · к
+- [ ] **Guanostone Tiles** — `alexscaves:guanostone_tiles` · к
+- [ ] **Guanostone Wall** — `alexscaves:guanostone_wall` · к
+- [ ] **Guardian Pottery Sherd** — `alexscaves:guardian_pottery_sherd` · н
+- [ ] **Gumball Pile** — `alexscaves:gumball_pile` · н
+- [ ] **Blue Gummy Ring** — `alexscaves:gummy_ring_blue` · к
+- [ ] **Green Gummy Ring** — `alexscaves:gummy_ring_green` · к
+- [ ] **Pink Gummy Ring** — `alexscaves:gummy_ring_pink` · к
+- [ ] **Red Gummy Ring** — `alexscaves:gummy_ring_red` · к
+- [ ] **Yellow Gummy Ring** — `alexscaves:gummy_ring_yellow` · к
+- [ ] **Hazmat Block** — `alexscaves:hazmat_block` · к
+- [ ] **Hazmat Boots** — `alexscaves:hazmat_boots` · к
+- [ ] **Hazmat Chestplate** — `alexscaves:hazmat_chestplate` · к
+- [ ] **Hazmat Leggings** — `alexscaves:hazmat_leggings` · к
+- [ ] **Hazmat Mask** — `alexscaves:hazmat_mask` · к
+- [ ] **Hazmat Skull Block** — `alexscaves:hazmat_skull_block` · к
+- [ ] **Hazmat Warning Block** — `alexscaves:hazmat_warning_block` · к
+- [ ] **Heart of Iron** — `alexscaves:heart_of_iron` · н
+- [ ] **Heavy Bone** — `alexscaves:heavy_bone` · н
+- [ ] **Heavyweight** — `alexscaves:heavyweight` · н
+- [ ] **Hero Pottery Sherd** — `alexscaves:hero_pottery_sherd` · н
+- [ ] **Hollow Bone Block** — `alexscaves:hollow_bone` · к
+- [ ] **Holocoder** — `alexscaves:holocoder` · к
+- [ ] **Hologram Projector** — `alexscaves:hologram_projector` · к
+- [ ] **Hood of Darkness** — `alexscaves:hood_of_darkness` · к
+- [ ] **Hot Chocolate Bottle** — `alexscaves:hot_chocolate_bottle` · к
+- [ ] **Immortal Embryo** — `alexscaves:immortal_embryo` · н
+- [ ] **Ink Bomb** — `alexscaves:ink_bomb` · н
+- [ ] **Jelly Bean** — `alexscaves:jelly_bean` · н
+- [ ] **Lanternfish** — `alexscaves:lanternfish` · н
+- [ ] **Bucket of Lanternfish** — `alexscaves:lanternfish_bucket` · н
+- [ ] **Large Peppermint** — `alexscaves:large_peppermint` · к
+- [ ] **Licoroot** — `alexscaves:licoroot` · к
+- [ ] **Licoroot Sprout** — `alexscaves:licoroot_sprout` · к
+- [ ] **Licoroot Vine** — `alexscaves:licoroot_vine` · н
+- [ ] **Radiant Essence** — `alexscaves:licowitch_radiant_essence` · н
+- [ ] **Limestone** — `alexscaves:limestone` · н
+- [ ] **Chiseled Limestone** — `alexscaves:limestone_chiseled` · к
+- [ ] **Limestone Pillar** — `alexscaves:limestone_pillar` · к
+- [ ] **Limestone Slab** — `alexscaves:limestone_slab` · к
+- [ ] **Limestone Spear** — `alexscaves:limestone_spear` · к
+- [ ] **Limestone Spear** — `alexscaves:limestone_spear_inventory` · н
+- [ ] **Limestone Stairs** — `alexscaves:limestone_stairs` · к
+- [ ] **Limestone Wall** — `alexscaves:limestone_wall` · к
+- [ ] **Lollipop Bunch** — `alexscaves:lollipop_bunch` · н
+- [ ] **Magic Conch** — `alexscaves:magic_conch` · н
+- [ ] **Magnetic Activator** — `alexscaves:magnetic_activator` · к
+- [ ] **Magnetic Levitation Rail** — `alexscaves:magnetic_levitation_rail` · к
+- [ ] **Magnetic Light** — `alexscaves:magnetic_light` · к
+- [ ] **Marine Snow** — `alexscaves:marine_snow` · н
+- [ ] **Metal Barrel** — `alexscaves:metal_barrel` · к
+- [ ] **Metal Rebar** — `alexscaves:metal_rebar` · к
+- [ ] **Metal Scaffolding** — `alexscaves:metal_scaffolding` · к
+- [ ] **Metal Swarf** — `alexscaves:metal_swarf` · к
+- [ ] **Midnight Anemone** — `alexscaves:midnight_anemone` · н
+- [ ] **Moth Ball** — `alexscaves:moth_ball` · к
+- [ ] **Moth Dust** — `alexscaves:moth_dust` · н
+- [ ] **Muck** — `alexscaves:muck` · н
+- [ ] **Music Disc** — `alexscaves:music_disc_fusion` · к
+- [ ] **Music Disc** — `alexscaves:music_disc_tasty` · к
+- [ ] **Mussel** — `alexscaves:mussel` · н
+- [ ] **Try using a Cave Biome Map to find this biome...** — `alexscaves:natures_compass_warning` · н
+- [ ] **Notor Gizmo** — `alexscaves:notor_gizmo` · н
+- [ ] **Nuclear Bomb** — `alexscaves:nuclear_bomb` · к
+- [ ] **Nuclear Furnace** — `alexscaves:nuclear_furnace` · н
+- [ ] **Nuclear Furnace Component** — `alexscaves:nuclear_furnace_component` · к
+- [ ] **Nuclear Siren** — `alexscaves:nuclear_siren` · к
+- [ ] **Occult Gem** — `alexscaves:occult_gem` · н
+- [ ] **Ominous Catalyst** — `alexscaves:ominous_catalyst` · к
+- [ ] **Ortholance** — `alexscaves:ortholance` · н
+- [ ] **Ortholance** — `alexscaves:ortholance_inventory` · н
+- [ ] **Packed Galena** — `alexscaves:packed_galena` · к
+- [ ] **Pearl** — `alexscaves:pearl` · к
+- [ ] **Peering Coprolith** — `alexscaves:peering_coprolith` · к
+- [ ] **Peppermint Powder** — `alexscaves:peppermint_powder` · к
+- [ ] **Pewen Boat** — `alexscaves:pewen_boat` · к
+- [ ] **Pewen Branch** — `alexscaves:pewen_branch` · н
+- [ ] **Pewen Button** — `alexscaves:pewen_button` · к
+- [ ] **Pewen Boat with Chest** — `alexscaves:pewen_chest_boat` · к
+- [ ] **Pewen Door** — `alexscaves:pewen_door` · к
+- [ ] **Pewen Fence** — `alexscaves:pewen_fence` · к
+- [ ] **Pewen Fence Gate** — `alexscaves:pewen_fence_gate` · к
+- [ ] **Pewen Hanging Sign** — `alexscaves:pewen_hanging_sign` · к
+- [ ] **Pewen Log** — `alexscaves:pewen_log` · н
+- [ ] **Pewen Pines** — `alexscaves:pewen_pines` · н
+- [ ] **Pewen Planks** — `alexscaves:pewen_planks` · к
+- [ ] **Pewen Pressure Plate** — `alexscaves:pewen_pressure_plate` · к
+- [ ] **Pewen Sap** — `alexscaves:pewen_sap` · к
+- [ ] **Pewen Sapling** — `alexscaves:pewen_sapling` · н
+- [ ] **Pewen Sign** — `alexscaves:pewen_sign` · к
+- [ ] **Pewen Slab** — `alexscaves:pewen_slab` · к
+- [ ] **Pewen Stairs** — `alexscaves:pewen_stairs` · к
+- [ ] **Pewen Trapdoor** — `alexscaves:pewen_trapdoor` · к
+- [ ] **Pewen Hanging Sign** — `alexscaves:pewen_wall_hanging_sign` · н
+- [ ] **Pewen Sign** — `alexscaves:pewen_wall_sign` · н
+- [ ] **Pewen Wood** — `alexscaves:pewen_wood` · к
+- [ ] **Pine Nuts** — `alexscaves:pine_nuts` · н
+- [ ] **Ping-Pong Sponge** — `alexscaves:ping_pong_sponge` · н
+- [ ] **Polymer Plate** — `alexscaves:polymer_plate` · к
+- [ ] **Porous Coprolith** — `alexscaves:porous_coprolith` · к
+- [ ] **Potted Ancient Sapling** — `alexscaves:potted_ancient_sapling` · н
+- [ ] **Potted Curly Fern** — `alexscaves:potted_curly_fern` · н
+- [ ] **Potted Cycad** — `alexscaves:potted_cycad` · н
+- [ ] **Potted Fiddlehead** — `alexscaves:potted_fiddlehead` · н
+- [ ] **Potted Flytrap** — `alexscaves:potted_flytrap` · н
+- [ ] **Potted Pewen Pines** — `alexscaves:potted_pewen_pines` · н
+- [ ] **Potted Pewen Sapling** — `alexscaves:potted_pewen_sapling` · н
+- [ ] **Potted Thornwood Sapling** — `alexscaves:potted_thornwood_sapling` · н
+- [ ] **Primal Magma** — `alexscaves:primal_magma` · к
+- [ ] **Primitive Club** — `alexscaves:primitive_club` · к
+- [ ] **Primitive Club** — `alexscaves:primitive_club_inventory` · н
+- [ ] **Primordial Helmet** — `alexscaves:primordial_helmet` · к
+- [ ] **Primordial Pants** — `alexscaves:primordial_pants` · к
+- [ ] **Primordial Soup** — `alexscaves:primordial_soup` · к
+- [ ] **Primordial Tunic** — `alexscaves:primordial_tunic` · к
+- [ ] **Pure Darkness** — `alexscaves:pure_darkness` · н
+- [ ] **Purple Soda** — `alexscaves:purple_soda` · н
+- [ ] **Purple Soda Bottle** — `alexscaves:purple_soda_bottle` · н
+- [ ] **Purple Soda Bottle Rocket** — `alexscaves:purple_soda_bottle_rocket` · к
+- [ ] **Bucket of Purple Soda** — `alexscaves:purple_soda_bucket` · н
+- [ ] **Magnetic Quarry** — `alexscaves:quarry` · к
+- [ ] **Magnetic Quarry Smasher** — `alexscaves:quarry_smasher` · к
+- [ ] **Radgill** — `alexscaves:radgill` · н
+- [ ] **Bucket of Radgill** — `alexscaves:radgill_bucket` · н
+- [ ] **Radiant Essence** — `alexscaves:radiant_essence` · н
+- [ ] **Bottle of Radon** — `alexscaves:radon_bottle` · н
+- [ ] **Black Radon Lamp** — `alexscaves:radon_lamp_black` · к
+- [ ] **Blue Radon Lamp** — `alexscaves:radon_lamp_blue` · к
+- [ ] **Brown Radon Lamp** — `alexscaves:radon_lamp_brown` · к
+- [ ] **Cyan Radon Lamp** — `alexscaves:radon_lamp_cyan` · к
+- [ ] **Gray Radon Lamp** — `alexscaves:radon_lamp_gray` · к
+- [ ] **Green Radon Lamp** — `alexscaves:radon_lamp_green` · к
+- [ ] **Light Blue Radon Lamp** — `alexscaves:radon_lamp_light_blue` · к
+- [ ] **Light Gray Radon Lamp** — `alexscaves:radon_lamp_light_gray` · к
+- [ ] **Lime Radon Lamp** — `alexscaves:radon_lamp_lime` · к
+- [ ] **Magenta Radon Lamp** — `alexscaves:radon_lamp_magenta` · к
+- [ ] **Orange Radon Lamp** — `alexscaves:radon_lamp_orange` · к
+- [ ] **Pink Radon Lamp** — `alexscaves:radon_lamp_pink` · к
+- [ ] **Purple Radon Lamp** — `alexscaves:radon_lamp_purple` · к
+- [ ] **Red Radon Lamp** — `alexscaves:radon_lamp_red` · к
+- [ ] **White Radon Lamp** — `alexscaves:radon_lamp_white` · к
+- [ ] **Yellow Radon Lamp** — `alexscaves:radon_lamp_yellow` · к
+- [ ] **Radrock** — `alexscaves:radrock` · к
+- [ ] **Radrock Brick Slab** — `alexscaves:radrock_brick_slab` · к
+- [ ] **Radrock Brick Stairs** — `alexscaves:radrock_brick_stairs` · к
+- [ ] **Radrock Brick Wall** — `alexscaves:radrock_brick_wall` · к
+- [ ] **Radrock Bricks** — `alexscaves:radrock_bricks` · к
+- [ ] **Chiseled Radrock** — `alexscaves:radrock_chiseled` · к
+- [ ] **Radrock Slab** — `alexscaves:radrock_slab` · к
+- [ ] **Radrock Stairs** — `alexscaves:radrock_stairs` · к
+- [ ] **Radrock Uranium Ore** — `alexscaves:radrock_uranium_ore` · н
+- [ ] **Radrock Wall** — `alexscaves:radrock_wall` · к
+- [ ] **Rainbounce Boots** — `alexscaves:rainbounce_boots` · к
+- [ ] **Raw Azure Neodymium** — `alexscaves:raw_azure_neodymium` · н
+- [ ] **Raw Scarlet Neodymium** — `alexscaves:raw_scarlet_neodymium` · н
+- [ ] **Raygun** — `alexscaves:raygun` · к
+- [ ] **Relicheirus Egg** — `alexscaves:relicheirus_egg` · н
+- [ ] **Remote Detonator** — `alexscaves:remote_detonator` · к
+- [ ] **Resistor Shield** — `alexscaves:resistor_shield` · к
+- [ ] **Black Rock Candy** — `alexscaves:rock_candy_black` · к
+- [ ] **Blue Rock Candy** — `alexscaves:rock_candy_blue` · к
+- [ ] **Brown Rock Candy** — `alexscaves:rock_candy_brown` · к
+- [ ] **Cyan Rock Candy** — `alexscaves:rock_candy_cyan` · к
+- [ ] **Gray Rock Candy** — `alexscaves:rock_candy_gray` · к
+- [ ] **Green Rock Candy** — `alexscaves:rock_candy_green` · к
+- [ ] **Light Blue Rock Candy** — `alexscaves:rock_candy_light_blue` · к
+- [ ] **Light Gray Rock Candy** — `alexscaves:rock_candy_light_gray` · к
+- [ ] **Lime Rock Candy** — `alexscaves:rock_candy_lime` · к
+- [ ] **Magenta Rock Candy** — `alexscaves:rock_candy_magenta` · к
+- [ ] **Orange Rock Candy** — `alexscaves:rock_candy_orange` · к
+- [ ] **Pink Rock Candy** — `alexscaves:rock_candy_pink` · к
+- [ ] **Purple Rock Candy** — `alexscaves:rock_candy_purple` · к
+- [ ] **Red Rock Candy** — `alexscaves:rock_candy_red` · к
+- [ ] **White Rock Candy** — `alexscaves:rock_candy_white` · к
+- [ ] **Yellow Rock Candy** — `alexscaves:rock_candy_yellow` · к
+- [ ] **Rusty Barrel** — `alexscaves:rusty_barrel` · н
+- [ ] **Rusty Rebar** — `alexscaves:rusty_rebar` · н
+- [ ] **Rusty Scaffolding** — `alexscaves:rusty_scaffolding` · н
+- [ ] **Rusty Scrap Metal** — `alexscaves:rusty_scrap_metal` · н
+- [ ] **Rusty Scrap Metal Plate** — `alexscaves:rusty_scrap_metal_plate` · к
+- [ ] **Sack of Sating** — `alexscaves:sack_of_sating` · к
+- [ ] **Scarlet Magnet** — `alexscaves:scarlet_magnet` · к
+- [ ] **Scarlet Neodymium Ingot** — `alexscaves:scarlet_neodymium_ingot` · к
+- [ ] **Scarlet Neodymium Node** — `alexscaves:scarlet_neodymium_node` · к
+- [ ] **Scarlet Neodymium Pillar** — `alexscaves:scarlet_neodymium_pillar` · к
+- [ ] **Scrap Metal** — `alexscaves:scrap_metal` · к
+- [ ] **Scrap Metal Plate** — `alexscaves:scrap_metal_plate` · к
+- [ ] **Sea Glass Shards** — `alexscaves:sea_glass_shards` · н
+- [ ] **Sea Pig** — `alexscaves:sea_pig` · н
+- [ ] **Bucket of Sea Pig** — `alexscaves:sea_pig_bucket` · н
+- [ ] **Sea Staff** — `alexscaves:sea_staff` · н
+- [ ] **Sea Staff** — `alexscaves:sea_staff_inventory` · н
+- [ ] **Seeking Arrow** — `alexscaves:seeking_arrow` · к
+- [ ] **Seething Stew** — `alexscaves:seething_stew` · к
+- [ ] **Serene Salad** — `alexscaves:serene_salad` · к
+- [ ] **Shadow Silk** — `alexscaves:shadow_silk` · к
+- [ ] **Sharpened Candy Cane** — `alexscaves:sharpened_candy_cane` · н
+- [ ] **Shot Gum** — `alexscaves:shot_gum` · к
+- [ ] **Siren Light** — `alexscaves:siren_light` · к
+- [ ] **Slam** — `alexscaves:slam` · к
+- [ ] **Small Peppermint** — `alexscaves:small_peppermint` · к
+- [ ] **Smooth Bone Block** — `alexscaves:smooth_bone` · к
+- [ ] **Smooth Bone Slab** — `alexscaves:smooth_bone_slab` · к
+- [ ] **Smooth Bone Stairs** — `alexscaves:smooth_bone_stairs` · к
+- [ ] **Smooth Bone Wall** — `alexscaves:smooth_bone_wall` · к
+- [ ] **Smooth Coprolith** — `alexscaves:smooth_coprolith` · к
+- [ ] **Smooth Coprolith Slab** — `alexscaves:smooth_coprolith_slab` · к
+- [ ] **Smooth Coprolith Stairs** — `alexscaves:smooth_coprolith_stairs` · к
+- [ ] **Smooth Coprolith Wall** — `alexscaves:smooth_coprolith_wall` · к
+- [ ] **Smooth Limestone** — `alexscaves:smooth_limestone` · к
+- [ ] **Smooth Limestone Slab** — `alexscaves:smooth_limestone_slab` · к
+- [ ] **Smooth Limestone Stairs** — `alexscaves:smooth_limestone_stairs` · к
+- [ ] **Smooth Limestone Wall** — `alexscaves:smooth_limestone_wall` · к
+- [ ] **Atlatitan Spawn Egg** — `alexscaves:spawn_egg_atlatitan` · н
+- [ ] **Boundroid Spawn Egg** — `alexscaves:spawn_egg_boundroid` · н
+- [ ] **Brainiac Spawn Egg** — `alexscaves:spawn_egg_brainiac` · н
+- [ ] **Candicorn Spawn Egg** — `alexscaves:spawn_egg_candicorn` · н
+- [ ] **Caniac Spawn Egg** — `alexscaves:spawn_egg_caniac` · н
+- [ ] **Caramel Cube Spawn Egg** — `alexscaves:spawn_egg_caramel_cube` · н
+- [ ] **Corrodent Spawn Egg** — `alexscaves:spawn_egg_corrodent` · н
+- [ ] **Deep One Spawn Egg** — `alexscaves:spawn_egg_deep_one` · н
+- [ ] **Deep One Knight Spawn Egg** — `alexscaves:spawn_egg_deep_one_knight` · н
+- [ ] **Deep One Mage Spawn Egg** — `alexscaves:spawn_egg_deep_one_mage` · н
+- [ ] **Ferrouslime Spawn Egg** — `alexscaves:spawn_egg_ferrouslime` · н
+- [ ] **Forsaken Spawn Egg** — `alexscaves:spawn_egg_forsaken` · н
+- [ ] **Gammaroach Spawn Egg** — `alexscaves:spawn_egg_gammaroach` · н
+- [ ] **Gingerbread Man Spawn Egg** — `alexscaves:spawn_egg_gingerbread_man` · н
+- [ ] **Gloomoth Spawn Egg** — `alexscaves:spawn_egg_gloomoth` · н
+- [ ] **Gossamer Worm Spawn Egg** — `alexscaves:spawn_egg_gossamer_worm` · н
+- [ ] **Grottoceratops Spawn Egg** — `alexscaves:spawn_egg_grottoceratops` · н
+- [ ] **Gum Worm Spawn Egg** — `alexscaves:spawn_egg_gum_worm` · н
+- [ ] **Gumbeeper Spawn Egg** — `alexscaves:spawn_egg_gumbeeper` · н
+- [ ] **Gummy Bear Spawn Egg** — `alexscaves:spawn_egg_gummy_bear` · н
+- [ ] **Hullbreaker Spawn Egg** — `alexscaves:spawn_egg_hullbreaker` · н
+- [ ] **Lanternfish Spawn Egg** — `alexscaves:spawn_egg_lanternfish` · н
+- [ ] **Licowitch Spawn Egg** — `alexscaves:spawn_egg_licowitch` · н
+- [ ] **Luxtructosaurus Spawn Egg** — `alexscaves:spawn_egg_luxtructosaurus` · н
+- [ ] **Magnetron Spawn Egg** — `alexscaves:spawn_egg_magnetron` · н
+- [ ] **Mine Guardian Spawn Egg** — `alexscaves:spawn_egg_mine_guardian` · н
+- [ ] **Notor Spawn Egg** — `alexscaves:spawn_egg_notor` · н
+- [ ] **Nucleeper Spawn Egg** — `alexscaves:spawn_egg_nucleeper` · н
+- [ ] **Radgill Spawn Egg** — `alexscaves:spawn_egg_radgill` · н
+- [ ] **Raycat Spawn Egg** — `alexscaves:spawn_egg_raycat` · н
+- [ ] **Relicheirus Spawn Egg** — `alexscaves:spawn_egg_relicheirus` · н
+- [ ] **Sea Pig Spawn Egg** — `alexscaves:spawn_egg_sea_pig` · н
+- [ ] **Subterranodon Spawn Egg** — `alexscaves:spawn_egg_subterranodon` · н
+- [ ] **Sweetish Fish Spawn Egg** — `alexscaves:spawn_egg_sweetish_fish` · н
+- [ ] **Teletor Spawn Egg** — `alexscaves:spawn_egg_teletor` · н
+- [ ] **Tremorsaurus Spawn Egg** — `alexscaves:spawn_egg_tremorsaurus` · н
+- [ ] **Tremorzilla Spawn Egg** — `alexscaves:spawn_egg_tremorzilla` · н
+- [ ] **Trilocaris Spawn Egg** — `alexscaves:spawn_egg_trilocaris` · н
+- [ ] **Tripodfish Spawn Egg** — `alexscaves:spawn_egg_tripodfish` · н
+- [ ] **Underzealot Spawn Egg** — `alexscaves:spawn_egg_underzealot` · н
+- [ ] **Vallumraptor Spawn Egg** — `alexscaves:spawn_egg_vallumraptor` · н
+- [ ] **Vesper Spawn Egg** — `alexscaves:spawn_egg_vesper` · н
+- [ ] **Watcher Spawn Egg** — `alexscaves:spawn_egg_watcher` · н
+- [ ] **Spelunkery Table** — `alexscaves:spelunkery_table` · н
+- [ ] **Spelunkie** — `alexscaves:spelunkie` · к
+- [ ] **Sprinkles** — `alexscaves:sprinkles` · н
+- [ ] **Stinky Fish** — `alexscaves:stinky_fish` · н
+- [ ] **Stripped Candy Cane Block** — `alexscaves:stripped_candy_cane_block` · н
+- [ ] **Stripped Candy Cane Pole** — `alexscaves:stripped_candy_cane_pole` · н
+- [ ] **Stripped Pewen Log** — `alexscaves:stripped_pewen_log` · н
+- [ ] **Stripped Pewen Wood** — `alexscaves:stripped_pewen_wood` · к
+- [ ] **Stripped Thornwood Log** — `alexscaves:stripped_thornwood_log` · н
+- [ ] **Stripped Thornwood Wood** — `alexscaves:stripped_thornwood_wood` · к
+- [ ] **Submarine** — `alexscaves:submarine` · н
+- [ ] **Subterranodon Egg** — `alexscaves:subterranodon_egg` · н
+- [ ] **Sugar Glass** — `alexscaves:sugar_glass` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

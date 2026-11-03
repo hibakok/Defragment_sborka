@@ -1,0 +1,485 @@
+# Музей: Chipped (chipped)
+
+Предметов: 6967 · крафтимых по данным: 0 (0%) · файлов: 15
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 8 из 15
+
+*В части: 470 предметов.*
+
+- [ ] **M Sign Stripped Mangrove Log** — `chipped:m_sign_stripped_mangrove_log` · н
+- [ ] **M Sign Stripped Oak Log** — `chipped:m_sign_stripped_oak_log` · н
+- [ ] **M Sign Stripped Spruce Log** — `chipped:m_sign_stripped_spruce_log` · н
+- [ ] **M Sign Stripped Warped Stem** — `chipped:m_sign_stripped_warped_stem` · н
+- [ ] **Magenta Concrete Bricks** — `chipped:magenta_concrete_bricks` · н
+- [ ] **Magenta Concrete Panel** — `chipped:magenta_concrete_panel` · н
+- [ ] **Magenta Concrete Pillar** — `chipped:magenta_concrete_pillar` · н
+- [ ] **Magenta Concrete Tiles** — `chipped:magenta_concrete_tiles` · н
+- [ ] **Magenta Flower Acacia Leaves** — `chipped:magenta_flower_acacia_leaves` · н
+- [ ] **Magenta Flower Birch Leaves** — `chipped:magenta_flower_birch_leaves` · н
+- [ ] **Magenta Flower Dark Oak Leaves** — `chipped:magenta_flower_dark_oak_leaves` · н
+- [ ] **Magenta Flower Jungle Leaves** — `chipped:magenta_flower_jungle_leaves` · н
+- [ ] **Magenta Flower Oak Leaves** — `chipped:magenta_flower_oak_leaves` · н
+- [ ] **Magenta Flower Spruce Leaves** — `chipped:magenta_flower_spruce_leaves` · н
+- [ ] **Magenta Glazed Terracotta Pillar Sides** — `chipped:magenta_glazed_terracotta_pillar_sides` · н
+- [ ] **Magenta Glazed Terracotta Pillar Top** — `chipped:magenta_glazed_terracotta_pillar_top` · н
+- [ ] **Magenta Glazed Terracotta Smooth Tiles** — `chipped:magenta_glazed_terracotta_smooth_tiles` · н
+- [ ] **Magenta Glazed Terracotta Tiles** — `chipped:magenta_glazed_terracotta_tiles` · н
+- [ ] **Magenta Terracotta Bricks** — `chipped:magenta_terracotta_bricks` · н
+- [ ] **Magenta Terracotta Column** — `chipped:magenta_terracotta_column` · н
+- [ ] **Magenta Terracotta Pillar** — `chipped:magenta_terracotta_pillar` · н
+- [ ] **Magenta Terracotta Tile** — `chipped:magenta_terracotta_tile` · н
+- [ ] **Magenta Terracotta Tiles** — `chipped:magenta_terracotta_tiles` · н
+- [ ] **Magma Block Bricks** — `chipped:magma_block_bricks` · н
+- [ ] **Magma Block Mini Tiles** — `chipped:magma_block_mini_tiles` · н
+- [ ] **Magma Block Pillar** — `chipped:magma_block_pillar` · н
+- [ ] **Magma Block Pillar Top** — `chipped:magma_block_pillar_top` · н
+- [ ] **Magma Block Scales** — `chipped:magma_block_scales` · н
+- [ ] **Mangled Warped Roots** — `chipped:mangled_warped_roots` · н
+- [ ] **Mangrove Brick Barrel** — `chipped:mangrove_brick_barrel` · н
+- [ ] **Mangrove Crate** — `chipped:mangrove_crate` · н
+- [ ] **Mangrove Planks Mosaic** — `chipped:mangrove_planks_mosaic` · н
+- [ ] **Mangrove Planks Panel** — `chipped:mangrove_planks_panel` · н
+- [ ] **Mangrove Planks Shavings** — `chipped:mangrove_planks_shavings` · н
+- [ ] **Mangrove Tile Barrel** — `chipped:mangrove_tile_barrel` · н
+- [ ] **Mason Table** — `chipped:mason_table` · н
+- [ ] **Massive Amethyst Block Bricks** — `chipped:massive_amethyst_block_bricks` · н
+- [ ] **Massive Ancient Debris Bricks** — `chipped:massive_ancient_debris_bricks` · н
+- [ ] **Massive Andesite Bricks** — `chipped:massive_andesite_bricks` · н
+- [ ] **Massive Basalt Bricks** — `chipped:massive_basalt_bricks` · н
+- [ ] **Massive Blackstone Bricks** — `chipped:massive_blackstone_bricks` · н
+- [ ] **Massive Blue Ice Bricks** — `chipped:massive_blue_ice_bricks` · н
+- [ ] **Massive Borderless Bricks Bricks** — `chipped:massive_borderless_bricks_bricks` · н
+- [ ] **Massive Bricks Bricks** — `chipped:massive_bricks_bricks` · н
+- [ ] **Massive Calcite Bricks** — `chipped:massive_calcite_bricks` · н
+- [ ] **Massive Clay Bricks** — `chipped:massive_clay_bricks` · н
+- [ ] **Massive Coal Block Bricks** — `chipped:massive_coal_block_bricks` · н
+- [ ] **Massive Cobblestone Bricks** — `chipped:massive_cobblestone_bricks` · н
+- [ ] **Massive Crying Obsidian Bricks** — `chipped:massive_crying_obsidian_bricks` · н
+- [ ] **Massive Dark Prismarine Bricks** — `chipped:massive_dark_prismarine_bricks` · н
+- [ ] **Massive Deepslate Bricks** — `chipped:massive_deepslate_bricks` · н
+- [ ] **Massive Diorite Bricks** — `chipped:massive_diorite_bricks` · н
+- [ ] **Massive Dirt Bricks** — `chipped:massive_dirt_bricks` · н
+- [ ] **Massive Dripstone Block Bricks** — `chipped:massive_dripstone_block_bricks` · н
+- [ ] **Massive End Stone Bricks** — `chipped:massive_end_stone_bricks` · н
+- [ ] **Massive Gilded Blackstone Bricks** — `chipped:massive_gilded_blackstone_bricks` · н
+- [ ] **Massive Granite Bricks** — `chipped:massive_granite_bricks` · н
+- [ ] **Massive Ice Bricks** — `chipped:massive_ice_bricks` · н
+- [ ] **Massive Lapis Block Bricks** — `chipped:massive_lapis_block_bricks` · н
+- [ ] **Massive Lodestone Bricks** — `chipped:massive_lodestone_bricks` · н
+- [ ] **Massive Magma Block Bricks** — `chipped:massive_magma_block_bricks` · н
+- [ ] **Massive Mossy Cobblestone Bricks** — `chipped:massive_mossy_cobblestone_bricks` · н
+- [ ] **Massive Mossy Stone Bricks Bricks** — `chipped:massive_mossy_stone_bricks_bricks` · н
+- [ ] **Massive Mud Bricks** — `chipped:massive_mud_bricks` · н
+- [ ] **Massive Mud Bricks Bricks** — `chipped:massive_mud_bricks_bricks` · н
+- [ ] **Massive Nether Bricks Bricks** — `chipped:massive_nether_bricks_bricks` · н
+- [ ] **Massive Netherrack Bricks** — `chipped:massive_netherrack_bricks` · н
+- [ ] **Massive Obsidian Bricks** — `chipped:massive_obsidian_bricks` · н
+- [ ] **Massive Packed Ice Bricks** — `chipped:massive_packed_ice_bricks` · н
+- [ ] **Massive Packed Mud Bricks** — `chipped:massive_packed_mud_bricks` · н
+- [ ] **Massive Prismarine Bricks** — `chipped:massive_prismarine_bricks` · н
+- [ ] **Massive Purpur Block Bricks** — `chipped:massive_purpur_block_bricks` · н
+- [ ] **Massive Quartz Block Bricks** — `chipped:massive_quartz_block_bricks` · н
+- [ ] **Massive Raw Copper Block Bricks** — `chipped:massive_raw_copper_block_bricks` · н
+- [ ] **Massive Raw Gold Block Bricks** — `chipped:massive_raw_gold_block_bricks` · н
+- [ ] **Massive Raw Iron Block Bricks** — `chipped:massive_raw_iron_block_bricks` · н
+- [ ] **Massive Red Nether Bricks Bricks** — `chipped:massive_red_nether_bricks_bricks` · н
+- [ ] **Massive Red Sandstone Bricks** — `chipped:massive_red_sandstone_bricks` · н
+- [ ] **Massive Redstone Block Bricks** — `chipped:massive_redstone_block_bricks` · н
+- [ ] **Massive Sandstone Bricks** — `chipped:massive_sandstone_bricks` · н
+- [ ] **Massive Smooth Stone Bricks** — `chipped:massive_smooth_stone_bricks` · н
+- [ ] **Massive Snow Block Bricks** — `chipped:massive_snow_block_bricks` · н
+- [ ] **Massive Stone Bricks** — `chipped:massive_stone_bricks` · н
+- [ ] **Massive Tuff Bricks** — `chipped:massive_tuff_bricks` · н
+- [ ] **Meming Soul Sand** — `chipped:meming_soul_sand` · н
+- [ ] **Meshed Acacia Trapdoor** — `chipped:meshed_acacia_trapdoor` · н
+- [ ] **Meshed Bamboo Trapdoor** — `chipped:meshed_bamboo_trapdoor` · н
+- [ ] **Meshed Birch Trapdoor** — `chipped:meshed_birch_trapdoor` · н
+- [ ] **Meshed Cherry Trapdoor** — `chipped:meshed_cherry_trapdoor` · н
+- [ ] **Meshed Crimson Trapdoor** — `chipped:meshed_crimson_trapdoor` · н
+- [ ] **Meshed Dark Oak Trapdoor** — `chipped:meshed_dark_oak_trapdoor` · н
+- [ ] **Meshed Jungle Trapdoor** — `chipped:meshed_jungle_trapdoor` · н
+- [ ] **Meshed Mangrove Trapdoor** — `chipped:meshed_mangrove_trapdoor` · н
+- [ ] **Meshed Oak Trapdoor** — `chipped:meshed_oak_trapdoor` · н
+- [ ] **Meshed Spruce Trapdoor** — `chipped:meshed_spruce_trapdoor` · н
+- [ ] **Meshed Warped Trapdoor** — `chipped:meshed_warped_trapdoor` · н
+- [ ] **Metal Barrel** — `chipped:metal_barrel` · н
+- [ ] **Metal Ladder** — `chipped:metal_ladder` · н
+- [ ] **Micro Brown Mushroom** — `chipped:micro_brown_mushroom` · н
+- [ ] **Micro Crimson Fungus** — `chipped:micro_crimson_fungus` · н
+- [ ] **Micro Lily Pads** — `chipped:micro_lily_pads` · н
+- [ ] **Micro Red Mushroom** — `chipped:micro_red_mushroom` · н
+- [ ] **Micro Warped Fungus** — `chipped:micro_warped_fungus` · н
+- [ ] **Mini Brown Mushroom** — `chipped:mini_brown_mushroom` · н
+- [ ] **Mini Crimson Fungus** — `chipped:mini_crimson_fungus` · н
+- [ ] **Mini Red Mushroom** — `chipped:mini_red_mushroom` · н
+- [ ] **Mini Tiled Mud** — `chipped:mini_tiled_mud` · н
+- [ ] **Mini Tiled Mud Bricks** — `chipped:mini_tiled_mud_bricks` · н
+- [ ] **Mini Tiled Packed Mud** — `chipped:mini_tiled_packed_mud` · н
+- [ ] **Mini Warped Fungus** — `chipped:mini_warped_fungus` · н
+- [ ] **Minimized Black Glazed Terracotta** — `chipped:minimized_black_glazed_terracotta` · н
+- [ ] **Minimized Blue Glazed Terracotta** — `chipped:minimized_blue_glazed_terracotta` · н
+- [ ] **Minimized Brown Glazed Terracotta** — `chipped:minimized_brown_glazed_terracotta` · н
+- [ ] **Minimized Cyan Glazed Terracotta** — `chipped:minimized_cyan_glazed_terracotta` · н
+- [ ] **Minimized Gray Glazed Terracotta** — `chipped:minimized_gray_glazed_terracotta` · н
+- [ ] **Minimized Green Glazed Terracotta** — `chipped:minimized_green_glazed_terracotta` · н
+- [ ] **Minimized Light Blue Glazed Terracotta** — `chipped:minimized_light_blue_glazed_terracotta` · н
+- [ ] **Minimized Light Gray Glazed Terracotta** — `chipped:minimized_light_gray_glazed_terracotta` · н
+- [ ] **Minimized Lime Glazed Terracotta** — `chipped:minimized_lime_glazed_terracotta` · н
+- [ ] **Minimized Magenta Glazed Terracotta** — `chipped:minimized_magenta_glazed_terracotta` · н
+- [ ] **Minimized Orange Glazed Terracotta** — `chipped:minimized_orange_glazed_terracotta` · н
+- [ ] **Minimized Pink Glazed Terracotta** — `chipped:minimized_pink_glazed_terracotta` · н
+- [ ] **Minimized Purple Glazed Terracotta** — `chipped:minimized_purple_glazed_terracotta` · н
+- [ ] **Minimized Red Glazed Terracotta** — `chipped:minimized_red_glazed_terracotta` · н
+- [ ] **Minimized White Glazed Terracotta** — `chipped:minimized_white_glazed_terracotta` · н
+- [ ] **Minimized Yellow Glazed Terracotta** — `chipped:minimized_yellow_glazed_terracotta` · н
+- [ ] **Mixed Acacia Log** — `chipped:mixed_acacia_log` · н
+- [ ] **Mixed Birch Log** — `chipped:mixed_birch_log` · н
+- [ ] **Mixed Cherry Log** — `chipped:mixed_cherry_log` · н
+- [ ] **Mixed Crimson Stem** — `chipped:mixed_crimson_stem` · н
+- [ ] **Mixed Cubed Oak Bookshelf** — `chipped:mixed_cubed_oak_bookshelf` · н
+- [ ] **Mixed Dark Oak Log** — `chipped:mixed_dark_oak_log` · н
+- [ ] **Mixed Jungle Log** — `chipped:mixed_jungle_log` · н
+- [ ] **Mixed Mangrove Log** — `chipped:mixed_mangrove_log` · н
+- [ ] **Mixed Oak Bookshelf** — `chipped:mixed_oak_bookshelf` · н
+- [ ] **Mixed Oak Large Bookshelf** — `chipped:mixed_oak_large_bookshelf` · н
+- [ ] **Mixed Oak Log** — `chipped:mixed_oak_log` · н
+- [ ] **Mixed Spruce Log** — `chipped:mixed_spruce_log` · н
+- [ ] **Mosaic Black Concrete** — `chipped:mosaic_black_concrete` · н
+- [ ] **Mosaic Blue Concrete** — `chipped:mosaic_blue_concrete` · н
+- [ ] **Mosaic Brown Concrete** — `chipped:mosaic_brown_concrete` · н
+- [ ] **Mosaic Cyan Concrete** — `chipped:mosaic_cyan_concrete` · н
+- [ ] **Mosaic Gray Concrete** — `chipped:mosaic_gray_concrete` · н
+- [ ] **Mosaic Green Concrete** — `chipped:mosaic_green_concrete` · н
+- [ ] **Mosaic Light Blue Concrete** — `chipped:mosaic_light_blue_concrete` · н
+- [ ] **Mosaic Light Gray Concrete** — `chipped:mosaic_light_gray_concrete` · н
+- [ ] **Mosaic Lime Concrete** — `chipped:mosaic_lime_concrete` · н
+- [ ] **Mosaic Magenta Concrete** — `chipped:mosaic_magenta_concrete` · н
+- [ ] **Mosaic Orange Concrete** — `chipped:mosaic_orange_concrete` · н
+- [ ] **Mosaic Pink Concrete** — `chipped:mosaic_pink_concrete` · н
+- [ ] **Mosaic Purple Concrete** — `chipped:mosaic_purple_concrete` · н
+- [ ] **Mosaic Red Concrete** — `chipped:mosaic_red_concrete` · н
+- [ ] **Mosaic White Concrete** — `chipped:mosaic_white_concrete` · н
+- [ ] **Mosaic Yellow Concrete** — `chipped:mosaic_yellow_concrete` · н
+- [ ] **Mossy Cobblestone Bricks** — `chipped:mossy_cobblestone_bricks` · н
+- [ ] **Mossy Cobblestone Mini Tiles** — `chipped:mossy_cobblestone_mini_tiles` · н
+- [ ] **Mossy Cobblestone Pillar** — `chipped:mossy_cobblestone_pillar` · н
+- [ ] **Mossy Cobblestone Pillar Top** — `chipped:mossy_cobblestone_pillar_top` · н
+- [ ] **Mossy Cobblestone Scales** — `chipped:mossy_cobblestone_scales` · н
+- [ ] **Mossy Dried Kelp Block** — `chipped:mossy_dried_kelp_block` · н
+- [ ] **Mossy Ladder** — `chipped:mossy_ladder` · н
+- [ ] **Mossy Stone Bricks Mini Tiles** — `chipped:mossy_stone_bricks_mini_tiles` · н
+- [ ] **Mossy Stone Bricks Pillar** — `chipped:mossy_stone_bricks_pillar` · н
+- [ ] **Mossy Stone Bricks Pillar Top** — `chipped:mossy_stone_bricks_pillar_top` · н
+- [ ] **Mossy Stone Bricks Scales** — `chipped:mossy_stone_bricks_scales` · н
+- [ ] **Mud Bricks** — `chipped:mud_bricks` · н
+- [ ] **Mud Bricks Bricks** — `chipped:mud_bricks_bricks` · н
+- [ ] **Mud Bricks Pillar** — `chipped:mud_bricks_pillar` · н
+- [ ] **Mud Bricks Pillar Top** — `chipped:mud_bricks_pillar_top` · н
+- [ ] **Mud Bricks Scales** — `chipped:mud_bricks_scales` · н
+- [ ] **Mud Pillar** — `chipped:mud_pillar` · н
+- [ ] **Mud Pillar Top** — `chipped:mud_pillar_top` · н
+- [ ] **Mud Scales** — `chipped:mud_scales` · н
+- [ ] **Muddy Mangrove Roots** — `chipped:muddy_mangrove_roots` · н
+- [ ] **Mushroom Barrel** — `chipped:mushroom_barrel` · н
+- [ ] **Nailed Acacia Log** — `chipped:nailed_acacia_log` · н
+- [ ] **Nailed Acacia Planks** — `chipped:nailed_acacia_planks` · н
+- [ ] **Nailed Birch Log** — `chipped:nailed_birch_log` · н
+- [ ] **Nailed Birch Planks** — `chipped:nailed_birch_planks` · н
+- [ ] **Nailed Cherry Log** — `chipped:nailed_cherry_log` · н
+- [ ] **Nailed Cherry Planks** — `chipped:nailed_cherry_planks` · н
+- [ ] **Nailed Crimson Planks** — `chipped:nailed_crimson_planks` · н
+- [ ] **Nailed Crimson Stem** — `chipped:nailed_crimson_stem` · н
+- [ ] **Nailed Dark Oak Log** — `chipped:nailed_dark_oak_log` · н
+- [ ] **Nailed Dark Oak Planks** — `chipped:nailed_dark_oak_planks` · н
+- [ ] **Nailed Jungle Log** — `chipped:nailed_jungle_log` · н
+- [ ] **Nailed Jungle Planks** — `chipped:nailed_jungle_planks` · н
+- [ ] **Nailed Mangrove Log** — `chipped:nailed_mangrove_log` · н
+- [ ] **Nailed Mangrove Planks** — `chipped:nailed_mangrove_planks` · н
+- [ ] **Nailed Oak Log** — `chipped:nailed_oak_log` · н
+- [ ] **Nailed Oak Planks** — `chipped:nailed_oak_planks` · н
+- [ ] **Nailed Spruce Log** — `chipped:nailed_spruce_log` · н
+- [ ] **Nailed Spruce Planks** — `chipped:nailed_spruce_planks` · н
+- [ ] **Nailed Warped Planks** — `chipped:nailed_warped_planks` · н
+- [ ] **Nailed Warped Stem** — `chipped:nailed_warped_stem` · н
+- [ ] **Natural Acacia Planks** — `chipped:natural_acacia_planks` · н
+- [ ] **Natural Bamboo Planks** — `chipped:natural_bamboo_planks` · н
+- [ ] **Natural Birch Planks** — `chipped:natural_birch_planks` · н
+- [ ] **Natural Cherry Planks** — `chipped:natural_cherry_planks` · н
+- [ ] **Natural Crimson Planks** — `chipped:natural_crimson_planks` · н
+- [ ] **Natural Dark Oak Planks** — `chipped:natural_dark_oak_planks` · н
+- [ ] **Natural Jungle Planks** — `chipped:natural_jungle_planks` · н
+- [ ] **Natural Mangrove Planks** — `chipped:natural_mangrove_planks` · н
+- [ ] **Natural Oak Planks** — `chipped:natural_oak_planks` · н
+- [ ] **Natural Spruce Planks** — `chipped:natural_spruce_planks` · н
+- [ ] **Natural Warped Planks** — `chipped:natural_warped_planks` · н
+- [ ] **Nether Bricks Bricks** — `chipped:nether_bricks_bricks` · н
+- [ ] **Nether Bricks Mini Tiles** — `chipped:nether_bricks_mini_tiles` · н
+- [ ] **Nether Bricks Pillar** — `chipped:nether_bricks_pillar` · н
+- [ ] **Nether Bricks Pillar Top** — `chipped:nether_bricks_pillar_top` · н
+- [ ] **Nether Bricks Scales** — `chipped:nether_bricks_scales` · н
+- [ ] **Nether Carved Pumpkin** — `chipped:nether_carved_pumpkin` · н
+- [ ] **Nether Engraved Glowstone** — `chipped:nether_engraved_glowstone` · н
+- [ ] **Nether Jack O Lantern** — `chipped:nether_jack_o_lantern` · н
+- [ ] **Nether Pumpkin** — `chipped:nether_pumpkin` · н
+- [ ] **Nether Sprouts Weeds** — `chipped:nether_sprouts_weeds` · н
+- [ ] **Nether Vine** — `chipped:nether_vine` · н
+- [ ] **Netherite Block Panels** — `chipped:netherite_block_panels` · н
+- [ ] **Netherite Safe** — `chipped:netherite_safe` · н
+- [ ] **Netherrack Bricks** — `chipped:netherrack_bricks` · н
+- [ ] **Netherrack Mini Tiles** — `chipped:netherrack_mini_tiles` · н
+- [ ] **Netherrack Pillar** — `chipped:netherrack_pillar` · н
+- [ ] **Netherrack Pillar Top** — `chipped:netherrack_pillar_top` · н
+- [ ] **Netherrack Pointed Dripstone** — `chipped:netherrack_pointed_dripstone` · н
+- [ ] **Netherrack Scales** — `chipped:netherrack_scales` · н
+- [ ] **Netherwart Dried Kelp Block** — `chipped:netherwart_dried_kelp_block` · н
+- [ ] **Nice Redstone Lamp** — `chipped:nice_redstone_lamp` · н
+- [ ] **Nice White Redstone Lamp** — `chipped:nice_white_redstone_lamp` · н
+- [ ] **Oak Bared Glass** — `chipped:oak_bared_glass` · н
+- [ ] **Oak Bared Glass Pane** — `chipped:oak_bared_glass_pane` · н
+- [ ] **Oak Barrel** — `chipped:oak_barrel` · н
+- [ ] **Oak Bookshelf** — `chipped:oak_bookshelf` · н
+- [ ] **Oak Bordered Glass** — `chipped:oak_bordered_glass` · н
+- [ ] **Oak Bordered Glass Pane** — `chipped:oak_bordered_glass_pane` · н
+- [ ] **Oak Crate** — `chipped:oak_crate` · н
+- [ ] **Oak Diamond Bordered Glass** — `chipped:oak_diamond_bordered_glass` · н
+- [ ] **Oak Diamond Bordered Glass Pane** — `chipped:oak_diamond_bordered_glass_pane` · н
+- [ ] **Oak Empty Bookshelf** — `chipped:oak_empty_bookshelf` · н
+- [ ] **Oak Horizontal Lined Glass** — `chipped:oak_horizontal_lined_glass` · н
+- [ ] **Oak Horizontal Lined Glass Pane** — `chipped:oak_horizontal_lined_glass_pane` · н
+- [ ] **Oak Large Bookshelf** — `chipped:oak_large_bookshelf` · н
+- [ ] **Oak Large Diamond Glass** — `chipped:oak_large_diamond_glass` · н
+- [ ] **Oak Large Diamond Glass Pane** — `chipped:oak_large_diamond_glass_pane` · н
+- [ ] **Oak Lighted Bookshelf** — `chipped:oak_lighted_bookshelf` · н
+- [ ] **Oak Lighted Large Bookshelf** — `chipped:oak_lighted_large_bookshelf` · н
+- [ ] **Oak Line Bared Glass** — `chipped:oak_line_bared_glass` · н
+- [ ] **Oak Line Bared Glass Pane** — `chipped:oak_line_bared_glass_pane` · н
+- [ ] **Oak Ornate Bared Glass** — `chipped:oak_ornate_bared_glass` · н
+- [ ] **Oak Ornate Bared Glass Pane** — `chipped:oak_ornate_bared_glass_pane` · н
+- [ ] **Oak Planks Mosaic** — `chipped:oak_planks_mosaic` · н
+- [ ] **Oak Planks Panel** — `chipped:oak_planks_panel` · н
+- [ ] **Oak Planks Shavings** — `chipped:oak_planks_shavings` · н
+- [ ] **Oak Snowflake Glass** — `chipped:oak_snowflake_glass` · н
+- [ ] **Oak Snowflake Glass Pane** — `chipped:oak_snowflake_glass_pane` · н
+- [ ] **Oak Spaced Bookshelf** — `chipped:oak_spaced_bookshelf` · н
+- [ ] **Oak Spaced Large Bookshelf** — `chipped:oak_spaced_large_bookshelf` · н
+- [ ] **Oak Webbed Bookshelf** — `chipped:oak_webbed_bookshelf` · н
+- [ ] **Oak Webbed Large Bookshelf** — `chipped:oak_webbed_large_bookshelf` · н
+- [ ] **Oak Woven Glass** — `chipped:oak_woven_glass` · н
+- [ ] **Oak Woven Glass Pane** — `chipped:oak_woven_glass_pane` · н
+- [ ] **Obsidian Bricks** — `chipped:obsidian_bricks` · н
+- [ ] **Obsidian Mini Tiles** — `chipped:obsidian_mini_tiles` · н
+- [ ] **Obsidian Pillar** — `chipped:obsidian_pillar` · н
+- [ ] **Obsidian Pillar Top** — `chipped:obsidian_pillar_top` · н
+- [ ] **Obsidian Scales** — `chipped:obsidian_scales` · н
+- [ ] **Offset Amethyst Block Bricks** — `chipped:offset_amethyst_block_bricks` · н
+- [ ] **Offset Ancient Debris Bricks** — `chipped:offset_ancient_debris_bricks` · н
+- [ ] **Offset Andesite Bricks** — `chipped:offset_andesite_bricks` · н
+- [ ] **Offset Basalt Bricks** — `chipped:offset_basalt_bricks` · н
+- [ ] **Offset Blackstone Bricks** — `chipped:offset_blackstone_bricks` · н
+- [ ] **Offset Blue Ice Bricks** — `chipped:offset_blue_ice_bricks` · н
+- [ ] **Offset Borderless Bricks Bricks** — `chipped:offset_borderless_bricks_bricks` · н
+- [ ] **Offset Bricks Bricks** — `chipped:offset_bricks_bricks` · н
+- [ ] **Offset Calcite Bricks** — `chipped:offset_calcite_bricks` · н
+- [ ] **Offset Clay Bricks** — `chipped:offset_clay_bricks` · н
+- [ ] **Offset Coal Block Bricks** — `chipped:offset_coal_block_bricks` · н
+- [ ] **Offset Cobblestone Bricks** — `chipped:offset_cobblestone_bricks` · н
+- [ ] **Offset Crying Obsidian Bricks** — `chipped:offset_crying_obsidian_bricks` · н
+- [ ] **Offset Dark Prismarine Bricks** — `chipped:offset_dark_prismarine_bricks` · н
+- [ ] **Offset Diorite Bricks** — `chipped:offset_diorite_bricks` · н
+- [ ] **Offset Dirt Bricks** — `chipped:offset_dirt_bricks` · н
+- [ ] **Offset Dripstone Block Bricks** — `chipped:offset_dripstone_block_bricks` · н
+- [ ] **Offset End Stone Bricks** — `chipped:offset_end_stone_bricks` · н
+- [ ] **Offset Gilded Blackstone Bricks** — `chipped:offset_gilded_blackstone_bricks` · н
+- [ ] **Offset Granite Bricks** — `chipped:offset_granite_bricks` · н
+- [ ] **Offset Ice Bricks** — `chipped:offset_ice_bricks` · н
+- [ ] **Offset Lapis Block Bricks** — `chipped:offset_lapis_block_bricks` · н
+- [ ] **Offset Lodestone Bricks** — `chipped:offset_lodestone_bricks` · н
+- [ ] **Offset Magma Block Bricks** — `chipped:offset_magma_block_bricks` · н
+- [ ] **Offset Mossy Cobblestone Bricks** — `chipped:offset_mossy_cobblestone_bricks` · н
+- [ ] **Offset Mossy Stone Bricks Bricks** — `chipped:offset_mossy_stone_bricks_bricks` · н
+- [ ] **Offset Mud Bricks** — `chipped:offset_mud_bricks` · н
+- [ ] **Offset Mud Bricks Bricks** — `chipped:offset_mud_bricks_bricks` · н
+- [ ] **Offset Nether Bricks Bricks** — `chipped:offset_nether_bricks_bricks` · н
+- [ ] **Offset Netherrack Bricks** — `chipped:offset_netherrack_bricks` · н
+- [ ] **Offset Obsidian Bricks** — `chipped:offset_obsidian_bricks` · н
+- [ ] **Offset Packed Ice Bricks** — `chipped:offset_packed_ice_bricks` · н
+- [ ] **Offset Packed Mud Bricks** — `chipped:offset_packed_mud_bricks` · н
+- [ ] **Offset Prismarine Bricks** — `chipped:offset_prismarine_bricks` · н
+- [ ] **Offset Purpur Block Bricks** — `chipped:offset_purpur_block_bricks` · н
+- [ ] **Offset Raw Copper Block Bricks** — `chipped:offset_raw_copper_block_bricks` · н
+- [ ] **Offset Raw Gold Block Bricks** — `chipped:offset_raw_gold_block_bricks` · н
+- [ ] **Offset Raw Iron Block Bricks** — `chipped:offset_raw_iron_block_bricks` · н
+- [ ] **Offset Red Nether Bricks Bricks** — `chipped:offset_red_nether_bricks_bricks` · н
+- [ ] **Offset Red Sandstone Bricks** — `chipped:offset_red_sandstone_bricks` · н
+- [ ] **Offset Redstone Block Bricks** — `chipped:offset_redstone_block_bricks` · н
+- [ ] **Offset Sandstone Bricks** — `chipped:offset_sandstone_bricks` · н
+- [ ] **Offset Smooth Stone Bricks** — `chipped:offset_smooth_stone_bricks` · н
+- [ ] **Offset Snow Block Bricks** — `chipped:offset_snow_block_bricks` · н
+- [ ] **Offset Stone Bricks** — `chipped:offset_stone_bricks` · н
+- [ ] **Offset Tuff Bricks** — `chipped:offset_tuff_bricks` · н
+- [ ] **Old Moss Block** — `chipped:old_moss_block` · н
+- [ ] **Old Mushroom Stem** — `chipped:old_mushroom_stem` · н
+- [ ] **Old Sponge** — `chipped:old_sponge` · н
+- [ ] **Orange Acacia Leaves** — `chipped:orange_acacia_leaves` · н
+- [ ] **Orange Birch Leaves** — `chipped:orange_birch_leaves` · н
+- [ ] **Orange Concrete Bricks** — `chipped:orange_concrete_bricks` · н
+- [ ] **Orange Concrete Panel** — `chipped:orange_concrete_panel` · н
+- [ ] **Orange Concrete Pillar** — `chipped:orange_concrete_pillar` · н
+- [ ] **Orange Concrete Tiles** — `chipped:orange_concrete_tiles` · н
+- [ ] **Orange Dark Oak Leaves** — `chipped:orange_dark_oak_leaves` · н
+- [ ] **Orange Glazed Terracotta Pillar Sides** — `chipped:orange_glazed_terracotta_pillar_sides` · н
+- [ ] **Orange Glazed Terracotta Pillar Top** — `chipped:orange_glazed_terracotta_pillar_top` · н
+- [ ] **Orange Glazed Terracotta Smooth Tiles** — `chipped:orange_glazed_terracotta_smooth_tiles` · н
+- [ ] **Orange Glazed Terracotta Tiles** — `chipped:orange_glazed_terracotta_tiles` · н
+- [ ] **Orange Gravel** — `chipped:orange_gravel` · н
+- [ ] **Orange Jungle Leaves** — `chipped:orange_jungle_leaves` · н
+- [ ] **Orange Oak Leaves** — `chipped:orange_oak_leaves` · н
+- [ ] **Orange Paper Soul Lantern** — `chipped:orange_paper_soul_lantern` · н
+- [ ] **Orange Spruce Leaves** — `chipped:orange_spruce_leaves` · н
+- [ ] **Orange Terracotta Bricks** — `chipped:orange_terracotta_bricks` · н
+- [ ] **Orange Terracotta Column** — `chipped:orange_terracotta_column` · н
+- [ ] **Orange Terracotta Pillar** — `chipped:orange_terracotta_pillar` · н
+- [ ] **Orange Terracotta Tile** — `chipped:orange_terracotta_tile` · н
+- [ ] **Orange Terracotta Tiles** — `chipped:orange_terracotta_tiles` · н
+- [ ] **Ornate Amethyst Block Pillar** — `chipped:ornate_amethyst_block_pillar` · н
+- [ ] **Ornate Ancient Debris Pillar** — `chipped:ornate_ancient_debris_pillar` · н
+- [ ] **Ornate Andesite Pillar** — `chipped:ornate_andesite_pillar` · н
+- [ ] **Ornate Basalt Pillar** — `chipped:ornate_basalt_pillar` · н
+- [ ] **Ornate Black Stained Glass** — `chipped:ornate_black_stained_glass` · н
+- [ ] **Ornate Black Stained Glass Pane** — `chipped:ornate_black_stained_glass_pane` · н
+- [ ] **Ornate Blackstone Pillar** — `chipped:ornate_blackstone_pillar` · н
+- [ ] **Ornate Blue Ice Pillar** — `chipped:ornate_blue_ice_pillar` · н
+- [ ] **Ornate Blue Stained Glass** — `chipped:ornate_blue_stained_glass` · н
+- [ ] **Ornate Blue Stained Glass Pane** — `chipped:ornate_blue_stained_glass_pane` · н
+- [ ] **Ornate Borderless Bricks Pillar** — `chipped:ornate_borderless_bricks_pillar` · н
+- [ ] **Ornate Bricks Pillar** — `chipped:ornate_bricks_pillar` · н
+- [ ] **Ornate Brown Stained Glass** — `chipped:ornate_brown_stained_glass` · н
+- [ ] **Ornate Brown Stained Glass Pane** — `chipped:ornate_brown_stained_glass_pane` · н
+- [ ] **Ornate Calcite Pillar** — `chipped:ornate_calcite_pillar` · н
+- [ ] **Ornate Clay Pillar** — `chipped:ornate_clay_pillar` · н
+- [ ] **Ornate Coal Block Pillar** — `chipped:ornate_coal_block_pillar` · н
+- [ ] **Ornate Cobblestone Pillar** — `chipped:ornate_cobblestone_pillar` · н
+- [ ] **Ornate Crying Obsidian Pillar** — `chipped:ornate_crying_obsidian_pillar` · н
+- [ ] **Ornate Cyan Stained Glass** — `chipped:ornate_cyan_stained_glass` · н
+- [ ] **Ornate Cyan Stained Glass Pane** — `chipped:ornate_cyan_stained_glass_pane` · н
+- [ ] **Ornate Dark Prismarine Pillar** — `chipped:ornate_dark_prismarine_pillar` · н
+- [ ] **Ornate Deepslate Pillar** — `chipped:ornate_deepslate_pillar` · н
+- [ ] **Ornate Diorite Pillar** — `chipped:ornate_diorite_pillar` · н
+- [ ] **Ornate Dirt Pillar** — `chipped:ornate_dirt_pillar` · н
+- [ ] **Ornate Dripstone Block Pillar** — `chipped:ornate_dripstone_block_pillar` · н
+- [ ] **Ornate End Stone Pillar** — `chipped:ornate_end_stone_pillar` · н
+- [ ] **Ornate Gilded Blackstone Pillar** — `chipped:ornate_gilded_blackstone_pillar` · н
+- [ ] **Ornate Glowstone Lantern** — `chipped:ornate_glowstone_lantern` · н
+- [ ] **Ornate Granite Pillar** — `chipped:ornate_granite_pillar` · н
+- [ ] **Ornate Gray Stained Glass** — `chipped:ornate_gray_stained_glass` · н
+- [ ] **Ornate Gray Stained Glass Pane** — `chipped:ornate_gray_stained_glass_pane` · н
+- [ ] **Ornate Green Stained Glass** — `chipped:ornate_green_stained_glass` · н
+- [ ] **Ornate Green Stained Glass Pane** — `chipped:ornate_green_stained_glass_pane` · н
+- [ ] **Ornate Ice Pillar** — `chipped:ornate_ice_pillar` · н
+- [ ] **Ornate Lapis Block Pillar** — `chipped:ornate_lapis_block_pillar` · н
+- [ ] **Ornate Leaded Glass** — `chipped:ornate_leaded_glass` · н
+- [ ] **Ornate Leaded Glass Pane** — `chipped:ornate_leaded_glass_pane` · н
+- [ ] **Ornate Light Blue Stained Glass** — `chipped:ornate_light_blue_stained_glass` · н
+- [ ] **Ornate Light Blue Stained Glass Pane** — `chipped:ornate_light_blue_stained_glass_pane` · н
+- [ ] **Ornate Light Gray Stained Glass** — `chipped:ornate_light_gray_stained_glass` · н
+- [ ] **Ornate Light Gray Stained Glass Pane** — `chipped:ornate_light_gray_stained_glass_pane` · н
+- [ ] **Ornate Lime Stained Glass** — `chipped:ornate_lime_stained_glass` · н
+- [ ] **Ornate Lime Stained Glass Pane** — `chipped:ornate_lime_stained_glass_pane` · н
+- [ ] **Ornate Lodestone Pillar** — `chipped:ornate_lodestone_pillar` · н
+- [ ] **Ornate Magenta Stained Glass** — `chipped:ornate_magenta_stained_glass` · н
+- [ ] **Ornate Magenta Stained Glass Pane** — `chipped:ornate_magenta_stained_glass_pane` · н
+- [ ] **Ornate Magma Block Pillar** — `chipped:ornate_magma_block_pillar` · н
+- [ ] **Ornate Mossy Cobblestone Pillar** — `chipped:ornate_mossy_cobblestone_pillar` · н
+- [ ] **Ornate Mossy Stone Bricks Pillar** — `chipped:ornate_mossy_stone_bricks_pillar` · н
+- [ ] **Ornate Mud Bricks Pillar** — `chipped:ornate_mud_bricks_pillar` · н
+- [ ] **Ornate Mud Pillar** — `chipped:ornate_mud_pillar` · н
+- [ ] **Ornate Nether Bricks Pillar** — `chipped:ornate_nether_bricks_pillar` · н
+- [ ] **Ornate Netherrack Pillar** — `chipped:ornate_netherrack_pillar` · н
+- [ ] **Ornate Obsidian Pillar** — `chipped:ornate_obsidian_pillar` · н
+- [ ] **Ornate Orange Stained Glass** — `chipped:ornate_orange_stained_glass` · н
+- [ ] **Ornate Orange Stained Glass Pane** — `chipped:ornate_orange_stained_glass_pane` · н
+- [ ] **Ornate Packed Ice Pillar** — `chipped:ornate_packed_ice_pillar` · н
+- [ ] **Ornate Packed Mud Pillar** — `chipped:ornate_packed_mud_pillar` · н
+- [ ] **Ornate Pink Stained Glass** — `chipped:ornate_pink_stained_glass` · н
+- [ ] **Ornate Pink Stained Glass Pane** — `chipped:ornate_pink_stained_glass_pane` · н
+- [ ] **Ornate Prismarine Pillar** — `chipped:ornate_prismarine_pillar` · н
+- [ ] **Ornate Purple Stained Glass** — `chipped:ornate_purple_stained_glass` · н
+- [ ] **Ornate Purple Stained Glass Pane** — `chipped:ornate_purple_stained_glass_pane` · н
+- [ ] **Ornate Purpur Block Pillar** — `chipped:ornate_purpur_block_pillar` · н
+- [ ] **Ornate Quartz Block Pillar** — `chipped:ornate_quartz_block_pillar` · н
+- [ ] **Ornate Raw Copper Block Pillar** — `chipped:ornate_raw_copper_block_pillar` · н
+- [ ] **Ornate Raw Gold Block Pillar** — `chipped:ornate_raw_gold_block_pillar` · н
+- [ ] **Ornate Raw Iron Block Pillar** — `chipped:ornate_raw_iron_block_pillar` · н
+- [ ] **Ornate Red Nether Bricks Pillar** — `chipped:ornate_red_nether_bricks_pillar` · н
+- [ ] **Ornate Red Sandstone Pillar** — `chipped:ornate_red_sandstone_pillar` · н
+- [ ] **Ornate Red Stained Glass** — `chipped:ornate_red_stained_glass` · н
+- [ ] **Ornate Red Stained Glass Pane** — `chipped:ornate_red_stained_glass_pane` · н
+- [ ] **Ornate Redstone Block Pillar** — `chipped:ornate_redstone_block_pillar` · н
+- [ ] **Ornate Redstone Lamp** — `chipped:ornate_redstone_lamp` · н
+- [ ] **Ornate Sandstone Pillar** — `chipped:ornate_sandstone_pillar` · н
+- [ ] **Ornate Sea Lantern** — `chipped:ornate_sea_lantern` · н
+- [ ] **Ornate Shroomlight Lantern** — `chipped:ornate_shroomlight_lantern` · н
+- [ ] **Ornate Smooth Stone Pillar** — `chipped:ornate_smooth_stone_pillar` · н
+- [ ] **Ornate Snow Block Pillar** — `chipped:ornate_snow_block_pillar` · н
+- [ ] **Ornate Stone Pillar** — `chipped:ornate_stone_pillar` · н
+- [ ] **Ornate Tuff Pillar** — `chipped:ornate_tuff_pillar` · н
+- [ ] **Ornate White Redstone Lamp** — `chipped:ornate_white_redstone_lamp` · н
+- [ ] **Ornate White Stained Glass** — `chipped:ornate_white_stained_glass` · н
+- [ ] **Ornate White Stained Glass Pane** — `chipped:ornate_white_stained_glass_pane` · н
+- [ ] **Ornate Yellow Stained Glass** — `chipped:ornate_yellow_stained_glass` · н
+- [ ] **Ornate Yellow Stained Glass Pane** — `chipped:ornate_yellow_stained_glass_pane` · н
+- [ ] **Overgrown Acacia Door** — `chipped:overgrown_acacia_door` · н
+- [ ] **Overgrown Acacia Log** — `chipped:overgrown_acacia_log` · н
+- [ ] **Overgrown Acacia Trapdoor** — `chipped:overgrown_acacia_trapdoor` · н
+- [ ] **Overgrown Autumnkin** — `chipped:overgrown_autumnkin` · н
+- [ ] **Overgrown Bamboo Door** — `chipped:overgrown_bamboo_door` · н
+- [ ] **Overgrown Bamboo Trapdoor** — `chipped:overgrown_bamboo_trapdoor` · н
+- [ ] **Overgrown Birch Door** — `chipped:overgrown_birch_door` · н
+- [ ] **Overgrown Birch Log** — `chipped:overgrown_birch_log` · н
+- [ ] **Overgrown Birch Trapdoor** — `chipped:overgrown_birch_trapdoor` · н
+- [ ] **Overgrown Cherry Door** — `chipped:overgrown_cherry_door` · н
+- [ ] **Overgrown Cherry Log** — `chipped:overgrown_cherry_log` · н
+- [ ] **Overgrown Cherry Trapdoor** — `chipped:overgrown_cherry_trapdoor` · н
+- [ ] **Overgrown Crimson Door** — `chipped:overgrown_crimson_door` · н
+- [ ] **Overgrown Crimson Trapdoor** — `chipped:overgrown_crimson_trapdoor` · н
+- [ ] **Overgrown Dark Oak Door** — `chipped:overgrown_dark_oak_door` · н
+- [ ] **Overgrown Dark Oak Log** — `chipped:overgrown_dark_oak_log` · н
+- [ ] **Overgrown Dark Oak Trapdoor** — `chipped:overgrown_dark_oak_trapdoor` · н
+- [ ] **Overgrown Jungle Door** — `chipped:overgrown_jungle_door` · н
+- [ ] **Overgrown Jungle Log** — `chipped:overgrown_jungle_log` · н
+- [ ] **Overgrown Jungle Trapdoor** — `chipped:overgrown_jungle_trapdoor` · н
+- [ ] **Overgrown Lumpkin** — `chipped:overgrown_lumpkin` · н
+- [ ] **Overgrown Mangrove Door** — `chipped:overgrown_mangrove_door` · н
+- [ ] **Overgrown Mangrove Log** — `chipped:overgrown_mangrove_log` · н
+- [ ] **Overgrown Mangrove Trapdoor** — `chipped:overgrown_mangrove_trapdoor` · н
+- [ ] **Overgrown Oak Door** — `chipped:overgrown_oak_door` · н
+- [ ] **Overgrown Oak Log** — `chipped:overgrown_oak_log` · н
+- [ ] **Overgrown Oak Trapdoor** — `chipped:overgrown_oak_trapdoor` · н
+- [ ] **Overgrown Pimpkin** — `chipped:overgrown_pimpkin` · н
+- [ ] **Overgrown Pumpkin** — `chipped:overgrown_pumpkin` · н
+- [ ] **Overgrown Sand** — `chipped:overgrown_sand` · н
+- [ ] **Overgrown Spruce Door** — `chipped:overgrown_spruce_door` · н
+- [ ] **Overgrown Spruce Log** — `chipped:overgrown_spruce_log` · н
+- [ ] **Overgrown Spruce Trapdoor** — `chipped:overgrown_spruce_trapdoor` · н
+- [ ] **Overgrown Warped Roots** — `chipped:overgrown_warped_roots` · н
+- [ ] **Overgrown Warped Trapdoor** — `chipped:overgrown_warped_trapdoor` · н
+- [ ] **Overjoyed Carved Pumpkin** — `chipped:overjoyed_carved_pumpkin` · н
+- [ ] **Overjoyed Jack O Lantern** — `chipped:overjoyed_jack_o_lantern` · н
+- [ ] **Overlapping Amethyst Block Tiles** — `chipped:overlapping_amethyst_block_tiles` · н
+- [ ] **Overlapping Ancient Debris Tiles** — `chipped:overlapping_ancient_debris_tiles` · н
+- [ ] **Overlapping Andesite Tiles** — `chipped:overlapping_andesite_tiles` · н
+- [ ] **Overlapping Basalt Tiles** — `chipped:overlapping_basalt_tiles` · н
+- [ ] **Overlapping Blackstone Tiles** — `chipped:overlapping_blackstone_tiles` · н
+- [ ] **Overlapping Blue Ice Tiles** — `chipped:overlapping_blue_ice_tiles` · н
+- [ ] **Overlapping Borderless Bricks Tiles** — `chipped:overlapping_borderless_bricks_tiles` · н
+- [ ] **Overlapping Bricks Tiles** — `chipped:overlapping_bricks_tiles` · н
+- [ ] **Overlapping Calcite Tiles** — `chipped:overlapping_calcite_tiles` · н
+- [ ] **Overlapping Clay Tiles** — `chipped:overlapping_clay_tiles` · н
+- [ ] **Overlapping Coal Block Tiles** — `chipped:overlapping_coal_block_tiles` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

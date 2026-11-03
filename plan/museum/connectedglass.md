@@ -1,0 +1,132 @@
+# Музей: Connected Glass (connectedglass)
+
+Предметов: 119 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 119 предметов.*
+
+- [ ] **Connecting Glass** — `connectedglass:borderless_glass` · н
+- [ ] **Connecting Black Stained Glass** — `connectedglass:borderless_glass_black` · н
+- [ ] **Connecting Black Stained Glass Pane** — `connectedglass:borderless_glass_black_pane` · н
+- [ ] **Connecting Blue Stained Glass** — `connectedglass:borderless_glass_blue` · н
+- [ ] **Connecting Blue Stained Glass Pane** — `connectedglass:borderless_glass_blue_pane` · н
+- [ ] **Connecting Brown Stained Glass** — `connectedglass:borderless_glass_brown` · н
+- [ ] **Connecting Brown Stained Glass Pane** — `connectedglass:borderless_glass_brown_pane` · н
+- [ ] **Connecting Cyan Stained Glass** — `connectedglass:borderless_glass_cyan` · н
+- [ ] **Connecting Cyan Stained Glass Pane** — `connectedglass:borderless_glass_cyan_pane` · н
+- [ ] **Connecting Gray Stained Glass** — `connectedglass:borderless_glass_gray` · н
+- [ ] **Connecting Gray Stained Glass Pane** — `connectedglass:borderless_glass_gray_pane` · н
+- [ ] **Connecting Green Stained Glass** — `connectedglass:borderless_glass_green` · н
+- [ ] **Connecting Green Stained Glass Pane** — `connectedglass:borderless_glass_green_pane` · н
+- [ ] **Connecting Light Blue Stained Glass** — `connectedglass:borderless_glass_light_blue` · н
+- [ ] **Connecting Light Blue Stained Glass Pane** — `connectedglass:borderless_glass_light_blue_pane` · н
+- [ ] **Connecting Light Gray Stained Glass** — `connectedglass:borderless_glass_light_gray` · н
+- [ ] **Connecting Light Gray Stained Glass Pane** — `connectedglass:borderless_glass_light_gray_pane` · н
+- [ ] **Connecting Lime Stained Glass** — `connectedglass:borderless_glass_lime` · н
+- [ ] **Connecting Lime Stained Glass Pane** — `connectedglass:borderless_glass_lime_pane` · н
+- [ ] **Connecting Magenta Stained Glass** — `connectedglass:borderless_glass_magenta` · н
+- [ ] **Connecting Magenta Stained Glass Pane** — `connectedglass:borderless_glass_magenta_pane` · н
+- [ ] **Connecting Orange Stained Glass** — `connectedglass:borderless_glass_orange` · н
+- [ ] **Connecting Orange Stained Glass Pane** — `connectedglass:borderless_glass_orange_pane` · н
+- [ ] **Connecting Glass Pane** — `connectedglass:borderless_glass_pane` · н
+- [ ] **Connecting Pink Stained Glass** — `connectedglass:borderless_glass_pink` · н
+- [ ] **Connecting Pink Stained Glass Pane** — `connectedglass:borderless_glass_pink_pane` · н
+- [ ] **Connecting Purple Stained Glass** — `connectedglass:borderless_glass_purple` · н
+- [ ] **Connecting Purple Stained Glass Pane** — `connectedglass:borderless_glass_purple_pane` · н
+- [ ] **Connecting Red Stained Glass** — `connectedglass:borderless_glass_red` · н
+- [ ] **Connecting Red Stained Glass Pane** — `connectedglass:borderless_glass_red_pane` · н
+- [ ] **Connecting White Stained Glass** — `connectedglass:borderless_glass_white` · н
+- [ ] **Connecting White Stained Glass Pane** — `connectedglass:borderless_glass_white_pane` · н
+- [ ] **Connecting Yellow Stained Glass** — `connectedglass:borderless_glass_yellow` · н
+- [ ] **Connecting Yellow Stained Glass Pane** — `connectedglass:borderless_glass_yellow_pane` · н
+- [ ] **Clear Glass** — `connectedglass:clear_glass` · н
+- [ ] **Clear Black Stained Glass** — `connectedglass:clear_glass_black` · н
+- [ ] **Clear Black Stained Glass Pane** — `connectedglass:clear_glass_black_pane` · н
+- [ ] **Clear Blue Stained Glass** — `connectedglass:clear_glass_blue` · н
+- [ ] **Clear Blue Stained Glass Pane** — `connectedglass:clear_glass_blue_pane` · н
+- [ ] **Clear Brown Stained Glass** — `connectedglass:clear_glass_brown` · н
+- [ ] **Clear Brown Stained Glass Pane** — `connectedglass:clear_glass_brown_pane` · н
+- [ ] **Clear Cyan Stained Glass** — `connectedglass:clear_glass_cyan` · н
+- [ ] **Clear Cyan Stained Glass Pane** — `connectedglass:clear_glass_cyan_pane` · н
+- [ ] **Clear Gray Stained Glass** — `connectedglass:clear_glass_gray` · н
+- [ ] **Clear Gray Stained Glass Pane** — `connectedglass:clear_glass_gray_pane` · н
+- [ ] **Clear Green Stained Glass** — `connectedglass:clear_glass_green` · н
+- [ ] **Clear Green Stained Glass Pane** — `connectedglass:clear_glass_green_pane` · н
+- [ ] **Clear Light Blue Stained Glass** — `connectedglass:clear_glass_light_blue` · н
+- [ ] **Clear Light Blue Stained Glass Pane** — `connectedglass:clear_glass_light_blue_pane` · н
+- [ ] **Clear Light Gray Stained Glass** — `connectedglass:clear_glass_light_gray` · н
+- [ ] **Clear Light Gray Stained Glass Pane** — `connectedglass:clear_glass_light_gray_pane` · н
+- [ ] **Clear Lime Stained Glass** — `connectedglass:clear_glass_lime` · н
+- [ ] **Clear Lime Stained Glass Pane** — `connectedglass:clear_glass_lime_pane` · н
+- [ ] **Clear Magenta Stained Glass** — `connectedglass:clear_glass_magenta` · н
+- [ ] **Clear Magenta Stained Glass Pane** — `connectedglass:clear_glass_magenta_pane` · н
+- [ ] **Clear Orange Stained Glass** — `connectedglass:clear_glass_orange` · н
+- [ ] **Clear Orange Stained Glass Pane** — `connectedglass:clear_glass_orange_pane` · н
+- [ ] **Clear Glass Pane** — `connectedglass:clear_glass_pane` · н
+- [ ] **Clear Pink Stained Glass** — `connectedglass:clear_glass_pink` · н
+- [ ] **Clear Pink Stained Glass Pane** — `connectedglass:clear_glass_pink_pane` · н
+- [ ] **Clear Purple Stained Glass** — `connectedglass:clear_glass_purple` · н
+- [ ] **Clear Purple Stained Glass Pane** — `connectedglass:clear_glass_purple_pane` · н
+- [ ] **Clear Red Stained Glass** — `connectedglass:clear_glass_red` · н
+- [ ] **Clear Red Stained Glass Pane** — `connectedglass:clear_glass_red_pane` · н
+- [ ] **Clear White Stained Glass** — `connectedglass:clear_glass_white` · н
+- [ ] **Clear White Stained Glass Pane** — `connectedglass:clear_glass_white_pane` · н
+- [ ] **Clear Yellow Stained Glass** — `connectedglass:clear_glass_yellow` · н
+- [ ] **Clear Yellow Stained Glass Pane** — `connectedglass:clear_glass_yellow_pane` · н
+- [ ] **Scratched Glass** — `connectedglass:scratched_glass` · н
+- [ ] **Scratched Black Stained Glass** — `connectedglass:scratched_glass_black` · н
+- [ ] **Scratched Black Stained Glass Pane** — `connectedglass:scratched_glass_black_pane` · н
+- [ ] **Scratched Blue Stained Glass** — `connectedglass:scratched_glass_blue` · н
+- [ ] **Scratched Blue Stained Glass Pane** — `connectedglass:scratched_glass_blue_pane` · н
+- [ ] **Scratched Brown Stained Glass** — `connectedglass:scratched_glass_brown` · н
+- [ ] **Scratched Brown Stained Glass Pane** — `connectedglass:scratched_glass_brown_pane` · н
+- [ ] **Scratched Cyan Stained Glass** — `connectedglass:scratched_glass_cyan` · н
+- [ ] **Scratched Cyan Stained Glass Pane** — `connectedglass:scratched_glass_cyan_pane` · н
+- [ ] **Scratched Gray Stained Glass** — `connectedglass:scratched_glass_gray` · н
+- [ ] **Scratched Gray Stained Glass Pane** — `connectedglass:scratched_glass_gray_pane` · н
+- [ ] **Scratched Green Stained Glass** — `connectedglass:scratched_glass_green` · н
+- [ ] **Scratched Green Stained Glass Pane** — `connectedglass:scratched_glass_green_pane` · н
+- [ ] **Scratched Light Blue Stained Glass** — `connectedglass:scratched_glass_light_blue` · н
+- [ ] **Scratched Light Blue Stained Glass Pane** — `connectedglass:scratched_glass_light_blue_pane` · н
+- [ ] **Scratched Light Gray Stained Glass** — `connectedglass:scratched_glass_light_gray` · н
+- [ ] **Scratched Light Gray Stained Glass Pane** — `connectedglass:scratched_glass_light_gray_pane` · н
+- [ ] **Scratched Lime Stained Glass** — `connectedglass:scratched_glass_lime` · н
+- [ ] **Scratched Lime Stained Glass Pane** — `connectedglass:scratched_glass_lime_pane` · н
+- [ ] **Scratched Magenta Stained Glass** — `connectedglass:scratched_glass_magenta` · н
+- [ ] **Scratched Magenta Stained Glass Pane** — `connectedglass:scratched_glass_magenta_pane` · н
+- [ ] **Scratched Orange Stained Glass** — `connectedglass:scratched_glass_orange` · н
+- [ ] **Scratched Orange Stained Glass Pane** — `connectedglass:scratched_glass_orange_pane` · н
+- [ ] **Scratched Glass Pane** — `connectedglass:scratched_glass_pane` · н
+- [ ] **Scratched Pink Stained Glass** — `connectedglass:scratched_glass_pink` · н
+- [ ] **Scratched Pink Stained Glass Pane** — `connectedglass:scratched_glass_pink_pane` · н
+- [ ] **Scratched Purple Stained Glass** — `connectedglass:scratched_glass_purple` · н
+- [ ] **Scratched Purple Stained Glass Pane** — `connectedglass:scratched_glass_purple_pane` · н
+- [ ] **Scratched Red Stained Glass** — `connectedglass:scratched_glass_red` · н
+- [ ] **Scratched Red Stained Glass Pane** — `connectedglass:scratched_glass_red_pane` · н
+- [ ] **Scratched White Stained Glass** — `connectedglass:scratched_glass_white` · н
+- [ ] **Scratched White Stained Glass Pane** — `connectedglass:scratched_glass_white_pane` · н
+- [ ] **Scratched Yellow Stained Glass** — `connectedglass:scratched_glass_yellow` · н
+- [ ] **Scratched Yellow Stained Glass Pane** — `connectedglass:scratched_glass_yellow_pane` · н
+- [ ] **Connecting Tinted Glass** — `connectedglass:tinted_borderless_glass` · н
+- [ ] **Connecting Tinted Black Stained Glass** — `connectedglass:tinted_borderless_glass_black` · н
+- [ ] **Connecting Tinted Blue Stained Glass** — `connectedglass:tinted_borderless_glass_blue` · н
+- [ ] **Connecting Tinted Brown Stained Glass** — `connectedglass:tinted_borderless_glass_brown` · н
+- [ ] **Connecting Tinted Cyan Stained Glass** — `connectedglass:tinted_borderless_glass_cyan` · н
+- [ ] **Connecting Tinted Gray Stained Glass** — `connectedglass:tinted_borderless_glass_gray` · н
+- [ ] **Connecting Tinted Green Stained Glass** — `connectedglass:tinted_borderless_glass_green` · н
+- [ ] **Connecting Tinted Light Blue Stained Glass** — `connectedglass:tinted_borderless_glass_light_blue` · н
+- [ ] **Connecting Tinted Light Gray Stained Glass** — `connectedglass:tinted_borderless_glass_light_gray` · н
+- [ ] **Connecting Tinted Lime Stained Glass** — `connectedglass:tinted_borderless_glass_lime` · н
+- [ ] **Connecting Tinted Magenta Stained Glass** — `connectedglass:tinted_borderless_glass_magenta` · н
+- [ ] **Connecting Tinted Orange Stained Glass** — `connectedglass:tinted_borderless_glass_orange` · н
+- [ ] **Connecting Tinted Pink Stained Glass** — `connectedglass:tinted_borderless_glass_pink` · н
+- [ ] **Connecting Tinted Purple Stained Glass** — `connectedglass:tinted_borderless_glass_purple` · н
+- [ ] **Connecting Tinted Red Stained Glass** — `connectedglass:tinted_borderless_glass_red` · н
+- [ ] **Connecting Tinted White Stained Glass** — `connectedglass:tinted_borderless_glass_white` · н
+- [ ] **Connecting Tinted Yellow Stained Glass** — `connectedglass:tinted_borderless_glass_yellow` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

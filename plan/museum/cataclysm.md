@@ -1,0 +1,288 @@
+# Музей: cataclysm (cataclysm)
+
+Предметов: 275 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 275 предметов.*
+
+- [ ] **Eye of Abyss** — `cataclysm:abyss_eye` · н
+- [ ] **Abyssal Egg** — `cataclysm:abyssal_egg` · н
+- [ ] **Abyssal Sacrifice** — `cataclysm:abyssal_sacrifice` · н
+- [ ] **Altar of Abyss** — `cataclysm:altar_of_abyss` · н
+- [ ] **Altar of Amethyst** — `cataclysm:altar_of_amethyst` · н
+- [ ] **Altar of Fire** — `cataclysm:altar_of_fire` · н
+- [ ] **Altar of Void** — `cataclysm:altar_of_void` · н
+- [ ] **Amethyst Crab Meat** — `cataclysm:amethyst_crab_meat` · н
+- [ ] **Amethyst Crab Shell** — `cataclysm:amethyst_crab_shell` · н
+- [ ] **Amethyst Crab Spawn Egg** — `cataclysm:amethyst_crab_spawn_egg` · н
+- [ ] **Block of Ancient Metal** — `cataclysm:ancient_metal_block` · н
+- [ ] **Ancient Metal Ingot** — `cataclysm:ancient_metal_ingot` · н
+- [ ] **Ancient Metal Nugget** — `cataclysm:ancient_metal_nugget` · н
+- [ ] **Ancient Remnant Spawn Egg** — `cataclysm:ancient_remnant_spawn_egg` · н
+- [ ] **Ancient Spear** — `cataclysm:ancient_spear` · н
+- [ ] **Aptrgangr Head** — `cataclysm:aptrgangr_head` · н
+- [ ] **Aptrgangr Spawn Egg** — `cataclysm:aptrgangr_spawn_egg` · н
+- [ ] **Astrape** — `cataclysm:astrape` · н
+- [ ] **Athame** — `cataclysm:athame` · н
+- [ ] **Azure Sea Shield** — `cataclysm:azure_sea_shield` · н
+- [ ] **Azure Seastone** — `cataclysm:azure_seastone` · н
+- [ ] **Azure Seastone Brick Slab** — `cataclysm:azure_seastone_brick_slab` · н
+- [ ] **Azure Seastone Brick Stairs** — `cataclysm:azure_seastone_brick_stairs` · н
+- [ ] **Azure Seastone Brick Wall** — `cataclysm:azure_seastone_brick_wall` · н
+- [ ] **Azure Seastone Bricks** — `cataclysm:azure_seastone_bricks` · н
+- [ ] **Azure Seastone Fence** — `cataclysm:azure_seastone_fence` · н
+- [ ] **Azure Seastone Mural(Cindaria)** — `cataclysm:azure_seastone_mural_cindaria` · н
+- [ ] **Azure Seastone Mural(Clawdian)** — `cataclysm:azure_seastone_mural_clawdian` · н
+- [ ] **Azure Seastone Mural(Inhibited Natural Creativity)** — `cataclysm:azure_seastone_mural_empty` · н
+- [ ] **Azure Seastone Mural(Harvest)** — `cataclysm:azure_seastone_mural_harvest` · н
+- [ ] **Azure Seastone Mural(Hippocamtus)** — `cataclysm:azure_seastone_mural_hippocamtus` · н
+- [ ] **Azure Seastone Mural(Sea)** — `cataclysm:azure_seastone_mural_sea` · н
+- [ ] **Azure Seastone Mural(Smithing)** — `cataclysm:azure_seastone_mural_smithing` · н
+- [ ] **Azure Seastone Mural(Thunder)** — `cataclysm:azure_seastone_mural_thunder` · н
+- [ ] **Azure Seastone Mural(Underworld)** — `cataclysm:azure_seastone_mural_underworld` · н
+- [ ] **Azure Seastone Mural(Urchinkin)** — `cataclysm:azure_seastone_mural_urchinkin` · н
+- [ ] **Azure Seastone Mural(Wisdom)** — `cataclysm:azure_seastone_mural_wisdom` · н
+- [ ] **Azure Seastone Pillar** — `cataclysm:azure_seastone_pillar` · н
+- [ ] **Azure Seastone Pillar Wall** — `cataclysm:azure_seastone_pillar_wall` · н
+- [ ] **Azure Seastone Slab** — `cataclysm:azure_seastone_slab` · н
+- [ ] **Azure Seastone Stairs** — `cataclysm:azure_seastone_stairs` · н
+- [ ] **Azure Seastone Tiles** — `cataclysm:azure_seastone_tiles` · н
+- [ ] **Azure Seastone Wall** — `cataclysm:azure_seastone_wall` · н
+- [ ] **Black Steel Axe** — `cataclysm:black_steel_axe` · н
+- [ ] **Black Steel Block** — `cataclysm:black_steel_block` · н
+- [ ] **Black Steel Fence** — `cataclysm:black_steel_fence` · н
+- [ ] **Black Steel Hoe** — `cataclysm:black_steel_hoe` · н
+- [ ] **Black Steel Ingot** — `cataclysm:black_steel_ingot` · н
+- [ ] **Black Steel Nugget** — `cataclysm:black_steel_nugget` · н
+- [ ] **Black Steel Pickaxe** — `cataclysm:black_steel_pickaxe` · н
+- [ ] **Black Steel Shovel** — `cataclysm:black_steel_shovel` · н
+- [ ] **Black Steel Sword** — `cataclysm:black_steel_sword` · н
+- [ ] **Black Steel Targe** — `cataclysm:black_steel_targe` · н
+- [ ] **Black Steel Wall** — `cataclysm:black_steel_wall` · н
+- [ ] **Blackstone Pillar** — `cataclysm:blackstone_pillar` · н
+- [ ] **Blazing Grips** — `cataclysm:blazing_grips` · н
+- [ ] **Blessed Amethyst Crab Meat** — `cataclysm:blessed_amethyst_crab_meat` · н
+- [ ] **Bloom Stone Pauldrons** — `cataclysm:bloom_stone_pauldrons` · н
+- [ ] **Bone Reptile Chestplate** — `cataclysm:bone_reptile_chestplate` · н
+- [ ] **Bone Reptile Helmet** — `cataclysm:bone_reptile_helmet` · н
+- [ ] **Boss Respawner** — `cataclysm:boss_respawner` · н
+- [ ] **Bulwark of the Flame** — `cataclysm:bulwark_of_the_flame` · н
+- [ ] **Burning Ashes** — `cataclysm:burning_ashes` · н
+- [ ] **Ceraunus** — `cataclysm:ceraunus` · н
+- [ ] **Chain of Soul Binding** — `cataclysm:chain_of_soul_binding` · н
+- [ ] **Chiseled Azure Seastone** — `cataclysm:chiseled_azure_seastone` · н
+- [ ] **Chiseled Azure Seastone Pillar** — `cataclysm:chiseled_azure_seastone_pillar` · н
+- [ ] **Chiseled Azure Seastone Pillar Wall** — `cataclysm:chiseled_azure_seastone_pillar_wall` · н
+- [ ] **Chiseled End Stone Bricks** — `cataclysm:chiseled_end_stone_bricks` · н
+- [ ] **Chiseled Obsidian Bricks** — `cataclysm:chiseled_obsidian_bricks` · н
+- [ ] **Chiseled Purpur Block** — `cataclysm:chiseled_purpur_block` · н
+- [ ] **Chiseled Stone Brick Pillar** — `cataclysm:chiseled_stone_brick_pillar` · н
+- [ ] **Chitin Claw** — `cataclysm:chitin_claw` · н
+- [ ] **Chorus Fence** — `cataclysm:chorus_fence` · н
+- [ ] **Chorus Planks** — `cataclysm:chorus_planks` · н
+- [ ] **Chorus Slab** — `cataclysm:chorus_slab` · н
+- [ ] **Chorus Stairs** — `cataclysm:chorus_stairs` · н
+- [ ] **Chorus Stem** — `cataclysm:chorus_stem` · н
+- [ ] **Chorus Trapdoor** — `cataclysm:chorus_trapdoor` · н
+- [ ] **Cindaria Spawn Egg** — `cataclysm:cindaria_spawn_egg` · н
+- [ ] **Clawdian Spawn Egg** — `cataclysm:clawdian_spawn_egg` · н
+- [ ] **Coral Bardiche** — `cataclysm:coral_bardiche` · н
+- [ ] **Coral Chunk** — `cataclysm:coral_chunk` · н
+- [ ] **Coral Golem Spawn Egg** — `cataclysm:coral_golem_spawn_egg` · н
+- [ ] **Coral Spear** — `cataclysm:coral_spear` · н
+- [ ] **Coralssus Spawn Egg** — `cataclysm:coralssus_spawn_egg` · н
+- [ ] **Crystallized Coral** — `cataclysm:crystallized_coral` · н
+- [ ] **Crystallized Coral Fragments** — `cataclysm:crystallized_coral_fragments` · н
+- [ ] **Cursed Bow** — `cataclysm:cursed_bow` · н
+- [ ] **Eye of Curse** — `cataclysm:cursed_eye` · н
+- [ ] **Cursed Tombstone** — `cataclysm:cursed_tombstone` · н
+- [ ] **Block of Cursium** — `cataclysm:cursium_block` · н
+- [ ] **Cursium Boots** — `cataclysm:cursium_boots` · н
+- [ ] **Cursium Chestplate** — `cataclysm:cursium_chestplate` · н
+- [ ] **Cursium Helmet** — `cataclysm:cursium_helmet` · н
+- [ ] **Cursium Ingot** — `cataclysm:cursium_ingot` · н
+- [ ] **Cursium Leggings** — `cataclysm:cursium_leggings` · н
+- [ ] **Curved Azure Seastone(Cindaria 1)** — `cataclysm:curved_azure_seastone_cindaria_1` · н
+- [ ] **Curved Azure Seastone(Cindaria 2)** — `cataclysm:curved_azure_seastone_cindaria_2` · н
+- [ ] **Curved Azure Seastone(Cindaria 3)** — `cataclysm:curved_azure_seastone_cindaria_3` · н
+- [ ] **Curved Azure Seastone(Cindaria 4)** — `cataclysm:curved_azure_seastone_cindaria_4` · н
+- [ ] **Curved Azure Seastone(Clawdian 1)** — `cataclysm:curved_azure_seastone_clawdian_1` · н
+- [ ] **Curved Azure Seastone(Clawdian 2)** — `cataclysm:curved_azure_seastone_clawdian_2` · н
+- [ ] **Curved Azure Seastone(Clawdian 3)** — `cataclysm:curved_azure_seastone_clawdian_3` · н
+- [ ] **Curved Azure Seastone(Clawdian 4)** — `cataclysm:curved_azure_seastone_clawdian_4` · н
+- [ ] **Curved Azure Seastone(Hippocamtus 1)** — `cataclysm:curved_azure_seastone_hippocamtus_1` · н
+- [ ] **Curved Azure Seastone(Hippocamtus 2)** — `cataclysm:curved_azure_seastone_hippocamtus_2` · н
+- [ ] **Curved Azure Seastone(Hippocamtus 3)** — `cataclysm:curved_azure_seastone_hippocamtus_3` · н
+- [ ] **Curved Azure Seastone(Hippocamtus 4)** — `cataclysm:curved_azure_seastone_hippocamtus_4` · н
+- [ ] **Curved Azure Seastone(Scylla 1)** — `cataclysm:curved_azure_seastone_scylla_1` · н
+- [ ] **Curved Azure Seastone(Scylla 2)** — `cataclysm:curved_azure_seastone_scylla_2` · н
+- [ ] **Curved Azure Seastone(Scylla 3)** — `cataclysm:curved_azure_seastone_scylla_3` · н
+- [ ] **Curved Azure Seastone(Scylla 4)** — `cataclysm:curved_azure_seastone_scylla_4` · н
+- [ ] **Curved Azure Seastone(Scylla 5)** — `cataclysm:curved_azure_seastone_scylla_5` · н
+- [ ] **Curved Azure Seastone(Scylla 6)** — `cataclysm:curved_azure_seastone_scylla_6` · н
+- [ ] **Curved Azure Seastone(Scylla 7)** — `cataclysm:curved_azure_seastone_scylla_7` · н
+- [ ] **Curved Azure Seastone(Scylla 8)** — `cataclysm:curved_azure_seastone_scylla_8` · н
+- [ ] **Curved Azure Seastone(Scylla 9)** — `cataclysm:curved_azure_seastone_scylla_9` · н
+- [ ] **Curved Azure Seastone(Urchinkin)** — `cataclysm:curved_azure_seastone_urchinkin` · н
+- [ ] **Deepling Angler Spawn Egg** — `cataclysm:deepling_angler_spawn_egg` · н
+- [ ] **Deepling Brute Spawn Egg** — `cataclysm:deepling_brute_spawn_egg` · н
+- [ ] **Deepling Priest Spawn Egg** — `cataclysm:deepling_priest_spawn_egg` · н
+- [ ] **Deepling Spawn Egg** — `cataclysm:deepling_spawn_egg` · н
+- [ ] **Deepling Warlock Spawn Egg** — `cataclysm:deepling_warlock_spawn_egg` · н
+- [ ] **Eye of Desert** — `cataclysm:desert_eye` · н
+- [ ] **Door of Seal** — `cataclysm:door_of_seal` · н
+- [ ] **Door of Seal Part** — `cataclysm:door_of_seal_part` · н
+- [ ] **Draugr Head** — `cataclysm:draugr_head` · н
+- [ ] **Draugr Spawn Egg** — `cataclysm:draugr_spawn_egg` · н
+- [ ] **Dungeon Block** — `cataclysm:dungeon_block` · н
+- [ ] **Dying Ember** — `cataclysm:dying_ember` · н
+- [ ] **Elite Draugr Spawn Egg** — `cataclysm:elite_draugr_spawn_egg` · н
+- [ ] **EMP** — `cataclysm:emp` · н
+- [ ] **End Stone Pillar** — `cataclysm:end_stone_pillar` · н
+- [ ] **End Stone Trap Block** — `cataclysm:end_stone_teleport_trap_bricks` · н
+- [ ] **Ender Golem Spawn Egg** — `cataclysm:ender_golem_spawn_egg` · н
+- [ ] **Ender Guardian Spawn Egg** — `cataclysm:ender_guardian_spawn_egg` · н
+- [ ] **Block of Enderite** — `cataclysm:enderite_block` · н
+- [ ] **Enderite Ingot** — `cataclysm:enderite_ingot` · н
+- [ ] **Endermaptera Spawn Egg** — `cataclysm:endermaptera_spawn_egg` · н
+- [ ] **Essence of the Storm** — `cataclysm:essence_of_the_storm` · н
+- [ ] **Final Fractal** — `cataclysm:final_fractal` · н
+- [ ] **Eye of Flame** — `cataclysm:flame_eye` · н
+- [ ] **Frosted Stone Brick Slab** — `cataclysm:frosted_stone_brick_slab` · н
+- [ ] **Frosted Stone Brick Stairs** — `cataclysm:frosted_stone_brick_stairs` · н
+- [ ] **Frosted Stone Brick Wall** — `cataclysm:frosted_stone_brick_wall` · н
+- [ ] **Frosted Stone Bricks** — `cataclysm:frosted_stone_bricks` · н
+- [ ] **Gauntlet of Bulwark** — `cataclysm:gauntlet_of_bulwark` · н
+- [ ] **Gauntlet of Guard** — `cataclysm:gauntlet_of_guard` · н
+- [ ] **Gauntlet of Maelstrom** — `cataclysm:gauntlet_of_maelstrom` · н
+- [ ] **Goddess Statue** — `cataclysm:goddess_statue` · н
+- [ ] **Hippocamtus Spawn Egg** — `cataclysm:hippocamtus_spawn_egg` · н
+- [ ] **Ignis Spawn Egg** — `cataclysm:ignis_spawn_egg` · н
+- [ ] **Ignited Berserker Spawn Egg** — `cataclysm:ignited_berserker_spawn_egg` · н
+- [ ] **Ignited Revenant Spawn Egg** — `cataclysm:ignited_revenant_spawn_egg` · н
+- [ ] **Block of Ignitium** — `cataclysm:ignitium_block` · н
+- [ ] **Ignitium Boots** — `cataclysm:ignitium_boots` · н
+- [ ] **Ignitium Chestplate** — `cataclysm:ignitium_chestplate` · н
+- [ ] **Ignitium Elytra Chestplate** — `cataclysm:ignitium_elytra_chestplate` · н
+- [ ] **Ignitium Helmet** — `cataclysm:ignitium_helmet` · н
+- [ ] **Ignitium Ingot** — `cataclysm:ignitium_ingot` · н
+- [ ] **Ignitium Leggings** — `cataclysm:ignitium_leggings` · н
+- [ ] **Smithing Template** — `cataclysm:ignitium_upgrade_smithing_template` · н
+- [ ] **Infernal Forge** — `cataclysm:infernal_forge` · н
+- [ ] **Khopesh** — `cataclysm:khopesh` · н
+- [ ] **Kobolediator Skull** — `cataclysm:kobolediator_skull` · н
+- [ ] **Kobolediator Spawn Egg** — `cataclysm:kobolediator_spawn_egg` · н
+- [ ] **Koboleton Bone** — `cataclysm:koboleton_bone` · н
+- [ ] **Koboleton Spawn Egg** — `cataclysm:koboleton_spawn_egg` · н
+- [ ] **Lacrima** — `cataclysm:lacrima` · н
+- [ ] **Laser Gatling** — `cataclysm:laser_gatling` · н
+- [ ] **Lava Power Cell** — `cataclysm:lava_power_cell` · н
+- [ ] **Lionfish** — `cataclysm:lionfish` · н
+- [ ] **Lionfish Spawn Egg** — `cataclysm:lionfish_spawn_egg` · н
+- [ ] **Lionfish's Spike** — `cataclysm:lionfish_spike` · н
+- [ ] **Maledictus Spawn Egg** — `cataclysm:maledictus_spawn_egg` · н
+- [ ] **Meat Shredder** — `cataclysm:meat_shredder` · н
+- [ ] **Eye of Mech** — `cataclysm:mech_eye` · н
+- [ ] **Mechanical Fusion Anvil** — `cataclysm:mechanical_fusion_anvil` · н
+- [ ] **Bucket of Modern Remnant** — `cataclysm:modern_remnant_bucket` · н
+- [ ] **Modern Remnant Spawn Egg** — `cataclysm:modern_remnant_spawn_egg` · н
+- [ ] **Eye of Monstrous** — `cataclysm:monstrous_eye` · н
+- [ ] **Monstrous Helm** — `cataclysm:monstrous_helm` · н
+- [ ] **Monstrous Horn** — `cataclysm:monstrous_horn` · н
+- [ ] **Music Disc** — `cataclysm:music_disc_ancient_remnant` · н
+- [ ] **Music Disc** — `cataclysm:music_disc_ender_guardian` · н
+- [ ] **Music Disc** — `cataclysm:music_disc_ignis` · н
+- [ ] **Music Disc** — `cataclysm:music_disc_maledictus` · н
+- [ ] **Music Disc** — `cataclysm:music_disc_netherite_monstrosity` · н
+- [ ] **Music Disc** — `cataclysm:music_disc_scylla` · н
+- [ ] **Music Disc** — `cataclysm:music_disc_the_cataclysmfarer` · н
+- [ ] **Music Disc** — `cataclysm:music_disc_the_harbinger` · н
+- [ ] **Music Disc** — `cataclysm:music_disc_the_leviathan` · н
+- [ ] **Nameless Sorcerer Spawn Egg** — `cataclysm:nameless_sorcerer_spawn_egg` · н
+- [ ] **Necklace of the desert** — `cataclysm:necklace_of_the_desert` · н
+- [ ] **Netherite Effigy** — `cataclysm:netherite_effigy` · н
+- [ ] **Bucket of Netherite Ministrosity** — `cataclysm:netherite_ministrosity_bucket` · н
+- [ ] **Netherite Ministrosity Spawn Egg** — `cataclysm:netherite_ministrosity_spawn_egg` · н
+- [ ] **Netherite Monstrosity Spawn Egg** — `cataclysm:netherite_monstrosity_spawn_egg` · н
+- [ ] **Obsidian Brick Slab** — `cataclysm:obsidian_brick_slab` · н
+- [ ] **Obsidian Brick Stairs** — `cataclysm:obsidian_brick_stairs` · н
+- [ ] **Obsidian Brick Wall** — `cataclysm:obsidian_brick_wall` · н
+- [ ] **Obsidian Bricks** — `cataclysm:obsidian_bricks` · н
+- [ ] **Obsidian Trap Block** — `cataclysm:obsidian_explosion_trap_bricks` · н
+- [ ] **Obsidian Pillar** — `cataclysm:obsidian_pillar` · н
+- [ ] **Octohost Spawn Egg** — `cataclysm:octohost_spawn_egg` · н
+- [ ] **Phantom Arrow** — `cataclysm:phantom_arrow` · н
+- [ ] **Pointed Icicle** — `cataclysm:pointed_icicle` · н
+- [ ] **Polished Azure Seastone** — `cataclysm:polished_azure_seastone` · н
+- [ ] **Polished Azure Seastone Slab** — `cataclysm:polished_azure_seastone_slab` · н
+- [ ] **Polished Azure Seastone Stairs** — `cataclysm:polished_azure_seastone_stairs` · н
+- [ ] **Polished Azure Seastone Wall** — `cataclysm:polished_azure_seastone_wall` · н
+- [ ] **Polished End Stone** — `cataclysm:polished_end_stone` · н
+- [ ] **Polished End Stone Slab** — `cataclysm:polished_end_stone_slab` · н
+- [ ] **Polished End Stone Stairs** — `cataclysm:polished_end_stone_stairs` · н
+- [ ] **Polished Obsidian** — `cataclysm:polished_obsidian` · н
+- [ ] **Polished Obsidian Slab** — `cataclysm:polished_obsidian_slab` · н
+- [ ] **Polished Obsidian Stairs** — `cataclysm:polished_obsidian_stairs` · н
+- [ ] **Polished Obsidian Wall** — `cataclysm:polished_obsidian_wall` · н
+- [ ] **Polished Sandstone** — `cataclysm:polished_sandstone` · н
+- [ ] **Prismarine Brick Fence** — `cataclysm:prismarine_brick_fence` · н
+- [ ] **Prismarine Brick Wall** — `cataclysm:prismarine_brick_wall` · н
+- [ ] **Purpur Tile Slab** — `cataclysm:purpur_tile_slab` · н
+- [ ] **Purpur Tile Stairs** — `cataclysm:purpur_tile_stairs` · н
+- [ ] **Purpur Tile Wall** — `cataclysm:purpur_tile_wall` · н
+- [ ] **Purpur Tiles** — `cataclysm:purpur_tiles` · н
+- [ ] **Purpur Trap Block** — `cataclysm:purpur_void_rune_trap_block` · н
+- [ ] **Purpur Wall** — `cataclysm:purpur_wall` · н
+- [ ] **Quartz Brick Wall** — `cataclysm:quartz_brick_wall` · н
+- [ ] **Remnant's Skull** — `cataclysm:remnant_skull` · н
+- [ ] **Royal Draugr Spawn Egg** — `cataclysm:royal_draugr_spawn_egg` · н
+- [ ] **Sandstone falling Trap** — `cataclysm:sandstone_falling_trap` · н
+- [ ] **Sandstone Ignite Trap** — `cataclysm:sandstone_ignite_trap` · н
+- [ ] **Sandstone Poison Dart Trap** — `cataclysm:sandstone_poison_dart_trap` · н
+- [ ] **Sandstorm in a Bottle** — `cataclysm:sandstorm_in_a_bottle` · н
+- [ ] **Scylla Spawn Egg** — `cataclysm:scylla_spawn_egg` · н
+- [ ] **Soul Render** — `cataclysm:soul_render` · н
+- [ ] **Sticky Gloves** — `cataclysm:sticky_gloves` · н
+- [ ] **Stone Pillar** — `cataclysm:stone_pillar` · н
+- [ ] **Stone Tile Slab** — `cataclysm:stone_tile_slab` · н
+- [ ] **Stone Tile Stairs** — `cataclysm:stone_tile_stairs` · н
+- [ ] **Stone Tile Wall** — `cataclysm:stone_tile_wall` · н
+- [ ] **Stone Tiles** — `cataclysm:stone_tiles` · н
+- [ ] **Eye of Storm** — `cataclysm:storm_eye` · н
+- [ ] **Strange Key** — `cataclysm:strange_key` · н
+- [ ] **Symbiocto Spawn Egg** — `cataclysm:symbiocto_spawn_egg` · н
+- [ ] **The Annihilator** — `cataclysm:the_annihilator` · н
+- [ ] **Bucket of the Baby Leviathan** — `cataclysm:the_baby_leviathan_bucket` · н
+- [ ] **The Baby Leviathan Spawn Egg** — `cataclysm:the_baby_leviathan_spawn_egg` · н
+- [ ] **The Harbinger Spawn Egg** — `cataclysm:the_harbinger_spawn_egg` · н
+- [ ] **The Immolator** — `cataclysm:the_immolator` · н
+- [ ] **The Incinerator** — `cataclysm:the_incinerator` · н
+- [ ] **The Leviathan Spawn Egg** — `cataclysm:the_leviathan_spawn_egg` · н
+- [ ] **The Prowler Spawn Egg** — `cataclysm:the_prowler_spawn_egg` · н
+- [ ] **The Watcher Spawn Egg** — `cataclysm:the_watcher_spawn_egg` · н
+- [ ] **Tidal Claws** — `cataclysm:tidal_claws` · н
+- [ ] **Urchinkin Spawn Egg** — `cataclysm:urchinkin_spawn_egg` · н
+- [ ] **Void Assault Shoulder Weapon** — `cataclysm:void_assault_shoulder_weapon` · н
+- [ ] **Void Core** — `cataclysm:void_core` · н
+- [ ] **Void Crystal** — `cataclysm:void_crystal` · н
+- [ ] **Eye of Void** — `cataclysm:void_eye` · н
+- [ ] **Void Forge** — `cataclysm:void_forge` · н
+- [ ] **Void Infused End Stone Bricks** — `cataclysm:void_infused_end_stone_bricks` · н
+- [ ] **Void Jaw** — `cataclysm:void_jaw` · н
+- [ ] **Void Lantern Block** — `cataclysm:void_lantern_block` · н
+- [ ] **Void Purpur Tiles** — `cataclysm:void_purpur_tiles` · н
+- [ ] **Void Scatter Arrow** — `cataclysm:void_scatter_arrow` · н
+- [ ] **Void Shard** — `cataclysm:void_shard` · н
+- [ ] **Void Stone** — `cataclysm:void_stone` · н
+- [ ] **Wadjet Spawn Egg** — `cataclysm:wadjet_spawn_egg` · н
+- [ ] **Wither Assault Shoulder Weapon** — `cataclysm:wither_assault_shoulder_weapon` · н
+- [ ] **Block of Witherite** — `cataclysm:witherite_block` · н
+- [ ] **Witherite Ingot** — `cataclysm:witherite_ingot` · н
+- [ ] **Wrath of the Desert** — `cataclysm:wrath_of_the_desert` · н
+- [ ] **Zweiender** — `cataclysm:zweiender` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

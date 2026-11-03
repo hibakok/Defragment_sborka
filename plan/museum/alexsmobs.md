@@ -1,0 +1,305 @@
+# Музей: Alex's Mobs (alexsmobs)
+
+Предметов: 292 · крафтимых по данным: 1 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 292 предметов.*
+
+- [ ] **Acacia Blossom** — `alexsmobs:acacia_blossom` · н
+- [ ] **Ambergris** — `alexsmobs:ambergris` · н
+- [ ] **Ancient Dart** — `alexsmobs:ancient_dart` · н
+- [ ] **Animal Dictionary** — `alexsmobs:animal_dictionary` · н
+- [ ] **Banana** — `alexsmobs:banana` · н
+- [ ] **Banana Peel** — `alexsmobs:banana_peel` · н
+- [ ] **Banana Slug Slime** — `alexsmobs:banana_slug_slime` · н
+- [ ] **Banana Slug Slime Block** — `alexsmobs:banana_slug_slime_block` · н
+- [ ] **Banner Pattern** — `alexsmobs:banner_pattern_australia_0` · н
+- [ ] **Banner Pattern** — `alexsmobs:banner_pattern_australia_1` · н
+- [ ] **Banner Pattern** — `alexsmobs:banner_pattern_bear` · н
+- [ ] **Banner Pattern** — `alexsmobs:banner_pattern_brazil` · н
+- [ ] **Banner Pattern** — `alexsmobs:banner_pattern_new_mexico` · н
+- [ ] **Bear Dust** — `alexsmobs:bear_dust` · н
+- [ ] **Hair of Bear** — `alexsmobs:bear_fur` · н
+- [ ] **Bison Fur Carpet** — `alexsmobs:bison_carpet` · н
+- [ ] **Bison Fur** — `alexsmobs:bison_fur` · н
+- [ ] **Block of Bison Fur** — `alexsmobs:bison_fur_block` · н
+- [ ] **Blobfish** — `alexsmobs:blobfish` · н
+- [ ] **Bucket of Blobfish** — `alexsmobs:blobfish_bucket` · н
+- [ ] **Blood Sac** — `alexsmobs:blood_sac` · н
+- [ ] **Blood Sprayer** — `alexsmobs:blood_sprayer` · н
+- [ ] **Boiled Emu Egg** — `alexsmobs:boiled_emu_egg` · н
+- [ ] **Bone Serpent Tooth** — `alexsmobs:bone_serpent_tooth` · н
+- [ ] **Cachalot Whale Tooth** — `alexsmobs:cachalot_whale_tooth` · н
+- [ ] **Caiman Egg** — `alexsmobs:caiman_egg` · н
+- [ ] **Capsid** — `alexsmobs:capsid` · н
+- [ ] **Cave Centipede Leg** — `alexsmobs:centipede_leg` · н
+- [ ] **Cave Centipede Leggings** — `alexsmobs:centipede_leggings` · н
+- [ ] **Chorus Fruit on a Stick** — `alexsmobs:chorus_on_a_stick` · н
+- [ ] **Cockroach Ootheca** — `alexsmobs:cockroach_ootheca` · н
+- [ ] **Cockroach Wing** — `alexsmobs:cockroach_wing` · н
+- [ ] **Cockroach Wing Fragment** — `alexsmobs:cockroach_wing_fragment` · н
+- [ ] **Bucket of Comb Jelly** — `alexsmobs:comb_jelly_bucket` · н
+- [ ] **Cooked Catfish** — `alexsmobs:cooked_catfish` · н
+- [ ] **Cooked Kangaroo Meat** — `alexsmobs:cooked_kangaroo_meat` · н
+- [ ] **Cooked Lobster Tail** — `alexsmobs:cooked_lobster_tail` · н
+- [ ] **Cooked Moose Ribs** — `alexsmobs:cooked_moose_ribs` · н
+- [ ] **Cosmic Cod** — `alexsmobs:cosmic_cod` · н
+- [ ] **Bucket of Cosmic Cod** — `alexsmobs:cosmic_cod_bucket` · н
+- [ ] **Crocodile Chestplate** — `alexsmobs:crocodile_chestplate` · н
+- [ ] **Crocodile Egg** — `alexsmobs:crocodile_egg` · н
+- [ ] **Crocodile Scute** — `alexsmobs:crocodile_scute` · н
+- [ ] **Crystallized Banana Slug Mucus** — `alexsmobs:crystalized_banana_slug_mucus` · н
+- [ ] **Bucket of Devil's Hole Pupfish** — `alexsmobs:devils_hole_pupfish_bucket` · н
+- [ ] **Dimensional Carver** — `alexsmobs:dimensional_carver` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_0` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_1` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_10` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_2` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_3` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_4` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_5` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_6` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_7` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_8` · н
+- [ ] **Dimensional Carver Shard** — `alexsmobs:dimensional_carver_shard_9` · н
+- [ ] **Dropbear Claw** — `alexsmobs:dropbear_claw` · н
+- [ ] **Echolocator** — `alexsmobs:echolocator` · н
+- [ ] **Elastic Tendon** — `alexsmobs:elastic_tendon` · н
+- [ ] **Emu Egg** — `alexsmobs:emu_egg` · н
+- [ ] **Emu Feather** — `alexsmobs:emu_feather` · н
+- [ ] **Outback Leggings** — `alexsmobs:emu_leggings` · н
+- [ ] **Void Anchor** — `alexsmobs:end_pirate_anchor` · н
+- [ ] **Void Winch** — `alexsmobs:end_pirate_anchor_winch` · н
+- [ ] **End Pirate's Door** — `alexsmobs:end_pirate_door` · н
+- [ ] **End Pirate's Flag** — `alexsmobs:end_pirate_flag` · н
+- [ ] **End Pirate's Ship Wheel** — `alexsmobs:end_pirate_ship_wheel` · н
+- [ ] **End Pirate's Trapdoor** — `alexsmobs:end_pirate_trapdoor` · н
+- [ ] **Ender Residue** — `alexsmobs:ender_residue` · н
+- [ ] **Enderiophage Rocket** — `alexsmobs:enderiophage_rocket` · н
+- [ ] **Endolocator** — `alexsmobs:endolocator` · н
+- [ ] **Falconry Glove** — `alexsmobs:falconry_glove` · н
+- [ ] **This is not a Falconry Glove** — `alexsmobs:falconry_glove_hand` · н
+- [ ] **This is not a Falconry Glove** — `alexsmobs:falconry_glove_inventory` · н
+- [ ] **Falconry Hood** — `alexsmobs:falconry_hood` · н
+- [ ] **Farseer Arm** — `alexsmobs:farseer_arm` · н
+- [ ] **Fedora** — `alexsmobs:fedora` · н
+- [ ] **Fish Bones** — `alexsmobs:fish_bones` · н
+- [ ] **Fish Oil** — `alexsmobs:fish_oil` · н
+- [ ] **Flying Fish** — `alexsmobs:flying_fish` · н
+- [ ] **Flying Fish Boots** — `alexsmobs:flying_fish_boots` · н
+- [ ] **Bucket of Flying Fish** — `alexsmobs:flying_fish_bucket` · н
+- [ ] **Bucket of Frilled Shark** — `alexsmobs:frilled_shark_bucket` · н
+- [ ] **Frontiersman's Cap** — `alexsmobs:frontier_cap` · н
+- [ ] **Froststalker Helmet** — `alexsmobs:froststalker_helmet` · н
+- [ ] **Froststalker Horn** — `alexsmobs:froststalker_horn` · н
+- [ ] **Gazelle Horn** — `alexsmobs:gazelle_horn` · н
+- [ ] **Ghostly Pickaxe** — `alexsmobs:ghostly_pickaxe` · н
+- [ ] **Gongylidia** — `alexsmobs:gongylidia` · н
+- [ ] **Guster Eye** — `alexsmobs:guster_eye` · н
+- [ ] **Gustmaker** — `alexsmobs:gustmaker` · н
+- [ ] **Halo** — `alexsmobs:halo` · н
+- [ ] **Hemolymph Blaster** — `alexsmobs:hemolymph_blaster` · н
+- [ ] **Hemolymph Sac** — `alexsmobs:hemolymph_sac` · н
+- [ ] **Hummingbird Feeder** — `alexsmobs:hummingbird_feeder` · н
+- [ ] **Insulated from Snow** — `alexsmobs:insulated_with_fur` · н
+- [ ] **Kangaroo Burger** — `alexsmobs:kangaroo_burger` · н
+- [ ] **Kangaroo Hide** — `alexsmobs:kangaroo_hide` · н
+- [ ] **Kangaroo Meat** — `alexsmobs:kangaroo_meat` · н
+- [ ] **Komodo Dragon Spit** — `alexsmobs:komodo_spit` · н
+- [ ] **Komodo Dragon Spit Bottle** — `alexsmobs:komodo_spit_bottle` · н
+- [ ] **Bucket of Large Catfish** — `alexsmobs:large_catfish_bucket` · н
+- [ ] **Lava Bottle** — `alexsmobs:lava_bottle` · к
+- [ ] **Leafcutter Ant Chamber** — `alexsmobs:leafcutter_ant_chamber` · н
+- [ ] **Leafcutter Ant Pupa** — `alexsmobs:leafcutter_ant_pupa` · н
+- [ ] **Leafcutter Anthill** — `alexsmobs:leafcutter_anthill` · н
+- [ ] **Bucket of Lobster** — `alexsmobs:lobster_bucket` · н
+- [ ] **Lobster Tail** — `alexsmobs:lobster_tail` · н
+- [ ] **Lost Tentacle** — `alexsmobs:lost_tentacle` · н
+- [ ] **Maggot** — `alexsmobs:maggot` · н
+- [ ] **Maraca** — `alexsmobs:maraca` · н
+- [ ] **Bucket of Medium Catfish** — `alexsmobs:medium_catfish_bucket` · н
+- [ ] **Bucket of Mimic Octopus** — `alexsmobs:mimic_octopus_bucket` · н
+- [ ] **Mimicream** — `alexsmobs:mimicream` · н
+- [ ] **Moose Antler** — `alexsmobs:moose_antler` · н
+- [ ] **Antler Headdress** — `alexsmobs:moose_headgear` · н
+- [ ] **Raw Moose Ribs** — `alexsmobs:moose_ribs` · н
+- [ ] **Crimson Mosquito Larva** — `alexsmobs:mosquito_larva` · н
+- [ ] **Crimson Mosquito Proboscis** — `alexsmobs:mosquito_proboscis` · н
+- [ ] **Mosquito Repellent Stew** — `alexsmobs:mosquito_repellent_stew` · н
+- [ ] **Bucket of Mudskipper** — `alexsmobs:mudskipper_bucket` · н
+- [ ] **Mungal Spores** — `alexsmobs:mungal_spores` · н
+- [ ] **Music Disc** — `alexsmobs:music_disc_daze` · н
+- [ ] **Music Disc** — `alexsmobs:music_disc_thime` · н
+- [ ] **Mysterious Worm** — `alexsmobs:mysterious_worm` · н
+- [ ] **Novelty Hat** — `alexsmobs:novelty_hat` · н
+- [ ] **Phantom Membrane Sail** — `alexsmobs:phantom_sail` · н
+- [ ] **Ancient Hogshoes** — `alexsmobs:pigshoes` · н
+- [ ] **Bucket of Platypus** — `alexsmobs:platypus_bucket` · н
+- [ ] **Platypus Egg** — `alexsmobs:platypus_egg` · н
+- [ ] **Pocket of Sand** — `alexsmobs:pocket_sand` · н
+- [ ] **Poisonous Essence** — `alexsmobs:poison_bottle` · н
+- [ ] **Potted Flutter** — `alexsmobs:potted_flutter` · н
+- [ ] **Strange Fish Finder** — `alexsmobs:pupfish_locator` · н
+- [ ] **Purpur Planks** — `alexsmobs:purpur_planks` · н
+- [ ] **Purpur Planks Slab** — `alexsmobs:purpur_planks_slab` · н
+- [ ] **Purpur Planks Stairs** — `alexsmobs:purpur_planks_stairs` · н
+- [ ] **Purpur Planks Wall** — `alexsmobs:purpur_planks_wall` · н
+- [ ] **Raccoon Tail** — `alexsmobs:raccoon_tail` · н
+- [ ] **Rainbow Glass** — `alexsmobs:rainbow_glass` · н
+- [ ] **Rainbow Jelly** — `alexsmobs:rainbow_jelly` · н
+- [ ] **Rattlesnake Rattle** — `alexsmobs:rattlesnake_rattle` · н
+- [ ] **Raw Catfish** — `alexsmobs:raw_catfish` · н
+- [ ] **Anti-Sea Bear Circle** — `alexsmobs:red_sand_circle` · н
+- [ ] **Roadrunner Boots** — `alexsmobs:roadrunner_boots` · н
+- [ ] **Roadrunner Feather** — `alexsmobs:roadrunner_feather` · н
+- [ ] **Rock Shell Chestplate** — `alexsmobs:rocky_chestplate` · н
+- [ ] **Rocky Shell** — `alexsmobs:rocky_shell` · н
+- [ ] **Anti-Sea Bear Circle** — `alexsmobs:sand_circle` · н
+- [ ] **Sculk Boomer** — `alexsmobs:sculk_boomer` · н
+- [ ] **Serrated Shark Tooth** — `alexsmobs:serrated_shark_tooth` · н
+- [ ] **Shark Tooth** — `alexsmobs:shark_tooth` · н
+- [ ] **Shark Tooth Arrow** — `alexsmobs:shark_tooth_arrow` · н
+- [ ] **Shattered Dimensional Carver** — `alexsmobs:shattered_dimensional_carver` · н
+- [ ] **Shed Snake Skin** — `alexsmobs:shed_snake_skin` · н
+- [ ] **Shield Of The Deep** — `alexsmobs:shield_of_the_deep` · н
+- [ ] **Shrimp-Fried Rice** — `alexsmobs:shrimp_fried_rice` · н
+- [ ] **Skelewag Skull** — `alexsmobs:skelewag_sword` · н
+- [ ] **Skelewag Skull** — `alexsmobs:skelewag_sword_hand` · н
+- [ ] **Skelewag Skull** — `alexsmobs:skelewag_sword_inventory` · н
+- [ ] **Skreecher Soul** — `alexsmobs:skreecher_soul` · н
+- [ ] **Skunk Spray** — `alexsmobs:skunk_spray` · н
+- [ ] **Bucket of Small Catfish** — `alexsmobs:small_catfish_bucket` · н
+- [ ] **Sombrero** — `alexsmobs:sombrero` · н
+- [ ] **Sopa De Macaco** — `alexsmobs:sopa_de_macaco` · н
+- [ ] **Soul Heart** — `alexsmobs:soul_heart` · н
+- [ ] **Alligator Snapping Turtle Spawn Egg** — `alexsmobs:spawn_egg_alligator_snapping_turtle` · н
+- [ ] **Anaconda Spawn Egg** — `alexsmobs:spawn_egg_anaconda` · н
+- [ ] **Anteater Spawn Egg** — `alexsmobs:spawn_egg_anteater` · н
+- [ ] **Bald Eagle Spawn Egg** — `alexsmobs:spawn_egg_bald_eagle` · н
+- [ ] **Banana Slug Spawn Egg** — `alexsmobs:spawn_egg_banana_slug` · н
+- [ ] **Bison Spawn Egg** — `alexsmobs:spawn_egg_bison` · н
+- [ ] **Blobfish Spawn Egg** — `alexsmobs:spawn_egg_blobfish` · н
+- [ ] **Blue Jay Spawn Egg** — `alexsmobs:spawn_egg_blue_jay` · н
+- [ ] **Bone Serpent Spawn Egg** — `alexsmobs:spawn_egg_bone_serpent` · н
+- [ ] **Bunfungus Spawn Egg** — `alexsmobs:spawn_egg_bunfungus` · н
+- [ ] **Cachalot Whale Spawn Egg** — `alexsmobs:spawn_egg_cachalot_whale` · н
+- [ ] **Caiman Spawn Egg** — `alexsmobs:spawn_egg_caiman` · н
+- [ ] **Capuchin Monkey Spawn Egg** — `alexsmobs:spawn_egg_capuchin_monkey` · н
+- [ ] **Catfish Spawn Egg** — `alexsmobs:spawn_egg_catfish` · н
+- [ ] **Cave Centipede Spawn Egg** — `alexsmobs:spawn_egg_centipede` · н
+- [ ] **Cockroach Spawn Egg** — `alexsmobs:spawn_egg_cockroach` · н
+- [ ] **Comb Jelly Spawn Egg** — `alexsmobs:spawn_egg_comb_jelly` · н
+- [ ] **Cosmaw Spawn Egg** — `alexsmobs:spawn_egg_cosmaw` · н
+- [ ] **Cosmic Cod Spawn Egg** — `alexsmobs:spawn_egg_cosmic_cod` · н
+- [ ] **Crimson Mosquito Spawn Egg** — `alexsmobs:spawn_egg_crimson_mosquito` · н
+- [ ] **Crocodile Spawn Egg** — `alexsmobs:spawn_egg_crocodile` · н
+- [ ] **Crow Spawn Egg** — `alexsmobs:spawn_egg_crow` · н
+- [ ] **Devil's Hole Pupfish Spawn Egg** — `alexsmobs:spawn_egg_devils_hole_pupfish` · н
+- [ ] **Dropbear Spawn Egg** — `alexsmobs:spawn_egg_dropbear` · н
+- [ ] **Elephant Spawn Egg** — `alexsmobs:spawn_egg_elephant` · н
+- [ ] **Emu Spawn Egg** — `alexsmobs:spawn_egg_emu` · н
+- [ ] **Endergrade Spawn Egg** — `alexsmobs:spawn_egg_endergrade` · н
+- [ ] **Enderiophage Spawn Egg** — `alexsmobs:spawn_egg_enderiophage` · н
+- [ ] **Farseer Spawn Egg** — `alexsmobs:spawn_egg_farseer` · н
+- [ ] **Flutter Spawn Egg** — `alexsmobs:spawn_egg_flutter` · н
+- [ ] **Fly Spawn Egg** — `alexsmobs:spawn_egg_fly` · н
+- [ ] **Flying Fish Spawn Egg** — `alexsmobs:spawn_egg_flying_fish` · н
+- [ ] **Frilled Shark Spawn Egg** — `alexsmobs:spawn_egg_frilled_shark` · н
+- [ ] **Froststalker Spawn Egg** — `alexsmobs:spawn_egg_froststalker` · н
+- [ ] **Gazelle Spawn Egg** — `alexsmobs:spawn_egg_gazelle` · н
+- [ ] **Gelada Monkey Spawn Egg** — `alexsmobs:spawn_egg_gelada_monkey` · н
+- [ ] **Giant Squid Spawn Egg** — `alexsmobs:spawn_egg_giant_squid` · н
+- [ ] **Gorilla Spawn Egg** — `alexsmobs:spawn_egg_gorilla` · н
+- [ ] **Grizzly Bear Spawn Egg** — `alexsmobs:spawn_egg_grizzly_bear` · н
+- [ ] **Guster Spawn Egg** — `alexsmobs:spawn_egg_guster` · н
+- [ ] **Hammerhead Shark Spawn Egg** — `alexsmobs:spawn_egg_hammerhead_shark` · н
+- [ ] **Hummingbird Spawn Egg** — `alexsmobs:spawn_egg_hummingbird` · н
+- [ ] **Jerboa Spawn Egg** — `alexsmobs:spawn_egg_jerboa` · н
+- [ ] **Kangaroo Spawn Egg** — `alexsmobs:spawn_egg_kangaroo` · н
+- [ ] **Komodo Dragon Spawn Egg** — `alexsmobs:spawn_egg_komodo_dragon` · н
+- [ ] **Laviathan Spawn Egg** — `alexsmobs:spawn_egg_laviathan` · н
+- [ ] **Leafcutter Ant Spawn Egg** — `alexsmobs:spawn_egg_leafcutter_ant` · н
+- [ ] **Lobster Spawn Egg** — `alexsmobs:spawn_egg_lobster` · н
+- [ ] **Maned Wolf Spawn Egg** — `alexsmobs:spawn_egg_maned_wolf` · н
+- [ ] **Mantis Shrimp Spawn Egg** — `alexsmobs:spawn_egg_mantis_shrimp` · н
+- [ ] **Mimic Octopus Spawn Egg** — `alexsmobs:spawn_egg_mimic_octopus` · н
+- [ ] **Mimicube Spawn Egg** — `alexsmobs:spawn_egg_mimicube` · н
+- [ ] **Moose Spawn Egg** — `alexsmobs:spawn_egg_moose` · н
+- [ ] **Mudskipper Spawn Egg** — `alexsmobs:spawn_egg_mudskipper` · н
+- [ ] **Mungus Spawn Egg** — `alexsmobs:spawn_egg_mungus` · н
+- [ ] **Murmur Spawn Egg** — `alexsmobs:spawn_egg_murmur` · н
+- [ ] **Orca Spawn Egg** — `alexsmobs:spawn_egg_orca` · н
+- [ ] **Platypus Spawn Egg** — `alexsmobs:spawn_egg_platypus` · н
+- [ ] **Potoo Spawn Egg** — `alexsmobs:spawn_egg_potoo` · н
+- [ ] **Raccoon Spawn Egg** — `alexsmobs:spawn_egg_raccoon` · н
+- [ ] **Rain Frog Spawn Egg** — `alexsmobs:spawn_egg_rain_frog` · н
+- [ ] **Rattlesnake Spawn Egg** — `alexsmobs:spawn_egg_rattlesnake` · н
+- [ ] **Rhinoceros Spawn Egg** — `alexsmobs:spawn_egg_rhinoceros` · н
+- [ ] **Roadrunner Spawn Egg** — `alexsmobs:spawn_egg_roadrunner` · н
+- [ ] **Rocky Roller Spawn Egg** — `alexsmobs:spawn_egg_rocky_roller` · н
+- [ ] **Seagull Spawn Egg** — `alexsmobs:spawn_egg_seagull` · н
+- [ ] **Seal Spawn Egg** — `alexsmobs:spawn_egg_seal` · н
+- [ ] **Shoebill Spawn Egg** — `alexsmobs:spawn_egg_shoebill` · н
+- [ ] **Skelewag Spawn Egg** — `alexsmobs:spawn_egg_skelewag` · н
+- [ ] **Skreecher Spawn Egg** — `alexsmobs:spawn_egg_skreecher` · н
+- [ ] **Skunk Spawn Egg** — `alexsmobs:spawn_egg_skunk` · н
+- [ ] **Snow Leopard Spawn Egg** — `alexsmobs:spawn_egg_snow_leopard` · н
+- [ ] **Soul Vulture Spawn Egg** — `alexsmobs:spawn_egg_soul_vulture` · н
+- [ ] **Spectre Spawn Egg** — `alexsmobs:spawn_egg_spectre` · н
+- [ ] **Straddler Spawn Egg** — `alexsmobs:spawn_egg_straddler` · н
+- [ ] **Stradpole Spawn Egg** — `alexsmobs:spawn_egg_stradpole` · н
+- [ ] **Sugar Glider Spawn Egg** — `alexsmobs:spawn_egg_sugar_glider` · н
+- [ ] **Sunbird Spawn Egg** — `alexsmobs:spawn_egg_sunbird` · н
+- [ ] **Tarantula Hawk Spawn Egg** — `alexsmobs:spawn_egg_tarantula_hawk` · н
+- [ ] **Tasmanian Devil Spawn Egg** — `alexsmobs:spawn_egg_tasmanian_devil` · н
+- [ ] **Terrapin Spawn Egg** — `alexsmobs:spawn_egg_terrapin` · н
+- [ ] **Tiger Spawn Egg** — `alexsmobs:spawn_egg_tiger` · н
+- [ ] **Toucan Spawn Egg** — `alexsmobs:spawn_egg_toucan` · н
+- [ ] **Triops Spawn Egg** — `alexsmobs:spawn_egg_triops` · н
+- [ ] **Tusklin Spawn Egg** — `alexsmobs:spawn_egg_tusklin` · н
+- [ ] **Underminer Spawn Egg** — `alexsmobs:spawn_egg_underminer` · н
+- [ ] **Void Worm Spawn Egg** — `alexsmobs:spawn_egg_void_worm` · н
+- [ ] **Warped Mosco Spawn Egg** — `alexsmobs:spawn_egg_warped_mosco` · н
+- [ ] **Warped Toad Spawn Egg** — `alexsmobs:spawn_egg_warped_toad` · н
+- [ ] **Spectre Membrane Sail** — `alexsmobs:spectre_sail` · н
+- [ ] **Spiked Scute** — `alexsmobs:spiked_scute` · н
+- [ ] **Spiked Turtle Shell** — `alexsmobs:spiked_turtle_shell` · н
+- [ ] **Grappling Squok** — `alexsmobs:squid_grapple` · н
+- [ ] **Stink in a Bottle** — `alexsmobs:stink_bottle` · н
+- [ ] **Stink Ray** — `alexsmobs:stink_empty_inventory` · н
+- [ ] **Stink Ray** — `alexsmobs:stink_ray` · н
+- [ ] **Stink Ray** — `alexsmobs:stink_ray_empty_hand` · н
+- [ ] **Stink Ray** — `alexsmobs:stink_ray_hand` · н
+- [ ] **Stink Ray** — `alexsmobs:stink_ray_inventory` · н
+- [ ] **Straddlite Tack** — `alexsmobs:straddle_helmet` · н
+- [ ] **Straddlite Saddle** — `alexsmobs:straddle_saddle` · н
+- [ ] **Straddleboard** — `alexsmobs:straddleboard` · н
+- [ ] **Straddlite** — `alexsmobs:straddlite` · н
+- [ ] **Block of Straddlite** — `alexsmobs:straddlite_block` · н
+- [ ] **Bucket of Stradpole** — `alexsmobs:stradpole_bucket` · н
+- [ ] **Alex's Mobs** — `alexsmobs:tab_icon` · н
+- [ ] **Tarantula Hawk Elytra** — `alexsmobs:tarantula_hawk_elytra` · н
+- [ ] **Tarantula Hawk Wing** — `alexsmobs:tarantula_hawk_wing` · н
+- [ ] **Tattered Tarantula Hawk Wing** — `alexsmobs:tarantula_hawk_wing_fragment` · н
+- [ ] **Tendon Whip** — `alexsmobs:tendon_whip` · н
+- [ ] **Bucket of Terrapin** — `alexsmobs:terrapin_bucket` · н
+- [ ] **Terrapin Egg** — `alexsmobs:terrapin_egg` · н
+- [ ] **Transmutation Table** — `alexsmobs:transmutation_table` · н
+- [ ] **Bucket of Triops** — `alexsmobs:triops_bucket` · н
+- [ ] **Triops Eggs** — `alexsmobs:triops_eggs` · н
+- [ ] **Unsettling Kimono** — `alexsmobs:unsettling_kimono` · н
+- [ ] **Vine Lasso** — `alexsmobs:vine_lasso` · н
+- [ ] **This is not a Vine Lasso** — `alexsmobs:vine_lasso_hand` · н
+- [ ] **This is not a Vine Lasso** — `alexsmobs:vine_lasso_inventory` · н
+- [ ] **Void Worm Beak** — `alexsmobs:void_worm_beak` · н
+- [ ] **Void Worm Effigy** — `alexsmobs:void_worm_effigy` · н
+- [ ] **Void Worm Eye** — `alexsmobs:void_worm_eye` · н
+- [ ] **Void Worm Mandible** — `alexsmobs:void_worm_mandible` · н
+- [ ] **Warped Mixture** — `alexsmobs:warped_mixture` · н
+- [ ] **Warped Muscle** — `alexsmobs:warped_muscle` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

@@ -1,0 +1,437 @@
+# Музей: Create: Dreams & Desires (create_dd)
+
+Предметов: 424 · крафтимых по данным: 368 (86%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 424 предметов.*
+
+- [ ] **Large Propeller (2)** — `create_dd:2_blade_fan` · к
+- [ ] **Large Propeller (4)** — `create_dd:4_blade_fan` · к
+- [ ] **Large Propeller (8)** — `create_dd:8_blade_fan` · к
+- [ ] **Abstruse Mechanism** — `create_dd:abstruse_mechanism` · н
+- [ ] **Accelerator Motor** — `create_dd:accelerator_motor` · к
+- [ ] **Aethersite** — `create_dd:aethersite` · к
+- [ ] **Aethersite Asphalt Block** — `create_dd:aethersite_asphalt_block` · к
+- [ ] **Mossy Aethersite Bricks** — `create_dd:aethersite_mossy_bricks` · к
+- [ ] **Aethersite Pillar** — `create_dd:aethersite_pillar` · к
+- [ ] **Polished Andesite Alloy** — `create_dd:andesite_alloy_polished_block` · к
+- [ ] **Polished Andesite Alloy Slab** — `create_dd:andesite_alloy_polished_slab` · к
+- [ ] **Polished Andesite Alloy Stairs** — `create_dd:andesite_alloy_polished_stairs` · к
+- [ ] **Tiled Andesite Alloy** — `create_dd:andesite_alloy_tiled_block` · к
+- [ ] **Tiled Andesite Alloy Slab** — `create_dd:andesite_alloy_tiled_slab` · к
+- [ ] **Tiled Andesite Alloy Stairs** — `create_dd:andesite_alloy_tiled_stairs` · к
+- [ ] **Andesite Asphalt Block** — `create_dd:andesite_asphalt_block` · к
+- [ ] **Mossy Andesite Bricks** — `create_dd:andesite_mossy_bricks` · к
+- [ ] **Andesite Alloy Sheet** — `create_dd:andesite_sheet` · к
+- [ ] **Apple Cider** — `create_dd:apple_cider` · н
+- [ ] **Apple Cider Bucket** — `create_dd:apple_cider_bucket` · н
+- [ ] **Asphalt Block** — `create_dd:asphalt_block` · к
+- [ ] **Asurine Asphalt Block** — `create_dd:asurine_asphalt_block` · к
+- [ ] **Cobbled Asurine** — `create_dd:asurine_cobble` · к
+- [ ] **Mossy Asurine Bricks** — `create_dd:asurine_mossy_bricks` · к
+- [ ] **Blasting Sail** — `create_dd:blasting_sail` · к
+- [ ] **Blaze Brass** — `create_dd:blaze_gold` · к
+- [ ] **Block of Blaze Brass** — `create_dd:blaze_gold_block` · к
+- [ ] **Blaze Brass Casing** — `create_dd:blaze_gold_casing` · к
+- [ ] **§eBlaze Brass Scaffolding** — `create_dd:blaze_gold_scaffolding` · к
+- [ ] **Blaze Brass Sheet** — `create_dd:blaze_gold_sheet` · н
+- [ ] **Blueprint Block** — `create_dd:blueprint_block` · к
+- [ ] **Blueprint Carpet** — `create_dd:blueprint_carpet` · к
+- [ ] **Brick Casing** — `create_dd:brick_casing` · к
+- [ ] **Block of Bronze** — `create_dd:bronze_block` · к
+- [ ] **Bronze Casing** — `create_dd:bronze_casing` · к
+- [ ] **Bronze Drill** — `create_dd:bronze_drill` · к
+- [ ] **Bronze Ingot** — `create_dd:bronze_ingot` · к
+- [ ] **Bronze Nugget** — `create_dd:bronze_nugget` · к
+- [ ] **Polished Bronze** — `create_dd:bronze_polished_block` · к
+- [ ] **Polished Bronze Slab** — `create_dd:bronze_polished_slab` · к
+- [ ] **Polished Bronze Stairs** — `create_dd:bronze_polished_stairs` · к
+- [ ] **Bronze Saw** — `create_dd:bronze_saw` · к
+- [ ] **Bronze Scaffolding** — `create_dd:bronze_scaffolding` · к
+- [ ] **Bronze Sheet** — `create_dd:bronze_sheet` · к
+- [ ] **Tiled Bronze** — `create_dd:bronze_tiled_block` · к
+- [ ] **Tiled Bronze Slab** — `create_dd:bronze_tiled_slab` · к
+- [ ] **Tiled Bronze Stairs** — `create_dd:bronze_tiled_stairs` · к
+- [ ] **Calcite Asphalt Block** — `create_dd:calcite_asphalt_block` · к
+- [ ] **Mossy Calcite Bricks** — `create_dd:calcite_mossy_bricks` · к
+- [ ] **Calculation Mechanism** — `create_dd:calculation_mechanism` · к
+- [ ] **Caramel** — `create_dd:caramel` · н
+- [ ] **Caramel Bucket** — `create_dd:caramel_bucket` · н
+- [ ] **Caramel Milkshake** — `create_dd:caramel_milkshake` · к
+- [ ] **Caramel Milkshake Bucket** — `create_dd:caramel_milkshake_bucket` · н
+- [ ] **Chocolate Milkshake** — `create_dd:chocolate_milkshake` · к
+- [ ] **Chocolate Milkshake Bucket** — `create_dd:chocolate_milkshake_bucket` · н
+- [ ] **Block of Chromatic Compound** — `create_dd:chromatic_block` · к
+- [ ] **Chromatic Compound** — `create_dd:chromatic_compound` · к
+- [ ] **Chromatic Waste** — `create_dd:chromatic_waste` · н
+- [ ] **Chromatic Waste Bucket** — `create_dd:chromatic_waste_bucket` · н
+- [ ] **Coal Piece** — `create_dd:coal_piece` · к
+- [ ] **Cog Crank** — `create_dd:cog_crank` · к
+- [ ] **Compound Base** — `create_dd:compound_base` · к
+- [ ] **Condense Milk** — `create_dd:condense_milk` · н
+- [ ] **Condense Milk Bucket** — `create_dd:condense_milk_bucket` · н
+- [ ] **Copycat Block** — `create_dd:copycat_block` · к
+- [ ] **Copycat Slab** — `create_dd:copycat_slab` · к
+- [ ] **Incomplete Crafting Logistics Mechanism** — `create_dd:crafting_inductive_mechanism1` · к
+- [ ] **Incomplete Crafting Logistics Mechanism** — `create_dd:crafting_inductive_mechanism2` · к
+- [ ] **Cream** — `create_dd:cream` · н
+- [ ] **Cream Bucket** — `create_dd:cream_bucket` · н
+- [ ] **Crimsite Asphalt Block** — `create_dd:crimsite_asphalt_block` · к
+- [ ] **Cobbled Crimsite** — `create_dd:crimsite_cobble` · к
+- [ ] **Mossy Crimsite Bricks** — `create_dd:crimsite_mossy_bricks` · к
+- [ ] **Crystallized Sap** — `create_dd:crystallized_sap` · к
+- [ ] **Cut Aethersite** — `create_dd:cut_aethersite` · к
+- [ ] **Cut Aethersite Brick Slab** — `create_dd:cut_aethersite_brick_slab` · к
+- [ ] **Cut Aethersite Brick Stairs** — `create_dd:cut_aethersite_brick_stairs` · к
+- [ ] **Cut Aethersite Brick Wall** — `create_dd:cut_aethersite_brick_wall` · к
+- [ ] **Cut Aethersite Bricks** — `create_dd:cut_aethersite_bricks` · к
+- [ ] **Cut Aethersite Slab** — `create_dd:cut_aethersite_slab` · к
+- [ ] **Cut Aethersite Stairs** — `create_dd:cut_aethersite_stairs` · к
+- [ ] **Cut Aethersite Wall** — `create_dd:cut_aethersite_wall` · к
+- [ ] **Cut Gabbro** — `create_dd:cut_gabbro` · к
+- [ ] **Cut Gabbro Brick Slab** — `create_dd:cut_gabbro_brick_slab` · к
+- [ ] **Cut Gabbro Brick Stairs** — `create_dd:cut_gabbro_brick_stairs` · к
+- [ ] **Cut Gabbro Brick Wall** — `create_dd:cut_gabbro_brick_wall` · к
+- [ ] **Cut Gabbro Bricks** — `create_dd:cut_gabbro_bricks` · к
+- [ ] **Cut Gabbro Slab** — `create_dd:cut_gabbro_slab` · к
+- [ ] **Cut Gabbro Stairs** — `create_dd:cut_gabbro_stairs` · к
+- [ ] **Cut Gabbro Wall** — `create_dd:cut_gabbro_wall` · к
+- [ ] **Cut Potassic** — `create_dd:cut_potassic` · к
+- [ ] **Cut Potassic Brick Slab** — `create_dd:cut_potassic_brick_slab` · к
+- [ ] **Cut Potassic Brick Stairs** — `create_dd:cut_potassic_brick_stairs` · к
+- [ ] **Cut Potassic Brick Wall** — `create_dd:cut_potassic_brick_wall` · к
+- [ ] **Cut Potassic Bricks** — `create_dd:cut_potassic_bricks` · к
+- [ ] **Cut Potassic Slab** — `create_dd:cut_potassic_slab` · к
+- [ ] **Cut Potassic Stairs** — `create_dd:cut_potassic_stairs` · к
+- [ ] **Cut Potassic Wall** — `create_dd:cut_potassic_wall` · к
+- [ ] **Cut Weathered Limestone** — `create_dd:cut_weathered_limestone` · к
+- [ ] **Cut Weathered Limestone Brick Slab** — `create_dd:cut_weathered_limestone_brick_slab` · к
+- [ ] **Cut Weathered Limestone Brick Stairs** — `create_dd:cut_weathered_limestone_brick_stairs` · к
+- [ ] **Cut Weathered Limestone Brick Wall** — `create_dd:cut_weathered_limestone_brick_wall` · к
+- [ ] **Cut Weathered Limestone Bricks** — `create_dd:cut_weathered_limestone_bricks` · к
+- [ ] **Cut Weathered Limestone Slab** — `create_dd:cut_weathered_limestone_slab` · к
+- [ ] **Cut Weathered Limestone Stairs** — `create_dd:cut_weathered_limestone_stairs` · к
+- [ ] **Cut Weathered Limestone Wall** — `create_dd:cut_weathered_limestone_wall` · к
+- [ ] **Deepslate Asphalt Block** — `create_dd:deepslate_asphalt_block` · к
+- [ ] **Mossy Deepslate Bricks** — `create_dd:deepslate_mossy_bricks` · к
+- [ ] **Deepslate Tin Ore** — `create_dd:deepslate_tin_ore` · н
+- [ ] **Deforesting Saw** — `create_dd:deforester_saw` · к
+- [ ] **Diamond Shard** — `create_dd:diamond_shard` · к
+- [ ] **Diorite Asphalt Block** — `create_dd:diorite_asphalt_block` · к
+- [ ] **Mossy Diorite Bricks** — `create_dd:diorite_mossy_bricks` · к
+- [ ] **Dripstone Asphalt Block** — `create_dd:dripstone_asphalt_block` · к
+- [ ] **Mossy Dripstone Bricks** — `create_dd:dripstone_mossy_bricks` · к
+- [ ] **Ember Alloy** — `create_dd:ember_alloy` · к
+- [ ] **Block of Ember Alloy** — `create_dd:ember_alloy_block` · к
+- [ ] **Energizing Sail** — `create_dd:energizing_sail` · н
+- [ ] **Ingot of Experience** — `create_dd:experience_ingot` · к
+- [ ] **Mass of Experience** — `create_dd:experience_mass` · к
+- [ ] **Fallen Stargaze Singularity** — `create_dd:fallen_stargaze_singularity` · к
+- [ ] **Flywheel Component** — `create_dd:flywheel` · к
+- [ ] **Mythical Forest Ravager** — `create_dd:forest_ravager` · к
+- [ ] **Split Framed Glass** — `create_dd:framed_split_glass` · к
+- [ ] **Split Framed Glass Pane** — `create_dd:framed_split_glass_pane` · к
+- [ ] **Freezing Sail** — `create_dd:freezing_sail` · к
+- [ ] **Frozen Nugget of Experience** — `create_dd:frozen_nugget` · к
+- [ ] **Flywheel Engine** — `create_dd:furnace_engine` · к
+- [ ] **Gabbro** — `create_dd:gabbro` · к
+- [ ] **Gabbro Asphalt Block** — `create_dd:gabbro_asphalt_block` · к
+- [ ] **Mossy Gabbro Bricks** — `create_dd:gabbro_mossy_bricks` · к
+- [ ] **Gabbro Pillar** — `create_dd:gabbro_pillar` · к
+- [ ] **Glowberry Milk** — `create_dd:glowberry` · н
+- [ ] **Glowberry Milk Bucket** — `create_dd:glowberry_bucket` · н
+- [ ] **Glowberry Milkshake** — `create_dd:glowberry_milkshake` · к
+- [ ] **Glowberry Milkshake Bucket** — `create_dd:glowberry_milkshake_bucket` · н
+- [ ] **Gluttony Sail** — `create_dd:gluttony_sail` · н
+- [ ] **Granite Asphalt Block** — `create_dd:granite_asphalt_block` · к
+- [ ] **Mossy Granite Bricks** — `create_dd:granite_mossy_bricks` · к
+- [ ] **Haunting Sail** — `create_dd:haunting_sail` · к
+- [ ] **Hazard Block** — `create_dd:hazard_block` · к
+- [ ] **Hazard Block** — `create_dd:hazard_block_r` · к
+- [ ] **Horizontal Split Framed Glass** — `create_dd:horizontal_framed_split_glass` · к
+- [ ] **Horizontal Split Framed Glass Pane** — `create_dd:horizontal_framed_split_glass_pane` · к
+- [ ] **Horizontal Hazard Block** — `create_dd:horizontal_hazard_block` · к
+- [ ] **Horizontal Hazard Block** — `create_dd:horizontal_hazard_block_r` · к
+- [ ] **Hot Chocolate** — `create_dd:hot_chocolate` · к
+- [ ] **Hot Chocolate Bucket** — `create_dd:hot_chocolate_bucket` · н
+- [ ] **Hydraulic Casing** — `create_dd:hydraulic_casing` · к
+- [ ] **Hydraulic Press** — `create_dd:hydraulic_press` · к
+- [ ] **Hydraulic Scaffolding** — `create_dd:hydraulic_scaffolding` · к
+- [ ] **Incomplete Abstruse Mechanism** — `create_dd:incomplete_abstruse_mechanism` · н
+- [ ] **Incomplete Calculation Mechanism** — `create_dd:incomplete_calculation_mechanism` · н
+- [ ] **Incomplete Logistics Mechanism** — `create_dd:incomplete_inductive_mechanism` · н
+- [ ] **Incomplete Infernal Mechanism** — `create_dd:incomplete_infernal_mechanism` · н
+- [ ] **Incomplete Integrated Circuit** — `create_dd:incomplete_integrated_circuit` · н
+- [ ] **Incomplete Integrated Mechanism** — `create_dd:incomplete_integrated_mechanism` · н
+- [ ] **Incomplete Sealed Mechanism** — `create_dd:incomplete_sealed_mechanism` · н
+- [ ] **Incomplete Stargaze Singularity** — `create_dd:incomplete_stargaze_singularity` · н
+- [ ] **Logistics Mechanism** — `create_dd:inductive_mechanism` · к
+- [ ] **Industrial Casing** — `create_dd:industrial_casing` · к
+- [ ] **Industrial Fan** — `create_dd:industrial_fan` · к
+- [ ] **Solid Block of Industrial Iron** — `create_dd:industrial_iron_block` · к
+- [ ] **Industrial Iron Ingot** — `create_dd:industrial_iron_ingot` · к
+- [ ] **Industrial Iron Nugget** — `create_dd:industrial_iron_nugget` · к
+- [ ] **Industrial Iron Sheet** — `create_dd:industrial_iron_sheet` · к
+- [ ] **Industrial Scaffolding** — `create_dd:industrial_scaffolding` · к
+- [ ] **InfaAethersite** — `create_dd:infaaethersite` · н
+- [ ] **InfaDndesite** — `create_dd:infaandesite` · к
+- [ ] **InfaCalcite** — `create_dd:infacalcite` · к
+- [ ] **InfaCoarseDirt** — `create_dd:infacoarse_dirt` · к
+- [ ] **InfaCobbledDeepslate** — `create_dd:infacobbled_deepslate` · к
+- [ ] **InfaCobblestone** — `create_dd:infacobblestone` · к
+- [ ] **InfaDiorite** — `create_dd:infadiorite` · к
+- [ ] **InfaDirt** — `create_dd:infadirt` · к
+- [ ] **InfaDripstone** — `create_dd:infadripstone_block` · к
+- [ ] **InfaEndStone** — `create_dd:infaend_stone` · к
+- [ ] **InfaGabbro** — `create_dd:infagabbro` · н
+- [ ] **InfaGranite** — `create_dd:infagranite` · к
+- [ ] **InfaGravel** — `create_dd:infagravel` · к
+- [ ] **InfaIce** — `create_dd:infaice` · к
+- [ ] **InfaLimestone** — `create_dd:infalimestone` · н
+- [ ] **InfaMagma** — `create_dd:infamagma_block` · к
+- [ ] **InfaMoss** — `create_dd:infamoss_block` · к
+- [ ] **InfaMud** — `create_dd:infamud` · к
+- [ ] **InfaNetherrack** — `create_dd:infanetherrack` · к
+- [ ] **InfaObsidian** — `create_dd:infaobsidian` · к
+- [ ] **InfaRedSand** — `create_dd:infared_sand` · к
+- [ ] **InfaSand** — `create_dd:infasand` · к
+- [ ] **InfaScorchia** — `create_dd:infascorchia` · н
+- [ ] **InfaScoria** — `create_dd:infascoria` · н
+- [ ] **InfaSnow** — `create_dd:infasnow_block` · к
+- [ ] **InfaSoulSand** — `create_dd:infasoul_sand` · к
+- [ ] **InfaStone** — `create_dd:infastone` · к
+- [ ] **InfaTuff** — `create_dd:infatuff` · к
+- [ ] **InfaWeatheredLimestone** — `create_dd:infaweathered_limestone` · н
+- [ ] **Infernal Mechanism** — `create_dd:infernal_mechanism` · к
+- [ ] **Integrated Circuit** — `create_dd:integrated_circuit` · к
+- [ ] **Integrated Mechanism** — `create_dd:integrated_mechanism` · к
+- [ ] **Kinetic Motor** — `create_dd:kinetic_motor` · к
+- [ ] **Lapis Alloy** — `create_dd:lapis_alloy` · к
+- [ ] **Block of Lapis Alloy** — `create_dd:lapis_alloy_block` · к
+- [ ] **Lapis Alloy Sheet** — `create_dd:lapis_sheet` · к
+- [ ] **Layered Aethersite** — `create_dd:layered_aethersite` · к
+- [ ] **Layered Gabbro** — `create_dd:layered_gabbro` · к
+- [ ] **Layered Potassic** — `create_dd:layered_potassic` · к
+- [ ] **Layered Weathered Limestone** — `create_dd:layered_weathered_limestone` · к
+- [ ] **Block of Leather** — `create_dd:leather_block` · к
+- [ ] **Limestone Asphalt Block** — `create_dd:limestone_asphalt_block` · к
+- [ ] **Mossy Limestone Bricks** — `create_dd:limestone_mossy_bricks` · к
+- [ ] **Block of Mithril** — `create_dd:mithril_block` · к
+- [ ] **Mithril Casing** — `create_dd:mithril_casing` · к
+- [ ] **Mithril Ingot** — `create_dd:mithril_ingot` · к
+- [ ] **Mithril Nugget** — `create_dd:mithril_nugget` · к
+- [ ] **Mithril Scaffolding** — `create_dd:mithril_scaffolding` · к
+- [ ] **Mithril Sheet** — `create_dd:mithril_sheet` · к
+- [ ] **Mossy Block of Andesite Alloy** — `create_dd:mossy_andesite_alloy_block` · к
+- [ ] **Mossy Andesite Casing** — `create_dd:mossy_andesite_casing` · к
+- [ ] **Mossy Andesite Scaffolding** — `create_dd:mossy_andesite_scaffolding` · к
+- [ ] **Blueprint Carpet** — `create_dd:mysterious_blueprint_carpet` · к
+- [ ] **Nether Brick Casing** — `create_dd:nether_brick_casing` · к
+- [ ] **Netherite Casing** — `create_dd:netherite_casing` · к
+- [ ] **Netherite Scaffolding** — `create_dd:netherite_scaffolding` · к
+- [ ] **Ochrum Asphalt Block** — `create_dd:ochrum_asphalt_block` · к
+- [ ] **Cobbled Ochrum** — `create_dd:ochrum_cobble` · к
+- [ ] **Mossy Ochrum Bricks** — `create_dd:ochrum_mossy_bricks` · к
+- [ ] **Ornate Iron Glass** — `create_dd:ornate_iron_glass` · к
+- [ ] **Ornate Iron Glass Pane** — `create_dd:ornate_iron_glass_pane` · к
+- [ ] **Overburden Casing** — `create_dd:overburden_casing` · к
+- [ ] **Overburden Scaffolding** — `create_dd:overburden_scaffolding` · к
+- [ ] **Overcharge Alloy** — `create_dd:overcharge_alloy` · к
+- [ ] **Overcharge Alloy Sheet** — `create_dd:overcharge_alloy_sheet` · к
+- [ ] **Block of Overcharge Alloy** — `create_dd:overcharged_alloy_block` · к
+- [ ] **Overcharge Casing** — `create_dd:overcharged_casing` · к
+- [ ] **§eOvercharge Singularity Scaffolding** — `create_dd:overcharged_scaffolding` · к
+- [ ] **Polished Cut Aethersite** — `create_dd:polished_cut_aethersite` · к
+- [ ] **Polished Cut Aethersite Slab** — `create_dd:polished_cut_aethersite_slab` · к
+- [ ] **Polished Cut Aethersite Stairs** — `create_dd:polished_cut_aethersite_stairs` · к
+- [ ] **Polished Cut Aethersite Wall** — `create_dd:polished_cut_aethersite_wall` · к
+- [ ] **Polished Cut Gabbro** — `create_dd:polished_cut_gabbro` · к
+- [ ] **Polished Cut Gabbro Slab** — `create_dd:polished_cut_gabbro_slab` · к
+- [ ] **Polished Cut Gabbro Stairs** — `create_dd:polished_cut_gabbro_stairs` · к
+- [ ] **Polished Cut Gabbro Wall** — `create_dd:polished_cut_gabbro_wall` · к
+- [ ] **Polished Cut Potassic** — `create_dd:polished_cut_potassic` · к
+- [ ] **Polished Cut Potassic Slab** — `create_dd:polished_cut_potassic_slab` · к
+- [ ] **Polished Cut Potassic Stairs** — `create_dd:polished_cut_potassic_stairs` · к
+- [ ] **Polished Cut Potassic Wall** — `create_dd:polished_cut_potassic_wall` · к
+- [ ] **Polished Cut Weathered Limestone** — `create_dd:polished_cut_weathered_limestone` · к
+- [ ] **Polished Cut Weathered Limestone Slab** — `create_dd:polished_cut_weathered_limestone_slab` · к
+- [ ] **Polished Cut Weathered Limestone Stairs** — `create_dd:polished_cut_weathered_limestone_stairs` · к
+- [ ] **Polished Cut Weathered Limestone Wall** — `create_dd:polished_cut_weathered_limestone_wall` · к
+- [ ] **Polished Spectral Ruby** — `create_dd:polished_spectral_ruby` · к
+- [ ] **Ponder Stone Generations** — `create_dd:ponder_stone_generation` · н
+- [ ] **Darken Pondering Block** — `create_dd:pondering_block_dark` · к
+- [ ] **Lighten Pondering Block** — `create_dd:pondering_block_light` · к
+- [ ] **Potassic** — `create_dd:potassic` · к
+- [ ] **Potassic Asphalt Block** — `create_dd:potassic_asphalt_block` · к
+- [ ] **Cobbled Potassic** — `create_dd:potassic_cobble` · к
+- [ ] **Mossy Potassic Bricks** — `create_dd:potassic_mossy_bricks` · к
+- [ ] **Potassic Pillar** — `create_dd:potassic_pillar` · к
+- [ ] **Radiant Drill** — `create_dd:radiant_drill` · н
+- [ ] **Raw Rubber** — `create_dd:raw_rubber` · к
+- [ ] **Raw Tin** — `create_dd:raw_tin` · к
+- [ ] **Block of Raw Tin** — `create_dd:raw_tin_block` · к
+- [ ] **Refined Radiance** — `create_dd:refined_radiance` · к
+- [ ] **Block of Refined Radiance** — `create_dd:refined_radiance_block` · к
+- [ ] **Radiant Casing** — `create_dd:refined_radiance_casing` · к
+- [ ] **§eRadiant Scaffolding** — `create_dd:refined_radiance_scaffolding` · к
+- [ ] **Refined Radiance Sheet** — `create_dd:refined_radiance_sheet` · к
+- [ ] **Reinforcement Plating** — `create_dd:reinforcement_plating` · к
+- [ ] **Reverse Gearshift** — `create_dd:reversed_gearshift` · к
+- [ ] **Rose Button** — `create_dd:rose_button` · к
+- [ ] **Rose Door** — `create_dd:rose_door` · к
+- [ ] **Rose Fence** — `create_dd:rose_fence` · к
+- [ ] **Rose Fence Gate** — `create_dd:rose_fence_gate` · к
+- [ ] **Rose Log** — `create_dd:rose_log` · к
+- [ ] **Rose Planks** — `create_dd:rose_planks` · к
+- [ ] **Rose Pressure Plate** — `create_dd:rose_pressure_plate` · к
+- [ ] **Rose Slab** — `create_dd:rose_slab` · к
+- [ ] **Rose Stairs** — `create_dd:rose_stairs` · к
+- [ ] **Rose Trapdoor** — `create_dd:rose_trapdoor` · к
+- [ ] **Rose Wood** — `create_dd:rose_wood` · к
+- [ ] **Rubber** — `create_dd:rubber` · к
+- [ ] **Rubber Button** — `create_dd:rubber_button` · к
+- [ ] **Rubber Door** — `create_dd:rubber_door` · к
+- [ ] **Rubber Fence** — `create_dd:rubber_fence` · к
+- [ ] **Rubber Fence Gate** — `create_dd:rubber_fence_gate` · к
+- [ ] **Rubber Leaves** — `create_dd:rubber_leaves` · н
+- [ ] **Rubber Log** — `create_dd:rubber_log` · н
+- [ ] **Rubber Planks** — `create_dd:rubber_planks` · к
+- [ ] **Rubber Pressure Plate** — `create_dd:rubber_pressure_plate` · к
+- [ ] **Rubber Sapling** — `create_dd:rubber_sapling` · к
+- [ ] **Rubber Slab** — `create_dd:rubber_slab` · к
+- [ ] **Rubber Stairs** — `create_dd:rubber_stairs` · к
+- [ ] **Rubber Trapdoor** — `create_dd:rubber_trapdoor` · к
+- [ ] **Rubber Wood** — `create_dd:rubber_wood` · к
+- [ ] **Sap** — `create_dd:sap` · н
+- [ ] **Sap Bucket** — `create_dd:sap_bucket` · н
+- [ ] **Scorchia Asphalt Block** — `create_dd:scorchia_asphalt_block` · к
+- [ ] **Mossy Scorchia Bricks** — `create_dd:scorchia_mossy_bricks` · к
+- [ ] **Scoria Asphalt Block** — `create_dd:scoria_asphalt_block` · к
+- [ ] **Mossy Scoria Bricks** — `create_dd:scoria_mossy_bricks` · к
+- [ ] **Sculking Sail** — `create_dd:sculking_sail` · н
+- [ ] **Sealed Mechanism** — `create_dd:sealed_mechanism` · к
+- [ ] **Secondary Adjustable Chain Gearshift** — `create_dd:secondary_adjustable_chain_gearshift` · н
+- [ ] **Secondary Encased Chain Drive** — `create_dd:secondary_encased_chain_drive` · н
+- [ ] **Shadow Drill** — `create_dd:shadow_drill` · н
+- [ ] **Shadow Steel** — `create_dd:shadow_steel` · к
+- [ ] **Block of Shadow Steel** — `create_dd:shadow_steel_block` · к
+- [ ] **Shadow Casing** — `create_dd:shadow_steel_casing` · к
+- [ ] **§eShadow Scaffolding** — `create_dd:shadow_steel_scaffolding` · к
+- [ ] **Shadow Steel Sheet** — `create_dd:shadow_steel_sheet` · к
+- [ ] **Shimmer** — `create_dd:shimmer` · н
+- [ ] **Shimmer Bucket** — `create_dd:shimmer_bucket` · к
+- [ ] **Slimy Sail** — `create_dd:slimy_sail` · н
+- [ ] **Small Aethersite Brick Slab** — `create_dd:small_aethersite_brick_slab` · к
+- [ ] **Small Aethersite Brick Stairs** — `create_dd:small_aethersite_brick_stairs` · к
+- [ ] **Small Aethersite Brick Wall** — `create_dd:small_aethersite_brick_wall` · к
+- [ ] **Small Aethersite Bricks** — `create_dd:small_aethersite_bricks` · к
+- [ ] **Small Gabbro Brick Slab** — `create_dd:small_gabbro_brick_slab` · к
+- [ ] **Small Gabbro Brick Stairs** — `create_dd:small_gabbro_brick_stairs` · к
+- [ ] **Small Gabbro Brick Wall** — `create_dd:small_gabbro_brick_wall` · к
+- [ ] **Small Gabbro Bricks** — `create_dd:small_gabbro_bricks` · к
+- [ ] **Small Potassic Brick Slab** — `create_dd:small_potassic_brick_slab` · к
+- [ ] **Small Potassic Brick Stairs** — `create_dd:small_potassic_brick_stairs` · к
+- [ ] **Small Potassic Brick Wall** — `create_dd:small_potassic_brick_wall` · к
+- [ ] **Small Potassic Bricks** — `create_dd:small_potassic_bricks` · к
+- [ ] **Small Spectral Ruby Tiles** — `create_dd:small_spectral_ruby_tiles` · к
+- [ ] **Small Weathered Limestone Brick Slab** — `create_dd:small_weathered_limestone_brick_slab` · к
+- [ ] **Small Weathered Limestone Brick Stairs** — `create_dd:small_weathered_limestone_brick_stairs` · к
+- [ ] **Small Weathered Limestone Brick Wall** — `create_dd:small_weathered_limestone_brick_wall` · к
+- [ ] **Small Weathered Limestone Bricks** — `create_dd:small_weathered_limestone_bricks` · к
+- [ ] **Smoked Button** — `create_dd:smoked_button` · к
+- [ ] **Smoked Door** — `create_dd:smoked_door` · к
+- [ ] **Smoked Fence** — `create_dd:smoked_fence` · к
+- [ ] **Smoked Fence Gate** — `create_dd:smoked_fence_gate` · к
+- [ ] **Smoked Log** — `create_dd:smoked_log` · к
+- [ ] **Smoked Planks** — `create_dd:smoked_planks` · к
+- [ ] **Smoked Pressure Plate** — `create_dd:smoked_pressure_plate` · к
+- [ ] **Smoked Slab** — `create_dd:smoked_slab` · к
+- [ ] **Smoked Stairs** — `create_dd:smoked_stairs` · к
+- [ ] **Smoked Trapdoor** — `create_dd:smoked_trapdoor` · к
+- [ ] **Smoked Wood** — `create_dd:smoked_wood` · к
+- [ ] **Smoking Sail** — `create_dd:smoking_sail` · к
+- [ ] **Spectral Ruby** — `create_dd:spectral_ruby` · к
+- [ ] **Block of Spectral Ruby** — `create_dd:spectral_ruby_block` · к
+- [ ] **Spectral Ruby Lamp** — `create_dd:spectral_ruby_lamp` · к
+- [ ] **Spectral Ruby Tiles** — `create_dd:spectral_ruby_tiles` · к
+- [ ] **Spirit Button** — `create_dd:spirit_button` · к
+- [ ] **Spirit Door** — `create_dd:spirit_door` · к
+- [ ] **Spirit Fence** — `create_dd:spirit_fence` · к
+- [ ] **Spirit Fence Gate** — `create_dd:spirit_fence_gate` · к
+- [ ] **Spirit Log** — `create_dd:spirit_log` · к
+- [ ] **Spirit Planks** — `create_dd:spirit_planks` · к
+- [ ] **Spirit Pressure Plate** — `create_dd:spirit_pressure_plate` · к
+- [ ] **Spirit Slab** — `create_dd:spirit_slab` · к
+- [ ] **Spirit Stairs** — `create_dd:spirit_stairs` · к
+- [ ] **Spirit Trapdoor** — `create_dd:spirit_trapdoor` · к
+- [ ] **Spirit Wood** — `create_dd:spirit_wood` · к
+- [ ] **Splashing Sail** — `create_dd:splashing_sail` · к
+- [ ] **Stargaze Singularity** — `create_dd:stargaze_singularity` · к
+- [ ] **Block of Stargaze Singularity** — `create_dd:stargaze_singularity_block` · к
+- [ ] **Stargaze Singularity Casing** — `create_dd:stargaze_singularity_casing` · к
+- [ ] **§eStargaze Singularity Scaffolding** — `create_dd:stargaze_singularity_scaffolding` · к
+- [ ] **Stargaze Singularity Sheet** — `create_dd:stargaze_singularity_sheet` · н
+- [ ] **Block of Steel** — `create_dd:steel_block` · к
+- [ ] **Steel Casing** — `create_dd:steel_casing` · к
+- [ ] **Steel Ingot** — `create_dd:steel_ingot` · к
+- [ ] **Steel Nugget** — `create_dd:steel_nugget` · к
+- [ ] **Polished Steel** — `create_dd:steel_polished_block` · к
+- [ ] **Polished Steel Slab** — `create_dd:steel_polished_slab` · к
+- [ ] **Polished Steel Stairs** — `create_dd:steel_polished_stairs` · к
+- [ ] **Steel Scaffolding** — `create_dd:steel_scaffolding` · к
+- [ ] **Steel Sheet** — `create_dd:steel_sheet` · к
+- [ ] **Tiled Steel** — `create_dd:steel_tiled_block` · к
+- [ ] **Tiled Steel Slab** — `create_dd:steel_tiled_slab` · к
+- [ ] **Tiled Steel Stairs** — `create_dd:steel_tiled_stairs` · к
+- [ ] **Strawberry Milk** — `create_dd:strawberry` · н
+- [ ] **Strawberry Milk Bucket** — `create_dd:strawberry_bucket` · н
+- [ ] **Strawberry Milkshake** — `create_dd:strawberry_milkshake` · к
+- [ ] **Strawberry Milkshake Bucket** — `create_dd:strawberry_milkshake_bucket` · н
+- [ ] **Stripped Rose Log** — `create_dd:stripped_rose_log` · к
+- [ ] **Stripped Rose Wood** — `create_dd:stripped_rose_wood` · к
+- [ ] **Stripped Rubber Log** — `create_dd:stripped_rubber_log` · к
+- [ ] **Stripped Rubber Wood** — `create_dd:stripped_rubber_wood` · к
+- [ ] **Stripped Smoked Log** — `create_dd:stripped_smoked_log` · к
+- [ ] **Stripped Smoked Wood** — `create_dd:stripped_smoked_wood` · к
+- [ ] **Stripped Spirit Log** — `create_dd:stripped_spirit_log` · к
+- [ ] **Stripped Spirit Wood** — `create_dd:stripped_spirit_wood` · к
+- [ ] **Seething Sail** — `create_dd:superheating_sail` · к
+- [ ] **Block of Tin** — `create_dd:tin_block` · к
+- [ ] **Tin Casing** — `create_dd:tin_casing` · к
+- [ ] **Tin Ingot** — `create_dd:tin_ingot` · к
+- [ ] **Tin Nugget** — `create_dd:tin_nugget` · к
+- [ ] **Tin Ore** — `create_dd:tin_ore` · н
+- [ ] **Tin Scaffolding** — `create_dd:tin_scaffolding` · к
+- [ ] **Tin Sheet** — `create_dd:tin_sheet` · к
+- [ ] **Train Scaffolding** — `create_dd:train_scaffolding` · к
+- [ ] **Tuff Asphalt Block** — `create_dd:tuff_asphalt_block` · к
+- [ ] **Mossy Tuff Bricks** — `create_dd:tuff_mossy_bricks` · к
+- [ ] **Vanilla Milk** — `create_dd:vanilla` · н
+- [ ] **Vanilla Milk Bucket** — `create_dd:vanilla_bucket` · н
+- [ ] **Vanilla Milkshake** — `create_dd:vanilla_milkshake` · к
+- [ ] **Vanilla Milkshake Bucket** — `create_dd:vanilla_milkshake_bucket` · н
+- [ ] **Vanilla Orchid** — `create_dd:vanilla_orchid` · н
+- [ ] **Veridium Asphalt Block** — `create_dd:veridium_asphalt_block` · к
+- [ ] **Cobbled Veridium** — `create_dd:veridium_cobble` · к
+- [ ] **Mossy Veridium Bricks** — `create_dd:veridium_mossy_bricks` · к
+- [ ] **Vertical Split Framed Glass** — `create_dd:vertical_framed_split_glass` · к
+- [ ] **Vertical Split Framed Glass Pane** — `create_dd:vertical_framed_split_glass_pane` · к
+- [ ] **Weathered Limestone** — `create_dd:weathered_limestone` · к
+- [ ] **Weathered Limestone Asphalt Block** — `create_dd:weathered_limestone_asphalt_block` · к
+- [ ] **Mossy Weathered Limestone Bricks** — `create_dd:weathered_limestone_mossy_bricks` · к
+- [ ] **Weathered Limestone Pillar** — `create_dd:weathered_limestone_pillar` · к
+- [ ] **Zinc Casing** — `create_dd:zinc_casing` · к
+- [ ] **Polished Zinc** — `create_dd:zinc_polished_block` · к
+- [ ] **Polished Zinc Slab** — `create_dd:zinc_polished_slab` · к
+- [ ] **Polished Zinc Stairs** — `create_dd:zinc_polished_stairs` · к
+- [ ] **Zinc Scaffolding** — `create_dd:zinc_scaffolding` · к
+- [ ] **Zinc Sheet** — `create_dd:zinc_sheet` · к
+- [ ] **Tiled Zinc** — `create_dd:zinc_tiled_block` · к
+- [ ] **Tiled Zinc Slab** — `create_dd:zinc_tiled_slab` · к
+- [ ] **Tiled Zinc Stairs** — `create_dd:zinc_tiled_stairs` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

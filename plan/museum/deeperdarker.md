@@ -1,0 +1,199 @@
+# Музей: Deeper and Darker (deeperdarker)
+
+Предметов: 186 · крафтимых по данным: 116 (62%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 186 предметов.*
+
+- [ ] **Ancient Vase** — `deeperdarker:ancient_vase` · н
+- [ ] **Angler Fish Spawn Egg** — `deeperdarker:angler_fish_spawn_egg` · н
+- [ ] **Bloom Berries** — `deeperdarker:bloom_berries` · н
+- [ ] **Bloom Boat** — `deeperdarker:bloom_boat` · к
+- [ ] **Bloom Button** — `deeperdarker:bloom_button` · к
+- [ ] **Bloom Boat with Chest** — `deeperdarker:bloom_chest_boat` · к
+- [ ] **Bloom Door** — `deeperdarker:bloom_door` · к
+- [ ] **Bloom Fence** — `deeperdarker:bloom_fence` · к
+- [ ] **Bloom Fence Gate** — `deeperdarker:bloom_fence_gate` · к
+- [ ] **Bloom Hanging Sign** — `deeperdarker:bloom_hanging_sign` · к
+- [ ] **Bloom Planks** — `deeperdarker:bloom_planks` · к
+- [ ] **Bloom Pressure Plate** — `deeperdarker:bloom_pressure_plate` · к
+- [ ] **Bloom Sign** — `deeperdarker:bloom_sign` · к
+- [ ] **Bloom Slab** — `deeperdarker:bloom_slab` · к
+- [ ] **Bloom Stairs** — `deeperdarker:bloom_stairs` · к
+- [ ] **Bloom Trapdoor** — `deeperdarker:bloom_trapdoor` · к
+- [ ] **Blooming Moss Block** — `deeperdarker:blooming_moss_block` · н
+- [ ] **Blooming Sculk Stone** — `deeperdarker:blooming_sculk_stone` · н
+- [ ] **Blooming Stem** — `deeperdarker:blooming_stem` · н
+- [ ] **Chiseled Gloomslate** — `deeperdarker:chiseled_gloomslate` · к
+- [ ] **Chiseled Sculk Stone** — `deeperdarker:chiseled_sculk_stone` · к
+- [ ] **Cobbled Gloomslate** — `deeperdarker:cobbled_gloomslate` · к
+- [ ] **Cobbled Gloomslate Slab** — `deeperdarker:cobbled_gloomslate_slab` · к
+- [ ] **Cobbled Gloomslate Stairs** — `deeperdarker:cobbled_gloomslate_stairs` · к
+- [ ] **Cobbled Gloomslate Wall** — `deeperdarker:cobbled_gloomslate_wall` · к
+- [ ] **Cobbled Sculk Stone** — `deeperdarker:cobbled_sculk_stone` · к
+- [ ] **Cobbled Sculk Stone Slab** — `deeperdarker:cobbled_sculk_stone_slab` · к
+- [ ] **Cobbled Sculk Stone Stairs** — `deeperdarker:cobbled_sculk_stone_stairs` · к
+- [ ] **Cobbled Sculk Stone Wall** — `deeperdarker:cobbled_sculk_stone_wall` · к
+- [ ] **Crystallized Amber** — `deeperdarker:crystallized_amber` · н
+- [ ] **Cut Gloomslate** — `deeperdarker:cut_gloomslate` · к
+- [ ] **Cut Gloomslate Slab** — `deeperdarker:cut_gloomslate_slab` · к
+- [ ] **Cut Gloomslate Stairs** — `deeperdarker:cut_gloomslate_stairs` · к
+- [ ] **Cut Gloomslate Wall** — `deeperdarker:cut_gloomslate_wall` · к
+- [ ] **Cut Sculk Stone** — `deeperdarker:cut_sculk_stone` · к
+- [ ] **Cut Sculk Stone Slab** — `deeperdarker:cut_sculk_stone_slab` · к
+- [ ] **Cut Sculk Stone Stairs** — `deeperdarker:cut_sculk_stone_stairs` · к
+- [ ] **Cut Sculk Stone Wall** — `deeperdarker:cut_sculk_stone_wall` · к
+- [ ] **Dampens Vibrations** — `deeperdarker:dampens_vibrations` · н
+- [ ] **Echo Boat** — `deeperdarker:echo_boat` · к
+- [ ] **Echo Button** — `deeperdarker:echo_button` · к
+- [ ] **Echo Boat with Chest** — `deeperdarker:echo_chest_boat` · к
+- [ ] **Echo Door** — `deeperdarker:echo_door` · к
+- [ ] **Echo Fence** — `deeperdarker:echo_fence` · к
+- [ ] **Echo Fence Gate** — `deeperdarker:echo_fence_gate` · к
+- [ ] **Echo Hanging Sign** — `deeperdarker:echo_hanging_sign` · к
+- [ ] **Echo Leaves** — `deeperdarker:echo_leaves` · н
+- [ ] **Echo Log** — `deeperdarker:echo_log` · н
+- [ ] **Echo Planks** — `deeperdarker:echo_planks` · к
+- [ ] **Echo Pressure Plate** — `deeperdarker:echo_pressure_plate` · к
+- [ ] **Echo Sapling** — `deeperdarker:echo_sapling` · н
+- [ ] **Echo Sign** — `deeperdarker:echo_sign` · к
+- [ ] **Echo Slab** — `deeperdarker:echo_slab` · к
+- [ ] **Echo Soil** — `deeperdarker:echo_soil` · н
+- [ ] **Echo Stairs** — `deeperdarker:echo_stairs` · к
+- [ ] **Echo Trapdoor** — `deeperdarker:echo_trapdoor` · к
+- [ ] **Echo Wood** — `deeperdarker:echo_wood` · к
+- [ ] **Gloomslate** — `deeperdarker:gloomslate` · к
+- [ ] **Gloomslate Brick Slab** — `deeperdarker:gloomslate_brick_slab` · к
+- [ ] **Gloomslate Brick Stairs** — `deeperdarker:gloomslate_brick_stairs` · к
+- [ ] **Gloomslate Brick Wall** — `deeperdarker:gloomslate_brick_wall` · к
+- [ ] **Gloomslate Bricks** — `deeperdarker:gloomslate_bricks` · к
+- [ ] **Gloomslate Coal Ore** — `deeperdarker:gloomslate_coal_ore` · н
+- [ ] **Gloomslate Copper Ore** — `deeperdarker:gloomslate_copper_ore` · н
+- [ ] **Gloomslate Diamond Ore** — `deeperdarker:gloomslate_diamond_ore` · н
+- [ ] **Gloomslate Emerald Ore** — `deeperdarker:gloomslate_emerald_ore` · н
+- [ ] **Gloomslate Gold Ore** — `deeperdarker:gloomslate_gold_ore` · н
+- [ ] **Gloomslate Iron Ore** — `deeperdarker:gloomslate_iron_ore` · н
+- [ ] **Gloomslate Lapis Lazuli Ore** — `deeperdarker:gloomslate_lapis_ore` · н
+- [ ] **Gloomslate Redstone Ore** — `deeperdarker:gloomslate_redstone_ore` · н
+- [ ] **Gloomslate Slab** — `deeperdarker:gloomslate_slab` · к
+- [ ] **Gloomslate Stairs** — `deeperdarker:gloomslate_stairs` · к
+- [ ] **Gloomslate Tile Slab** — `deeperdarker:gloomslate_tile_slab` · к
+- [ ] **Gloomslate Tile Stairs** — `deeperdarker:gloomslate_tile_stairs` · к
+- [ ] **Gloomslate Tile Wall** — `deeperdarker:gloomslate_tile_wall` · к
+- [ ] **Gloomslate Tiles** — `deeperdarker:gloomslate_tiles` · к
+- [ ] **Gloomslate Wall** — `deeperdarker:gloomslate_wall` · к
+- [ ] **Gloomy Cactus** — `deeperdarker:gloomy_cactus` · н
+- [ ] **Gloomy Geyser** — `deeperdarker:gloomy_geyser` · н
+- [ ] **Gloomy Grass** — `deeperdarker:gloomy_grass` · н
+- [ ] **Gloomy Sculk** — `deeperdarker:gloomy_sculk` · н
+- [ ] **Glowing Flowers** — `deeperdarker:glowing_flowers` · н
+- [ ] **Glowing Grass** — `deeperdarker:glowing_grass` · н
+- [ ] **Glowing Roots** — `deeperdarker:glowing_roots` · н
+- [ ] **Glowing Roots Plant** — `deeperdarker:glowing_roots_plant` · н
+- [ ] **Glowing Vines** — `deeperdarker:glowing_vines` · н
+- [ ] **Glowing Vines Plant** — `deeperdarker:glowing_vines_plant` · н
+- [ ] **Grime Ball** — `deeperdarker:grime_ball` · н
+- [ ] **Grime Brick** — `deeperdarker:grime_brick` · к
+- [ ] **Heart of the Deep** — `deeperdarker:heart_of_the_deep` · н
+- [ ] **Ice Lily** — `deeperdarker:ice_lily` · н
+- [ ] **Infested Sculk** — `deeperdarker:infested_sculk` · н
+- [ ] **Lily Flower** — `deeperdarker:lily_flower` · н
+- [ ] **Linked transmitter** — `deeperdarker:linked` · н
+- [ ] **The linked block is missing or unloaded** — `deeperdarker:not_found` · н
+- [ ] **Cannot link to block** — `deeperdarker:not_transmittable` · н
+- [ ] **Otherside Portal** — `deeperdarker:otherside_portal` · н
+- [ ] **Polished Gloomslate** — `deeperdarker:polished_gloomslate` · к
+- [ ] **Polished Gloomslate Slab** — `deeperdarker:polished_gloomslate_slab` · к
+- [ ] **Polished Gloomslate Stairs** — `deeperdarker:polished_gloomslate_stairs` · к
+- [ ] **Polished Gloomslate Wall** — `deeperdarker:polished_gloomslate_wall` · к
+- [ ] **Polished Sculk Stone** — `deeperdarker:polished_sculk_stone` · к
+- [ ] **Polished Sculk Stone Slab** — `deeperdarker:polished_sculk_stone_slab` · к
+- [ ] **Polished Sculk Stone Stairs** — `deeperdarker:polished_sculk_stone_stairs` · к
+- [ ] **Polished Sculk Stone Wall** — `deeperdarker:polished_sculk_stone_wall` · к
+- [ ] **Potted Blooming Stem** — `deeperdarker:potted_blooming_stem` · н
+- [ ] **Potted Echo Sapling** — `deeperdarker:potted_echo_sapling` · н
+- [ ] **Reinforced Echo Shard** — `deeperdarker:reinforced_echo_shard` · к
+- [ ] **Resonarium** — `deeperdarker:resonarium` · н
+- [ ] **Resonarium Axe** — `deeperdarker:resonarium_axe` · к
+- [ ] **Resonarium Boots** — `deeperdarker:resonarium_boots` · к
+- [ ] **Resonarium Chestplate** — `deeperdarker:resonarium_chestplate` · к
+- [ ] **Resonarium Helmet** — `deeperdarker:resonarium_helmet` · к
+- [ ] **Resonarium Hoe** — `deeperdarker:resonarium_hoe` · к
+- [ ] **Resonarium Leggings** — `deeperdarker:resonarium_leggings` · к
+- [ ] **Resonarium Pickaxe** — `deeperdarker:resonarium_pickaxe` · к
+- [ ] **Resonarium Plate** — `deeperdarker:resonarium_plate` · к
+- [ ] **Resonarium Shovel** — `deeperdarker:resonarium_shovel` · к
+- [ ] **Resonarium Sword** — `deeperdarker:resonarium_sword` · к
+- [ ] **Sculk Bone** — `deeperdarker:sculk_bone` · н
+- [ ] **Sculk Centipede Spawn Egg** — `deeperdarker:sculk_centipede_spawn_egg` · н
+- [ ] **Sculk Gleam** — `deeperdarker:sculk_gleam` · н
+- [ ] **Sculk Grime** — `deeperdarker:sculk_grime` · к
+- [ ] **Sculk Grime Brick Slab** — `deeperdarker:sculk_grime_brick_slab` · к
+- [ ] **Sculk Grime Brick Stairs** — `deeperdarker:sculk_grime_brick_stairs` · к
+- [ ] **Sculk Grime Brick Wall** — `deeperdarker:sculk_grime_brick_wall` · к
+- [ ] **Sculk Grime Bricks** — `deeperdarker:sculk_grime_bricks` · к
+- [ ] **Sculk Jaw** — `deeperdarker:sculk_jaw` · н
+- [ ] **Sculk Leech Spawn Egg** — `deeperdarker:sculk_leech_spawn_egg` · н
+- [ ] **Sculk Snapper Spawn Egg** — `deeperdarker:sculk_snapper_spawn_egg` · н
+- [ ] **Sculk Stone** — `deeperdarker:sculk_stone` · к
+- [ ] **Sculk Stone Brick Slab** — `deeperdarker:sculk_stone_brick_slab` · к
+- [ ] **Sculk Stone Brick Stairs** — `deeperdarker:sculk_stone_brick_stairs` · к
+- [ ] **Sculk Stone Brick Wall** — `deeperdarker:sculk_stone_brick_wall` · к
+- [ ] **Sculk Stone Bricks** — `deeperdarker:sculk_stone_bricks` · к
+- [ ] **Sculk Stone Coal Ore** — `deeperdarker:sculk_stone_coal_ore` · н
+- [ ] **Sculk Stone Copper Ore** — `deeperdarker:sculk_stone_copper_ore` · н
+- [ ] **Sculk Stone Diamond Ore** — `deeperdarker:sculk_stone_diamond_ore` · н
+- [ ] **Sculk Stone Emerald Ore** — `deeperdarker:sculk_stone_emerald_ore` · н
+- [ ] **Sculk Stone Gold Ore** — `deeperdarker:sculk_stone_gold_ore` · н
+- [ ] **Sculk Stone Iron Ore** — `deeperdarker:sculk_stone_iron_ore` · н
+- [ ] **Sculk Stone Lapis Lazuli Ore** — `deeperdarker:sculk_stone_lapis_ore` · н
+- [ ] **Sculk Stone Redstone Ore** — `deeperdarker:sculk_stone_redstone_ore` · н
+- [ ] **Sculk Stone Slab** — `deeperdarker:sculk_stone_slab` · к
+- [ ] **Sculk Stone Stairs** — `deeperdarker:sculk_stone_stairs` · к
+- [ ] **Sculk Stone Tile Slab** — `deeperdarker:sculk_stone_tile_slab` · к
+- [ ] **Sculk Stone Tile Stairs** — `deeperdarker:sculk_stone_tile_stairs` · к
+- [ ] **Sculk Stone Tile Wall** — `deeperdarker:sculk_stone_tile_wall` · к
+- [ ] **Sculk Stone Tiles** — `deeperdarker:sculk_stone_tiles` · к
+- [ ] **Sculk Stone Wall** — `deeperdarker:sculk_stone_wall` · к
+- [ ] **Sculk Tendrils** — `deeperdarker:sculk_tendrils` · н
+- [ ] **Sculk Tendrils Plant** — `deeperdarker:sculk_tendrils_plant` · н
+- [ ] **Sculk Transmitter** — `deeperdarker:sculk_transmitter` · н
+- [ ] **Sculk Vines** — `deeperdarker:sculk_vines` · н
+- [ ] **Sculk Vines Plant** — `deeperdarker:sculk_vines_plant` · н
+- [ ] **Shattered Spawn Egg** — `deeperdarker:shattered_spawn_egg` · н
+- [ ] **Shriek Worm Spawn Egg** — `deeperdarker:shriek_worm_spawn_egg` · н
+- [ ] **Sludge Spawn Egg** — `deeperdarker:sludge_spawn_egg` · н
+- [ ] **Smooth Gloomslate** — `deeperdarker:smooth_gloomslate` · к
+- [ ] **Smooth Gloomslate Slab** — `deeperdarker:smooth_gloomslate_slab` · к
+- [ ] **Smooth Gloomslate Stairs** — `deeperdarker:smooth_gloomslate_stairs` · к
+- [ ] **Smooth Gloomslate Wall** — `deeperdarker:smooth_gloomslate_wall` · к
+- [ ] **Smooth Sculk Stone** — `deeperdarker:smooth_sculk_stone` · к
+- [ ] **Smooth Sculk Stone Slab** — `deeperdarker:smooth_sculk_stone_slab` · к
+- [ ] **Smooth Sculk Stone Stairs** — `deeperdarker:smooth_sculk_stone_stairs` · к
+- [ ] **Smooth Sculk Stone Wall** — `deeperdarker:smooth_sculk_stone_wall` · к
+- [ ] **Sonorous Staff** — `deeperdarker:sonorous_staff` · к
+- [ ] **Soul Crystal** — `deeperdarker:soul_crystal` · н
+- [ ] **Soul Dust** — `deeperdarker:soul_dust` · н
+- [ ] **Soul Elytra** — `deeperdarker:soul_elytra` · к
+- [ ] **Soundproof Glass** — `deeperdarker:soundproof_glass` · к
+- [ ] **Stalker Spawn Egg** — `deeperdarker:stalker_spawn_egg` · н
+- [ ] **Stripped Blooming Stem** — `deeperdarker:stripped_blooming_stem` · н
+- [ ] **Stripped Echo Log** — `deeperdarker:stripped_echo_log` · к
+- [ ] **Stripped Echo Wood** — `deeperdarker:stripped_echo_wood` · к
+- [ ] **Unlinked transmitter** — `deeperdarker:unlinked` · н
+- [ ] **Warden Axe** — `deeperdarker:warden_axe` · к
+- [ ] **Warden Boots** — `deeperdarker:warden_boots` · к
+- [ ] **Warden Carapace** — `deeperdarker:warden_carapace` · н
+- [ ] **Warden Chestplate** — `deeperdarker:warden_chestplate` · к
+- [ ] **Warden Helmet** — `deeperdarker:warden_helmet` · к
+- [ ] **Warden Hoe** — `deeperdarker:warden_hoe` · к
+- [ ] **Warden Leggings** — `deeperdarker:warden_leggings` · к
+- [ ] **Warden Pickaxe** — `deeperdarker:warden_pickaxe` · к
+- [ ] **Warden Shovel** — `deeperdarker:warden_shovel` · к
+- [ ] **Warden Sword** — `deeperdarker:warden_sword` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

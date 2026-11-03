@@ -1,0 +1,362 @@
+# Музей: Ad Astra (ad_astra)
+
+Предметов: 349 · крафтимых по данным: 276 (79%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 349 предметов.*
+
+- [ ] **Aeronos Cap** — `ad_astra:aeronos_cap` · н
+- [ ] **Aeronos Chest** — `ad_astra:aeronos_chest` · к
+- [ ] **Aeronos Door** — `ad_astra:aeronos_door` · к
+- [ ] **Aeronos Fence** — `ad_astra:aeronos_fence` · к
+- [ ] **Aeronos Fence Gate** — `ad_astra:aeronos_fence_gate` · к
+- [ ] **Aeronos Ladder** — `ad_astra:aeronos_ladder` · к
+- [ ] **Aeronos Mushroom** — `ad_astra:aeronos_mushroom` · н
+- [ ] **Aeronos Planks** — `ad_astra:aeronos_planks` · к
+- [ ] **Aeronos Slab** — `ad_astra:aeronos_slab` · к
+- [ ] **Aeronos Stairs** — `ad_astra:aeronos_stairs` · к
+- [ ] **Aeronos Stem** — `ad_astra:aeronos_stem` · н
+- [ ] **Aeronos Trapdoor** — `ad_astra:aeronos_trapdoor` · к
+- [ ] **Airlock** — `ad_astra:airlock` · к
+- [ ] **Astrodux** — `ad_astra:astrodux` · к
+- [ ] **Black Flag** — `ad_astra:black_flag` · к
+- [ ] **Blue Flag** — `ad_astra:blue_flag` · к
+- [ ] **Brown Flag** — `ad_astra:brown_flag` · к
+- [ ] **Cable Duct** — `ad_astra:cable_duct` · к
+- [ ] **Calorite Block** — `ad_astra:calorite_block` · к
+- [ ] **Calorite Engine** — `ad_astra:calorite_engine` · к
+- [ ] **Calorite Ingot** — `ad_astra:calorite_ingot` · к
+- [ ] **Calorite Nugget** — `ad_astra:calorite_nugget` · к
+- [ ] **Calorite Pillar** — `ad_astra:calorite_pillar` · к
+- [ ] **Calorite Plate** — `ad_astra:calorite_plate` · к
+- [ ] **Calorite Plating** — `ad_astra:calorite_plating` · к
+- [ ] **Calorite Plating Button** — `ad_astra:calorite_plating_button` · к
+- [ ] **Calorite Plating Pressure Plate** — `ad_astra:calorite_plating_pressure_plate` · к
+- [ ] **Calorite Plating Slab** — `ad_astra:calorite_plating_slab` · к
+- [ ] **Calorite Plating Stairs** — `ad_astra:calorite_plating_stairs` · к
+- [ ] **Calorite Sliding Door** — `ad_astra:calorite_sliding_door` · к
+- [ ] **Calorite Tank** — `ad_astra:calorite_tank` · к
+- [ ] **Cheese** — `ad_astra:cheese` · к
+- [ ] **Cheese Block** — `ad_astra:cheese_block` · к
+- [ ] **Chiseled Glacio Stone Bricks** — `ad_astra:chiseled_glacio_stone_bricks` · к
+- [ ] **Chiseled Glacio Stone Slab** — `ad_astra:chiseled_glacio_stone_slab` · к
+- [ ] **Chiseled Glacio Stone Stairs** — `ad_astra:chiseled_glacio_stone_stairs` · к
+- [ ] **Chiseled Mars Stone Bricks** — `ad_astra:chiseled_mars_stone_bricks` · к
+- [ ] **Chiseled Mars Stone Slab** — `ad_astra:chiseled_mars_stone_slab` · к
+- [ ] **Chiseled Mars Stone Stairs** — `ad_astra:chiseled_mars_stone_stairs` · к
+- [ ] **Chiseled Mercury Stone Bricks** — `ad_astra:chiseled_mercury_stone_bricks` · к
+- [ ] **Chiseled Mercury Stone Slab** — `ad_astra:chiseled_mercury_stone_slab` · к
+- [ ] **Chiseled Mercury Stone Stairs** — `ad_astra:chiseled_mercury_stone_stairs` · к
+- [ ] **Chiseled Moon Stone Bricks** — `ad_astra:chiseled_moon_stone_bricks` · к
+- [ ] **Chiseled Moon Stone Slab** — `ad_astra:chiseled_moon_stone_slab` · к
+- [ ] **Chiseled Moon Stone Stairs** — `ad_astra:chiseled_moon_stone_stairs` · к
+- [ ] **Chiseled Permafrost Brick Slab** — `ad_astra:chiseled_permafrost_brick_slab` · к
+- [ ] **Chiseled Permafrost Brick Stairs** — `ad_astra:chiseled_permafrost_brick_stairs` · к
+- [ ] **Chiseled Permafrost Bricks** — `ad_astra:chiseled_permafrost_bricks` · к
+- [ ] **Chiseled Venus Stone Bricks** — `ad_astra:chiseled_venus_stone_bricks` · к
+- [ ] **Chiseled Venus Stone Slab** — `ad_astra:chiseled_venus_stone_slab` · к
+- [ ] **Chiseled Venus Stone Stairs** — `ad_astra:chiseled_venus_stone_stairs` · к
+- [ ] **Coal Generator** — `ad_astra:coal_generator` · к
+- [ ] **Compressor** — `ad_astra:compressor` · к
+- [ ] **Conglomerate** — `ad_astra:conglomerate` · н
+- [ ] **Corrupted Lunarian Spawn Egg** — `ad_astra:corrupted_lunarian_spawn_egg` · н
+- [ ] **Cracked Glacio Stone Bricks** — `ad_astra:cracked_glacio_stone_bricks` · к
+- [ ] **Cracked Mars Stone Bricks** — `ad_astra:cracked_mars_stone_bricks` · к
+- [ ] **Cracked Mercury Stone Bricks** — `ad_astra:cracked_mercury_stone_bricks` · к
+- [ ] **Cracked Moon Stone Bricks** — `ad_astra:cracked_moon_stone_bricks` · к
+- [ ] **Cracked Permafrost Bricks** — `ad_astra:cracked_permafrost_bricks` · к
+- [ ] **Cracked Venus Sandstone Bricks** — `ad_astra:cracked_venus_sandstone_bricks` · к
+- [ ] **Cracked Venus Stone Bricks** — `ad_astra:cracked_venus_stone_bricks` · к
+- [ ] **Cryo Freezer** — `ad_astra:cryo_freezer` · к
+- [ ] **Cryo Fuel** — `ad_astra:cryo_fuel` · н
+- [ ] **Cryo Fuel Bucket** — `ad_astra:cryo_fuel_bucket` · н
+- [ ] **Cyan Flag** — `ad_astra:cyan_flag` · к
+- [ ] **Deepslate Calorite Ore** — `ad_astra:deepslate_calorite_ore` · н
+- [ ] **Deepslate Desh Ore** — `ad_astra:deepslate_desh_ore` · н
+- [ ] **Deepslate Ice Shard Ore** — `ad_astra:deepslate_ice_shard_ore` · н
+- [ ] **Deepslate Ostrum Ore** — `ad_astra:deepslate_ostrum_ore` · н
+- [ ] **Desh Block** — `ad_astra:desh_block` · к
+- [ ] **Desh Cable** — `ad_astra:desh_cable` · к
+- [ ] **Desh Engine** — `ad_astra:desh_engine` · к
+- [ ] **Desh Fluid Pipe** — `ad_astra:desh_fluid_pipe` · к
+- [ ] **Desh Ingot** — `ad_astra:desh_ingot` · к
+- [ ] **Desh Nugget** — `ad_astra:desh_nugget` · к
+- [ ] **Desh Pillar** — `ad_astra:desh_pillar` · к
+- [ ] **Desh Plate** — `ad_astra:desh_plate` · к
+- [ ] **Desh Plating** — `ad_astra:desh_plating` · к
+- [ ] **Desh Plating Button** — `ad_astra:desh_plating_button` · к
+- [ ] **Desh Plating Pressure Plate** — `ad_astra:desh_plating_pressure_plate` · к
+- [ ] **Desh Plating Slab** — `ad_astra:desh_plating_slab` · к
+- [ ] **Desh Plating Stairs** — `ad_astra:desh_plating_stairs` · к
+- [ ] **Desh Sliding Door** — `ad_astra:desh_sliding_door` · к
+- [ ] **Desh Tank** — `ad_astra:desh_tank` · к
+- [ ] **Earth Globe** — `ad_astra:earth_globe` · н
+- [ ] **Empty** — `ad_astra:empty_tank` · н
+- [ ] **Energizer** — `ad_astra:energizer` · к
+- [ ] **Engine Fan** — `ad_astra:engine_fan` · к
+- [ ] **Engine Frame** — `ad_astra:engine_frame` · к
+- [ ] **Extinguished Lantern** — `ad_astra:extinguished_lantern` · н
+- [ ] **Extinguished Torch** — `ad_astra:extinguished_torch` · н
+- [ ] **Fluid Pipe Duct** — `ad_astra:fluid_pipe_duct` · к
+- [ ] **Fuel** — `ad_astra:fuel` · н
+- [ ] **Fuel Bucket** — `ad_astra:fuel_bucket` · н
+- [ ] **Fuel Refinery** — `ad_astra:fuel_refinery` · к
+- [ ] **Glacian Button** — `ad_astra:glacian_button` · к
+- [ ] **Glacian Door** — `ad_astra:glacian_door` · к
+- [ ] **Glacian Fence** — `ad_astra:glacian_fence` · к
+- [ ] **Glacian Fence Gate** — `ad_astra:glacian_fence_gate` · к
+- [ ] **Glacian Fur** — `ad_astra:glacian_fur` · н
+- [ ] **Glacian Leaves** — `ad_astra:glacian_leaves` · н
+- [ ] **Glacian Log** — `ad_astra:glacian_log` · н
+- [ ] **Glacian Planks** — `ad_astra:glacian_planks` · к
+- [ ] **Glacian Pressure Plate** — `ad_astra:glacian_pressure_plate` · к
+- [ ] **Glacian Ram Spawn Egg** — `ad_astra:glacian_ram_spawn_egg` · н
+- [ ] **Glacian Sign** — `ad_astra:glacian_sign` · к
+- [ ] **Glacian Slab** — `ad_astra:glacian_slab` · к
+- [ ] **Glacian Stairs** — `ad_astra:glacian_stairs` · к
+- [ ] **Glacian Trapdoor** — `ad_astra:glacian_trapdoor` · к
+- [ ] **Glacio Coal Ore** — `ad_astra:glacio_coal_ore` · н
+- [ ] **Glacio Cobblestone** — `ad_astra:glacio_cobblestone` · к
+- [ ] **Glacio Cobblestone Slab** — `ad_astra:glacio_cobblestone_slab` · к
+- [ ] **Glacio Cobblestone Stairs** — `ad_astra:glacio_cobblestone_stairs` · к
+- [ ] **Glacio Copper Ore** — `ad_astra:glacio_copper_ore` · н
+- [ ] **Glacio Globe** — `ad_astra:glacio_globe` · н
+- [ ] **Glacio Ice Shard Ore** — `ad_astra:glacio_ice_shard_ore` · н
+- [ ] **Glacio Iron Ore** — `ad_astra:glacio_iron_ore` · н
+- [ ] **Glacio Lapis Ore** — `ad_astra:glacio_lapis_ore` · н
+- [ ] **Glacio Pillar** — `ad_astra:glacio_pillar` · к
+- [ ] **Glacio Stone** — `ad_astra:glacio_stone` · к
+- [ ] **Glacio Stone Brick Slab** — `ad_astra:glacio_stone_brick_slab` · к
+- [ ] **Glacio Stone Brick Stairs** — `ad_astra:glacio_stone_brick_stairs` · к
+- [ ] **Glacio Stone Brick Wall** — `ad_astra:glacio_stone_brick_wall` · к
+- [ ] **Glacio Stone Bricks** — `ad_astra:glacio_stone_bricks` · к
+- [ ] **Glacio Stone Slab** — `ad_astra:glacio_stone_slab` · к
+- [ ] **Glacio Stone Stairs** — `ad_astra:glacio_stone_stairs` · к
+- [ ] **Glowing Calorite Pillar** — `ad_astra:glowing_calorite_pillar` · к
+- [ ] **Glowing Desh Pillar** — `ad_astra:glowing_desh_pillar` · к
+- [ ] **Glowing Iron Pillar** — `ad_astra:glowing_iron_pillar` · к
+- [ ] **Glowing Ostrum Pillar** — `ad_astra:glowing_ostrum_pillar` · к
+- [ ] **Glowing Steel Pillar** — `ad_astra:glowing_steel_pillar` · к
+- [ ] **Gray Flag** — `ad_astra:gray_flag` · к
+- [ ] **Green Flag** — `ad_astra:green_flag` · к
+- [ ] **Hammer** — `ad_astra:hammer` · к
+- [ ] **Ice Shard** — `ad_astra:ice_shard` · к
+- [ ] **Infernal Spire Block** — `ad_astra:infernal_spire_block` · н
+- [ ] **Iron Pillar** — `ad_astra:iron_pillar` · к
+- [ ] **Iron Plate** — `ad_astra:iron_plate` · к
+- [ ] **Iron Plating** — `ad_astra:iron_plating` · к
+- [ ] **Iron Plating Button** — `ad_astra:iron_plating_button` · к
+- [ ] **Iron Plating Pressure Plate** — `ad_astra:iron_plating_pressure_plate` · к
+- [ ] **Iron Plating Slab** — `ad_astra:iron_plating_slab` · к
+- [ ] **Iron Plating Stairs** — `ad_astra:iron_plating_stairs` · к
+- [ ] **Iron Rod** — `ad_astra:iron_rod` · к
+- [ ] **Iron Sliding Door** — `ad_astra:iron_sliding_door` · к
+- [ ] **Jet Suit** — `ad_astra:jet_suit` · к
+- [ ] **Jet Suit Boots** — `ad_astra:jet_suit_boots` · к
+- [ ] **Jet Suit Helmet** — `ad_astra:jet_suit_helmet` · к
+- [ ] **Jet Suit Pants** — `ad_astra:jet_suit_pants` · к
+- [ ] **Launch Pad** — `ad_astra:launch_pad` · к
+- [ ] **Light Blue Flag** — `ad_astra:light_blue_flag` · к
+- [ ] **Light Gray Flag** — `ad_astra:light_gray_flag` · к
+- [ ] **Lime Flag** — `ad_astra:lime_flag` · к
+- [ ] **Lunarian Spawn Egg** — `ad_astra:lunarian_spawn_egg` · н
+- [ ] **Lunarian Wandering Trader Spawn Egg** — `ad_astra:lunarian_wandering_trader_spawn_egg` · н
+- [ ] **Magenta Flag** — `ad_astra:magenta_flag` · к
+- [ ] **Marked Iron Pillar** — `ad_astra:marked_iron_pillar` · к
+- [ ] **Mars Cobblestone** — `ad_astra:mars_cobblestone` · к
+- [ ] **Mars Cobblestone Slab** — `ad_astra:mars_cobblestone_slab` · к
+- [ ] **Mars Cobblestone Stairs** — `ad_astra:mars_cobblestone_stairs` · к
+- [ ] **Mars Diamond Ore** — `ad_astra:mars_diamond_ore` · н
+- [ ] **Mars Globe** — `ad_astra:mars_globe` · н
+- [ ] **Mars Ice Shard Ore** — `ad_astra:mars_ice_shard_ore` · н
+- [ ] **Mars Iron Ore** — `ad_astra:mars_iron_ore` · н
+- [ ] **Mars Ostrum Ore** — `ad_astra:mars_ostrum_ore` · н
+- [ ] **Mars Pillar** — `ad_astra:mars_pillar` · к
+- [ ] **Mars Sand** — `ad_astra:mars_sand` · н
+- [ ] **Mars Stone** — `ad_astra:mars_stone` · к
+- [ ] **Mars Stone Brick Slab** — `ad_astra:mars_stone_brick_slab` · к
+- [ ] **Mars Stone Brick Stairs** — `ad_astra:mars_stone_brick_stairs` · к
+- [ ] **Mars Stone Brick Wall** — `ad_astra:mars_stone_brick_wall` · к
+- [ ] **Mars Stone Bricks** — `ad_astra:mars_stone_bricks` · к
+- [ ] **Mars Stone Slab** — `ad_astra:mars_stone_slab` · к
+- [ ] **Mars Stone Stairs** — `ad_astra:mars_stone_stairs` · к
+- [ ] **Martian Raptor Spawn Egg** — `ad_astra:martian_raptor_spawn_egg` · н
+- [ ] **Mercury Cobblestone** — `ad_astra:mercury_cobblestone` · к
+- [ ] **Mercury Cobblestone Slab** — `ad_astra:mercury_cobblestone_slab` · к
+- [ ] **Mercury Cobblestone Stairs** — `ad_astra:mercury_cobblestone_stairs` · к
+- [ ] **Mercury Globe** — `ad_astra:mercury_globe` · н
+- [ ] **Mercury Iron Ore** — `ad_astra:mercury_iron_ore` · н
+- [ ] **Mercury Pillar** — `ad_astra:mercury_pillar` · к
+- [ ] **Mercury Stone** — `ad_astra:mercury_stone` · к
+- [ ] **Mercury Stone Brick Slab** — `ad_astra:mercury_stone_brick_slab` · к
+- [ ] **Mercury Stone Brick Stairs** — `ad_astra:mercury_stone_brick_stairs` · к
+- [ ] **Mercury Stone Brick Wall** — `ad_astra:mercury_stone_brick_wall` · к
+- [ ] **Mercury Stone Bricks** — `ad_astra:mercury_stone_bricks` · к
+- [ ] **Mercury Stone Slab** — `ad_astra:mercury_stone_slab` · к
+- [ ] **Mercury Stone Stairs** — `ad_astra:mercury_stone_stairs` · к
+- [ ] **Mogler Spawn Egg** — `ad_astra:mogler_spawn_egg` · н
+- [ ] **Moon Cheese Ore** — `ad_astra:moon_cheese_ore` · н
+- [ ] **Moon Cobblestone** — `ad_astra:moon_cobblestone` · к
+- [ ] **Moon Cobblestone Slab** — `ad_astra:moon_cobblestone_slab` · к
+- [ ] **Moon Cobblestone Stairs** — `ad_astra:moon_cobblestone_stairs` · к
+- [ ] **Moon Desh Ore** — `ad_astra:moon_desh_ore` · н
+- [ ] **Moon Globe** — `ad_astra:moon_globe` · н
+- [ ] **Moon Ice Shard Ore** — `ad_astra:moon_ice_shard_ore` · н
+- [ ] **Moon Iron Ore** — `ad_astra:moon_iron_ore` · н
+- [ ] **Moon Pillar** — `ad_astra:moon_pillar` · к
+- [ ] **Moon Sand** — `ad_astra:moon_sand` · н
+- [ ] **Moon Stone** — `ad_astra:moon_stone` · к
+- [ ] **Moon Stone Brick Slab** — `ad_astra:moon_stone_brick_slab` · к
+- [ ] **Moon Stone Brick Stairs** — `ad_astra:moon_stone_brick_stairs` · к
+- [ ] **Moon Stone Brick Wall** — `ad_astra:moon_stone_brick_wall` · к
+- [ ] **Moon Stone Bricks** — `ad_astra:moon_stone_bricks` · к
+- [ ] **Moon Stone Slab** — `ad_astra:moon_stone_slab` · к
+- [ ] **Moon Stone Stairs** — `ad_astra:moon_stone_stairs` · к
+- [ ] **Nasa Workbench** — `ad_astra:nasa_workbench` · к
+- [ ] **Netherite Space Boots** — `ad_astra:netherite_space_boots` · к
+- [ ] **Netherite Space Helmet** — `ad_astra:netherite_space_helmet` · к
+- [ ] **Netherite Space Pants** — `ad_astra:netherite_space_pants` · к
+- [ ] **Netherite Space Suit** — `ad_astra:netherite_space_suit` · к
+- [ ] **Oil** — `ad_astra:oil` · н
+- [ ] **Oil Bucket** — `ad_astra:oil_bucket` · н
+- [ ] **Orange Flag** — `ad_astra:orange_flag` · к
+- [ ] **Ostrum Block** — `ad_astra:ostrum_block` · к
+- [ ] **Ostrum Engine** — `ad_astra:ostrum_engine` · к
+- [ ] **Ostrum Fluid Pipe** — `ad_astra:ostrum_fluid_pipe` · к
+- [ ] **Ostrum Ingot** — `ad_astra:ostrum_ingot` · к
+- [ ] **Ostrum Nugget** — `ad_astra:ostrum_nugget` · к
+- [ ] **Ostrum Pillar** — `ad_astra:ostrum_pillar` · к
+- [ ] **Ostrum Plate** — `ad_astra:ostrum_plate` · к
+- [ ] **Ostrum Plating** — `ad_astra:ostrum_plating` · к
+- [ ] **Ostrum Plating Button** — `ad_astra:ostrum_plating_button` · к
+- [ ] **Ostrum Plating Pressure Plate** — `ad_astra:ostrum_plating_pressure_plate` · к
+- [ ] **Ostrum Plating Slab** — `ad_astra:ostrum_plating_slab` · к
+- [ ] **Ostrum Plating Stairs** — `ad_astra:ostrum_plating_stairs` · к
+- [ ] **Ostrum Sliding Door** — `ad_astra:ostrum_sliding_door` · к
+- [ ] **Ostrum Tank** — `ad_astra:ostrum_tank` · к
+- [ ] **Oxygen** — `ad_astra:oxygen` · н
+- [ ] **Oxygen Bucket** — `ad_astra:oxygen_bucket` · н
+- [ ] **Oxygen Distributor** — `ad_astra:oxygen_distributor` · к
+- [ ] **Oxygen Gear** — `ad_astra:oxygen_gear` · к
+- [ ] **Oxygen Loader** — `ad_astra:oxygen_loader` · к
+- [ ] **Oxygen Sensor** — `ad_astra:oxygen_sensor` · к
+- [ ] **Oxygen Tank** — `ad_astra:oxygen_tank` · к
+- [ ] **Permafrost** — `ad_astra:permafrost` · н
+- [ ] **Permafrost Brick Slab** — `ad_astra:permafrost_brick_slab` · к
+- [ ] **Permafrost Brick Stairs** — `ad_astra:permafrost_brick_stairs` · к
+- [ ] **Permafrost Brick Wall** — `ad_astra:permafrost_brick_wall` · к
+- [ ] **Permafrost Bricks** — `ad_astra:permafrost_bricks` · к
+- [ ] **Permafrost Pillar** — `ad_astra:permafrost_pillar` · к
+- [ ] **Permafrost Tiles** — `ad_astra:permafrost_tiles` · к
+- [ ] **Pink Flag** — `ad_astra:pink_flag` · к
+- [ ] **Polished Conglomerate** — `ad_astra:polished_conglomerate` · к
+- [ ] **Polished Glacio Stone** — `ad_astra:polished_glacio_stone` · к
+- [ ] **Polished Glacio Stone Slab** — `ad_astra:polished_glacio_stone_slab` · к
+- [ ] **Polished Glacio Stone Stairs** — `ad_astra:polished_glacio_stone_stairs` · н
+- [ ] **Polished Mars Stone** — `ad_astra:polished_mars_stone` · к
+- [ ] **Polished Mars Stone Slab** — `ad_astra:polished_mars_stone_slab` · к
+- [ ] **Polished Mars Stone Stairs** — `ad_astra:polished_mars_stone_stairs` · к
+- [ ] **Polished Mercury Stone** — `ad_astra:polished_mercury_stone` · к
+- [ ] **Polished Mercury Stone Slab** — `ad_astra:polished_mercury_stone_slab` · к
+- [ ] **Polished Mercury Stone Stairs** — `ad_astra:polished_mercury_stone_stairs` · к
+- [ ] **Polished Moon Stone** — `ad_astra:polished_moon_stone` · к
+- [ ] **Polished Moon Stone Slab** — `ad_astra:polished_moon_stone_slab` · к
+- [ ] **Polished Moon Stone Stairs** — `ad_astra:polished_moon_stone_stairs` · к
+- [ ] **Polished Permafrost** — `ad_astra:polished_permafrost` · к
+- [ ] **Polished Permafrost Slab** — `ad_astra:polished_permafrost_slab` · к
+- [ ] **Polished Permafrost Stairs** — `ad_astra:polished_permafrost_stairs` · к
+- [ ] **Polished Venus Stone** — `ad_astra:polished_venus_stone` · к
+- [ ] **Polished Venus Stone Slab** — `ad_astra:polished_venus_stone_slab` · к
+- [ ] **Polished Venus Stone Stairs** — `ad_astra:polished_venus_stone_stairs` · к
+- [ ] **Purple Flag** — `ad_astra:purple_flag` · к
+- [ ] **Pygro Brute Spawn Egg** — `ad_astra:pygro_brute_spawn_egg` · н
+- [ ] **Pygro Spawn Egg** — `ad_astra:pygro_spawn_egg` · н
+- [ ] **Raw Calorite** — `ad_astra:raw_calorite` · к
+- [ ] **Raw Calorite Block** — `ad_astra:raw_calorite_block` · к
+- [ ] **Raw Desh** — `ad_astra:raw_desh` · к
+- [ ] **Raw Desh Block** — `ad_astra:raw_desh_block` · к
+- [ ] **Raw Ostrum** — `ad_astra:raw_ostrum` · к
+- [ ] **Raw Ostrum Block** — `ad_astra:raw_ostrum_block` · к
+- [ ] **Red Flag** — `ad_astra:red_flag` · к
+- [ ] **Reinforced Door** — `ad_astra:reinforced_door` · к
+- [ ] **Rocket Fin** — `ad_astra:rocket_fin` · к
+- [ ] **Rocket Nose Cone** — `ad_astra:rocket_nose_cone` · к
+- [ ] **Sky Stone** — `ad_astra:sky_stone` · н
+- [ ] **Solar Panel** — `ad_astra:solar_panel` · к
+- [ ] **Space Boots** — `ad_astra:space_boots` · к
+- [ ] **Space Helmet** — `ad_astra:space_helmet` · к
+- [ ] **Space Painting** — `ad_astra:space_painting` · н
+- [ ] **Space Pants** — `ad_astra:space_pants` · к
+- [ ] **Space Suit** — `ad_astra:space_suit` · к
+- [ ] **Star Crawler Spawn Egg** — `ad_astra:star_crawler_spawn_egg` · н
+- [ ] **Steel Block** — `ad_astra:steel_block` · к
+- [ ] **Steel Cable** — `ad_astra:steel_cable` · к
+- [ ] **Steel Door** — `ad_astra:steel_door` · к
+- [ ] **Steel Engine** — `ad_astra:steel_engine` · к
+- [ ] **Steel Ingot** — `ad_astra:steel_ingot` · к
+- [ ] **Steel Nugget** — `ad_astra:steel_nugget` · к
+- [ ] **Steel Pillar** — `ad_astra:steel_pillar` · к
+- [ ] **Steel Plate** — `ad_astra:steel_plate` · к
+- [ ] **Steel Plating** — `ad_astra:steel_plating` · к
+- [ ] **Steel Plating Button** — `ad_astra:steel_plating_button` · к
+- [ ] **Steel Plating Pressure Plate** — `ad_astra:steel_plating_pressure_plate` · к
+- [ ] **Steel Plating Slab** — `ad_astra:steel_plating_slab` · к
+- [ ] **Steel Plating Stairs** — `ad_astra:steel_plating_stairs` · к
+- [ ] **Steel Sliding Door** — `ad_astra:steel_sliding_door` · к
+- [ ] **Steel Tank** — `ad_astra:steel_tank` · к
+- [ ] **Steel Trapdoor** — `ad_astra:steel_trapdoor` · к
+- [ ] **Stripped Glacian Log** — `ad_astra:stripped_glacian_log` · к
+- [ ] **Strophar Cap** — `ad_astra:strophar_cap` · н
+- [ ] **Strophar Chest** — `ad_astra:strophar_chest` · к
+- [ ] **Strophar Door** — `ad_astra:strophar_door` · к
+- [ ] **Strophar Fence** — `ad_astra:strophar_fence` · к
+- [ ] **Strophar Fence Gate** — `ad_astra:strophar_fence_gate` · к
+- [ ] **Strophar Ladder** — `ad_astra:strophar_ladder` · к
+- [ ] **Strophar Mushroom** — `ad_astra:strophar_mushroom` · н
+- [ ] **Strophar Planks** — `ad_astra:strophar_planks` · к
+- [ ] **Strophar Slab** — `ad_astra:strophar_slab` · к
+- [ ] **Strophar Stairs** — `ad_astra:strophar_stairs` · к
+- [ ] **Strophar Stem** — `ad_astra:strophar_stem` · н
+- [ ] **Strophar Trapdoor** — `ad_astra:strophar_trapdoor` · к
+- [ ] **Sulfur Creeper Spawn Egg** — `ad_astra:sulfur_creeper_spawn_egg` · н
+- [ ] **Tier 1 Rocket** — `ad_astra:tier_1_rocket` · н
+- [ ] **Tier 1 Rover** — `ad_astra:tier_1_rover` · к
+- [ ] **Tier 2 Rocket** — `ad_astra:tier_2_rocket` · н
+- [ ] **Tier 3 Rocket** — `ad_astra:tier_3_rocket` · н
+- [ ] **Tier 4 Rocket** — `ad_astra:tier_4_rocket` · н
+- [ ] **Vent** — `ad_astra:vent` · к
+- [ ] **Venus Calorite Ore** — `ad_astra:venus_calorite_ore` · н
+- [ ] **Venus Coal Ore** — `ad_astra:venus_coal_ore` · н
+- [ ] **Venus Cobblestone** — `ad_astra:venus_cobblestone` · к
+- [ ] **Venus Cobblestone Slab** — `ad_astra:venus_cobblestone_slab` · к
+- [ ] **Venus Cobblestone Stairs** — `ad_astra:venus_cobblestone_stairs` · к
+- [ ] **Venus Diamond Ore** — `ad_astra:venus_diamond_ore` · н
+- [ ] **Venus Globe** — `ad_astra:venus_globe` · н
+- [ ] **Venus Gold Ore** — `ad_astra:venus_gold_ore` · н
+- [ ] **Venus Pillar** — `ad_astra:venus_pillar` · к
+- [ ] **Venus Sand** — `ad_astra:venus_sand` · к
+- [ ] **Venus Sandstone** — `ad_astra:venus_sandstone` · к
+- [ ] **Venus Sandstone Brick Slab** — `ad_astra:venus_sandstone_brick_slab` · к
+- [ ] **Venus Sandstone Brick Stairs** — `ad_astra:venus_sandstone_brick_stairs` · к
+- [ ] **Venus Sandstone Bricks** — `ad_astra:venus_sandstone_bricks` · к
+- [ ] **Venus Stone** — `ad_astra:venus_stone` · к
+- [ ] **Venus Stone Brick Slab** — `ad_astra:venus_stone_brick_slab` · к
+- [ ] **Venus Stone Brick Stairs** — `ad_astra:venus_stone_brick_stairs` · к
+- [ ] **Venus Stone Brick Wall** — `ad_astra:venus_stone_brick_wall` · к
+- [ ] **Venus Stone Bricks** — `ad_astra:venus_stone_bricks` · к
+- [ ] **Venus Stone Slab** — `ad_astra:venus_stone_slab` · к
+- [ ] **Venus Stone Stairs** — `ad_astra:venus_stone_stairs` · к
+- [ ] **Wall Extinguished Torch** — `ad_astra:wall_extinguished_torch` · н
+- [ ] **Water Pump** — `ad_astra:water_pump` · к
+- [ ] **Wheel** — `ad_astra:wheel` · к
+- [ ] **White Flag** — `ad_astra:white_flag` · к
+- [ ] **Wrench** — `ad_astra:wrench` · к
+- [ ] **Yellow Flag** — `ad_astra:yellow_flag` · к
+- [ ] **Zombified Mogler Spawn Egg** — `ad_astra:zombified_mogler_spawn_egg` · н
+- [ ] **Zombified Pygro Spawn Egg** — `ad_astra:zombified_pygro_spawn_egg` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.
