@@ -1,0 +1,45 @@
+{"id": "2F0F635C06E8D307", "title": "Enter &2The Twilight Forest", "deps": ["123D70CA4959F172"], "dm": "ONE", "tasks": ["DIM twilightforest:twilight_forest"]}
+{"id": "51EC1DBEAFF575D7", "title": "Map of the Forest", "deps": ["2F0F635C06E8D307"], "dm": "ONE", "tasks": ["ITEM twilightforest:magic_map x1"]}
+{"id": "043A32CFAF07245A", "title": "Defeat the &aNaga", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:naga_trophy x1"]}
+{"id": "65E6F43E380A343B", "title": "Defeat the &eTwilight Lich", "deps": ["043A32CFAF07245A"], "dm": "ONE", "tasks": ["ITEM twilightforest:lich_trophy x1"]}
+{"id": "249A0EC5DB167A5A", "title": "Defeat the &2Hydra", "deps": ["1125F566DAEFC4A5"], "dm": "ONE", "tasks": ["ITEM twilightforest:hydra_trophy x1"]}
+{"id": "546A5B881F8F6A29", "title": "Defeat the &fUr-Ghast", "deps": ["08864DB101FED90C"], "dm": "ONE", "tasks": ["ITEM twilightforest:ur_ghast_trophy x1"]}
+{"id": "2471021B93EE125D", "title": "Defeat the &f&lAlpha Yeti", "deps": ["65E6F43E380A343B"], "dm": "ONE", "tasks": ["KILL twilightforest:alpha_yeti x1"]}
+{"id": "2C964425741DFA07", "title": "Defeat the &f&lSnow Queen", "deps": ["2471021B93EE125D"], "dm": "ONE", "tasks": ["ITEM twilightforest:snow_queen_trophy x1"]}
+{"id": "1125F566DAEFC4A5", "title": "Defeat minoshroom", "deps": ["65E6F43E380A343B"], "dm": "ONE", "tasks": ["ITEM twilightforest:minoshroom_trophy x1"]}
+{"id": "08864DB101FED90C", "title": "Defeat Knight Phantom", "deps": ["65E6F43E380A343B"], "dm": "ONE", "tasks": ["ITEM twilightforest:knight_phantom_trophy x1"]}
+{"id": "254CFFAAF052399C", "title": "", "deps": ["249A0EC5DB167A5A", "546A5B881F8F6A29", "2C964425741DFA07"], "dm": "ONE", "tasks": ["ITEM twilightforest:magic_beans x1"]}
+{"id": "1BFB221E98E6B727", "title": "Giant's Tools", "deps": ["254CFFAAF052399C"], "dm": "ONE", "tasks": ["ITEM twilightforest:giant_pickaxe x1", "ITEM twilightforest:giant_sword x1"]}
+{"id": "6186282EA9E837D8", "title": "", "deps": ["1BFB221E98E6B727"], "dm": "ONE", "tasks": ["ITEM twilightforest:lamp_of_cinders x1"]}
+{"id": "7CA4CDBFAA14FA9F", "title": "The End?", "deps": ["6186282EA9E837D8"], "dm": "ONE", "tasks": ["ADV twilightforest:progression_end"]}
+{"id": "0938415ECE0664EC", "title": "Naga Scale Armor", "deps": ["043A32CFAF07245A"], "dm": "ONE", "tasks": ["ITEM twilightforest:naga_chestplate x1", "ITEM twilightforest:naga_leggings x1"]}
+{"id": "7A44612694194919", "title": "", "deps": ["1125F566DAEFC4A5"], "dm": "ONE", "tasks": ["ITEM twilightforest:diamond_minotaur_axe x1"]}
+{"id": "191E2BE490983099", "title": "", "deps": ["65E6F43E380A343B"], "dm": "ONE", "tasks": ["ITEM twilightforest:ore_map x1"]}
+{"id": "65719A526AE9588E", "title": "", "deps": ["65E6F43E380A343B"], "dm": "ONE", "tasks": ["ITEM twilightforest:charm_of_keeping_1 x1"]}
+{"id": "01DB3000FBBAB496", "title": "", "deps": ["65719A526AE9588E"], "dm": "ONE", "tasks": ["ITEM twilightforest:charm_of_keeping_2 x1"]}
+{"id": "619ED52038647A5A", "title": "", "deps": ["01DB3000FBBAB496"], "dm": "ONE", "tasks": ["ITEM twilightforest:charm_of_keeping_3 x1"]}
+{"id": "50D1B38C1572A901", "title": "", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:quest_ram_trophy x1"]}
+{"id": "1C8C21F69F8AF6E8", "title": "", "deps": ["65E6F43E380A343B"], "dm": "ONE", "tasks": ["ITEM twilightforest:mazebreaker_pickaxe x1"]}
+{"id": "7692A6C8E123BEB6", "title": "", "deps": ["249A0EC5DB167A5A"], "dm": "ONE", "tasks": ["ITEM twilightforest:fiery_sword x1", "ITEM twilightforest:fiery_pickaxe x1"]}
+{"id": "5E9C29281165D517", "title": "Fiery Armor", "deps": ["249A0EC5DB167A5A"], "dm": "ONE", "tasks": ["ITEM twilightforest:fiery_helmet x1", "ITEM twilightforest:fiery_chestplate x1", "ITEM twilightforest:fiery_leggings x1", "ITEM twilightforest:fiery_boots x1"]}
+{"id": "723E6DA6E711FE8A", "title": "Knightmetal Tools", "deps": ["08864DB101FED90C"], "dm": "ONE", "tasks": ["ITEM twilightforest:knightmetal_sword x1", "ITEM twilightforest:knightmetal_pickaxe x1", "ITEM twilightforest:knightmetal_axe x1", "ITEM twilightforest:block_and_chain x1", "ITEM twilightforest:knightmetal_shield x1"]}
+{"id": "7CAD7CE1BCA369A3", "title": "", "deps": ["08864DB101FED90C"], "dm": "ONE", "tasks": ["ITEM twilightforest:phantom_helmet x1", "ITEM twilightforest:phantom_chestplate x1"]}
+{"id": "71E8DAB10669FADA", "title": "Knightmetal Armor", "deps": ["08864DB101FED90C"], "dm": "ONE", "tasks": ["ITEM twilightforest:knightmetal_helmet x1", "ITEM twilightforest:knightmetal_chestplate x1", "ITEM twilightforest:knightmetal_leggings x1", "ITEM twilightforest:knightmetal_boots x1"]}
+{"id": "5D2BE6E37AC8D896", "title": "Yeti Armor", "deps": ["2471021B93EE125D"], "dm": "ONE", "tasks": ["ITEM twilightforest:yeti_helmet x1", "ITEM twilightforest:yeti_chestplate x1", "ITEM twilightforest:yeti_leggings x1", "ITEM twilightforest:yeti_boots x1"]}
+{"id": "4FA382E4AE085E48", "title": "Arctic Armor", "deps": ["2471021B93EE125D"], "dm": "ONE", "tasks": ["ITEM twilightforest:arctic_helmet x1", "ITEM twilightforest:arctic_chestplate x1", "ITEM twilightforest:arctic_leggings x1", "ITEM twilightforest:arctic_boots x1"]}
+{"id": "0D307B465646C366", "title": "", "deps": ["2C964425741DFA07"], "dm": "ONE", "tasks": ["ITEM twilightforest:triple_bow x1"]}
+{"id": "7283D021B45550CC", "title": "", "deps": ["2C964425741DFA07"], "dm": "ONE", "tasks": ["ITEM twilightforest:seeker_bow x1"]}
+{"id": "78FD5B1A2C8C048A", "title": "", "deps": ["2C964425741DFA07"], "dm": "ONE", "tasks": ["ITEM twilightforest:ender_bow x1"]}
+{"id": "428F3A8F379F4A85", "title": "", "deps": ["2C964425741DFA07"], "dm": "ONE", "tasks": ["ITEM twilightforest:ice_bow x1"]}
+{"id": "500F0BB576E89780", "title": "Steeleaf Armor", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:steeleaf_helmet x1", "ITEM twilightforest:steeleaf_chestplate x1", "ITEM twilightforest:steeleaf_leggings x1", "ITEM twilightforest:steeleaf_boots x1"]}
+{"id": "689FDA2441253F73", "title": "Ironwood Armor", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:ironwood_helmet x1", "ITEM twilightforest:ironwood_chestplate x1", "ITEM twilightforest:ironwood_leggings x1", "ITEM twilightforest:ironwood_boots x1"]}
+{"id": "4C3D83E90EBD8C3D", "title": "", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:transformation_powder x1"]}
+{"id": "6749C7C13B2DB0AE", "title": "", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:moonworm_queen x1"]}
+{"id": "06A17005B91DCC85", "title": "Fancy Noms", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:raw_venison x1", "ITEM twilightforest:cooked_venison x1", "ITEM twilightforest:maze_wafer x1", "ITEM twilightforest:cooked_meef x1", "ITEM twilightforest:experiment_115 x1", "ITEM twilightforest:hydra_chop x1", "ADV twilightforest:twilight_dinner", "ITEM twilightforest:torchberries x1"]}
+{"id": "6A27EFA039D9E06B", "title": "", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:peacock_feather_fan x1"]}
+{"id": "13349B0DB7ABDB82", "title": "", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:ore_magnet x1"]}
+{"id": "2CB0638C2E87D128", "title": "", "deps": ["546A5B881F8F6A29"], "dm": "ONE", "tasks": ["ITEM twilightforest:reappearing_block x1", "ITEM twilightforest:vanishing_block x1"]}
+{"id": "3B8AE843B2700A38", "title": "", "deps": ["546A5B881F8F6A29"], "dm": "ONE", "tasks": ["ITEM twilightforest:carminite_builder x1", "ITEM twilightforest:carminite_reactor x1"]}
+{"id": "644902A7AC16ABD9", "title": "", "deps": ["6EEF1E5F9EA109F6"], "dm": "ONE", "tasks": ["ITEM twilightforest:snowy_cloud x1"]}
+{"id": "4B0C98FB634E8A9B", "title": "", "deps": ["6EEF1E5F9EA109F6"], "dm": "ONE", "tasks": ["ITEM twilightforest:rainy_cloud x1"]}
+{"id": "6EEF1E5F9EA109F6", "title": "", "deps": ["51EC1DBEAFF575D7"], "dm": "ONE", "tasks": ["ITEM twilightforest:fluffy_cloud x1"]}

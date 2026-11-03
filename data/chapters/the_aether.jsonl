@@ -1,0 +1,36 @@
+{"id": "57078A29DBC3CF41", "title": "The Classic...", "deps": ["557CFA0FF7E22EB8"], "dm": "ONE", "tasks": ["ITEM minecraft:crafting_table x1"]}
+{"id": "324287EC1ACF685B", "title": "Skyroot Tool Set", "deps": ["09966BA346283D39"], "dm": "ONE", "tasks": ["ITEM aether:skyroot_sword x1", "ITEM aether:skyroot_axe x1", "ITEM aether:skyroot_pickaxe x1"]}
+{"id": "527CA86A6BEAE9F4", "title": "Holystone Tool Set", "deps": ["3BADA9E324F873D7"], "dm": "ONE", "tasks": ["ITEM aether:holystone_sword x1", "ITEM aether:holystone_axe x1", "ITEM aether:holystone_pickaxe x1"]}
+{"id": "4B51836028C8BDE8", "title": "Zanite Tool Set", "deps": ["7686D66200E518B3"], "dm": "ONE", "tasks": ["ITEM aether:zanite_sword x1", "ITEM aether:zanite_axe x1", "ITEM aether:zanite_pickaxe x1"]}
+{"id": "14BD495887E26D7B", "title": "Gravitite Tool Set", "deps": ["5A8DA19AF6406B75"], "dm": "ONE", "tasks": ["ITEM aether:gravitite_sword x1", "ITEM aether:gravitite_axe x1", "ITEM aether:gravitite_pickaxe x1"]}
+{"id": "586483D57C8A463E", "title": "Golden Coal", "deps": ["324287EC1ACF685B"], "dm": "ONE", "tasks": ["ITEM aether:ambrosium_shard x1"]}
+{"id": "63B670F3227A2A53", "title": "Light is Required", "deps": ["586483D57C8A463E"], "dm": "ONE", "tasks": ["ITEM aether:ambrosium_torch x4"]}
+{"id": "7810F69B0F6826AE", "title": "Please don't fry!", "deps": ["63B670F3227A2A53"], "dm": "ONE", "tasks": ["ITEM aether:incubator x1"]}
+{"id": "136FFD14991FD432", "title": "Best friends", "deps": ["63B670F3227A2A53"], "dm": "ONE", "tasks": ["ITEM any#tag:aether:moa_eggs x1"]}
+{"id": "218FFECECB406E88", "title": "The Rarest plant!", "deps": ["63B670F3227A2A53"], "dm": "ONE", "tasks": ["ITEM aether:aechor_petal x3"]}
+{"id": "492CC1C0507FE008", "title": "Should be in Vanilla...", "deps": ["63B670F3227A2A53"], "dm": "ONE", "tasks": ["ITEM minecraft:saddle x1"]}
+{"id": "4A5578CD756D9DDC", "title": "The Gold Key!", "deps": ["63B35ED12D525A4F"], "dm": "ONE", "tasks": ["ITEM aether:gold_dungeon_key x1"]}
+{"id": "5A143952EAB7643E", "title": "Sliding into Action!", "deps": ["557CFA0FF7E22EB8"], "dm": "ONE", "tasks": ["STRUCT aether:bronze_dungeon"]}
+{"id": "7C32DED450405D92", "title": "The Valkyrie Queen Awaits", "deps": ["5F808832927F1A31"], "dm": "ONE", "tasks": ["STRUCT aether:silver_dungeon"]}
+{"id": "63B35ED12D525A4F", "title": "As hot as the Sun!", "deps": ["435634BB2DD8B627"], "dm": "ONE", "tasks": ["STRUCT aether:gold_dungeon"]}
+{"id": "6E856702D9B7C2EE", "title": "T-rex?", "deps": ["586483D57C8A463E"], "dm": "ONE", "tasks": ["ITEM aether:golden_amber x1"]}
+{"id": "435634BB2DD8B627", "title": "The Silver Key!", "deps": ["7C32DED450405D92"], "dm": "ONE", "tasks": ["ITEM aether:silver_dungeon_key x1"]}
+{"id": "5F808832927F1A31", "title": "The Bronze Key!", "deps": ["5A143952EAB7643E"], "dm": "ONE", "tasks": ["ITEM aether:bronze_dungeon_key x1"]}
+{"id": "5CE831834AEB8CCE", "title": "Where's the Fridge?", "deps": ["52DA719CD6C66226"], "dm": "ONE", "tasks": ["ITEM aether:freezer x1"]}
+{"id": "4FA8E46476200357", "title": "Altar White", "deps": ["7686D66200E518B3", "3BADA9E324F873D7"], "dm": "ONE", "tasks": ["ITEM aether:altar x1"]}
+{"id": "56A60C713CE0DE97", "title": "The Sun Dial", "deps": ["4A5578CD756D9DDC"], "dm": "ONE", "tasks": ["ITEM aether:sun_altar x1"]}
+{"id": "3D47D2D38F5C4ECD", "title": "I'm blue, daba dee dab a die..", "deps": ["57078A29DBC3CF41"], "dm": "ONE", "tasks": ["ITEM aether:blue_berry x1"]}
+{"id": "601378D5DFA4604A", "title": "Glowberries mk2", "deps": ["3D47D2D38F5C4ECD"], "dm": "ONE", "tasks": ["ITEM aether:enchanted_berry x1"]}
+{"id": "0ED8D054CDC8D20E", "title": "Colourless", "deps": ["57078A29DBC3CF41"], "dm": "ONE", "tasks": ["ITEM aether:white_apple x1"]}
+{"id": "7686D66200E518B3", "title": "", "deps": ["527CA86A6BEAE9F4"], "dm": "ONE", "tasks": ["ITEM aether:zanite_gemstone x1"]}
+{"id": "52DA719CD6C66226", "title": "\"Blue\"stone", "deps": ["4FA8E46476200357"], "dm": "ONE", "tasks": ["ITEM aether:icestone x1"]}
+{"id": "09966BA346283D39", "title": "Sticks!", "deps": ["57078A29DBC3CF41"], "dm": "ONE", "tasks": ["ITEM aether:skyroot_stick x4"]}
+{"id": "4A3F3F9534E48D5E", "title": "Boing! Boing!", "deps": ["57078A29DBC3CF41"], "dm": "ONE", "tasks": ["ITEM minecraft:string x1"]}
+{"id": "3BADA9E324F873D7", "title": "Wholely-Stone", "deps": ["324287EC1ACF685B"], "dm": "ONE", "tasks": ["ITEM aether:holystone x1"]}
+{"id": "5A8DA19AF6406B75", "title": "What goes up, must...", "deps": ["4B51836028C8BDE8"], "dm": "ONE", "tasks": ["ITEM aether:gravitite_ore x1"]}
+{"id": "1A0242A5A2F73FB1", "title": "Ice Cubes Required", "deps": ["5CE831834AEB8CCE"], "dm": "ONE", "tasks": ["ITEM minecraft:ice x4"]}
+{"id": "4859B7F2F440CD07", "title": "Crab Reach!", "deps": ["5F808832927F1A31"], "dm": "ONE", "tasks": ["ITEM aether:valkyrie_lance x1"]}
+{"id": "7AD7F690CED1D61F", "title": "But you still need to craft it?!", "deps": ["57078A29DBC3CF41"], "dm": "ONE", "tasks": ["ITEM aether:skyroot_bed x1"]}
+{"id": "61B4D6EE4FF48831", "title": "Very Powerful!", "deps": ["4A5578CD756D9DDC"], "dm": "ONE", "tasks": ["ITEM aether:life_shard x1"]}
+{"id": "4E43DC757C08068B", "title": "Making the portal", "deps": ["123D70CA4959F172"], "dm": "ONE", "tasks": ["ADV aether:enter_aether"]}
+{"id": "557CFA0FF7E22EB8", "title": "", "deps": ["4E43DC757C08068B"], "dm": "ONE", "tasks": ["ITEM aether:book_of_lore x1"]}

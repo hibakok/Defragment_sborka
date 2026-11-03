@@ -12,6 +12,6 @@
 {"id": "5E60FF6098CB030B", "title": "Building the Rotation Mechanism", "deps": ["0BEFDBD8AC519539", "507927EEC1417661", "43D6EC530F7F1126"], "dm": "ONE", "tasks": ["ITEM kubejs:rotation_mechanism x1"]}
 {"id": "0BEFDBD8AC519539", "title": "Hammer Acquisition", "deps": ["342BCE36CF749057"], "dm": "ONE", "tasks": ["ITEM ad_astra:hammer x1"]}
 {"id": "3AEFFAED564130A6", "title": "The Andesite Machine", "deps": ["5E60FF6098CB030B"], "dm": "ONE", "tasks": ["ITEM kubejs:andesite_machine x1"]}
-{"id": "342BCE36CF749057", "title": "Lets get started!", "deps": ["1F6BC8C2A5B8F9B2"], "dm": "ONE", "tasks": ["CHECK "]}
+{"id": "342BCE36CF749057", "title": "Lets get started!", "deps": ["1F6BC8C2A5B8F9B2"], "dm": "ONE", "tasks": ["CHECK"]}
 {"id": "1EEB1C5C7801D8D0", "title": "Stonecutter", "deps": ["3AEFFAED564130A6"], "dm": "ONE", "tasks": ["ITEM minecraft:stonecutter x1"]}
 {"id": "0219E3A871B9029E", "title": "Early Iron Production (OPTIONAL)", "deps": ["5E60FF6098CB030B"], "dm": "ONE", "tasks": ["ITEM minecraft:iron_nugget x1", "ITEM minecraft:flint x1"]}

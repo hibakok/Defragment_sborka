@@ -1,0 +1,100 @@
+{"id": "59B36B675F138BB6", "title": "", "deps": ["2975C35F5F29256F", "1ACB2AFC5EB11041", "64D7956A3E6681A5"], "dm": "ONE", "tasks": ["ITEM minecraft:gunpowder x1"]}
+{"id": "2975C35F5F29256F", "title": "", "deps": ["496C8280CF77787E"], "dm": "ONE", "tasks": ["ITEM tfmg:nitrate_dust x1"]}
+{"id": "496C8280CF77787E", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM minecraft:dirt x1"]}
+{"id": "1ACB2AFC5EB11041", "title": "", "deps": ["55E6E99D3CEF6003"], "dm": "ONE", "tasks": ["ITEM minecraft:charcoal x1"]}
+{"id": "55E6E99D3CEF6003", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM minecraft:oak_wood x1"]}
+{"id": "5FAA3AD7C903B57B", "title": "", "deps": ["59B36B675F138BB6", "41444693F75F309B"], "dm": "ONE", "tasks": ["ITEM ae2:tiny_tnt x1"]}
+{"id": "0198236ADC17A538", "title": "", "deps": ["3921087D564A6659"], "dm": "ONE", "tasks": ["ITEM ae2:singularity x1"]}
+{"id": "69336FA41A4C41EF", "title": "", "deps": ["1548E2F07EAD637F"], "dm": "ONE", "tasks": ["ITEM ae2:ender_dust x1"]}
+{"id": "1548E2F07EAD637F", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM minecraft:ender_pearl x1"]}
+{"id": "2C03A8E703001FDA", "title": "", "deps": ["5FAA3AD7C903B57B", "69336FA41A4C41EF", "0198236ADC17A538"], "dm": "ONE", "tasks": ["ITEM ae2:quantum_entangled_singularity x1"]}
+{"id": "78344EA2C9E89AD9", "title": "", "deps": ["300C0F835B6598C0", "0252501C99FFC62E", "6C74A90BEFD54FE7"], "dm": "ONE", "tasks": ["ITEM create_dd:chromatic_compound x1"]}
+{"id": "300C0F835B6598C0", "title": "", "deps": ["5BFA620B6424D8DF"], "dm": "ONE", "tasks": ["ITEM ae2:matter_ball x1"]}
+{"id": "4ECA82782988ACB9", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM create_dd:spectral_ruby x1"]}
+{"id": "0252501C99FFC62E", "title": "", "deps": ["4ECA82782988ACB9"], "dm": "ONE", "tasks": ["ITEM create_dd:polished_spectral_ruby x1"]}
+{"id": "57FCF653EDA81DE0", "title": "", "deps": ["78344EA2C9E89AD9"], "dm": "ONE", "tasks": ["ITEM create_dd:refined_radiance x1"]}
+{"id": "2DAF8F2EBB74DDE8", "title": "", "deps": ["57FCF653EDA81DE0"], "dm": "ONE", "tasks": ["ITEM create_dd:refined_radiance_sheet x1"]}
+{"id": "3921087D564A6659", "title": "", "deps": ["6BA8F6F964689964", "046BEC0717CBE938"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_crystal_obelisk x1"]}
+{"id": "046BEC0717CBE938", "title": "", "deps": ["4E36CBF73B75D812"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_polished_darkstone x1"]}
+{"id": "6BA8F6F964689964", "title": "", "deps": ["36032C287CC77A74"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_crystal_block x1"]}
+{"id": "34ADDB9018231BCA", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_crystal_dust x1"]}
+{"id": "36032C287CC77A74", "title": "", "deps": ["34ADDB9018231BCA"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_crystal x1"]}
+{"id": "7A405050D14C4CBB", "title": "", "deps": ["535537D880A5C63B", "683BD9B4E6116735"], "dm": "ONE", "tasks": ["ITEM minecraft:blackstone x1"]}
+{"id": "323651421CB88312", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:yellow_paint_ball x1"]}
+{"id": "56B560D4CC6F13DD", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:lime_paint_ball x1"]}
+{"id": "721DB13270EF3201", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:green_paint_ball x1"]}
+{"id": "67AFC8E796A93DFD", "title": "", "deps": ["0D4844DE023FCFA4", "626F4A677E1EA22E", "193A1546BFF1F561"], "dm": "ONE", "tasks": ["ITEM ae2:cyan_lumen_paint_ball x1"]}
+{"id": "324002E5427D6953", "title": "", "deps": ["0D4844DE023FCFA4", "67AFC8E796A93DFD", "04E2655509E5EF93"], "dm": "ONE", "tasks": ["ITEM ae2:light_blue_lumen_paint_ball x1"]}
+{"id": "2365C37AA7F866C8", "title": "", "deps": ["0D4844DE023FCFA4", "324002E5427D6953", "1BD40A7D7A74C122"], "dm": "ONE", "tasks": ["ITEM ae2:blue_lumen_paint_ball x1"]}
+{"id": "187392F9F27D6ACB", "title": "", "deps": ["0D4844DE023FCFA4", "2365C37AA7F866C8", "17832E61F427897D"], "dm": "ONE", "tasks": ["ITEM ae2:purple_lumen_paint_ball x1"]}
+{"id": "1F0BED9674B0445A", "title": "", "deps": ["0D4844DE023FCFA4", "187392F9F27D6ACB", "22E9733FE276393E"], "dm": "ONE", "tasks": ["ITEM ae2:magenta_lumen_paint_ball x1"]}
+{"id": "7C38A9E38509C547", "title": "", "deps": ["0D4844DE023FCFA4", "2F6B55425D8D9FBB", "2D73733E084F24CB"], "dm": "ONE", "tasks": ["ITEM ae2:pink_lumen_paint_ball x1"]}
+{"id": "18C86D856767C8B8", "title": "", "deps": ["0D4844DE023FCFA4", "7C38A9E38509C547", "5DFDBE09D1867DEF"], "dm": "ONE", "tasks": ["ITEM ae2:red_lumen_paint_ball x1"]}
+{"id": "4BD4B9CC03466702", "title": "", "deps": ["0D4844DE023FCFA4", "18C86D856767C8B8", "026A027AC9B1F849"], "dm": "ONE", "tasks": ["ITEM ae2:orange_lumen_paint_ball x1"]}
+{"id": "29C39D1955A121D2", "title": "", "deps": ["0D4844DE023FCFA4", "1F0BED9674B0445A", "2691B5A7A8B8D31D"], "dm": "ONE", "tasks": ["ITEM ae2:brown_lumen_paint_ball x1"]}
+{"id": "5BFA620B6424D8DF", "title": "", "deps": ["0D4844DE023FCFA4", "29C39D1955A121D2", "18E8A8CA7A55863E"], "dm": "ONE", "tasks": ["ITEM ae2:black_lumen_paint_ball x1"]}
+{"id": "743E440E6D6EA92B", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:gray_paint_ball x1"]}
+{"id": "029CDDBE80C888C8", "title": "", "deps": ["0D4844DE023FCFA4", "5119E810608CC419", "51488A1FA72C90DB"], "dm": "ONE", "tasks": ["ITEM ae2:light_gray_lumen_paint_ball x1"]}
+{"id": "5119E810608CC419", "title": "", "deps": ["0D4844DE023FCFA4", "308000803FE0ADBC"], "dm": "ONE", "tasks": ["ITEM ae2:white_lumen_paint_ball x1"]}
+{"id": "0986F2B411CBEB5D", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:white_paint_ball x1"]}
+{"id": "2F6B55425D8D9FBB", "title": "", "deps": ["0D4844DE023FCFA4", "029CDDBE80C888C8", "5FEC6B3578700FDF"], "dm": "ONE", "tasks": ["ITEM ae2:gray_lumen_paint_ball x1"]}
+{"id": "6C74A90BEFD54FE7", "title": "", "deps": ["5BFA620B6424D8DF", "29C39D1955A121D2", "1F0BED9674B0445A", "029CDDBE80C888C8", "324002E5427D6953", "2365C37AA7F866C8", "03B75E1470F38700", "18C86D856767C8B8", "03DFA9BB90FE42E9", "7C38A9E38509C547", "626F4A677E1EA22E", "187392F9F27D6ACB", "67AFC8E796A93DFD", "4BD4B9CC03466702", "5119E810608CC419", "2F6B55425D8D9FBB"], "dm": "ONE", "tasks": ["ITEM create_dd:chromatic_waste_bucket x1"]}
+{"id": "03DFA9BB90FE42E9", "title": "", "deps": ["0D4844DE023FCFA4", "4BD4B9CC03466702", "7B99037BD9742056"], "dm": "ONE", "tasks": ["ITEM ae2:yellow_lumen_paint_ball x1"]}
+{"id": "03B75E1470F38700", "title": "", "deps": ["0D4844DE023FCFA4", "03DFA9BB90FE42E9", "054BAD01CB62F161"], "dm": "ONE", "tasks": ["ITEM ae2:lime_lumen_paint_ball x1"]}
+{"id": "626F4A677E1EA22E", "title": "", "deps": ["0D4844DE023FCFA4", "03B75E1470F38700", "7AF484C339CDBD8C"], "dm": "ONE", "tasks": ["ITEM ae2:green_lumen_paint_ball x1"]}
+{"id": "0D4844DE023FCFA4", "title": "", "deps": ["32CEB5F5DA7E08E5", "4A5C011878F7BB63", "3F0E651F191CD81F", "73D579268007A8C7", "137CC533B864B25F", "582E68291A96A9E7", "2A0B07555EC8D47E", "44A8B31CD719B906", "08277642FD16A56E"], "dm": "ONE", "tasks": ["ITEM kubejs:shimmer_bucket x1"]}
+{"id": "1A315558B8D1DE35", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:light_gray_paint_ball x1"]}
+{"id": "5C364B372D32CB11", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:pink_paint_ball x1"]}
+{"id": "36C1D65FBB93F373", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:red_paint_ball x1"]}
+{"id": "120811B4D25A3731", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:orange_paint_ball x1"]}
+{"id": "46DA22CAB8F73819", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:cyan_paint_ball x1"]}
+{"id": "7B319516D507F5CC", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:light_blue_paint_ball x1"]}
+{"id": "3970F1FF1594DB8F", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:blue_paint_ball x1"]}
+{"id": "09128B2426041E1E", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:purple_paint_ball x1"]}
+{"id": "62DCDDA1F4471798", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:magenta_paint_ball x1"]}
+{"id": "04E36595A8ECEEBA", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:brown_paint_ball x1"]}
+{"id": "743D5A200AA402B1", "title": "", "deps": ["2C03A8E703001FDA"], "dm": "ONE", "tasks": ["ITEM ae2:black_paint_ball x1"]}
+{"id": "582E68291A96A9E7", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM quark:red_corundum_cluster x1"]}
+{"id": "73D579268007A8C7", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM quark:orange_corundum_cluster x1"]}
+{"id": "3F0E651F191CD81F", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM quark:yellow_corundum_cluster x1"]}
+{"id": "2A0B07555EC8D47E", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM quark:green_corundum_cluster x1"]}
+{"id": "08277642FD16A56E", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM quark:blue_corundum_cluster x1"]}
+{"id": "44A8B31CD719B906", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM quark:indigo_corundum_cluster x1"]}
+{"id": "137CC533B864B25F", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM quark:violet_corundum_cluster x1"]}
+{"id": "32CEB5F5DA7E08E5", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM quark:white_corundum_cluster x1"]}
+{"id": "4A5C011878F7BB63", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM quark:black_corundum_cluster x1"]}
+{"id": "108EA49E8421CCC7", "title": "", "deps": ["05629E7F780A315D", "2DAF8F2EBB74DDE8", "03BCAD5BFB9DA32C", "12D05844B1E04C5A"], "dm": "ONE", "tasks": ["ITEM create_dd:calculation_mechanism x1"]}
+{"id": "05629E7F780A315D", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM createaddition:copper_spool x1"]}
+{"id": "64D7956A3E6681A5", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM tfmg:sulfur_dust x1"]}
+{"id": "41444693F75F309B", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM ae2:certus_quartz_dust x1"]}
+{"id": "0DECC9938E6EB5D4", "title": "", "deps": ["12B028C021E25ED0"], "dm": "ONE", "tasks": ["ITEM create_dd:overcharge_alloy_sheet x1"]}
+{"id": "56C3DE7F230ED103", "title": "", "deps": ["11E236BCD6DE38E5", "16952288925225D2", "3C0427C75D2CA7F2"], "dm": "ONE", "tasks": ["ITEM create_connected:control_chip x1"]}
+{"id": "12B028C021E25ED0", "title": "", "deps": ["78344EA2C9E89AD9"], "dm": "ONE", "tasks": ["ITEM create_dd:overcharge_alloy x1"]}
+{"id": "60FC4ADEFBA29C6D", "title": "", "deps": ["56C3DE7F230ED103", "0DECC9938E6EB5D4", "108EA49E8421CCC7", "66C6FAD9FBDE1094", "6EB84A16A8D76BE7", "38BD2C6227F76457"], "dm": "ONE", "tasks": ["ITEM create_dd:integrated_circuit x1"]}
+{"id": "03BCAD5BFB9DA32C", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM create_dd:tin_sheet x1"]}
+{"id": "11E236BCD6DE38E5", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM create:golden_sheet x1"]}
+{"id": "535537D880A5C63B", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM create_dd:caramel_bucket x1"]}
+{"id": "683BD9B4E6116735", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "4E36CBF73B75D812", "title": "", "deps": ["7A405050D14C4CBB"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:darkstone x1"]}
+{"id": "16952288925225D2", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM create:brass_nugget x1"]}
+{"id": "3C0427C75D2CA7F2", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM createaddition:electrum_nugget x1"]}
+{"id": "66C6FAD9FBDE1094", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM minecraft:glowstone_dust x1"]}
+{"id": "12D05844B1E04C5A", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM create_optical:optical_device x1"]}
+{"id": "6EB84A16A8D76BE7", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM tfmg:resistor_ x1"]}
+{"id": "38BD2C6227F76457", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM tfmg:capacitor_ x1"]}
+{"id": "308000803FE0ADBC", "title": "", "deps": ["0986F2B411CBEB5D"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_white x1"]}
+{"id": "51488A1FA72C90DB", "title": "", "deps": ["1A315558B8D1DE35"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_light_gray x1"]}
+{"id": "5FEC6B3578700FDF", "title": "", "deps": ["743E440E6D6EA92B"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_gray x1"]}
+{"id": "2D73733E084F24CB", "title": "", "deps": ["5C364B372D32CB11"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_pink x1"]}
+{"id": "5DFDBE09D1867DEF", "title": "", "deps": ["36C1D65FBB93F373"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_red x1"]}
+{"id": "026A027AC9B1F849", "title": "", "deps": ["120811B4D25A3731"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_orange x1"]}
+{"id": "7B99037BD9742056", "title": "", "deps": ["323651421CB88312"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_yellow x1"]}
+{"id": "054BAD01CB62F161", "title": "", "deps": ["56B560D4CC6F13DD"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_lime x1"]}
+{"id": "7AF484C339CDBD8C", "title": "", "deps": ["721DB13270EF3201"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_green x1"]}
+{"id": "193A1546BFF1F561", "title": "", "deps": ["46DA22CAB8F73819"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_cyan x1"]}
+{"id": "04E2655509E5EF93", "title": "", "deps": ["7B319516D507F5CC"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_light_blue x1"]}
+{"id": "1BD40A7D7A74C122", "title": "", "deps": ["3970F1FF1594DB8F"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_blue x1"]}
+{"id": "17832E61F427897D", "title": "", "deps": ["09128B2426041E1E"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_purple x1"]}
+{"id": "22E9733FE276393E", "title": "", "deps": ["62DCDDA1F4471798"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_magenta x1"]}
+{"id": "2691B5A7A8B8D31D", "title": "", "deps": ["04E36595A8ECEEBA"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_brown x1"]}
+{"id": "18E8A8CA7A55863E", "title": "", "deps": ["743D5A200AA402B1"], "dm": "ONE", "tasks": ["ITEM alexscaves:rock_candy_black x1"]}

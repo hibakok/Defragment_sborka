@@ -1,0 +1,58 @@
+{"id": "4CCA16E6E4070E37", "title": "", "deps": ["78425DC3875B9854"], "dm": "ONE", "tasks": ["ITEM ae2:sky_stone_block x1", "ITEM ae2:calculation_processor_press x1", "ITEM ae2:engineering_processor_press x1", "ITEM ae2:logic_processor_press x1", "ITEM ae2:silicon_press x1"]}
+{"id": "5B24C4560809333B", "title": "", "deps": ["5F99D59B31FF34D4", "4CCA16E6E4070E37"], "dm": "ONE", "tasks": ["ITEM ae2:printed_silicon x1"]}
+{"id": "5F99D59B31FF34D4", "title": "", "deps": ["108EA49E8421CCC7", "603AE60A02A3F9EB"], "dm": "ONE", "tasks": ["ITEM ae2:silicon x1"]}
+{"id": "76CB692248EAF336", "title": "", "deps": ["4919AEB1300D63B7"], "dm": "ONE", "tasks": ["ITEM ae2:printed_calculation_processor x1", "ITEM ae2:printed_engineering_processor x1", "ITEM ae2:printed_logic_processor x1"]}
+{"id": "4919AEB1300D63B7", "title": "", "deps": ["108EA49E8421CCC7"], "dm": "ONE", "tasks": ["ITEM create_dd:integrated_circuit x1"]}
+{"id": "3026C7FFA3B230FA", "title": "", "deps": ["5B24C4560809333B", "76CB692248EAF336"], "dm": "ONE", "tasks": ["ITEM ae2:logic_processor x1", "ITEM ae2:calculation_processor x1", "ITEM ae2:engineering_processor x1"]}
+{"id": "78425DC3875B9854", "title": "Virtual Storage System", "deps": ["108EA49E8421CCC7"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "5D3EA637C19E26F4", "title": "", "deps": ["78425DC3875B9854"], "dm": "ONE", "tasks": ["ITEM any#tag:ae2:quartz_wrench x1"]}
+{"id": "79A7417475A593C6", "title": "", "deps": ["3026C7FFA3B230FA"], "dm": "ONE", "tasks": ["ITEM ae2:energy_acceptor x1", "ITEM createappliedkinetics:energy_provider x1"]}
+{"id": "25F281C3D8849819", "title": "", "deps": ["79A7417475A593C6"], "dm": "ONE", "tasks": ["ITEM ae2:energy_cell x1", "ITEM ae2:dense_energy_cell x1"]}
+{"id": "738C5CDEA3283099", "title": "", "deps": ["25F281C3D8849819"], "dm": "ONE", "tasks": ["ITEM ae2:energy_card x1"]}
+{"id": "3B06C0FF8E28AC91", "title": "Quantum Network Bridge", "deps": ["3026C7FFA3B230FA"], "dm": "ONE", "tasks": ["ITEM ae2:quantum_ring x16", "ITEM ae2:quantum_link x2", "ITEM ae2:quantum_entangled_singularity x2"]}
+{"id": "3F83272A3D958DAB", "title": "Fluix Crystal", "deps": ["3026C7FFA3B230FA"], "dm": "ONE", "tasks": ["ITEM ae2:fluix_dust x1", "ITEM ae2:fluix_crystal x1"]}
+{"id": "52E7496E0A9118F6", "title": "Basic Cabling", "deps": ["3F83272A3D958DAB"], "dm": "ONE", "tasks": ["ITEM any#tag:ae2:glass_cable x1", "ITEM any#tag:ae2:covered_cable x1", "ITEM any#tag:ae2:covered_dense_cable x1"]}
+{"id": "3D2DDC65DED45F4A", "title": "", "deps": ["52E7496E0A9118F6"], "dm": "ONE", "tasks": ["ITEM ae2:controller x1"]}
+{"id": "6F8A1655E91E7E89", "title": "Cable Anchor", "deps": ["52E7496E0A9118F6"], "dm": "ONE", "tasks": ["ITEM any#tag:ae2:knife x1", "ITEM ae2:cable_anchor x1", "ITEM ae2:name_press x1"]}
+{"id": "5BCF209E014D37E6", "title": "Advanced Cabling", "deps": ["52E7496E0A9118F6"], "dm": "ONE", "tasks": ["ITEM any#tag:ae2:smart_cable x1", "ITEM any#tag:ae2:smart_dense_cable x1"]}
+{"id": "7A47716BA89E7B06", "title": "Color Applicator", "deps": ["52E7496E0A9118F6"], "dm": "ONE", "tasks": ["ITEM ae2:color_applicator x1"]}
+{"id": "171DB69D600EBD90", "title": "The Storage", "deps": ["3D2DDC65DED45F4A"], "dm": "ONE", "tasks": ["ITEM ae2:chest x1", "ITEM ae2:drive x1"]}
+{"id": "580F889F027A87FE", "title": "", "deps": ["171DB69D600EBD90"], "dm": "ONE", "tasks": ["ITEM ae2:io_port x1"]}
+{"id": "4256AD377F068FF4", "title": "", "deps": ["171DB69D600EBD90"], "dm": "ONE", "tasks": ["ITEM ae2:cell_workbench x1"]}
+{"id": "3D470D57CC2E7A9E", "title": "", "deps": ["4256AD377F068FF4"], "dm": "ONE", "tasks": ["ITEM ae2:void_card x1"]}
+{"id": "61742FBBD1E5D42F", "title": "", "deps": ["4256AD377F068FF4"], "dm": "ONE", "tasks": ["ITEM ae2:equal_distribution_card x1"]}
+{"id": "130A80D8B3E4EA98", "title": "Auto-Crafting", "deps": ["3026C7FFA3B230FA"], "dm": "ONE", "tasks": ["ITEM any#tag:ae2:pattern_provider x1", "ITEM ae2:pattern_access_terminal x1"]}
+{"id": "2F40B3F9E34F9B1F", "title": "Patterns", "deps": ["130A80D8B3E4EA98"], "dm": "ONE", "tasks": ["ITEM ae2:pattern_encoding_terminal x1", "ITEM ae2:blank_pattern x1"]}
+{"id": "2506598B0A22BE75", "title": "", "deps": ["2F40B3F9E34F9B1F"], "dm": "ONE", "tasks": ["ITEM ae2:molecular_assembler x1"]}
+{"id": "32728BD9BD6384F3", "title": "", "deps": ["2506598B0A22BE75"], "dm": "ONE", "tasks": ["ITEM ae2:speed_card x1"]}
+{"id": "4BEC405C5EC58218", "title": "", "deps": ["130A80D8B3E4EA98"], "dm": "ONE", "tasks": ["ITEM ae2:level_emitter x1"]}
+{"id": "16BF82CCB4624E9C", "title": "Redstone-Controlled ME", "deps": ["4BEC405C5EC58218"], "dm": "ONE", "tasks": ["ITEM ae2:redstone_card x1", "ITEM ae2:toggle_bus x1"]}
+{"id": "2393A0DC1A59CDEC", "title": "", "deps": ["16BF82CCB4624E9C"], "dm": "ONE", "tasks": ["ITEM ae2:crafting_card x1"]}
+{"id": "06252C87B61A19F3", "title": "", "deps": ["130A80D8B3E4EA98"], "dm": "ONE", "tasks": ["ITEM itemfilters:id_regex x1"]}
+{"id": "15B4189EFAD4B6E2", "title": "", "deps": ["06252C87B61A19F3"], "dm": "ONE", "tasks": ["ITEM itemfilters:id_regex x1"]}
+{"id": "753831874D7C3BC8", "title": "", "deps": ["15B4189EFAD4B6E2"], "dm": "ONE", "tasks": ["ITEM itemfilters:id_regex x1"]}
+{"id": "35029D28522C7A28", "title": "Creating your first Storage Cell", "deps": ["171DB69D600EBD90"], "dm": "ONE", "tasks": ["ITEM ae2:cell_component_1k x1"]}
+{"id": "607E3A4AEEA46A98", "title": "Item Storage", "deps": ["35029D28522C7A28"], "dm": "ONE", "tasks": ["ITEM ae2:item_storage_cell_1k x1"]}
+{"id": "3E9FA4241DD2A49F", "title": "Fluid Storage", "deps": ["35029D28522C7A28"], "dm": "ONE", "tasks": ["ITEM itemfilters:id_regex x1"]}
+{"id": "2C7EE6C411E3CF59", "title": "", "deps": ["35029D28522C7A28"], "dm": "ONE", "tasks": ["ITEM itemfilters:id_regex x1"]}
+{"id": "630BDF564F7516D7", "title": "", "deps": ["3026C7FFA3B230FA"], "dm": "ONE", "tasks": ["ITEM ae2:wireless_access_point x1", "ITEM ae2:wireless_booster x1"]}
+{"id": "5A27BA1E5C692EB1", "title": "", "deps": ["630BDF564F7516D7"], "dm": "ONE", "tasks": ["ITEM ae2:wireless_terminal x1", "ITEM ae2:wireless_crafting_terminal x1"]}
+{"id": "64A2A85357384A51", "title": "Spatial IO", "deps": ["3026C7FFA3B230FA"], "dm": "ONE", "tasks": ["ITEM ae2:spatial_io_port x1"]}
+{"id": "5D03D736B9E76E16", "title": "Spatial Pylon", "deps": ["64A2A85357384A51"], "dm": "ONE", "tasks": ["ITEM ae2:spatial_pylon x1"]}
+{"id": "5236164BE64893D2", "title": "", "deps": ["5D03D736B9E76E16"], "dm": "ONE", "tasks": ["ITEM itemfilters:id_regex x1"]}
+{"id": "72426A0FB41CD542", "title": "", "deps": ["5D03D736B9E76E16"], "dm": "ONE", "tasks": ["ITEM ae2:spatial_anchor x1"]}
+{"id": "109FBFA37FF99341", "title": "The IO", "deps": ["3026C7FFA3B230FA"], "dm": "ONE", "tasks": ["ITEM any#tag:ae2:interface x1"]}
+{"id": "089899282C7F87E4", "title": "Forgot to Mention", "deps": ["109FBFA37FF99341"], "dm": "ONE", "tasks": ["ITEM ae2:quartz_fiber x1"]}
+{"id": "334AF33B87A48816", "title": "P2P Tunnels", "deps": ["109FBFA37FF99341"], "dm": "ONE", "tasks": ["ITEM ae2:me_p2p_tunnel x1"]}
+{"id": "4B3E500121857046", "title": "", "deps": ["334AF33B87A48816"], "dm": "ONE", "tasks": ["ITEM ae2:memory_card x1"]}
+{"id": "43E5907E27844D18", "title": "The... Weapons?", "deps": ["3026C7FFA3B230FA"], "dm": "ONE", "tasks": ["ITEM ae2:charged_staff x1", "ITEM ae2:entropy_manipulator x1", "ITEM ae2:matter_cannon x1"]}
+{"id": "725685829EF53BA4", "title": "", "deps": ["109FBFA37FF99341"], "dm": "ONE", "tasks": ["ITEM ae2:export_bus x1"]}
+{"id": "6FBCDEA419DB1D37", "title": "", "deps": ["725685829EF53BA4"], "dm": "ONE", "tasks": ["ITEM ae2:formation_plane x1"]}
+{"id": "323963AAF0375942", "title": "", "deps": ["109FBFA37FF99341"], "dm": "ONE", "tasks": ["ITEM ae2:storage_bus x1"]}
+{"id": "4ACC788E6E79B711", "title": "", "deps": ["323963AAF0375942"], "dm": "ONE", "tasks": ["ITEM ae2:capacity_card x1"]}
+{"id": "4EA88BEBCCF09C54", "title": "", "deps": ["323963AAF0375942"], "dm": "ONE", "tasks": ["ITEM ae2:fuzzy_card x1", "ITEM ae2:inverter_card x1"]}
+{"id": "35FDE052B50EFAAF", "title": "", "deps": ["109FBFA37FF99341"], "dm": "ONE", "tasks": ["ITEM ae2:import_bus x1"]}
+{"id": "3D4ED245E498E765", "title": "", "deps": ["35FDE052B50EFAAF"], "dm": "ONE", "tasks": ["ITEM ae2:annihilation_plane x1"]}
+{"id": "603AE60A02A3F9EB", "title": "", "deps": ["1BA814DF86A91263", "391126B065758DCB"], "dm": "ONE", "tasks": ["ITEM kubejs:siliceous_compound x1"]}
+{"id": "1BA814DF86A91263", "title": "", "deps": ["108EA49E8421CCC7"], "dm": "ONE", "tasks": ["ITEM minecraft:clay_ball x1"]}
+{"id": "391126B065758DCB", "title": "", "deps": ["108EA49E8421CCC7"], "dm": "ONE", "tasks": ["ITEM minecraft:sand x1"]}

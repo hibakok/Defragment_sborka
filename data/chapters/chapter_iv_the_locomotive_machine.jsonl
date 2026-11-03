@@ -1,0 +1,34 @@
+{"id": "31055C6D28A45113", "title": "", "deps": ["46C6D675E116C997"], "dm": "ONE", "tasks": ["ITEM create:sturdy_sheet x1"]}
+{"id": "46C6D675E116C997", "title": "", "deps": ["174567332B8DE8C1"], "dm": "ONE", "tasks": ["ITEM create:powdered_obsidian x1"]}
+{"id": "174567332B8DE8C1", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM minecraft:obsidian x1"]}
+{"id": "1325CB313B08AB70", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM minecraft:water_bucket x1"]}
+{"id": "784EF4A65242E3FD", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM minecraft:gravel x1"]}
+{"id": "5C00CCFC83CCE7A4", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM minecraft:sand x1"]}
+{"id": "4B91CC0919FE9219", "title": "", "deps": ["2B1038EE6D366111", "4B78BB8B294461A9"], "dm": "ONE", "tasks": ["ITEM tfmg:cement x1"]}
+{"id": "2B1038EE6D366111", "title": "", "deps": ["08B00F4FFF4BA13F"], "dm": "ONE", "tasks": ["ITEM tfmg:limesand x1"]}
+{"id": "4B78BB8B294461A9", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM minecraft:clay_ball x1"]}
+{"id": "4D774B40DB2BEA38", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "08B00F4FFF4BA13F", "title": "", "deps": ["4D774B40DB2BEA38", "42CFF547BDAB44B1"], "dm": "ONE", "tasks": ["ITEM create:limestone x1"]}
+{"id": "07EE6AFA3FE693E1", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM minecraft:slime_ball x1"]}
+{"id": "1360D8CD2949E41B", "title": "", "deps": ["6E62A3B6C3E0EF8B"], "dm": "ONE", "tasks": ["ITEM hostilenetworks:loot_fabricator x1"]}
+{"id": "6E62A3B6C3E0EF8B", "title": "", "deps": ["6B0D61030092824D", "58DD96B724C875FE", "0AF71B3EB3531CAC", "5D27AE49D1AB4C11"], "dm": "ONE", "tasks": ["ITEM hostilenetworks:sim_chamber x1"]}
+{"id": "6B0D61030092824D", "title": "", "deps": ["49A0E7E6B5C3DB65"], "dm": "ONE", "tasks": ["ITEM hostilenetworks:blank_data_model x1"]}
+{"id": "143E325CFBC9FAC9", "title": "", "deps": ["5E60FF6098CB030B", "3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM kubejs:obsidian_machine x1"]}
+{"id": "3DFF1B74E8AADB57", "title": "", "deps": ["2EF91E1C99625A46", "07EE6AFA3FE693E1", "31055C6D28A45113"], "dm": "ONE", "tasks": ["ITEM kubejs:locomotive_mechanism x1"]}
+{"id": "2EF91E1C99625A46", "title": "", "deps": ["53A0772D1388314C"], "dm": "ONE", "tasks": ["ITEM alexscaves:metal_rebar x1"]}
+{"id": "53A0772D1388314C", "title": "", "deps": ["4D4534E5FEBE0716"], "dm": "ONE", "tasks": ["ITEM alexscaves:scrap_metal x1"]}
+{"id": "4D4534E5FEBE0716", "title": "", "deps": ["6E509C44D3A6E49E"], "dm": "ONE", "tasks": ["ITEM alexscaves:metal_swarf x1"]}
+{"id": "6E509C44D3A6E49E", "title": "", "deps": ["1360D8CD2949E41B"], "dm": "ONE", "tasks": ["ITEM alexscaves:ferrouslime_ball x1"]}
+{"id": "42CFF547BDAB44B1", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM minecraft:honey_bottle x1"]}
+{"id": "0FA7629CCE64385C", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM tfmg:formwork_block x1"]}
+{"id": "49A0E7E6B5C3DB65", "title": "", "deps": ["0FA7629CCE64385C", "5C00CCFC83CCE7A4", "784EF4A65242E3FD", "1325CB313B08AB70", "4B91CC0919FE9219"], "dm": "ONE", "tasks": ["ITEM tfmg:concrete x1"]}
+{"id": "58DD96B724C875FE", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM hostilenetworks:prediction_matrix x1"]}
+{"id": "0AF71B3EB3531CAC", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM hostilenetworks:deep_learner x1"]}
+{"id": "33274B5D531EF9B7", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM travelanchors:travel_staff x1", "ITEM travelanchors:travel_anchor x1"]}
+{"id": "3BC42BD7940D32EC", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM createaddition:alternator x1"]}
+{"id": "7D2CDB926DDBA8C4", "title": "", "deps": ["3BC42BD7940D32EC"], "dm": "ONE", "tasks": ["ITEM createaddition:connector x1"]}
+{"id": "5D27AE49D1AB4C11", "title": "", "deps": ["7D2CDB926DDBA8C4"], "dm": "ONE", "tasks": ["ITEM createaddition:copper_spool x1"]}
+{"id": "521189A0069D8262", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM toms_storage:ts.adv_wireless_terminal x1"]}
+{"id": "795A1C6CA55A1261", "title": "Exp Farm", "deps": ["1360D8CD2949E41B"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "36364789C9C3EA4C", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM pipez:energy_pipe x1"]}
+{"id": "44B4B7E89C0FAB9C", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM pipez:improved_upgrade x1"]}

@@ -1,0 +1,27 @@
+{"id": "1E4B9F8A3401B4BF", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:black_eye x1"]}
+{"id": "37F39A63C0C2934F", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:cold_eye x1"]}
+{"id": "02DE3FA28CBAE857", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:corrupted_eye x1"]}
+{"id": "3BC1492D43F6B120", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:lost_eye x1"]}
+{"id": "1F4AE081014800B4", "title": "Nether Eye", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:nether_eye x1"]}
+{"id": "22E0846B96BBD5DD", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:old_eye x1"]}
+{"id": "50B4EEBAF5CF3122", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:rogue_eye x1"]}
+{"id": "5EC521DA8FF06758", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:cursed_eye x1"]}
+{"id": "0C61389C18B4A2B4", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:evil_eye x1"]}
+{"id": "763F1FB0C55F702F", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:guardian_eye x1"]}
+{"id": "0A6EBBE5CD80EF14", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:magical_eye x1"]}
+{"id": "33EF47DF16D412B5", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:wither_eye x1"]}
+{"id": "343AB719F81DFC63", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:witch_eye x1"]}
+{"id": "401C9B25D2B7B49F", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:undead_eye x1"]}
+{"id": "63A35C0C01372EB6", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:exotic_eye x1"]}
+{"id": "1C89D285F0501472", "title": "", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["ITEM endrem:cryptic_eye x1"]}
+{"id": "5B9C1D10A217657D", "title": "&eAbout the end&f", "deps": ["123D70CA4959F172"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "09C33BB3342632B4", "title": "Enter &ethe end&f", "deps": ["5B9C1D10A217657D"], "dm": "ONE", "tasks": ["DIM minecraft:the_end"]}
+{"id": "4B630597BCFA97AC", "title": "", "deps": ["401AFF46C83AAEB8"], "dm": "ONE", "tasks": ["KILL minecraft:ender_dragon x1"]}
+{"id": "401AFF46C83AAEB8", "title": "You Need a Mint!", "deps": ["09C33BB3342632B4"], "dm": "ONE", "tasks": ["ADV minecraft:end/dragon_breath"]}
+{"id": "59B3E2C267D8B567", "title": "Obtain a Dragon Egg", "deps": ["4B630597BCFA97AC"], "dm": "ONE", "tasks": ["ADV minecraft:end/dragon_egg"]}
+{"id": "597F01E378266CC3", "title": "", "deps": ["4B630597BCFA97AC"], "dm": "ONE", "tasks": ["ITEM minecraft:elytra x1"]}
+{"id": "36883441EF93976F", "title": "", "deps": ["597F01E378266CC3"], "dm": "ONE", "tasks": ["ITEM alexsmobs:tarantula_hawk_elytra x1"]}
+{"id": "2699917C42D48985", "title": "", "deps": ["4B630597BCFA97AC"], "dm": "ONE", "tasks": ["ITEM alexsmobs:dimensional_carver x1"]}
+{"id": "71482AB41A355486", "title": "Chase Me!", "deps": ["4B630597BCFA97AC"], "dm": "ONE", "tasks": ["ADV quark:use_viaduct"]}
+{"id": "112F3359CF96132C", "title": "", "deps": ["597F01E378266CC3"], "dm": "ONE", "tasks": ["ITEM deeperdarker:soul_elytra x1"]}
+{"id": "74AD39A0B9CB46CF", "title": "", "deps": ["597F01E378266CC3"], "dm": "ONE", "tasks": ["ITEM cataclysm:ignitium_elytra_chestplate x1"]}

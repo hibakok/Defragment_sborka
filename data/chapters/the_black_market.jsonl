@@ -1,0 +1,88 @@
+{"id": "71501C6B437B6DAE", "title": "Infinity Wand", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM create_things_and_misc:vibration_mechanism x3000", "ITEM create_dd:sealed_mechanism x3000", "FLUID ad_astra:cryo_fuel x100000"]}
+{"id": "2146B907572F18E7", "title": "Ring of hungerless", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM farmersdelight:roast_chicken_block x500", "ITEM farmersdelight:shepherds_pie_block x500", "ITEM create_confectionery:full_chocolate_bar x500", "ITEM create_confectionery:full_black_chocolate_bar x500", "ITEM create_confectionery:full_white_chocolate_bar x500", "ITEM create_confectionery:full_ruby_chocolate_bar x500", "ITEM farmersdelight:hamburger x500", "ITEM farmersdelight:barbecue_stick x500", "ITEM farmersdelight:sweet_berry_cheesecake x500", "ITEM farmersdelight:dumplings x500", "ITEM farmersdelight:dog_food x500", "ITEM createaddition:chocolate_cake x500", "ITEM ars_nouveau:source_berry_pie x500", "ITEM alexscaves:spelunkie x500", "ITEM farmersdelight:bacon_sandwich x500", "ITEM farmersdelight:rice_roll_medley_block x500"]}
+{"id": "27AE17F884999DA5", "title": "Mytical Forest Ravager", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM twilightforest:aurora_block x1000", "ITEM alexscaves:acidic_radrock x1000"]}
+{"id": "318AA1462F299CA6", "title": "Deforesting saw", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM create_sa:steam_engine x200", "ITEM farmersdelight:chocolate_pie x200"]}
+{"id": "0B4CF106789A624F", "title": "Shadowsting", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM blue_skies:scalefruit x200", "ITEM create:sweet_roll x200", "ITEM farmersdelight:fruit_salad x200"]}
+{"id": "7FD31970F7A3ABC2", "title": "&3Lichbane", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM minecraft:enchanted_golden_apple x2000", "ITEM twilightforest:fiery_ingot x2000", "ITEM irons_spellbooks:arcane_ingot x2000", "ITEM ad_astra:desh_ingot x5000", "ITEM dustrial_decor:industrial_iron_billet x2000", "ITEM create_dd:lapis_alloy x2000", "ITEM blue_skies:horizonite_ingot x2000"]}
+{"id": "59E3B38C6886F22E", "title": "Sword on a stick", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM minecraft:stick x300", "ITEM minecraft:apple x100"]}
+{"id": "33DB2CA9D5E90864", "title": "Brambletorn", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM create_confectionery:caramelized_marshmellow_on_a_stick x800", "ITEM create_dd:strawberry_milkshake x300", "ITEM create_dd:glowberry_milkshake x300"]}
+{"id": "3DB0C71C531082E7", "title": "Soulstealer", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM blue_skies:winter_leaves x200", "ITEM create:honeyed_apple x200", "ITEM minecraft:cookie x500"]}
+{"id": "1355B7A11A3AF9CD", "title": "Red double zinc saber", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM blue_skies:scalefruit x500", "ITEM farmersdelight:stuffed_pumpkin_block x500", "ITEM create_dd:bronze_casing x200"]}
+{"id": "4BA2A3CE6159F396", "title": "Yellow copper saber", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM twilightforest:torchberries x500", "ITEM blue_skies:comet_berry_pie x200", "ITEM farmersdelight:cabbage_crate x200"]}
+{"id": "71016DF306B1C628", "title": "Blue brass saber", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM supplementaries:pancake x500", "ITEM minecraft:packed_ice x400", "ITEM ars_nouveau:water_essence x200"]}
+{"id": "1FB255BADD1BE35E", "title": "Infinity Range Booster", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM ae2:wireless_booster x256", "ITEM ad_astra:desh_plate x3000"]}
+{"id": "4238FA580B3DA9D9", "title": "Dimension card", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM ae2:logic_processor x256", "ITEM ae2:calculation_processor x256", "ITEM ae2:engineering_processor x256", "ITEM ad_astra:ostrum_plate x3000"]}
+{"id": "49F5334F500A9615", "title": "x3 Warp dust", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM minecraft:emerald x64"]}
+{"id": "65EA2300DCD3E129", "title": "Red Zinc Saber", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM blue_skies:crescent_fruit x300", "ITEM farmersdelight:ratatouille x300", "ITEM ars_nouveau:fire_essence x350"]}
+{"id": "4C5F0F864A1801D1", "title": "Black Brass Saber", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM blue_skies:black_brewberry x500", "ITEM farmersdelight:melon_popsicle x500", "ITEM minecraft:dried_kelp_block x500", "ITEM blue_skies:solnut x500", "ITEM minecraft:gilded_blackstone x500"]}
+{"id": "25EC727AA4CDE24C", "title": "Lime Brass Saber", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM create:sweet_roll x300", "ITEM create_things_and_misc:slime_cake x300", "ITEM ars_nouveau:earth_essence x200"]}
+{"id": "35026166839C8E4C", "title": "&e&l Creative flight", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM kubejs:engineer_badge x1", "ITEM kubejs:slayer_badge x1", "ITEM kubejs:relic_badge x1", "ITEM kubejs:ascendant_badge x1", "ITEM kubejs:blade_badge x1"]}
+{"id": "0FB8722642860DFF", "title": "Ribboncleaver", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM create_confectionery:ruby_chocolate_candy_3 x200", "ITEM create_confectionery:candy_cane_block x800", "ITEM supplementaries:candy x800"]}
+{"id": "4EEDE7245553A616", "title": "&6Talent Tree Reset", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM minecraft:diamond x15"]}
+{"id": "7FC8BC831F13549F", "title": "Explorer Compass", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:sun x2"]}
+{"id": "77B3ACDE27EE769F", "title": "&eI have a slight addiction problem...&r", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x1"]}
+{"id": "139CC6647BFD6E2A", "title": "Waystone", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x10"]}
+{"id": "2B9B0F825B99A2DB", "title": "Rotation Mechanism", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:spur x20"]}
+{"id": "6414E9238DCDE275", "title": "Iron Ingot", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:spur x28"]}
+{"id": "1A5395915A7B2FCE", "title": "Copper Ingot", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:spur x28"]}
+{"id": "6EF98F7CF9F54F76", "title": "Zinc Ingot", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:spur x48"]}
+{"id": "24FEA3646AD4F483", "title": "Redstone Dust", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:spur x38"]}
+{"id": "7056902C17FED0D5", "title": "Mechanical Belt", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:spur x15"]}
+{"id": "155DE1212B25CF2C", "title": "The Wayward compass", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x8"]}
+{"id": "437795B131AF223B", "title": "Bell of secrets", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x6"]}
+{"id": "7020BE898C53E474", "title": "Filter Destination Tool", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x1"]}
+{"id": "171CB5A1A635913D", "title": "Elementarium", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x6"]}
+{"id": "2FDDCF94BCDC0EA1", "title": "Vein Mining", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x15"]}
+{"id": "14E52F88F5AAC10C", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM quark:myalite x10000"]}
+{"id": "7339ED3D12600BDF", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM minecraft:tuff x15000"]}
+{"id": "56C3AF461DA8C053", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM blue_skies:crescent_fruit x5000"]}
+{"id": "73828F0D2C7084A7", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM farmersdelight:rice_roll_medley_block x2000"]}
+{"id": "5C012EC7707187FA", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM farmersdelight:organic_compost x10000"]}
+{"id": "1EC0BCBFA72BA522", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM farmersdelight:cabbage_rolls x5000"]}
+{"id": "26C6BBDCE6D047F4", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM alexscaves:spelunkie x5000"]}
+{"id": "4EAA5847E8566913", "title": "Ring of No Affinity", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x5"]}
+{"id": "41CF721D51B7C637", "title": "Eye of Fire Dragon", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x3"]}
+{"id": "531663DC97A794D8", "title": "Eye of Ice Dragon", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x3"]}
+{"id": "1FF356C9C75FB0E1", "title": "Eye of Lightning Dragon", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x5"]}
+{"id": "61B36D5AB0327C54", "title": "Brimstone Nectar", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x5"]}
+{"id": "0E441CD20BAA260D", "title": "Everlasting upgrade", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:sun x3"]}
+{"id": "1A0BB70FFA6531C3", "title": "Blaze Powder", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM numismatics:cog x2"]}
+{"id": "0E0BF38BE954BE5D", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM create_confectionery:soothing_hot_chocolate x10000"]}
+{"id": "7293F2FC9F63DC6C", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM twilightforest:snowy_cloud x10000"]}
+{"id": "27C2901036362B31", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM create_confectionery:honey_candy x5000"]}
+{"id": "4D995A3D7DC968C7", "title": "&bThe Space Captain", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "1DF6A1218A7DFCCE", "title": "The Moon has Flowers", "deps": ["4D995A3D7DC968C7", "3A9628CDC0E8EF6C"], "dm": "ONE", "tasks": ["ITEM numismatics:spur x3"]}
+{"id": "3A9628CDC0E8EF6C", "title": "The Moon needs Flowers", "deps": ["4D995A3D7DC968C7"], "dm": "ONE", "tasks": ["ITEM minecraft:blue_orchid x64", "ITEM minecraft:poppy x64", "ITEM minecraft:dandelion x64", "ITEM minecraft:allium x64"]}
+{"id": "52D1546E8BE32864", "title": "The Moon has Dyes", "deps": ["4D995A3D7DC968C7", "6AC73514D2011D7B"], "dm": "ONE", "tasks": ["ITEM numismatics:spur x5"]}
+{"id": "6AC73514D2011D7B", "title": "The Moon needs Dyes", "deps": ["4D995A3D7DC968C7", "3A9628CDC0E8EF6C"], "dm": "ONE", "tasks": ["ITEM any#tag:forge:dyes x128"]}
+{"id": "4C736F9CBD79FBF9", "title": "Making the area safer", "deps": ["4D995A3D7DC968C7"], "dm": "ONE", "tasks": ["ITEM minecraft:rotten_flesh x50"]}
+{"id": "289E4D1EA08A0DA4", "title": "Making the area safer", "deps": ["4D995A3D7DC968C7"], "dm": "ONE", "tasks": ["ITEM minecraft:bone x50", "ITEM minecraft:arrow x50"]}
+{"id": "30F8BC8036F6A677", "title": "Making the area safer", "deps": ["4D995A3D7DC968C7"], "dm": "ONE", "tasks": ["ITEM minecraft:gunpowder x50"]}
+{"id": "44C618044D9CD150", "title": "Making the area safer", "deps": ["4D995A3D7DC968C7"], "dm": "ONE", "tasks": ["ITEM minecraft:spider_eye x50"]}
+{"id": "0CB39DCAF5213D8D", "title": "I need some Rotation Mechanisms", "deps": ["5E60FF6098CB030B", "4D995A3D7DC968C7"], "dm": "ONE", "tasks": ["ITEM kubejs:rotation_mechanism x512"]}
+{"id": "648925A3449BFAC0", "title": "", "deps": ["4D995A3D7DC968C7", "5E60FF6098CB030B"], "dm": "ONE", "tasks": ["ITEM any of [minecraft:oak_log, minecraft:spruce_log, minecraft:birch_log, minecraft:jungle_log, minecraft:acacia_log, minecraft:dark_oak_log, minecraft:mangrove_log, minecraft:cherry_log] x2048"]}
+{"id": "15D045633CCFA838", "title": "I didn't make a lot", "deps": ["4D995A3D7DC968C7", "5E60FF6098CB030B"], "dm": "ONE", "tasks": ["ITEM create:andesite_alloy x1024", "ITEM numismatics:spur x2"]}
+{"id": "3A225444C4D80A19", "title": "I gotta replace some wires", "deps": ["646C119DC7AC80AB", "4D995A3D7DC968C7"], "dm": "ONE", "tasks": ["ITEM minecraft:copper_ingot x2048"]}
+{"id": "6CD2714A783258EB", "title": "I need some Valve Mechanisms", "deps": ["4D995A3D7DC968C7", "646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM create_sa:hydraulic_engine x1024"]}
+{"id": "5746800F9D6733DD", "title": "Belts in my rocket engine broke", "deps": ["4D995A3D7DC968C7", "269E461376CE2456"], "dm": "ONE", "tasks": ["ITEM create:belt_connector x512"]}
+{"id": "7A0C5AEB3F74C6FA", "title": "I need some Precision Mechanisms", "deps": ["4D995A3D7DC968C7", "6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM create:precision_mechanism x1024"]}
+{"id": "45F55FFA31EF4F45", "title": "Brass is really useful", "deps": ["4D995A3D7DC968C7", "6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM create:brass_ingot x2048"]}
+{"id": "12E9757D234A8BCB", "title": "Electron Tubes?!", "deps": ["4D995A3D7DC968C7", "6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM create:electron_tube x512"]}
+{"id": "6CD75ACE12435ABE", "title": "What's a chef's favorite type of train?", "deps": ["4D995A3D7DC968C7", "3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM kubejs:locomotive_mechanism x1024"]}
+{"id": "53A42A9BF10D5DA1", "title": "You have steelen my heart", "deps": ["4D995A3D7DC968C7", "69D628450626D8D5"], "dm": "ONE", "tasks": ["ITEM tfmg:steel_mechanism x1024"]}
+{"id": "1B3D862DFB1D6F90", "title": "My rocket ran out of fuel", "deps": ["4D995A3D7DC968C7", "7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM ad_astra:fuel_bucket x1024", "ITEM numismatics:bevel x7"]}
+{"id": "0AD17899EE6FCE2B", "title": "I'll be honest", "deps": ["4D995A3D7DC968C7", "108EA49E8421CCC7"], "dm": "ONE", "tasks": ["ITEM create_dd:calculation_mechanism x2048"]}
+{"id": "3495326C9E6CF83D", "title": "I'm wanting that ring of the hungerless", "deps": ["4D995A3D7DC968C7", "1360D8CD2949E41B"], "dm": "ONE", "tasks": ["ITEM minecraft:bread x500", "ITEM minecraft:cooked_porkchop x500", "ITEM minecraft:cooked_beef x500", "ITEM minecraft:cooked_mutton x500", "ITEM minecraft:cooked_chicken x500", "ITEM minecraft:egg x250", "ITEM twilightforest:cooked_meef x500", "ITEM minecraft:carrot x500", "ITEM minecraft:baked_potato x500"]}
+{"id": "182B3B9A782D7791", "title": "My wife loves pets", "deps": ["4D995A3D7DC968C7"], "dm": "ONE", "tasks": ["ITEM minecraft:wheat_seeds x1250", "ITEM minecraft:bone x1250", "ITEM minecraft:cod x575"]}
+{"id": "0F38D254BC9861C3", "title": "", "deps": ["28D0EEACC8402E6C"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "049AD5BB302D67E6", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM create_dd:aethersite x10000"]}
+{"id": "5F6217EF615F4927", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM twilightforest:castle_brick x10000"]}
+{"id": "0EC54B3F484DD1DD", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM ars_nouveau:sky_block x10000"]}
+{"id": "08CE4754734E9ABD", "title": "", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM farmersdelight:glow_berry_custard x5000"]}
+{"id": "7985551D71CC03AF", "title": "Creative Motor", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM kubejs:create_chronicles x1"]}
+{"id": "6DA6AAE788DD1066", "title": "Creative Dragon Meal", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM kubejs:create_chronicles x1"]}
+{"id": "032B469F8B54FA2D", "title": "Creative Filling Tank", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM kubejs:create_chronicles x1"]}
+{"id": "050C55A3D0E6FBB0", "title": "Creative Blaze Cake", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM kubejs:create_chronicles x1"]}
+{"id": "3CC86FCE8996B1E9", "title": "Creative Generator", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM kubejs:create_chronicles x1"]}
+{"id": "728CF2D5A67597E3", "title": "Creative Spell Book", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM kubejs:create_chronicles x1"]}
+{"id": "29F5F66556427238", "title": "Infinite blocks", "deps": ["21FB9D855FA9D2DF"], "dm": "ONE", "tasks": ["ITEM kubejs:create_chronicles x1"]}

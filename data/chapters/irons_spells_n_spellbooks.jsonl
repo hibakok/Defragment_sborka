@@ -1,0 +1,68 @@
+{"id": "2B524B4891820A07", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:diamond_spell_book x1"]}
+{"id": "4799E956A4E85D39", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:gold_spell_book x1"]}
+{"id": "5C38AF82CEFB8015", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:rotten_spell_book x1"]}
+{"id": "0976D8BCAFC42400", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:dragonskin_spell_book x1"]}
+{"id": "704435187B4BD245", "title": "Obtain a &bBlank Runestone", "deps": ["3E6E9C53FBE836FB"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:blank_rune x1"]}
+{"id": "6073AB1A816E845F", "title": "Craft a &bFire Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:fire_rune x1", "ITEM minecraft:blaze_rod x8"]}
+{"id": "3D0F9F9B2B945E7A", "title": "Craft an &bIce Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:ice_rune x1", "ITEM irons_spellbooks:frozen_bone x8"]}
+{"id": "1C60254EAE960673", "title": "Craft a&b Lightning Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:lightning_rune x1", "ITEM irons_spellbooks:lightning_bottle x8"]}
+{"id": "43B06E3FFE5FE8EB", "title": "Craft an &bEnder Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:ender_rune x1", "ITEM minecraft:ender_pearl x8"]}
+{"id": "66630803C9EA0DEA", "title": "Craft a &bHoly Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:holy_rune x1", "ITEM irons_spellbooks:divine_pearl x8"]}
+{"id": "12506A200E56E7E9", "title": "Craft&b Blood Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:blood_rune x1", "ITEM irons_spellbooks:blood_vial x8"]}
+{"id": "2E4D0196673FCE5A", "title": "Craft an &bEvocation Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:evocation_rune x1", "ITEM minecraft:emerald x8"]}
+{"id": "30378E9E82826E3A", "title": "Craft an &bArcane Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:arcane_rune x1", "ITEM irons_spellbooks:arcane_essence x8"]}
+{"id": "52E5DCC3089180F3", "title": "Craft a &bRecovery Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:cooldown_rune x1", "ITEM minecraft:phantom_membrane x8"]}
+{"id": "17C649AD8C23444B", "title": "Craft a &bProtective Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:protection_rune x1", "ITEM minecraft:pufferfish x8"]}
+{"id": "5EC30214D9EE2A0C", "title": "Craft a&b Nature Rune", "deps": ["704435187B4BD245"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:nature_rune x1", "ITEM minecraft:poisonous_potato x8"]}
+{"id": "07E12DA2B3EC76D1", "title": "Craft a &bPyromancer Armor Set", "deps": ["6073AB1A816E845F"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:pyromancer_helmet x1", "ITEM irons_spellbooks:pyromancer_chestplate x1", "ITEM irons_spellbooks:pyromancer_leggings x1", "ITEM irons_spellbooks:pyromancer_boots x1"]}
+{"id": "4BC65D4005C17D9F", "title": "Craft an&b Electromancer Armor Set", "deps": ["1C60254EAE960673"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:electromancer_helmet x1", "ITEM irons_spellbooks:electromancer_chestplate x1", "ITEM irons_spellbooks:electromancer_leggings x1", "ITEM irons_spellbooks:electromancer_boots x1"]}
+{"id": "56F1F049F20B29A7", "title": "Craft an &bArchevoker Armor Set", "deps": ["2E4D0196673FCE5A"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:archevoker_helmet x1", "ITEM irons_spellbooks:archevoker_chestplate x1", "ITEM irons_spellbooks:archevoker_leggings x1", "ITEM irons_spellbooks:archevoker_boots x1"]}
+{"id": "1C267CC53FD04C88", "title": "Craft a &bCultist Armor Set", "deps": ["12506A200E56E7E9"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:cultist_helmet x1", "ITEM irons_spellbooks:cultist_chestplate x1", "ITEM irons_spellbooks:cultist_leggings x1", "ITEM irons_spellbooks:cultist_boots x1"]}
+{"id": "313B26E365615526", "title": "Craft a&b Cryomancer Armor Set", "deps": ["3D0F9F9B2B945E7A"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:cryomancer_helmet x1", "ITEM irons_spellbooks:cryomancer_chestplate x1", "ITEM irons_spellbooks:cryomancer_leggings x1", "ITEM irons_spellbooks:cryomancer_boots x1"]}
+{"id": "01219DEB95032DC7", "title": "Craft a&b Shadow-Walker Armor Set", "deps": ["43B06E3FFE5FE8EB"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:shadowwalker_helmet x1", "ITEM irons_spellbooks:shadowwalker_chestplate x1", "ITEM irons_spellbooks:shadowwalker_leggings x1", "ITEM irons_spellbooks:shadowwalker_boots x1"]}
+{"id": "3714D5CA2A2A69EC", "title": "Craft a&b Priest Armor Set", "deps": ["66630803C9EA0DEA"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:priest_helmet x1", "ITEM irons_spellbooks:priest_chestplate x1", "ITEM irons_spellbooks:priest_leggings x1", "ITEM irons_spellbooks:priest_boots x1"]}
+{"id": "5BF082062143531B", "title": "Craft a &bPlagued Armor Set", "deps": ["5EC30214D9EE2A0C"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:plagued_helmet x1", "ITEM irons_spellbooks:plagued_chestplate x1", "ITEM irons_spellbooks:plagued_leggings x1", "ITEM irons_spellbooks:plagued_boots x1"]}
+{"id": "25F8D49B732EF7C7", "title": "Craft a &bWayward Compass", "deps": ["357E9B952643A99D"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:wayward_compass x1"]}
+{"id": "391E94F1938AC865", "title": "Obtain a &bHeavy Chain", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:heavy_chain_necklace x1"]}
+{"id": "0051AD1BF14F9EC9", "title": "Obtain a &bConjurer's Talisman", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:conjurers_talisman x1"]}
+{"id": "203CEDAC6E1CAB91", "title": "Obtain a &bRing of Mana", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:mana_ring x1"]}
+{"id": "1AC0396518806B66", "title": "", "deps": ["175F9319E9507B83"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:upgrade_orb x1"]}
+{"id": "422A888D3F7C4665", "title": "Craft a&b Fire Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:fire_upgrade_orb x1"]}
+{"id": "7EF4A265C25EFF12", "title": "Craft an &bIce Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:ice_upgrade_orb x1"]}
+{"id": "4D308AD544372410", "title": "Craft a&b Lightning Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:lightning_upgrade_orb x1"]}
+{"id": "6C90039BB1651603", "title": "Craft a &bHoly Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:holy_upgrade_orb x1"]}
+{"id": "544A301047565927", "title": "Craft an &bEnder Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:ender_upgrade_orb x1"]}
+{"id": "14E9C287665C6AD4", "title": "Craft a&b Blood Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:blood_upgrade_orb x1"]}
+{"id": "0DDCE73E115DCE86", "title": "Craft an &bEvocation Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:evocation_upgrade_orb x1"]}
+{"id": "4070652999DD3249", "title": "Craft a&b Nature Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:nature_upgrade_orb x1"]}
+{"id": "20EAD0D76E8C2683", "title": "Craft a &bMana Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:mana_upgrade_orb x1"]}
+{"id": "5391C1240C677127", "title": "Craft a &bCooldown Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:cooldown_upgrade_orb x1"]}
+{"id": "75813E7A5E88D3B8", "title": "Craft a&b Protection Upgrade Orb", "deps": ["1AC0396518806B66"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:protection_upgrade_orb x1"]}
+{"id": "5D284522BCE51032", "title": "Obtain a &bSilver Ring", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:silver_ring x1"]}
+{"id": "50A74C04350493E0", "title": "Obtain a&b Ring of Recovery", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:cooldown_ring x1"]}
+{"id": "153FB224571B339A", "title": "Obtain a&b Ring of Expediency", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:cast_time_ring x1"]}
+{"id": "26FB758B3706B935", "title": "Obtain an &bEmerald Stoneplate Ring", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:emerald_stoneplate_ring x1"]}
+{"id": "5F7FBCB758D54981", "title": "Obtain a &bFrostward Ring", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:frostward_ring x1"]}
+{"id": "6423F47740F77C70", "title": "Obtain a &bPoisonward Ring", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:poisonward_ring x1"]}
+{"id": "0206507E91CB74CB", "title": "Craft a &bShriving Stone", "deps": ["74370B84A072E947"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:shriving_stone x1"]}
+{"id": "1BBEBBEF28E330ED", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:netherite_spell_book x1"]}
+{"id": "1EF59D0BD79D63EC", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:iron_spell_book x1"]}
+{"id": "216E2ED7D793F72A", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:evoker_spell_book x1"]}
+{"id": "594EDA0BA8DFB743", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:villager_spell_book x1"]}
+{"id": "03A09B606040AD2E", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:blaze_spell_book x1"]}
+{"id": "44B16905ABBF3A52", "title": "Obtain a &bFireward Ring", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:fireward_ring x1"]}
+{"id": "53C9B66BEC667ED0", "title": "&bIron's Spells 'n Spellbooks&r", "deps": ["04D09899362AFC7A"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "357E9B952643A99D", "title": "", "deps": ["594A8459AD944A3B"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:arcane_essence x1"]}
+{"id": "75709A3CC301B8A4", "title": "", "deps": ["357E9B952643A99D"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:common_ink x1"]}
+{"id": "594A8459AD944A3B", "title": "", "deps": ["6E8031A380EB37C8"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:copper_spell_book x1"]}
+{"id": "6E8031A380EB37C8", "title": "", "deps": ["53C9B66BEC667ED0"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:inscription_table x1"]}
+{"id": "3E6E9C53FBE836FB", "title": "", "deps": ["6E8031A380EB37C8", "75709A3CC301B8A4"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:scroll_forge x1"]}
+{"id": "74370B84A072E947", "title": "", "deps": ["3E6E9C53FBE836FB"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:arcane_anvil x1"]}
+{"id": "17F840E5ABDF3FD4", "title": "The Alchemist Cauldron", "deps": ["3E6E9C53FBE836FB"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:alchemist_cauldron x1"]}
+{"id": "6001FE0BF3EBB861", "title": "", "deps": ["75709A3CC301B8A4"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:uncommon_ink x1"]}
+{"id": "24B94BD1775216B5", "title": "", "deps": ["75709A3CC301B8A4"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:rare_ink x1"]}
+{"id": "20411FD8C1F8A1BA", "title": "", "deps": ["75709A3CC301B8A4"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:epic_ink x1"]}
+{"id": "425768C75AB098D8", "title": "", "deps": ["75709A3CC301B8A4"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:legendary_ink x1"]}
+{"id": "6AFEDCF1CF22972F", "title": "Craft a &bWandering Magician", "deps": ["357E9B952643A99D"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:wandering_magician_helmet x1", "ITEM irons_spellbooks:wandering_magician_chestplate x1", "ITEM irons_spellbooks:wandering_magician_leggings x1", "ITEM irons_spellbooks:wandering_magician_boots x1"]}
+{"id": "175F9319E9507B83", "title": "Netherwhite", "deps": ["74370B84A072E947"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:arcane_debris x1"]}
+{"id": "494585CCA8720FB2", "title": "Craft a &bNetherite Battle Mage", "deps": ["6AFEDCF1CF22972F"], "dm": "ONE", "tasks": ["ITEM irons_spellbooks:netherite_mage_helmet x1", "ITEM irons_spellbooks:netherite_mage_chestplate x1", "ITEM irons_spellbooks:netherite_mage_leggings x1", "ITEM irons_spellbooks:netherite_mage_boots x1"]}

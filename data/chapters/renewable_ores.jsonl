@@ -1,0 +1,77 @@
+{"id": "507B899E6467E189", "title": "", "deps": ["47B87C4A6EF446E9"], "dm": "ONE", "tasks": ["ITEM create:asurine x1"]}
+{"id": "5D9857A81A9DC029", "title": "", "deps": ["7951B19407FEE024"], "dm": "ONE", "tasks": ["ITEM create:crimsite x1"]}
+{"id": "6E596E1F969F1208", "title": "", "deps": ["4174526248A5CC4C"], "dm": "ONE", "tasks": ["ITEM create:veridium x1"]}
+{"id": "5F7A18E1DDDDD166", "title": "", "deps": ["47E3008A1C7F64CE"], "dm": "ONE", "tasks": ["ITEM create:scorchia x1"]}
+{"id": "24B79D5E984A2873", "title": "", "deps": ["1A68D9BF5A34686F"], "dm": "ONE", "tasks": ["ITEM create:ochrum x1"]}
+{"id": "397A95F9519D300D", "title": "", "deps": ["507B899E6467E189"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_zinc x1"]}
+{"id": "7399876A60EEAF40", "title": "", "deps": ["5D9857A81A9DC029"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_iron x1"]}
+{"id": "59FE9435C6E0AD38", "title": "", "deps": ["6E596E1F969F1208"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_copper x1"]}
+{"id": "14EFD8B3724D55E8", "title": "", "deps": ["5F7A18E1DDDDD166"], "dm": "ONE", "tasks": ["ITEM create_dd:coal_piece x1"]}
+{"id": "022345647C99BAF1", "title": "", "deps": ["5F7A18E1DDDDD166"], "dm": "ONE", "tasks": ["ITEM create:cinder_flour x1"]}
+{"id": "4BD4EBA30864D035", "title": "", "deps": ["24B79D5E984A2873"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_gold x1"]}
+{"id": "2FF8179BFB33AF6A", "title": "", "deps": ["018B793486C6832C", "5198C559E16FE5F8"], "dm": "ONE", "tasks": ["ITEM create_dd:asurine_cobble x1"]}
+{"id": "018B793486C6832C", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "5198C559E16FE5F8", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM create_dd:cream_bucket x1"]}
+{"id": "47B87C4A6EF446E9", "title": "", "deps": ["2FF8179BFB33AF6A"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "336C8972DC395FF8", "title": "", "deps": ["5F205D0B5CFB0EA0", "74C870915AD24CFA"], "dm": "ONE", "tasks": ["ITEM create_dd:crimsite_cobble x1"]}
+{"id": "7951B19407FEE024", "title": "", "deps": ["336C8972DC395FF8"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "74C870915AD24CFA", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM create_dd:strawberry_milkshake_bucket x1"]}
+{"id": "5F205D0B5CFB0EA0", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "46986B63A3F554C9", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "72B77FB74E6F9EE4", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM create_dd:caramel_milkshake_bucket x1"]}
+{"id": "31E945A1E3AB77D3", "title": "", "deps": ["46986B63A3F554C9", "72B77FB74E6F9EE4"], "dm": "ONE", "tasks": ["ITEM create_dd:veridium_cobble x1"]}
+{"id": "4174526248A5CC4C", "title": "", "deps": ["31E945A1E3AB77D3"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "3FDA4ADCC08B6CFB", "title": "", "deps": ["1D22D77A69AFEA20"], "dm": "ONE", "tasks": ["ITEM create_dd:potassic x1"]}
+{"id": "71D8883DC01C822C", "title": "", "deps": ["559F6C7AC2FFAF8B", "5D4101FAF388E3C6"], "dm": "ONE", "tasks": ["ITEM create_dd:ochrum_cobble x1"]}
+{"id": "1D22D77A69AFEA20", "title": "Dormant Molten Potassic", "deps": ["64E747B93D74A16E"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "5D4101FAF388E3C6", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "559F6C7AC2FFAF8B", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM create_dd:glowberry_milkshake_bucket x1"]}
+{"id": "1A68D9BF5A34686F", "title": "", "deps": ["71D8883DC01C822C"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "12054E6E7E054B04", "title": "", "deps": ["4BD4EBA30864D035"], "dm": "ONE", "tasks": ["ITEM minecraft:gold_ingot x1"]}
+{"id": "59C16E6BCAF98A94", "title": "", "deps": ["4BD4EBA30864D035"], "dm": "ONE", "tasks": ["ITEM minecraft:gold_nugget x1"]}
+{"id": "439399D867FFBC87", "title": "", "deps": ["7399876A60EEAF40"], "dm": "ONE", "tasks": ["ITEM minecraft:iron_ingot x1"]}
+{"id": "6AD883909EE03BA6", "title": "", "deps": ["5D9857A81A9DC029"], "dm": "ONE", "tasks": ["ITEM minecraft:iron_nugget x1"]}
+{"id": "72D74DA40D497C07", "title": "", "deps": ["7399876A60EEAF40"], "dm": "ONE", "tasks": ["ITEM minecraft:redstone x1"]}
+{"id": "57C615D858014A73", "title": "", "deps": ["7399876A60EEAF40"], "dm": "ONE", "tasks": ["ITEM tfmg:blasting_mixture x1"]}
+{"id": "23B2DAE2A251304B", "title": "", "deps": ["59FE9435C6E0AD38"], "dm": "ONE", "tasks": ["ITEM minecraft:copper_ingot x1"]}
+{"id": "1F377B6B64AE2EC7", "title": "", "deps": ["6E596E1F969F1208"], "dm": "ONE", "tasks": ["ITEM create:copper_nugget x1"]}
+{"id": "7CF45E77B745C349", "title": "", "deps": ["59FE9435C6E0AD38"], "dm": "ONE", "tasks": ["ITEM minecraft:clay_ball x1"]}
+{"id": "61CE0B3B33DA5D5E", "title": "", "deps": ["397A95F9519D300D"], "dm": "ONE", "tasks": ["ITEM create:zinc_nugget x1"]}
+{"id": "60146911132AB559", "title": "", "deps": ["397A95F9519D300D"], "dm": "ONE", "tasks": ["ITEM create:zinc_ingot x1"]}
+{"id": "6B5CD61BEC5DA6C4", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "22E56EC81482F489", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM create_dd:condense_milk_bucket x1"]}
+{"id": "745042FB41CB4628", "title": "", "deps": ["22E56EC81482F489", "6B5CD61BEC5DA6C4"], "dm": "ONE", "tasks": ["ITEM minecraft:calcite x1"]}
+{"id": "1311E2CC15060E74", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "0CB74126AF8CF746", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM create_dd:glowberry_bucket x1"]}
+{"id": "67D984605442ECC2", "title": "", "deps": ["0CB74126AF8CF746", "1311E2CC15060E74"], "dm": "ONE", "tasks": ["ITEM minecraft:dripstone_block x1"]}
+{"id": "592C387371A68936", "title": "", "deps": ["67D984605442ECC2"], "dm": "ONE", "tasks": ["ITEM minecraft:clay_ball x1"]}
+{"id": "22CB87048793F5B0", "title": "", "deps": ["745042FB41CB4628"], "dm": "ONE", "tasks": ["ITEM minecraft:bone_meal x1"]}
+{"id": "68CE49FE4E9D77D4", "title": "", "deps": ["745042FB41CB4628"], "dm": "ONE", "tasks": ["ITEM minecraft:diorite x1"]}
+{"id": "6AC3F323E4B49E41", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "3315B175F187D742", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:honey_bottle x1"]}
+{"id": "6C9BBE9754A99A96", "title": "", "deps": ["6AC3F323E4B49E41", "3315B175F187D742"], "dm": "ONE", "tasks": ["ITEM create:limestone x1"]}
+{"id": "5C147AE4E96DA8DF", "title": "", "deps": ["6C9BBE9754A99A96"], "dm": "ONE", "tasks": ["ITEM tfmg:limesand x1"]}
+{"id": "0B8ACADB9A7124D8", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM create_dd:caramel_bucket x1"]}
+{"id": "552C77EEE62B7E83", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "7648E46FEC9803B8", "title": "", "deps": ["0B8ACADB9A7124D8", "552C77EEE62B7E83"], "dm": "ONE", "tasks": ["ITEM minecraft:blackstone x1"]}
+{"id": "0031D1C76E2C598C", "title": "", "deps": ["2A49012030A688AE", "08555DFB93FE3B92"], "dm": "ONE", "tasks": ["ITEM create_dd:gabbro x1"]}
+{"id": "2A49012030A688AE", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM create_dd:strawberry_bucket x1"]}
+{"id": "08555DFB93FE3B92", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "40102220F51B35B6", "title": "", "deps": ["3FDA4ADCC08B6CFB"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_tin x1"]}
+{"id": "20A8242D2D7277A2", "title": "", "deps": ["3FDA4ADCC08B6CFB"], "dm": "ONE", "tasks": ["ITEM create_dd:tin_nugget x1"]}
+{"id": "2A24C1514D1D58D9", "title": "", "deps": ["507B899E6467E189"], "dm": "ONE", "tasks": ["ITEM minecraft:lapis_lazuli x1"]}
+{"id": "2AA838B09218F700", "title": "Renewable sources", "deps": ["67145CE26EFAD16D"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "47E3008A1C7F64CE", "title": "", "deps": ["12F66417863F4017", "101A5F8BD84CBE03"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "101A5F8BD84CBE03", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM createaddition:chocolate_cake x1"]}
+{"id": "12F66417863F4017", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM createaddition:honey_cake x1"]}
+{"id": "64E747B93D74A16E", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM tfmg:napalm_bomb x1"]}
+{"id": "2AD4EFBB9601D4AE", "title": "", "deps": ["3FDA4ADCC08B6CFB"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_silver x1"]}
+{"id": "3BC3FE0A42564D1D", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "08BA0F4F88612CBC", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "2485C10AD3B7F71B", "title": "", "deps": ["3BC3FE0A42564D1D", "08BA0F4F88612CBC"], "dm": "ONE", "tasks": ["ITEM create:scoria x1"]}
+{"id": "150AAEDADADFEC87", "title": "", "deps": ["2AA838B09218F700"], "dm": "ONE", "tasks": ["ITEM tfmg:cooling_fluid_bucket x1"]}
+{"id": "35B51603EF890F6D", "title": "Dormant Molten Battery", "deps": ["150AAEDADADFEC87"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "46D6FC597EC468E2", "title": "", "deps": ["35B51603EF890F6D"], "dm": "ONE", "tasks": ["ITEM kubejs:battery_ore x1"]}
+{"id": "0D753356A1B2D67D", "title": "", "deps": ["46D6FC597EC468E2"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_nickel x1"]}
+{"id": "683DC26CE864CE3A", "title": "", "deps": ["46D6FC597EC468E2"], "dm": "ONE", "tasks": ["ITEM tfmg:raw_lithium x1"]}
+{"id": "2E160FEF0A1D64B9", "title": "", "deps": ["46D6FC597EC468E2"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_lead x1"]}

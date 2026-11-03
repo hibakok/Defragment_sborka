@@ -1,0 +1,11 @@
+{"id": "54BDAB6C8F125B1E", "title": "", "deps": ["506FAD15C9ECB3A8"], "dm": "ONE", "tasks": ["ITEM create_dd:mithril_ingot x1"]}
+{"id": "2770889CDAABBD5C", "title": "", "deps": ["54BDAB6C8F125B1E"], "dm": "ONE", "tasks": ["ITEM mowziesmobs:sol_visage x1"]}
+{"id": "1634E09874D00AFF", "title": "", "deps": ["2770889CDAABBD5C"], "dm": "ONE", "tasks": ["ITEM kubejs:sol_ingot x1"]}
+{"id": "7C056525139CEE2D", "title": "", "deps": ["1634E09874D00AFF"], "dm": "ONE", "tasks": ["ITEM ad_astra:ostrum_ingot x1"]}
+{"id": "75D3E9EA5C619D47", "title": "", "deps": ["7C056525139CEE2D"], "dm": "ONE", "tasks": ["ITEM ad_astra:ostrum_plate x1"]}
+{"id": "17FCB16F672F3E35", "title": "&aEfficient Fuel&r", "deps": ["75D3E9EA5C619D47"], "dm": "ONE", "tasks": ["ITEM ad_astra:cryo_freezer x1"]}
+{"id": "3A2840A8D7A92BCD", "title": "Craft a &4Netherite Space Helmet", "deps": ["75D3E9EA5C619D47"], "dm": "ONE", "tasks": ["ITEM ad_astra:netherite_space_helmet x1", "ITEM ad_astra:netherite_space_suit x1", "ITEM ad_astra:netherite_space_pants x1", "ITEM ad_astra:netherite_space_boots x1"]}
+{"id": "08C3F9EFB6255BE6", "title": "", "deps": ["75D3E9EA5C619D47"], "dm": "ONE", "tasks": ["ITEM ad_astra:oxygen_sensor x1"]}
+{"id": "7D82C36C04BDDB73", "title": "", "deps": ["3A2840A8D7A92BCD"], "dm": "ONE", "tasks": ["ITEM ad_astra:tier_3_rocket x1"]}
+{"id": "4CC4587F308B6B37", "title": "to &eVenus", "deps": ["7D82C36C04BDDB73"], "dm": "ONE", "tasks": ["DIM ad_astra:venus"]}
+{"id": "2BC190CA0169D057", "title": "", "deps": ["7D82C36C04BDDB73"], "dm": "ONE", "tasks": ["DIM ad_astra:mercury"]}

@@ -1,0 +1,11 @@
+{"id": "06ACC1F7C8FA8282", "title": "", "deps": ["70E4055A00E54568"], "dm": "ONE", "tasks": ["ITEM ad_astra:calorite_ingot x1"]}
+{"id": "15B89C8C50319904", "title": "Craft a &4Jet Suit", "deps": ["60D4B65B545C9248"], "dm": "ONE", "tasks": ["ITEM ad_astra:jet_suit_helmet x1", "ITEM ad_astra:jet_suit x1", "ITEM ad_astra:jet_suit_pants x1", "ITEM ad_astra:jet_suit_boots x1"]}
+{"id": "6E3A87DE859101FE", "title": "", "deps": ["15B89C8C50319904"], "dm": "ONE", "tasks": ["ITEM ad_astra:tier_4_rocket x1"]}
+{"id": "6103E3BB9E716F56", "title": "to &bGlacio", "deps": ["6E3A87DE859101FE"], "dm": "ONE", "tasks": ["ADV ad_astra:interstellar"]}
+{"id": "28D0EEACC8402E6C", "title": "&l&4THE END!!!!&r&r", "deps": ["6103E3BB9E716F56"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "6FFEF416B3BD6877", "title": "", "deps": ["4CC4587F308B6B37"], "dm": "ONE", "tasks": ["KILL iceandfire:lightning_dragon x1"]}
+{"id": "295EC99EB13A4C20", "title": "", "deps": ["6FFEF416B3BD6877"], "dm": "ONE", "tasks": ["ITEM iceandfire:dragon_stick x1", "ITEM iceandfire:dragon_horn x1", "ITEM iceandfire:dragon_flute x1", "ITEM iceandfire:summoning_crystal_lightning x1"]}
+{"id": "1F756EE99ADC8A1E", "title": "Build a Dragonforge", "deps": ["295EC99EB13A4C20"], "dm": "ONE", "tasks": ["ITEM iceandfire:dragonforge_lightning_input x1", "ITEM iceandfire:dragon_bone_block x8", "ITEM iceandfire:dragonforge_lightning_brick x17", "ITEM iceandfire:dragonforge_lightning_core_disabled x1"]}
+{"id": "70E4055A00E54568", "title": "", "deps": ["42EC4A0DF273348D", "1F756EE99ADC8A1E"], "dm": "ONE", "tasks": ["ITEM iceandfire:dragonsteel_lightning_ingot x1"]}
+{"id": "42EC4A0DF273348D", "title": "", "deps": ["4CC4587F308B6B37"], "dm": "ONE", "tasks": ["ITEM iceandfire:lightning_dragon_blood x1"]}
+{"id": "60D4B65B545C9248", "title": "", "deps": ["06ACC1F7C8FA8282"], "dm": "ONE", "tasks": ["ITEM ad_astra:calorite_plate x1"]}

@@ -1,0 +1,36 @@
+{"id": "198EB5AE0E18E6C3", "title": "Finding the Gatekeeper", "deps": ["123D70CA4959F172"], "dm": "ONE", "tasks": ["ITEM blue_skies:blue_journal x1"]}
+{"id": "13BB7347D271D29C", "title": "", "deps": ["198EB5AE0E18E6C3"], "dm": "ONE", "tasks": ["ITEM blue_skies:zeal_lighter x1"]}
+{"id": "765EBF99FFF4061F", "title": "", "deps": ["13BB7347D271D29C"], "dm": "ONE", "tasks": ["ADV blue_skies:everbright/enter"]}
+{"id": "20ECBCF42E1B0660", "title": "", "deps": ["13BB7347D271D29C"], "dm": "ONE", "tasks": ["ADV blue_skies:everdawn/enter"]}
+{"id": "4365BCF6B7A91D24", "title": "Something isn't quite right.....", "deps": ["765EBF99FFF4061F", "20ECBCF42E1B0660"], "dm": "ONE", "tasks": ["ITEM any#tag:blue_skies:tools/wooden_pickaxes x1"]}
+{"id": "6E177CA79B7ABD7C", "title": "A New Mining Adventure", "deps": ["3E1A86A6D2155B53"], "dm": "ONE", "tasks": ["ITEM blue_skies:moonstone_shard x2"]}
+{"id": "3E1A86A6D2155B53", "title": "Getting an Upgrade", "deps": ["4365BCF6B7A91D24"], "dm": "ONE", "tasks": ["ITEM any of [blue_skies:lunar_stone_pickaxe, blue_skies:turquoise_stone_pickaxe] x1"]}
+{"id": "5ED6634F52CAC058", "title": "Making a New Weapon", "deps": ["6E177CA79B7ABD7C"], "dm": "ONE", "tasks": ["ITEM blue_skies:frostbright_spear x1"]}
+{"id": "01E1A7BCDAE8EB9F", "title": "Red Means Fast", "deps": ["6E177CA79B7ABD7C"], "dm": "ONE", "tasks": ["ITEM blue_skies:pyrope_gem x3"]}
+{"id": "158F48B73171BDE1", "title": "Metal Tools", "deps": ["01E1A7BCDAE8EB9F"], "dm": "ONE", "tasks": ["ITEM blue_skies:aquite x3"]}
+{"id": "128C5B7A82FF802E", "title": "Diopside", "deps": ["158F48B73171BDE1"], "dm": "ONE", "tasks": ["ITEM blue_skies:diopside_gem x3"]}
+{"id": "229455730219F7B1", "title": "&cVentium", "deps": ["3E1A86A6D2155B53"], "dm": "ONE", "tasks": ["ITEM blue_skies:ventium_ingot x1"]}
+{"id": "23CC5B8D9AAD4E12", "title": "&9Falsite", "deps": ["3E1A86A6D2155B53"], "dm": "ONE", "tasks": ["ITEM blue_skies:falsite_ingot x2"]}
+{"id": "27E3C4E4790F8FF3", "title": "Charoite", "deps": ["158F48B73171BDE1"], "dm": "ONE", "tasks": ["ITEM blue_skies:raw_charoite x1"]}
+{"id": "14B4E6B2FC3F6B36", "title": "&6Horizonite", "deps": ["3E1A86A6D2155B53"], "dm": "ONE", "tasks": ["ITEM blue_skies:horizonite_ingot x1"]}
+{"id": "3179DCF0B4458ECC", "title": "", "deps": ["229455730219F7B1"], "dm": "ONE", "tasks": ["ITEM blue_skies:tool_box x1"]}
+{"id": "6783F21811D0F149", "title": "", "deps": ["14B4E6B2FC3F6B36"], "dm": "ONE", "tasks": ["ITEM blue_skies:horizonite_forge x1"]}
+{"id": "3857D8DF87108DAB", "title": "", "deps": ["23CC5B8D9AAD4E12"], "dm": "ONE", "tasks": ["ITEM blue_skies:warding_pearl x1"]}
+{"id": "47EFF4429010E26C", "title": "Ventium Tools", "deps": ["229455730219F7B1"], "dm": "ONE", "tasks": ["ITEM blue_skies:ventium_shears x1", "ITEM blue_skies:ventium_bucket x1"]}
+{"id": "1F82DBE75059C139", "title": "&9The Starter Dungeons", "deps": ["158F48B73171BDE1"], "dm": "ONE", "tasks": ["ITEM blue_skies:blinding_key x4"]}
+{"id": "001C4388146BD377", "title": "Structures and Dungeons", "deps": ["158F48B73171BDE1"], "dm": "ONE", "tasks": ["ITEM blue_skies:soul_fragment x5"]}
+{"id": "3C1212AA4663C39B", "title": "", "deps": ["1F82DBE75059C139"], "dm": "ONE", "tasks": ["KILL blue_skies:summoner x1"]}
+{"id": "6832C9E6D2E2949E", "title": "", "deps": ["1F82DBE75059C139"], "dm": "ONE", "tasks": ["KILL blue_skies:alchemist x1"]}
+{"id": "1F944EEA0F397B95", "title": "", "deps": ["3C1212AA4663C39B"], "dm": "ONE", "tasks": ["KILL blue_skies:starlit_crusher x1"]}
+{"id": "0DB1A5763EDD6A7F", "title": "", "deps": ["6832C9E6D2E2949E"], "dm": "ONE", "tasks": ["KILL blue_skies:arachnarch x1"]}
+{"id": "7E124E6EFC7E8ADD", "title": "", "deps": ["3C1212AA4663C39B"], "dm": "ONE", "tasks": ["ITEM blue_skies:ethereal_arc x1"]}
+{"id": "0515422E36E4E9A3", "title": "", "deps": ["6832C9E6D2E2949E"], "dm": "ONE", "tasks": ["ITEM blue_skies:dusk_arc x1"]}
+{"id": "42228FEECEAA2241", "title": "", "deps": ["1F944EEA0F397B95"], "dm": "ONE", "tasks": ["ITEM blue_skies:crushing_hammer x1"]}
+{"id": "08DA36DAD1422B0A", "title": "", "deps": ["0DB1A5763EDD6A7F"], "dm": "ONE", "tasks": ["ITEM blue_skies:poison_arc x1"]}
+{"id": "02089D95AA679502", "title": "", "deps": ["0DB1A5763EDD6A7F"], "dm": "ONE", "tasks": ["ITEM blue_skies:venom_sac x1"]}
+{"id": "68C79649BB060EFA", "title": "", "deps": ["0DB1A5763EDD6A7F"], "dm": "ONE", "tasks": ["ITEM blue_skies:different_sword x1"]}
+{"id": "37CBBAB88E2E49AC", "title": "", "deps": ["1F944EEA0F397B95"], "dm": "ONE", "tasks": ["ITEM blue_skies:nature_arc x1"]}
+{"id": "2F08F444586722F7", "title": "", "deps": ["7E124E6EFC7E8ADD"], "dm": "ONE", "tasks": ["ITEM blue_skies:soulbound_spear x1"]}
+{"id": "582FCFC9A5062978", "title": "", "deps": ["7E124E6EFC7E8ADD"], "dm": "ONE", "tasks": ["ITEM blue_skies:summoning_table x1"]}
+{"id": "439EA0E50E369340", "title": "", "deps": ["0515422E36E4E9A3"], "dm": "ONE", "tasks": ["ITEM blue_skies:spike_shield x1"]}
+{"id": "76A6385DA264F372", "title": "", "deps": ["3E1A86A6D2155B53"], "dm": "ONE", "tasks": ["ITEM blue_skies:snowcap_oven x1"]}

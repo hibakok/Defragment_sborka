@@ -1,0 +1,73 @@
+{"id": "07C2D6E01B241F73", "title": "&2Overworld&f: Extinction was a lie", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:ancient_remnant x1"]}
+{"id": "681E9EE350CD6791", "title": "&2Overworld&f: From the Abyss", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:the_leviathan x1"]}
+{"id": "6AC1E375CA7DA676", "title": "&eEnd&f: Protector of the end", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:ender_guardian x1"]}
+{"id": "40DD304B90046084", "title": "&cNether&f: The immortal ", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:ignis x1"]}
+{"id": "09D25A60964E517F", "title": "&cNether&f: The Monstrosity of lava", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:netherite_monstrosity x1"]}
+{"id": "1A9BD3105BC4C13B", "title": "&2Overworld&f: Who needs to build one?", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:the_harbinger x1"]}
+{"id": "7696990D3ED40A1B", "title": "&eEnd&f: Void Worm", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ADV alexsmobs:alexsmobs/void_worm_kill"]}
+{"id": "150D9233D297B9DA", "title": "&cNether&f: Warped Mosco", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL alexsmobs:warped_mosco x1"]}
+{"id": "065A5A976F0D8FF9", "title": "&eEnd&f: The Obsidilith", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL bosses_of_mass_destruction:obsidilith x1"]}
+{"id": "342B9E3297CC4309", "title": "&2Overworld&f: The Void Blossom", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL bosses_of_mass_destruction:void_blossom x1"]}
+{"id": "2BA58FB09C99F20A", "title": "&2Overworld&f: The Night Lich", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL bosses_of_mass_destruction:lich x1", "ITEM bosses_of_mass_destruction:soul_star x4"]}
+{"id": "35E095FC517735B1", "title": "&cNether&f: The Nether Gauntlet", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL bosses_of_mass_destruction:gauntlet x1"]}
+{"id": "1D335FA02D1F86DD", "title": "&2Overworld&f: Wither", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL minecraft:wither x1"]}
+{"id": "079641D681493C48", "title": "&2Overworld&f: Warden", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL minecraft:warden x1"]}
+{"id": "4B8AA887F0B4664E", "title": "&2Overworld&f: Cyclops Slayer", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL iceandfire:cyclops x1"]}
+{"id": "23EF18C11A9B1FBD", "title": "&2Overworld&f: Hydra Slayer", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL iceandfire:hydra x1"]}
+{"id": "1AB94A49F0A4427D", "title": "&2Overworld&f: Sea Serpent Slayer", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL iceandfire:sea_serpent x1"]}
+{"id": "03A47AAF2D751796", "title": "&2Overworld&f: Lord Pumpkinhead", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL born_in_chaos_v1:lord_pumpkinhead_head x1"]}
+{"id": "496E8E6570D6FE17", "title": "&6Space-Venus&f: Lightning Dragon Slayer", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL iceandfire:lightning_dragon x1"]}
+{"id": "485FA783FD36FB50", "title": "&2Overworld&f: Ice Dragon Slayer", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL iceandfire:ice_dragon x1"]}
+{"id": "608ECD63B1EAC46B", "title": "&2Overworld&f: Fire Dragon Slayer", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL iceandfire:fire_dragon x1"]}
+{"id": "271202F67BEA0A20", "title": "&2Overworld&f: Myrmex Queen", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL iceandfire:myrmex_queen x1"]}
+{"id": "2EFEFB8A1B1A2E3F", "title": "&2Overworld&f: Corrupted Champion", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL graveyard:lich x1"]}
+{"id": "02E628FD58B3D4C7", "title": "&2Overworld&f: Sir Pumpkinhead", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL born_in_chaos_v1:pumpkinhead x1"]}
+{"id": "376DD4B56039898B", "title": "&eEnd&f: Ender Golem", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:ender_golem x1"]}
+{"id": "186D1014F748B001", "title": "&2Overworld&f: The Prowler", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:the_prowler x1"]}
+{"id": "188968771B831DCE", "title": "&2Overworld&f: Amethyst Crab", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:amethyst_crab x1"]}
+{"id": "11DB96D8FC52617B", "title": "&2Overworld&f: Forsaken", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL alexscaves:forsaken x1"]}
+{"id": "0346F78CE4B0F393", "title": "&2Overworld&f: Hullbreaker", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL alexscaves:hullbreaker x1"]}
+{"id": "138E94B1FC310502", "title": "&2Overworld&f: Tremorzilla", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL alexscaves:tremorzilla x1"]}
+{"id": "5E8607FE394E659A", "title": "&2Overworld&f: Luxtructosauros", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL alexscaves:luxtructosaurus x1"]}
+{"id": "4FCD7C734E04EC59", "title": "&eEnd&f: The Ender Dragon", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL minecraft:ender_dragon x1"]}
+{"id": "66C5F17F1D24B252", "title": "&3The other side&f: Stalker", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL deeperdarker:stalker x1"]}
+{"id": "1447D924C3077D48", "title": "&cNether&f: The Hovering Inferno", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM minecraft:bow x1"]}
+{"id": "5590F8A33E7C7EBA", "title": "&2Overworld&f: Mutant Creeper", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL mutantmonsters:mutant_creeper x1"]}
+{"id": "0FA6D29FC55F9AEC", "title": "&2Overworld&f: Mutant Enderman", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL mutantmonsters:mutant_enderman x1"]}
+{"id": "12540DE2AD46BD25", "title": "&2Overworld&f: Mutant Skeleton", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL mutantmonsters:mutant_skeleton x1"]}
+{"id": "466E95094802C572", "title": "&2Overworld&f: Mutant Zombie", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL mutantmonsters:mutant_zombie x1"]}
+{"id": "1118D777AFDEABF1", "title": "&2Twilight Forest&f: Naga", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM twilightforest:naga_trophy x1"]}
+{"id": "360D7D51B8827142", "title": "&2Twilight Forest&f: Twilight Lich", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM twilightforest:lich_trophy x1"]}
+{"id": "66CCB8E61772D9C5", "title": "&2Twilight Forest&f: Hydra", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM twilightforest:hydra_trophy x1"]}
+{"id": "6C426E483987130D", "title": "&2Twilight Forest&f: Ur-Ghast", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM twilightforest:ur_ghast_trophy x1"]}
+{"id": "0561992D26000F6C", "title": "&2Twilight Forest&f: Snow Queen", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM twilightforest:snow_queen_trophy x1"]}
+{"id": "5AD9D7336F8E4D96", "title": "&9Blue Skies&f: Alchemist", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL blue_skies:alchemist x1"]}
+{"id": "45E828FAD2F4D3EC", "title": "&9Blue Skies&f: The Summoner", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL blue_skies:summoner x1"]}
+{"id": "22230F5131F8FEFD", "title": "&9Blue Skies&f: The Arachnarch", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL blue_skies:arachnarch x1"]}
+{"id": "4473A6FB1DD04B33", "title": "&9Blue Skies&f: Starlit crusher", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL blue_skies:starlit_crusher x1"]}
+{"id": "1B579FA633476F4B", "title": "&6The Aether&f: The Bronze Key!", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM aether:bronze_dungeon_key x1"]}
+{"id": "0990BE5505F823C2", "title": "&6The Aether&f: The Silver Key!", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM aether:silver_dungeon_key x1"]}
+{"id": "70D8E200F5040BA9", "title": "&6The Aether&f: The Gold Key!", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM aether:gold_dungeon_key x1"]}
+{"id": "468294C066683BE3", "title": "&2Overworld&f: Conjurer", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL conjurer_illager:conjurer x1"]}
+{"id": "3316608227ABBD2E", "title": "&2Overworld&f: Chimera", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM ars_nouveau:wilden_tribute x1"]}
+{"id": "034ADBF4EC3738DD", "title": "&2Overworld&f: The Death King", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL irons_spellbooks:dead_king x1"]}
+{"id": "025314CC80D7286F", "title": "", "deps": ["6C426E483987130D", "09D25A60964E517F", "2BA58FB09C99F20A", "23EF18C11A9B1FBD", "45E828FAD2F4D3EC", "0FA6D29FC55F9AEC", "138E94B1FC310502", "3316608227ABBD2E", "40DD304B90046084", "466E95094802C572", "360D7D51B8827142", "66CCB8E61772D9C5", "0561992D26000F6C", "681E9EE350CD6791", "1AB94A49F0A4427D", "11DB96D8FC52617B", "5E8607FE394E659A", "1447D924C3077D48", "271202F67BEA0A20", "186D1014F748B001", "188968771B831DCE", "065A5A976F0D8FF9", "485FA783FD36FB50", "6AC1E375CA7DA676", "1118D777AFDEABF1", "079641D681493C48", "468294C066683BE3", "496E8E6570D6FE17", "66C5F17F1D24B252", "1D335FA02D1F86DD", "2EFEFB8A1B1A2E3F", "7696990D3ED40A1B", "034ADBF4EC3738DD", "12540DE2AD46BD25", "35E095FC517735B1", "342B9E3297CC4309", "4FCD7C734E04EC59", "03A47AAF2D751796", "0346F78CE4B0F393", "376DD4B56039898B", "4473A6FB1DD04B33", "608ECD63B1EAC46B", "02E628FD58B3D4C7", "5AD9D7336F8E4D96", "150D9233D297B9DA", "1A9BD3105BC4C13B", "70D8E200F5040BA9", "5590F8A33E7C7EBA", "07C2D6E01B241F73", "22230F5131F8FEFD", "4B8AA887F0B4664E", "1B579FA633476F4B", "0990BE5505F823C2", "125E3B2F9B728E17", "722A585C044A2097", "38DE8D7E98D6AA48", "4E0B638C20CF9FD7", "7FEA004E872EF175", "0BDFC9BF558C42FE", "34D165EDB1371398", "04454A60FDCA0BB2", "15AFBC9FC568CD57"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "53359B066B0AC21D", "title": "&2Overworld&f: Elder Guardian", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL minecraft:elder_guardian x1"]}
+{"id": "4E0B638C20CF9FD7", "title": "&2Overworld&f: Coralssus", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:coralssus x1"]}
+{"id": "125E3B2F9B728E17", "title": "&2Overworld&f: Coral Golem", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:coral_golem x1"]}
+{"id": "722A585C044A2097", "title": "&2Overworld&f: Wadjet", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:wadjet x1"]}
+{"id": "7FEA004E872EF175", "title": "&2Overworld&f: Kobolediator ", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:kobolediator x1"]}
+{"id": "6AE021028ABF4B31", "title": "&2Overworld&f: Gorgon", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL iceandfire:gorgon x1"]}
+{"id": "34D165EDB1371398", "title": "&2Overworld&f: Foliaath", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL mowziesmobs:foliaath x1"]}
+{"id": "0BDFC9BF558C42FE", "title": "&2Overworld&f: Ferrous Wroughtnaut", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL mowziesmobs:ferrous_wroughtnaut x1"]}
+{"id": "04454A60FDCA0BB2", "title": "&6Space-&bGlacio&r&f: Frostmaw", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL mowziesmobs:frostmaw x1"]}
+{"id": "15AFBC9FC568CD57", "title": "&6Space-Mars&f: Umvuthi", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL mowziesmobs:umvuthi x1"]}
+{"id": "38DE8D7E98D6AA48", "title": "&2Overworld&f: Kill Your Nightmares", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL born_in_chaos_v1:nightmare_stalker x5"]}
+{"id": "50CDD784C02C35CE", "title": "&l&6Rating System", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "17F953D448E7B6FD", "title": "&2Overworld&f: Maledictus", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:maledictus x1"]}
+{"id": "2A7455826CF9F976", "title": "&2Overworld&f: Aptrgangr", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:aptrgangr x1"]}
+{"id": "16BC123471572D6B", "title": "&2Overworld&f: Magispeller", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ADV illageandspillage:kill_magi"]}
+{"id": "53B5ACF76227380F", "title": "&2Overworld&f: Freakager and Ragno", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ADV illageandspillage:kill_freaky"]}
+{"id": "252E06162AAF16B1", "title": "&2Overworld&f: Spiritcaller", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ADV illageandspillage:kill_spiri"]}
+{"id": "31879F695EBA0301", "title": "&2Overworld&f: Tongbi the Sculptor", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["ITEM mowziesmobs:earthrend_gauntlet x1"]}
+{"id": "345DFF20A4873D6F", "title": "&2Overworld&f: Scylla", "deps": ["072DA448D144179C"], "dm": "ONE", "tasks": ["KILL cataclysm:scylla x1"]}

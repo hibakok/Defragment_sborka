@@ -1,0 +1,50 @@
+{"id": "5523A71F1688EA88", "title": "Welcome to &6Forbidden \\&\\ Arcanus!", "deps": ["04D09899362AFC7A"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "6E3B9051503B938C", "title": "Edelwood Trees", "deps": ["5523A71F1688EA88"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:edelwood_stick x1", "ITEM forbidden_arcanus:edelwood_log x1"]}
+{"id": "2E114B4C441EF50D", "title": "", "deps": ["0B68E3C046C82860"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:slimec_pickaxe x1"]}
+{"id": "09CCC797BF15ADFC", "title": "", "deps": ["0B68E3C046C82860", "310B54FB390982C5"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:mystical_dagger x1"]}
+{"id": "0AFC5B1AF055811A", "title": "", "deps": ["6E3B9051503B938C"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:edelwood_bucket x1"]}
+{"id": "29164630E1BD76B5", "title": "Arcane Crystals", "deps": ["5523A71F1688EA88"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_crystal x2"]}
+{"id": "260F19B468957BCD", "title": "Nipa Plants", "deps": ["29164630E1BD76B5"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:nipa x1"]}
+{"id": "2894F11A73335179", "title": "", "deps": ["29164630E1BD76B5"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_crystal_dust x1"]}
+{"id": "13E5783AD64E3BC2", "title": "", "deps": ["5523A71F1688EA88"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:spawner_scrap x1"]}
+{"id": "0F3BD102F9F93DDD", "title": "Entity Tools", "deps": ["13E5783AD64E3BC2"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:quantum_catcher x1"]}
+{"id": "44B1B147CDAC4E36", "title": "", "deps": ["0B68E3C046C82860"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:spectral_eye_amulet x1"]}
+{"id": "7439CFAD20E3E2BF", "title": "", "deps": ["2894F11A73335179"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_bone_meal x1"]}
+{"id": "5ED1896F1986BD2B", "title": "", "deps": ["0B68E3C046C82860"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:golden_orchid_seeds x1"]}
+{"id": "20B495B4B8B95636", "title": "Dragon Scales", "deps": ["09CCC797BF15ADFC"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:dragon_scale x3"]}
+{"id": "4DA1C95BED78A662", "title": "&1Draco Arcanus Armor&r", "deps": ["20B495B4B8B95636"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:draco_arcanus_helmet x1", "ITEM forbidden_arcanus:draco_arcanus_chestplate x1", "ITEM forbidden_arcanus:draco_arcanus_leggings x1", "ITEM forbidden_arcanus:draco_arcanus_boots x1"]}
+{"id": "744A01000E086CC9", "title": "", "deps": ["20B495B4B8B95636"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:golden_dragon_scale x1", "ITEM forbidden_arcanus:aquatic_dragon_scale x1"]}
+{"id": "7CF76A542529A181", "title": "", "deps": ["2894F11A73335179"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:corrupti_dust x1"]}
+{"id": "03E7D73433AB6B7C", "title": "Mundabitur Dust", "deps": ["2894F11A73335179"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:mundabitur_dust x4"]}
+{"id": "0B68E3C046C82860", "title": "&6Deorum Ingots", "deps": ["03E7D73433AB6B7C"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:deorum_ingot x1"]}
+{"id": "70112194DFFD15D3", "title": "&5Tyr Armor", "deps": ["744A01000E086CC9"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:tyr_helmet x1", "ITEM forbidden_arcanus:tyr_chestplate x1", "ITEM forbidden_arcanus:tyr_leggings x1", "ITEM forbidden_arcanus:tyr_boots x1"]}
+{"id": "25911D0B7C403A4F", "title": "Sanity", "deps": ["3799ACDA92F96FD1"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:sanity_meter x1"]}
+{"id": "73349B993DE69954", "title": "&1The Hephaestus Forge", "deps": ["0B68E3C046C82860"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:polished_darkstone x45", "ITEM forbidden_arcanus:arcane_chiseled_polished_darkstone x9", "ITEM forbidden_arcanus:chiseled_arcane_polished_darkstone x4", "ITEM minecraft:smithing_table x1", "ITEM forbidden_arcanus:mundabitur_dust x1"]}
+{"id": "3799ACDA92F96FD1", "title": "", "deps": ["13E5783AD64E3BC2"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:lens_of_veritatis x1"]}
+{"id": "310B54FB390982C5", "title": "", "deps": ["6E3B9051503B938C", "4C6E398240F6CBC3"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:dark_matter x1"]}
+{"id": "757E1521D84AC5C8", "title": "&4Blood", "deps": ["0C6719D81DE5A614"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:test_tube x1"]}
+{"id": "4DA04ABF4FF2625C", "title": "&9Aureal", "deps": ["0C6719D81DE5A614"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:aureal_bottle x1"]}
+{"id": "788A3685A7D07E75", "title": "&dSouls", "deps": ["0C6719D81DE5A614"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:soul_extractor x1", "ITEM forbidden_arcanus:soul x1"]}
+{"id": "5E45D2A2FDD67495", "title": "&aBottle O' Enchanting", "deps": ["0C6719D81DE5A614"], "dm": "ONE", "tasks": ["ITEM minecraft:experience_bottle x1"]}
+{"id": "0C6719D81DE5A614", "title": "", "deps": ["73349B993DE69954"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "76BC484FC50EAEC3", "title": "Darkstone Pedestals", "deps": ["73349B993DE69954"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:darkstone_pedestal x8"]}
+{"id": "537E39530360AD73", "title": "Performing Rituals", "deps": ["0C6719D81DE5A614"], "dm": "ONE", "tasks": ["ITEM any#tag:forbidden_arcanus:blacksmith_gavel x1"]}
+{"id": "33F44B87C5496158", "title": "&1Draco Tools", "deps": ["20B495B4B8B95636"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:draco_arcanus_shovel x1", "ITEM forbidden_arcanus:draco_arcanus_pickaxe x1", "ITEM forbidden_arcanus:draco_arcanus_axe x1", "ITEM forbidden_arcanus:draco_arcanus_hoe x1"]}
+{"id": "3513D89C6FD2D852", "title": "&1Draco Weapons", "deps": ["20B495B4B8B95636"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:draco_arcanus_sword x1", "ITEM forbidden_arcanus:draco_arcanus_scepter x1"]}
+{"id": "11C065375DF7AC3E", "title": "", "deps": ["73349B993DE69954"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "1DB562D431DB8D96", "title": "Clibano Core", "deps": ["0B68E3C046C82860"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:clibano_core x1", "ITEM forbidden_arcanus:polished_darkstone x8", "ITEM forbidden_arcanus:polished_darkstone_bricks x17"]}
+{"id": "52BB4427D9F5163D", "title": "", "deps": ["537E39530360AD73"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:whirlwind_prism x1"]}
+{"id": "4E93F14CE6E7AE09", "title": "The sea modifier", "deps": ["537E39530360AD73"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:sea_prism x1"]}
+{"id": "5AC2BD87BB92F27B", "title": "Demolishing modifier", "deps": ["537E39530360AD73"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:terrastomp_prism x1"]}
+{"id": "4506F8FBBA580C0E", "title": "Magnetized modifier", "deps": ["537E39530360AD73"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:ferrognetic_mixture x1"]}
+{"id": "1BA5E38444CAF02B", "title": "Fiery modifier", "deps": ["537E39530360AD73"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:smelter_prism x1"]}
+{"id": "685A56030D996A81", "title": "Eternal modifier", "deps": ["537E39530360AD73"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:eternal_stella x1"]}
+{"id": "4C6E398240F6CBC3", "title": "", "deps": ["6DAF38A8CB994147", "7CF76A542529A181"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:dark_rune x1"]}
+{"id": "6DAF38A8CB994147", "title": "", "deps": ["29164630E1BD76B5"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:rune x1"]}
+{"id": "68E99397ACEEFFDA", "title": "", "deps": ["09CCC797BF15ADFC"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:obsidian_ingot x1"]}
+{"id": "7A02B3FFB2FF1A2B", "title": "", "deps": ["68E99397ACEEFFDA"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:obsidian_skull x1"]}
+{"id": "0B4B4ECB8EC65ECD", "title": "", "deps": ["6E3B9051503B938C"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:edelwood_ladder x16"]}
+{"id": "1BF548B905270072", "title": "Mortem Armor", "deps": ["29164630E1BD76B5"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:mortem_helmet x1", "ITEM forbidden_arcanus:mortem_chestplate x1", "ITEM forbidden_arcanus:mortem_leggings x1", "ITEM forbidden_arcanus:mortem_boots x1"]}
+{"id": "6A1F23EFB8B7FA39", "title": "", "deps": ["29164630E1BD76B5"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:draco_arcanus_arrow x1"]}
+{"id": "5C7F19F06C8DCA46", "title": "", "deps": ["29164630E1BD76B5"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:boom_arrow x1"]}
+{"id": "2C70DFC00B22791E", "title": "", "deps": ["29164630E1BD76B5"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:zombie_arm x1"]}

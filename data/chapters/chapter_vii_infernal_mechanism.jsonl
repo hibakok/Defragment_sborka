@@ -1,0 +1,27 @@
+{"id": "0CFFF58986CE7733", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM minecraft:coal x1"]}
+{"id": "645E8388213F1284", "title": "", "deps": ["0CFFF58986CE7733"], "dm": "ONE", "tasks": ["ITEM minecraft:coal_block x1"]}
+{"id": "5690FCED46349207", "title": "", "deps": ["645E8388213F1284", "020E3DF3DAA4292F", "25F677F8D587C451", "0179452F07812322"], "dm": "ONE", "tasks": ["ITEM kubejs:mystic_coal_block x1"]}
+{"id": "6C52531E3B0CCB60", "title": "", "deps": ["69E26E48222CEC01", "0CD56ADF87F8799B", "453F0E5926BA4AB1"], "dm": "ONE", "tasks": ["ITEM minecraft:blaze_rod x1"]}
+{"id": "1D9D2E1FF9BD8A91", "title": "", "deps": ["6C52531E3B0CCB60"], "dm": "ONE", "tasks": ["ITEM minecraft:blaze_powder x1"]}
+{"id": "466F43B18F0D1B7E", "title": "", "deps": ["5690FCED46349207"], "dm": "ONE", "tasks": ["ITEM kubejs:ingot_mystic_coal x1"]}
+{"id": "69E26E48222CEC01", "title": "", "deps": ["466F43B18F0D1B7E"], "dm": "ONE", "tasks": ["ITEM kubejs:rod_mystic_coal x1"]}
+{"id": "1A36CF8C1DF5DEC4", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM create:cinder_flour x1"]}
+{"id": "020E3DF3DAA4292F", "title": "", "deps": ["0706D3B957259D7B"], "dm": "ONE", "tasks": ["ITEM minecraft:glow_ink_sac x1"]}
+{"id": "0706D3B957259D7B", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM minecraft:ink_sac x1"]}
+{"id": "738C37B1E696F933", "title": "", "deps": ["1A36CF8C1DF5DEC4", "1D9D2E1FF9BD8A91"], "dm": "ONE", "tasks": ["ITEM create_dd:ember_alloy x1"]}
+{"id": "4706B7F09A2BFC25", "title": "", "deps": ["312D4E8EBE475538"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_crystal_dust_speck x1"]}
+{"id": "25F677F8D587C451", "title": "", "deps": ["4706B7F09A2BFC25"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:arcane_crystal_dust x1"]}
+{"id": "312D4E8EBE475538", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:nipa x1"]}
+{"id": "0179452F07812322", "title": "", "deps": ["029C392AD3BA76AD", "7E56F2B931A55A36"], "dm": "ONE", "tasks": ["ITEM minecraft:prismarine_crystals x1"]}
+{"id": "4D391FCA01F6D795", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM create_dd:industrial_fan x1"]}
+{"id": "67F1C2891AA7CD0E", "title": "", "deps": ["438AFB85E4605DF6"], "dm": "ONE", "tasks": ["ITEM create_things_and_misc:crushed_magma x1"]}
+{"id": "7F5486A6318789B5", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM tfmg:gasoline_bucket x1"]}
+{"id": "1084B343FEEBB88E", "title": "", "deps": ["7F5486A6318789B5", "67F1C2891AA7CD0E", "738C37B1E696F933"], "dm": "ONE", "tasks": ["ITEM create_dd:infernal_mechanism x1"]}
+{"id": "438AFB85E4605DF6", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM minecraft:magma_block x1"]}
+{"id": "029C392AD3BA76AD", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM minecraft:lapis_lazuli x1"]}
+{"id": "7E56F2B931A55A36", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM create_dd:diamond_shard x1"]}
+{"id": "453F0E5926BA4AB1", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM blue_skies:fiery_beans x1"]}
+{"id": "0CD56ADF87F8799B", "title": "", "deps": ["7EEB0092E87627F1"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "53A0688E8472A4BD", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM balancedflight:flight_anchor x1"]}
+{"id": "19F6483C2A25F16E", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM pipez:universal_pipe x1"]}
+{"id": "5E7CF560990974D5", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM pipez:ultimate_upgrade x1"]}

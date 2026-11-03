@@ -1,0 +1,8 @@
+{"id": "731C3214BB61FDAE", "title": "&lBossfight:&r &3The Warden", "deps": ["123D70CA4959F172"], "dm": "ONE", "tasks": ["KILL minecraft:warden x1"]}
+{"id": "44937B2D2EB38094", "title": "Craft a &9Warden Helmet", "deps": ["731C3214BB61FDAE"], "dm": "ONE", "tasks": ["ITEM deeperdarker:warden_helmet x1"]}
+{"id": "704CCA2CEAB23B4D", "title": "&lEntering:&r &8&lThe Otherside", "deps": ["44937B2D2EB38094"], "dm": "ONE", "tasks": ["DIM deeperdarker:otherside"]}
+{"id": "6E7D3242496F4501", "title": "Kill a &3Shattered", "deps": ["704CCA2CEAB23B4D"], "dm": "ONE", "tasks": ["KILL deeperdarker:shattered x1"]}
+{"id": "192EE909C57F390A", "title": "Kill a &3Stalker", "deps": ["704CCA2CEAB23B4D"], "dm": "ONE", "tasks": ["KILL deeperdarker:stalker x1"]}
+{"id": "3CBDB45D65737212", "title": "Kill a &7Shriek Worm", "deps": ["704CCA2CEAB23B4D"], "dm": "ONE", "tasks": ["KILL deeperdarker:shriek_worm x1"]}
+{"id": "0FF69526C1DC1593", "title": "Find a &2Sculk Snapper", "deps": ["704CCA2CEAB23B4D"], "dm": "ONE", "tasks": ["OBSERVE deeperdarker:sculk_snapper"]}
+{"id": "2807106C369DF042", "title": "Remote Storage", "deps": ["704CCA2CEAB23B4D"], "dm": "ONE", "tasks": ["ADV deeperdarker:main/obtain_sculk_transmitter"]}

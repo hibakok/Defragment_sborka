@@ -1,0 +1,49 @@
+{"id": "44B711E1B5B7B00E", "title": "", "deps": ["60A94E3337A26181"], "dm": "ONE", "tasks": ["ITEM tfmg:steel_ingot x1"]}
+{"id": "69D628450626D8D5", "title": "", "deps": ["23AAAAF53A58DE75", "65C36850480E3CFB", "214FA0AC03602688", "39D793EF31699C8A", "44B711E1B5B7B00E"], "dm": "ONE", "tasks": ["ITEM tfmg:steel_mechanism x1"]}
+{"id": "60A94E3337A26181", "title": "", "deps": ["5FDD3AE28724E3DB", "46E5565D623C0AC8"], "dm": "ONE", "tasks": ["ITEM tfmg:casting_basin x1", "ITEM tfmg:casting_spout x1"]}
+{"id": "23AAAAF53A58DE75", "title": "Aluminium", "deps": ["3B77F16B06EA00EF"], "dm": "ONE", "tasks": ["ITEM tfmg:bauxite x1", "ITEM tfmg:aluminum_ingot x1"]}
+{"id": "3786CEBDF1D138A3", "title": "Coke Oven", "deps": ["7195C5282BA6B067", "41F2204F3859C40E"], "dm": "ONE", "tasks": ["ITEM tfmg:coke_oven x9"]}
+{"id": "66390863259FE74C", "title": "", "deps": ["61D53F99D72D0940"], "dm": "ONE", "tasks": ["ITEM tfmg:limesand x1"]}
+{"id": "5429EC5DB7D8429C", "title": "", "deps": ["66390863259FE74C", "6AD87BACD480D27B"], "dm": "ONE", "tasks": ["ITEM tfmg:blasting_mixture x1"]}
+{"id": "6AD87BACD480D27B", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_iron x1"]}
+{"id": "0D2D729534CC797F", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM minecraft:iron_ingot x1"]}
+{"id": "41F2204F3859C40E", "title": "", "deps": ["7E82E9591EDB4835"], "dm": "ONE", "tasks": ["ITEM minecraft:coal x1"]}
+{"id": "5800110695DFDE0F", "title": "", "deps": ["3786CEBDF1D138A3"], "dm": "ONE", "tasks": ["ITEM tfmg:coal_coke x1"]}
+{"id": "4529E314F97ED3FA", "title": "", "deps": ["3786CEBDF1D138A3"], "dm": "ONE", "tasks": ["ITEM tfmg:creosote_bucket x1"]}
+{"id": "239718D740BF77C5", "title": "", "deps": ["5800110695DFDE0F"], "dm": "ONE", "tasks": ["ITEM tfmg:coal_coke_dust x1"]}
+{"id": "0A1E595C80AA998B", "title": "", "deps": ["4529E314F97ED3FA"], "dm": "ONE", "tasks": ["ITEM tfmg:hardened_planks x1"]}
+{"id": "1F78ED8F3E697791", "title": "", "deps": ["0A1E595C80AA998B"], "dm": "ONE", "tasks": ["ITEM tfmg:steel_casing x1"]}
+{"id": "0AB740B18E5FA805", "title": "Build a blast furnace", "deps": ["5429EC5DB7D8429C", "239718D740BF77C5", "2E9E011F51858EF2"], "dm": "ONE", "tasks": ["ITEM tfmg:blast_furnace_output x1", "ITEM tfmg:fireproof_brick_reinforcement x8", "ITEM tfmg:fireproof_bricks x15"]}
+{"id": "43DA11DD7F5A2C79", "title": "", "deps": ["0AB740B18E5FA805"], "dm": "ONE", "tasks": ["ITEM tfmg:molten_slag_bucket x1"]}
+{"id": "5FDD3AE28724E3DB", "title": "", "deps": ["0AB740B18E5FA805"], "dm": "ONE", "tasks": ["ITEM tfmg:molten_steel_bucket x1"]}
+{"id": "46E5565D623C0AC8", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM tfmg:ingot_mold x1", "ITEM tfmg:block_mold x1"]}
+{"id": "3AB3B4308FA14C9E", "title": "", "deps": ["3E42FEEFBC22F7D3", "7682212B86FC5B85"], "dm": "ONE", "tasks": ["ITEM tfmg:bauxite x1"]}
+{"id": "3B77F16B06EA00EF", "title": "", "deps": ["3AB3B4308FA14C9E"], "dm": "ONE", "tasks": ["ITEM create:crushed_raw_aluminum x1"]}
+{"id": "214FA0AC03602688", "title": "", "deps": ["44B711E1B5B7B00E"], "dm": "ONE", "tasks": ["ITEM tfmg:heavy_plate x1"]}
+{"id": "65C36850480E3CFB", "title": "", "deps": ["44B711E1B5B7B00E"], "dm": "ONE", "tasks": ["ITEM tfmg:screw x1"]}
+{"id": "1D74F3D74105B835", "title": "", "deps": ["44B711E1B5B7B00E"], "dm": "ONE", "tasks": ["ITEM tfmg:rebar x1"]}
+{"id": "39D793EF31699C8A", "title": "", "deps": ["23AAAAF53A58DE75", "1D74F3D74105B835"], "dm": "ONE", "tasks": ["ITEM tfmg:screwdriver x1"]}
+{"id": "50CDAAB5AECA6B27", "title": "", "deps": ["214FA0AC03602688"], "dm": "ONE", "tasks": ["ITEM tfmg:heavy_machinery_casing x1"]}
+{"id": "7E82E9591EDB4835", "title": "", "deps": ["409394CEF9087E88"], "dm": "ONE", "tasks": ["ITEM create_dd:coal_piece x1"]}
+{"id": "409394CEF9087E88", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM create:scorchia x1"]}
+{"id": "3E42FEEFBC22F7D3", "title": "", "deps": ["409394CEF9087E88"], "dm": "ONE", "tasks": ["ITEM create:cinder_flour x1"]}
+{"id": "7682212B86FC5B85", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM minecraft:red_sand x1"]}
+{"id": "61D53F99D72D0940", "title": "", "deps": ["184B9A5F983FA7A5", "1DBA19EB422182AF"], "dm": "ONE", "tasks": ["ITEM create:limestone x1"]}
+{"id": "1DBA19EB422182AF", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "184B9A5F983FA7A5", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM minecraft:honey_bottle x1"]}
+{"id": "7195C5282BA6B067", "title": "cast iron ingot", "deps": ["41F2204F3859C40E", "0D2D729534CC797F"], "dm": "ONE", "tasks": ["ITEM tfmg:cast_iron_ingot x1"]}
+{"id": "2E9E011F51858EF2", "title": "", "deps": ["3DFF1B74E8AADB57"], "dm": "ONE", "tasks": ["ITEM tfmg:fireclay_ball x1"]}
+{"id": "078DF329C409A210", "title": "", "deps": ["69D628450626D8D5"], "dm": "ONE", "tasks": ["ITEM create_optical:optical_source x1"]}
+{"id": "07FDCB535DE4C4BA", "title": "", "deps": ["078DF329C409A210"], "dm": "ONE", "tasks": ["ITEM create_optical:optical_receptor x1"]}
+{"id": "26BEA55560AE0368", "title": "", "deps": ["078DF329C409A210"], "dm": "ONE", "tasks": ["ITEM create_optical:optical_sensor x1"]}
+{"id": "0730951B2B34EA50", "title": "", "deps": ["078DF329C409A210"], "dm": "ONE", "tasks": ["ITEM create_optical:encased_mirror x1"]}
+{"id": "549427B0BBA24445", "title": "", "deps": ["078DF329C409A210"], "dm": "ONE", "tasks": ["ITEM create_optical:polarizing_beam_splitter_block x1"]}
+{"id": "1DBB6264A5603E04", "title": "", "deps": ["078DF329C409A210"], "dm": "ONE", "tasks": ["ITEM create_optical:absorption_polarizing_filter x1"]}
+{"id": "265960CE3104527E", "title": "", "deps": ["078DF329C409A210"], "dm": "ONE", "tasks": ["ITEM create_optical:beam_focuser x1"]}
+{"id": "70D34C00E2006C09", "title": "", "deps": ["078DF329C409A210"], "dm": "ONE", "tasks": ["ITEM create_optical:beam_condenser x1"]}
+{"id": "2CBF8CC3EB107804", "title": "&l&6Better Energy Production", "deps": ["69D628450626D8D5"], "dm": "ONE", "tasks": ["ITEM tfmg:stator x8", "ITEM tfmg:rotor x1"]}
+{"id": "23D03CB4F4382DDA", "title": "", "deps": ["07FDCB535DE4C4BA"], "dm": "ONE", "tasks": ["ITEM create_optical:heavy_optical_receptor x1"]}
+{"id": "3629B7D03A59F516", "title": "", "deps": ["078DF329C409A210"], "dm": "ONE", "tasks": ["ITEM create_optical:thermal_optical_source x1"]}
+{"id": "30513F4AD063919A", "title": "", "deps": ["078DF329C409A210"], "dm": "ONE", "tasks": ["ITEM create_optical:hologram_source x1"]}
+{"id": "0285493F505AE97E", "title": "", "deps": ["69D628450626D8D5"], "dm": "ONE", "tasks": ["ITEM pipez:fluid_pipe x1"]}
+{"id": "3837A48CE549F839", "title": "", "deps": ["69D628450626D8D5"], "dm": "ONE", "tasks": ["ITEM pipez:advanced_upgrade x1"]}

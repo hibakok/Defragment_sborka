@@ -1,0 +1,25 @@
+{"id": "000000000000032A", "title": "Bravo Six, Going Dark", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_night_vision x1"]}
+{"id": "00000000000003A3", "title": "A Helping Hand", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_regeneration x1"]}
+{"id": "00000000000003A5", "title": "Cave Spiders? Pfft..", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_poison_resistance x1"]}
+{"id": "00000000000003A9", "title": "Johnny Bravo", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_strength x1"]}
+{"id": "0D7D9CF1F00A8963", "title": "The Plant Whisperer", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_growth x1"]}
+{"id": "00000000000003AF", "title": "The Invisibility Ring", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_invisibility x1"]}
+{"id": "00000000000003B1", "title": "Like breathing air!", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_water_breathing x1"]}
+{"id": "00000000000003B5", "title": "Down with the Sickness", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_wither x1"]}
+{"id": "00000000000003B8", "title": "Great Minds", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_dolphin x1"]}
+{"id": "00000000000003BB", "title": "Knockback? No more!", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_knockback_resistance x1"]}
+{"id": "439298A36DF164C1", "title": "Extinguished", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_fire_resistance x1"]}
+{"id": "61EC8066F1112546", "title": "Sweet XP", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_experience x1"]}
+{"id": "2CA01FDC40580A8D", "title": "Water's Gone", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_sponge x1"]}
+{"id": "204E9178AF8E4216", "title": "Gotta Mine Fast", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_mining x1"]}
+{"id": "355971C802A91482", "title": "1-UP", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_health x1"]}
+{"id": "00000000000003CD", "title": "Feel Fast", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_slow_resistance x1"]}
+{"id": "2A04A6B7B6F75264", "title": "Bunny hopper", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_jump_boost x1"]}
+{"id": "00000000000003D2", "title": "Feeling Lucky?", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_luck x1"]}
+{"id": "7942E76F14C8FF79", "title": "Gotta Go Fast", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_speed x1"]}
+{"id": "00000000000003D9", "title": "Great View!", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_slow_falling x1"]}
+{"id": "67B117317EB077BA", "title": "", "deps": ["2CA01FDC40580A8D", "2A04A6B7B6F75264", "439298A36DF164C1", "00000000000003A3", "0D7D9CF1F00A8963", "00000000000003A5", "10FB619223F0AEBF", "00000000000003A9", "000000000000032A", "00000000000003CD", "64157A1BC3E09963", "204E9178AF8E4216", "00000000000003AF", "7B8E7F4A2D5BB1F0", "00000000000003B1", "00000000000003D2", "00000000000003B5", "00000000000003B8", "00000000000003D9", "355971C802A91482", "00000000000003BB", "7942E76F14C8FF79", "61EC8066F1112546", "08913D75A611396B"], "dm": "ONE", "tasks": ["CHECK"]}
+{"id": "08913D75A611396B", "title": "Its like walking on the park", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_water_walking x1"]}
+{"id": "7B8E7F4A2D5BB1F0", "title": "Why is my inventory full again?", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_magnetism x1"]}
+{"id": "64157A1BC3E09963", "title": "Step Assist", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_steadfast_steps x1"]}
+{"id": "10FB619223F0AEBF", "title": "Lava's Gone", "deps": ["0D0118FCEFE0A8E2"], "dm": "ONE", "tasks": ["ITEM ringsofascension:ring_lava_sponge x1"]}

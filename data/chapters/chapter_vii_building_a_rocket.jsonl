@@ -1,0 +1,20 @@
+{"id": "59753336427A57A6", "title": "", "deps": ["5F8B17F4A8CF47C7"], "dm": "ONE", "tasks": ["ITEM ad_astra:rocket_nose_cone x1"]}
+{"id": "5F8B17F4A8CF47C7", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:whirlwind_prism x1"]}
+{"id": "2F520B59F10123D2", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM ad_astra:rocket_fin x4"]}
+{"id": "778AEC1710A4E237", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM tfmg:turbine_engine x2"]}
+{"id": "08ED76082CFF1D16", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM tfmg:radial_engine x2"]}
+{"id": "797DCA89A0B3FBB8", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM create:black_seat x1"]}
+{"id": "0D1A3BE5396104F7", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM kubejs:tier_1_plating x11"]}
+{"id": "7148FF0A0F2F9890", "title": "We are going to the moon!!!", "deps": ["59753336427A57A6", "797DCA89A0B3FBB8", "2F520B59F10123D2", "4EE82272D412DB9C", "778AEC1710A4E237", "08ED76082CFF1D16", "2CCB9C223585FA23", "0D1A3BE5396104F7", "6CE8C3410296E977", "086223FF8861479F", "75BD9E93A6143DC7", "72EC381A9B79EF64"], "dm": "ONE", "tasks": ["ITEM ad_astra:tier_1_rocket x1"]}
+{"id": "47A6ACAA667AD14A", "title": "", "deps": ["7148FF0A0F2F9890"], "dm": "ONE", "tasks": ["DIM ad_astra:moon"]}
+{"id": "2CCB9C223585FA23", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM ad_astra:steel_engine x1"]}
+{"id": "4EE82272D412DB9C", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM ad_astra:steel_tank x2"]}
+{"id": "75BD9E93A6143DC7", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM ad_astra:launch_pad x1"]}
+{"id": "72EC381A9B79EF64", "title": "", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM ad_astra:fuel_bucket x1"]}
+{"id": "086223FF8861479F", "title": "&aSuiting Up&r", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM ad_astra:space_helmet x1", "ITEM ad_astra:space_suit x1", "ITEM ad_astra:space_pants x1", "ITEM ad_astra:space_boots x1"]}
+{"id": "6CE8C3410296E977", "title": "&aPreparing Some&r &bOxygen&r", "deps": ["1084B343FEEBB88E"], "dm": "ONE", "tasks": ["ITEM ad_astra:oxygen_loader x1", "ITEM ad_astra:oxygen_tank x1"]}
+{"id": "509BB6BF39848F5B", "title": "Space Stations", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM ad_astra:desh_ingot x32"]}
+{"id": "01B1F88F57961B10", "title": "Oxygen for your Bases!", "deps": ["509BB6BF39848F5B", "29A64A556C101D83", "37D437BA68D6864C"], "dm": "ONE", "tasks": ["ITEM ad_astra:oxygen_distributor x1"]}
+{"id": "37D437BA68D6864C", "title": "Craft a &2Solar Panel", "deps": ["509BB6BF39848F5B"], "dm": "ONE", "tasks": ["ITEM ad_astra:solar_panel x8"]}
+{"id": "29A64A556C101D83", "title": "", "deps": ["509BB6BF39848F5B"], "dm": "ONE", "tasks": ["ITEM ad_astra:water_pump x1"]}
+{"id": "694646586C18C609", "title": "", "deps": ["47A6ACAA667AD14A"], "dm": "ONE", "tasks": ["ITEM ad_astra:tier_1_rover x1"]}

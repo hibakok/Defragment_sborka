@@ -1,0 +1,31 @@
+{"id": "333CCE71E8979C07", "title": "Finding the ore deposit", "deps": ["69D628450626D8D5"], "dm": "ONE", "tasks": ["ITEM tfmg:surface_scanner x1"]}
+{"id": "683EC98909A058CD", "title": "Pumpjack", "deps": ["333CCE71E8979C07"], "dm": "ONE", "tasks": ["ITEM tfmg:pumpjack_hammer_head x1", "ITEM tfmg:pumpjack_hammer_part x5", "ITEM tfmg:pumpjack_hammer x1", "ITEM tfmg:pumpjack_crank x1", "ITEM tfmg:pumpjack_base x1", "ITEM tfmg:steel_truss x3", "ITEM tfmg:pumpjack_hammer_connector x1"]}
+{"id": "615126E9C29AA0F1", "title": "Distilation", "deps": ["683EC98909A058CD"], "dm": "ONE", "tasks": ["ITEM tfmg:steel_distillation_controller x1", "ITEM tfmg:steel_truss x1", "ITEM tfmg:steel_fluid_tank x52", "ITEM tfmg:steel_distillation_output x6", "ITEM tfmg:industrial_pipe x5"]}
+{"id": "20218B68C748F8E8", "title": "", "deps": ["615126E9C29AA0F1"], "dm": "ONE", "tasks": ["ITEM tfmg:heavy_oil_bucket x1"]}
+{"id": "17695F39F46DA92C", "title": "", "deps": ["615126E9C29AA0F1"], "dm": "ONE", "tasks": ["ITEM tfmg:kerosene_bucket x1"]}
+{"id": "1EA7C3F726EAC443", "title": "", "deps": ["615126E9C29AA0F1"], "dm": "ONE", "tasks": ["ITEM tfmg:naphtha_bucket x1"]}
+{"id": "2A662FA99B21BFB3", "title": "", "deps": ["615126E9C29AA0F1"], "dm": "ONE", "tasks": ["ITEM tfmg:gasoline_bucket x1"]}
+{"id": "026770210A6EBDB4", "title": "", "deps": ["20218B68C748F8E8"], "dm": "ONE", "tasks": ["ITEM tfmg:lubrication_oil_bucket x1"]}
+{"id": "0387186A7791A953", "title": "", "deps": ["615126E9C29AA0F1"], "dm": "ONE", "tasks": ["ITEM tfmg:diesel_bucket x1"]}
+{"id": "4DA9294ABB244D04", "title": "", "deps": ["20218B68C748F8E8"], "dm": "ONE", "tasks": ["ITEM tfmg:sulfur_dust x1"]}
+{"id": "077DDA2EE4C3603D", "title": "", "deps": ["20218B68C748F8E8"], "dm": "ONE", "tasks": ["ITEM tfmg:bitumen x1"]}
+{"id": "2679F3B882A0DAB5", "title": "", "deps": ["2A662FA99B21BFB3"], "dm": "ONE", "tasks": ["ITEM tfmg:napalm_bucket x1"]}
+{"id": "1E6D5B2997075953", "title": "", "deps": ["5893486848C8931C", "556E94E1F0E9AFAA"], "dm": "ONE", "tasks": ["ITEM tfmg:liquid_plastic_bucket x1"]}
+{"id": "660362D67075EA49", "title": "", "deps": ["1E6D5B2997075953"], "dm": "ONE", "tasks": ["ITEM tfmg:plastic_sheet x1"]}
+{"id": "4AF468B735AE6B79", "title": "", "deps": ["730E3804B6D5B7F7", "7CD2C7A5223D2A7E", "4060586D158C1952"], "dm": "ONE", "tasks": ["ITEM createaddition:bioethanol_bucket x1"]}
+{"id": "7EEB0092E87627F1", "title": "&9&lAstral rocket fuel&r", "deps": ["0387186A7791A953", "4AF468B735AE6B79"], "dm": "ONE", "tasks": ["ITEM ad_astra:fuel_bucket x1"]}
+{"id": "172F5C6299B3F16B", "title": "LPG Engine", "deps": ["798D36A2126D8313"], "dm": "ONE", "tasks": ["ITEM tfmg:lpg_engine_back x1", "ITEM tfmg:lpg_engine x1"]}
+{"id": "5AEF548F7EE34193", "title": "Petrol Engine", "deps": ["2A662FA99B21BFB3"], "dm": "ONE", "tasks": ["ITEM tfmg:gasoline_engine_back x1", "ITEM tfmg:gasoline_engine x1"]}
+{"id": "62B3EE1FE1FA7AB2", "title": "", "deps": ["5AEF548F7EE34193"], "dm": "ONE", "tasks": ["ITEM tfmg:radial_engine x1"]}
+{"id": "3A2648E4FAE7626B", "title": "Turbine Engine", "deps": ["17695F39F46DA92C"], "dm": "ONE", "tasks": ["ITEM tfmg:turbine_engine_back x1", "ITEM tfmg:turbine_engine x1"]}
+{"id": "7674B1F60D154B22", "title": "", "deps": ["3A2648E4FAE7626B"], "dm": "ONE", "tasks": ["ITEM tfmg:large_radial_engine x1"]}
+{"id": "02BE54113CFCBBF4", "title": "", "deps": ["0387186A7791A953"], "dm": "ONE", "tasks": ["ITEM tfmg:diesel_engine x1", "ITEM tfmg:air_intake x1"]}
+{"id": "438A569390D74082", "title": "", "deps": ["02BE54113CFCBBF4"], "dm": "ONE", "tasks": ["ITEM tfmg:diesel_engine_expansion x1"]}
+{"id": "798D36A2126D8313", "title": "LPG", "deps": ["615126E9C29AA0F1"], "dm": "ONE", "tasks": ["ITEM tfmg:lpg_bucket x1"]}
+{"id": "2FACB47C9CF7B31E", "title": "", "deps": ["2679F3B882A0DAB5"], "dm": "ONE", "tasks": ["ITEM tfmg:napalm_bomb x1"]}
+{"id": "730E3804B6D5B7F7", "title": "", "deps": ["69D628450626D8D5"], "dm": "ONE", "tasks": ["ITEM create:cinder_flour x1"]}
+{"id": "7CD2C7A5223D2A7E", "title": "", "deps": ["69D628450626D8D5"], "dm": "ONE", "tasks": ["ITEM createaddition:biomass x1"]}
+{"id": "4060586D158C1952", "title": "", "deps": ["69D628450626D8D5"], "dm": "ONE", "tasks": ["ITEM minecraft:sugar x1"]}
+{"id": "2CE24FDF53DE273B", "title": "What to do with excess liquids?", "deps": ["615126E9C29AA0F1"], "dm": "ONE", "tasks": ["ITEM tfmg:flarestack x1"]}
+{"id": "5893486848C8931C", "title": "", "deps": ["1EA7C3F726EAC443"], "dm": "ONE", "tasks": ["ITEM tfmg:ethylene_bucket x1"]}
+{"id": "556E94E1F0E9AFAA", "title": "", "deps": ["1EA7C3F726EAC443"], "dm": "ONE", "tasks": ["ITEM tfmg:propylene_bucket x1"]}

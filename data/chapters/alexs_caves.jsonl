@@ -1,0 +1,71 @@
+{"id": "5952AF93B95E494C", "title": "Visit a Primordial Cave", "deps": ["24416D60F9757C16"], "dm": "ONE", "tasks": ["BIOME alexscaves:primordial_caves"]}
+{"id": "52034A3AD5A347C8", "title": "Visit a Toxic Cave", "deps": ["24416D60F9757C16"], "dm": "ONE", "tasks": ["BIOME alexscaves:toxic_caves"]}
+{"id": "073F2FEC3D06AC0E", "title": "Visit a Magnetic Cave", "deps": ["24416D60F9757C16"], "dm": "ONE", "tasks": ["BIOME alexscaves:magnetic_caves"]}
+{"id": "724179DC4605ECC2", "title": "Visit a Forlorn Cave", "deps": ["24416D60F9757C16"], "dm": "ONE", "tasks": ["BIOME alexscaves:forlorn_hollows"]}
+{"id": "5782F8A43B93FC7D", "title": "Find an Abyssal Chasm", "deps": ["24416D60F9757C16"], "dm": "ONE", "tasks": ["BIOME alexscaves:abyssal_chasm"]}
+{"id": "24416D60F9757C16", "title": "", "deps": ["2F7BB458FD5AFF19"], "dm": "ONE", "tasks": ["ITEM alexscaves:cave_map x1"]}
+{"id": "773A0ACF6CC25768", "title": "", "deps": ["4CB998ED5BAAF25C"], "dm": "ONE", "tasks": ["ITEM alexscaves:abyssal_altar x1"]}
+{"id": "10DA24F96BA7A28E", "title": "", "deps": ["5782F8A43B93FC7D"], "dm": "ONE", "tasks": ["ITEM alexscaves:floater x1"]}
+{"id": "641682361C82AC65", "title": "", "deps": ["5782F8A43B93FC7D"], "dm": "ONE", "tasks": ["ITEM alexscaves:diving_helmet x1", "ITEM alexscaves:diving_chestplate x1", "ITEM alexscaves:diving_leggings x1", "ITEM alexscaves:diving_boots x1"]}
+{"id": "727700F323905A1E", "title": "", "deps": ["5782F8A43B93FC7D"], "dm": "ONE", "tasks": ["ADV alexscaves:alexscaves/ride_submarine"]}
+{"id": "78A9DD332ACE9BFD", "title": "", "deps": ["773A0ACF6CC25768"], "dm": "ONE", "tasks": ["ITEM alexscaves:sea_staff x1"]}
+{"id": "6BB561AF24722175", "title": "", "deps": ["773A0ACF6CC25768"], "dm": "ONE", "tasks": ["ITEM alexscaves:ortholance x1"]}
+{"id": "54D9E80AD12E1F7D", "title": "", "deps": ["773A0ACF6CC25768"], "dm": "ONE", "tasks": ["ITEM alexscaves:magic_conch x1"]}
+{"id": "7B9B86D4F1133C89", "title": "", "deps": ["5782F8A43B93FC7D"], "dm": "ONE", "tasks": ["ITEM alexscaves:mussel x1"]}
+{"id": "4CB998ED5BAAF25C", "title": "", "deps": ["7B9B86D4F1133C89"], "dm": "ONE", "tasks": ["ITEM alexscaves:pearl x1"]}
+{"id": "663B00FD79A7D188", "title": "", "deps": ["5782F8A43B93FC7D"], "dm": "ONE", "tasks": ["ITEM alexscaves:lanternfish x1", "ITEM minecraft:potion x1"]}
+{"id": "1D2D3BDA65537C43", "title": "", "deps": ["5782F8A43B93FC7D"], "dm": "ONE", "tasks": ["ITEM alexscaves:bioluminescent_torch x1"]}
+{"id": "535A7CBC4E22C265", "title": "", "deps": ["5782F8A43B93FC7D"], "dm": "ONE", "tasks": ["ITEM alexscaves:drain x1"]}
+{"id": "68FA6D8701E7FD0E", "title": "", "deps": ["773A0ACF6CC25768"], "dm": "ONE", "tasks": ["ITEM alexscaves:gazing_pearl x1"]}
+{"id": "67497B2F16C53C69", "title": "", "deps": ["073F2FEC3D06AC0E"], "dm": "ONE", "tasks": ["ITEM alexscaves:notor_gizmo x1"]}
+{"id": "5D5AF7240033CD4A", "title": "", "deps": ["073F2FEC3D06AC0E"], "dm": "ONE", "tasks": ["ITEM alexscaves:hologram_projector x1", "ITEM alexscaves:holocoder x1"]}
+{"id": "16EEB94284FA163B", "title": "Neodymiums Ingots", "deps": ["073F2FEC3D06AC0E"], "dm": "ONE", "tasks": ["ITEM alexscaves:scarlet_neodymium_ingot x1", "ITEM alexscaves:azure_neodymium_ingot x1"]}
+{"id": "0D5BFDD982438E57", "title": "", "deps": ["16EEB94284FA163B"], "dm": "ONE", "tasks": ["ITEM alexscaves:resistor_shield x1"]}
+{"id": "03FF34CE5EAD0556", "title": "", "deps": ["16EEB94284FA163B"], "dm": "ONE", "tasks": ["ITEM alexscaves:galena_gauntlet x1"]}
+{"id": "618DBBF502E14043", "title": "Quarry", "deps": ["16EEB94284FA163B"], "dm": "ONE", "tasks": ["ITEM alexscaves:quarry_smasher x1", "ITEM alexscaves:quarry x1", "ITEM alexscaves:magnetic_light x4"]}
+{"id": "1997A43692ABDAFB", "title": "", "deps": ["16EEB94284FA163B"], "dm": "ONE", "tasks": ["ITEM alexscaves:magnetic_levitation_rail x1"]}
+{"id": "5CEE9A9A313448AE", "title": "", "deps": ["16EEB94284FA163B"], "dm": "ONE", "tasks": ["ITEM alexscaves:magnetic_activator x1"]}
+{"id": "3883F54E2F6B06C4", "title": "", "deps": ["5CEE9A9A313448AE"], "dm": "ONE", "tasks": ["ITEM alexscaves:azure_magnet x1", "ITEM alexscaves:scarlet_magnet x1"]}
+{"id": "2932C738EE60499A", "title": "", "deps": ["677A980276088747"], "dm": "ONE", "tasks": ["ITEM alexscaves:pure_darkness x1"]}
+{"id": "5B47F475817876A4", "title": "", "deps": ["677A980276088747"], "dm": "ONE", "tasks": ["ITEM alexscaves:occult_gem x1"]}
+{"id": "3A2A00DC172F8F4F", "title": "", "deps": ["5B47F475817876A4"], "dm": "ONE", "tasks": ["ITEM alexscaves:totem_of_possession x1"]}
+{"id": "4839CC6DD5B80AA4", "title": "", "deps": ["2932C738EE60499A"], "dm": "ONE", "tasks": ["ITEM alexscaves:hood_of_darkness x1", "ITEM alexscaves:cloak_of_darkness x1"]}
+{"id": "57162294623F2AC4", "title": "", "deps": ["2932C738EE60499A"], "dm": "ONE", "tasks": ["ITEM alexscaves:dreadbow x1"]}
+{"id": "2D0FAC539F548968", "title": "", "deps": ["724179DC4605ECC2"], "dm": "ONE", "tasks": ["ITEM alexscaves:moth_ball x1"]}
+{"id": "0A8B482AE8010C48", "title": "", "deps": ["724179DC4605ECC2"], "dm": "ONE", "tasks": ["ITEM alexscaves:desolate_dagger x1"]}
+{"id": "2F0CC4EB0F9262C8", "title": "", "deps": ["5B47F475817876A4"], "dm": "ONE", "tasks": ["ITEM alexscaves:beholder x1"]}
+{"id": "677A980276088747", "title": "", "deps": ["724179DC4605ECC2"], "dm": "ONE", "tasks": ["ADV alexscaves:alexscaves/underzealot_sacrifice"]}
+{"id": "038D9645C681523D", "title": "", "deps": ["4839CC6DD5B80AA4"], "dm": "ONE", "tasks": ["ITEM alexscaves:darkened_apple x1"]}
+{"id": "3E8A748C1116277D", "title": "", "deps": ["6B2047D7A9D2E35E"], "dm": "ONE", "tasks": ["ITEM alexscaves:amber_monolith x1"]}
+{"id": "65CC2F06272495DB", "title": "", "deps": ["5952AF93B95E494C"], "dm": "ONE", "tasks": ["ITEM alexscaves:heavy_bone x1"]}
+{"id": "0CFA5E7959BB11C3", "title": "", "deps": ["65CC2F06272495DB"], "dm": "ONE", "tasks": ["ITEM alexscaves:primitive_club x1"]}
+{"id": "6BFF6EBA40A86EB1", "title": "", "deps": ["65CC2F06272495DB"], "dm": "ONE", "tasks": ["ITEM alexscaves:primordial_helmet x1", "ITEM alexscaves:primordial_tunic x1", "ITEM alexscaves:primordial_pants x1"]}
+{"id": "0AB7F0D505BA018B", "title": "", "deps": ["6B2047D7A9D2E35E", "65CC2F06272495DB"], "dm": "ONE", "tasks": ["ITEM alexscaves:ominous_catalyst x1"]}
+{"id": "6D4D367E160FA5FE", "title": "", "deps": ["6B2047D7A9D2E35E", "65CC2F06272495DB"], "dm": "ONE", "tasks": ["ITEM alexscaves:extinction_spear x1"]}
+{"id": "5F97E930E7B908AB", "title": "", "deps": ["5952AF93B95E494C"], "dm": "ONE", "tasks": ["ITEM alexscaves:limestone_spear x1"]}
+{"id": "3E1E7BDF07F26798", "title": "", "deps": ["5952AF93B95E494C"], "dm": "ONE", "tasks": ["ITEM alexscaves:amber x1"]}
+{"id": "6B2047D7A9D2E35E", "title": "", "deps": ["3E1E7BDF07F26798"], "dm": "ONE", "tasks": ["ITEM alexscaves:amber_curiosity x1"]}
+{"id": "68BCDC5045F09E16", "title": "", "deps": ["0CFA5E7959BB11C3"], "dm": "ONE", "tasks": ["ITEM alexscaves:tremorsaurus_egg x1"]}
+{"id": "345E35BCF0E07FE7", "title": "", "deps": ["39CA1FF1D5F74761", "3D2650CB3F913539"], "dm": "ONE", "tasks": ["ITEM alexscaves:nuclear_furnace_component x8"]}
+{"id": "5DF0DC8F642AA126", "title": "Hazmat Suit", "deps": ["38325B285FDE9576"], "dm": "ONE", "tasks": ["ITEM alexscaves:hazmat_mask x1", "ITEM alexscaves:hazmat_chestplate x1", "ITEM alexscaves:hazmat_leggings x1", "ITEM alexscaves:hazmat_boots x1"]}
+{"id": "39CA1FF1D5F74761", "title": "", "deps": ["52034A3AD5A347C8"], "dm": "ONE", "tasks": ["ITEM alexscaves:uranium_rod x1"]}
+{"id": "1D7887F2DD464E2C", "title": "", "deps": ["39CA1FF1D5F74761"], "dm": "ONE", "tasks": ["ITEM alexscaves:nuclear_bomb x1"]}
+{"id": "60F134732D603EDE", "title": "", "deps": ["1D7887F2DD464E2C"], "dm": "ONE", "tasks": ["ITEM alexscaves:raygun x1"]}
+{"id": "38325B285FDE9576", "title": "", "deps": ["52034A3AD5A347C8"], "dm": "ONE", "tasks": ["ITEM alexscaves:radon_bottle x1"]}
+{"id": "3D2650CB3F913539", "title": "", "deps": ["52034A3AD5A347C8"], "dm": "ONE", "tasks": ["ITEM alexscaves:charred_remnant x1"]}
+{"id": "14A5FF0F3BCF9C41", "title": "", "deps": ["3D2650CB3F913539"], "dm": "ONE", "tasks": ["ITEM alexscaves:nuclear_siren x1"]}
+{"id": "73F56AA993211D9E", "title": "", "deps": ["1D7887F2DD464E2C"], "dm": "ONE", "tasks": ["ITEM alexscaves:remote_detonator x1"]}
+{"id": "4BAF03239FBEA642", "title": "Visit a Candy Cave", "deps": ["24416D60F9757C16"], "dm": "ONE", "tasks": ["BIOME alexscaves:candy_cavity"]}
+{"id": "2B078C0B08C5FF1E", "title": "", "deps": ["4BAF03239FBEA642"], "dm": "ONE", "tasks": ["ITEM alexscaves:sack_of_sating x1"]}
+{"id": "703BC828E983E165", "title": "", "deps": ["5E96F5006CC7E8EF"], "dm": "ONE", "tasks": ["ITEM alexscaves:candy_cane_hook x1"]}
+{"id": "54C71D964F389BF2", "title": "", "deps": ["4BAF03239FBEA642"], "dm": "ONE", "tasks": ["ITEM alexscaves:rainbounce_boots x1"]}
+{"id": "6A9047497BE80DE8", "title": "", "deps": ["6D42FFB26774833A"], "dm": "ONE", "tasks": ["ITEM alexscaves:sugar_staff x1"]}
+{"id": "6FD97B8AC6824AC6", "title": "", "deps": ["4BAF03239FBEA642"], "dm": "ONE", "tasks": ["ITEM alexscaves:purple_soda_bottle x1"]}
+{"id": "23F764FC98353921", "title": "", "deps": ["5338A94A05A528F4"], "dm": "ONE", "tasks": ["ITEM alexscaves:conversion_crucible x1"]}
+{"id": "096FD8208453176D", "title": "", "deps": ["4BAF03239FBEA642"], "dm": "ONE", "tasks": ["ITEM alexscaves:hot_chocolate_bottle x1"]}
+{"id": "6E910871CDD12D0D", "title": "", "deps": ["4BAF03239FBEA642"], "dm": "ONE", "tasks": ["ITEM alexscaves:shot_gum x1"]}
+{"id": "6D42FFB26774833A", "title": "", "deps": ["4BAF03239FBEA642"], "dm": "ONE", "tasks": ["ITEM alexscaves:radiant_essence x1"]}
+{"id": "5338A94A05A528F4", "title": "", "deps": ["6D42FFB26774833A"], "dm": "ONE", "tasks": ["ITEM alexscaves:biome_treat x1"]}
+{"id": "39EF8D27E2FE6C42", "title": "", "deps": ["6D42FFB26774833A"], "dm": "ONE", "tasks": ["ITEM alexscaves:confection_oven x1"]}
+{"id": "5E96F5006CC7E8EF", "title": "", "deps": ["4BAF03239FBEA642"], "dm": "ONE", "tasks": ["ITEM alexscaves:gobthumper x1"]}
+{"id": "7F079B7ADC0C38C8", "title": "", "deps": ["54C71D964F389BF2"], "dm": "ONE", "tasks": ["ITEM alexscaves:frostmint_spear x1"]}
