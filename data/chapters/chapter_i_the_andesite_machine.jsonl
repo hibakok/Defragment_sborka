@@ -1,0 +1,17 @@
+{"id": "12796FE2B6E3D53E", "title": "Tree Farm", "deps": ["342BCE36CF749057"], "dm": "ONE", "tasks": ["ITEM any#tag:minecraft:saplings x1"]}
+{"id": "0C58CBF1F4D636FC", "title": "Log Harvest", "deps": ["12796FE2B6E3D53E"], "dm": "ONE", "tasks": ["ITEM any#tag:minecraft:logs x1"]}
+{"id": "5C5BBEA6E03836C7", "title": "Sawmill Processing", "deps": ["0C58CBF1F4D636FC"], "dm": "ONE", "tasks": ["ITEM any#tag:create:vanilla_stripped_logs x1"]}
+{"id": "5D5914AC9E5722EF", "title": "Plank Production", "deps": ["5C5BBEA6E03836C7"], "dm": "ONE", "tasks": ["ITEM any#tag:minecraft:planks x1"]}
+{"id": "507927EEC1417661", "title": "Slab Crafting", "deps": ["5D5914AC9E5722EF"], "dm": "ONE", "tasks": ["ITEM any#tag:minecraft:wooden_slabs x1"]}
+{"id": "6528F97D788A957A", "title": "Lava Collection", "deps": ["342BCE36CF749057"], "dm": "ONE", "tasks": ["ITEM minecraft:lava_bucket x1"]}
+{"id": "72070D0355244B40", "title": "Water Gathering", "deps": ["342BCE36CF749057"], "dm": "ONE", "tasks": ["ITEM minecraft:water_bucket x1"]}
+{"id": "5DB498A2D21DEC4D", "title": "Cobblestone Generation", "deps": ["6528F97D788A957A", "72070D0355244B40"], "dm": "ONE", "tasks": ["ITEM minecraft:cobblestone x1"]}
+{"id": "53EB7E023803E1B4", "title": "Gravel Production", "deps": ["5DB498A2D21DEC4D"], "dm": "ONE", "tasks": ["ITEM minecraft:gravel x1"]}
+{"id": "7FE2DE6213FF326A", "title": "Andesite Production", "deps": ["53EB7E023803E1B4"], "dm": "ONE", "tasks": ["ITEM minecraft:andesite x1"]}
+{"id": "43D6EC530F7F1126", "title": "Andesite Alloy Mixing", "deps": ["7FE2DE6213FF326A"], "dm": "ONE", "tasks": ["ITEM create:andesite_alloy x1"]}
+{"id": "5E60FF6098CB030B", "title": "Building the Rotation Mechanism", "deps": ["0BEFDBD8AC519539", "507927EEC1417661", "43D6EC530F7F1126"], "dm": "ONE", "tasks": ["ITEM kubejs:rotation_mechanism x1"]}
+{"id": "0BEFDBD8AC519539", "title": "Hammer Acquisition", "deps": ["342BCE36CF749057"], "dm": "ONE", "tasks": ["ITEM ad_astra:hammer x1"]}
+{"id": "3AEFFAED564130A6", "title": "The Andesite Machine", "deps": ["5E60FF6098CB030B"], "dm": "ONE", "tasks": ["ITEM kubejs:andesite_machine x1"]}
+{"id": "342BCE36CF749057", "title": "Lets get started!", "deps": ["1F6BC8C2A5B8F9B2"], "dm": "ONE", "tasks": ["CHECK "]}
+{"id": "1EEB1C5C7801D8D0", "title": "Stonecutter", "deps": ["3AEFFAED564130A6"], "dm": "ONE", "tasks": ["ITEM minecraft:stonecutter x1"]}
+{"id": "0219E3A871B9029E", "title": "Early Iron Production (OPTIONAL)", "deps": ["5E60FF6098CB030B"], "dm": "ONE", "tasks": ["ITEM minecraft:iron_nugget x1", "ITEM minecraft:flint x1"]}

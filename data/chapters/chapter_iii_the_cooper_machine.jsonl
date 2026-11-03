@@ -1,0 +1,11 @@
+{"id": "6C54D9FC570E8C23", "title": "", "deps": ["5012AE3E688F40D7"], "dm": "ONE", "tasks": ["ITEM create_dd:sap_bucket x1"]}
+{"id": "300DD17E607B3081", "title": "", "deps": ["6C54D9FC570E8C23"], "dm": "ONE", "tasks": ["ITEM create_dd:raw_rubber x1"]}
+{"id": "2E72CEB626FD6EBE", "title": "", "deps": ["300DD17E607B3081"], "dm": "ONE", "tasks": ["ITEM create_dd:rubber x1"]}
+{"id": "269E461376CE2456", "title": "Belts", "deps": ["2E72CEB626FD6EBE"], "dm": "ONE", "tasks": ["ITEM create:belt_connector x1"]}
+{"id": "469BCDA1AD3D80FA", "title": "Copper Ore", "deps": ["5E60FF6098CB030B"], "dm": "ONE", "tasks": ["ITEM minecraft:copper_ingot x1"]}
+{"id": "68CD9910A1658762", "title": "", "deps": ["469BCDA1AD3D80FA"], "dm": "ONE", "tasks": ["ITEM create:copper_sheet x1"]}
+{"id": "48413A6A0A9BFFA7", "title": "", "deps": ["5E60FF6098CB030B"], "dm": "ONE", "tasks": ["ITEM supplementaries:wrench x1"]}
+{"id": "26B8E592AED8E995", "title": "", "deps": ["15777779AE0400E3"], "dm": "ONE", "tasks": ["ITEM minecraft:glass x1"]}
+{"id": "15777779AE0400E3", "title": "Sand", "deps": ["5E60FF6098CB030B"], "dm": "ONE", "tasks": ["ITEM any#tag:smelts_to_glass x1"]}
+{"id": "5012AE3E688F40D7", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM kubejs:copper_machine x1"]}
+{"id": "646C119DC7AC80AB", "title": "", "deps": ["26B8E592AED8E995", "48413A6A0A9BFFA7", "68CD9910A1658762"], "dm": "ONE", "tasks": ["ITEM create_sa:hydraulic_engine x1"]}

@@ -1,0 +1,22 @@
+{
+ "modpack": "Create Chronicles: Bosses and Beyond",
+ "version": "2.5.3",
+ "mc": "1.20.1",
+ "loader": "forge-47.3.0",
+ "curseforge_project": 980595,
+ "file_id": 6718803,
+ "total_quests": 1827,
+ "chapters": 31,
+ "quest_task_types": {
+  "biome": 6,
+  "item": 1997,
+  "advancement": 22,
+  "checkmark": 68,
+  "structure": 6,
+  "observation": 2,
+  "kill": 67,
+  "dimension": 7,
+  "fluid": 1
+ },
+ "recon_date": "2026-11-03"
+}

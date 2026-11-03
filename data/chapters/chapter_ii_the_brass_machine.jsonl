@@ -1,0 +1,42 @@
+{"id": "7D6E6EFCB2DD19A0", "title": "", "deps": ["671ABB3F4DDF8A89", "1C5DFA2AD6DEE1B2", "201291E8B8D4FE73", "05836C34CD66A56F"], "dm": "ONE", "tasks": ["ITEM ae2:small_quartz_bud x1"]}
+{"id": "72C989B765AD2A4B", "title": "", "deps": ["7D6E6EFCB2DD19A0"], "dm": "ONE", "tasks": ["ITEM ae2:medium_quartz_bud x1"]}
+{"id": "0101855DF75D6C40", "title": "", "deps": ["72C989B765AD2A4B"], "dm": "ONE", "tasks": ["ITEM ae2:large_quartz_bud x1"]}
+{"id": "5BFA4F90901AC7B2", "title": "", "deps": ["0101855DF75D6C40"], "dm": "ONE", "tasks": ["ITEM ae2:quartz_cluster x1"]}
+{"id": "49E754928BF234F3", "title": "", "deps": ["5BFA4F90901AC7B2"], "dm": "ONE", "tasks": ["ITEM ae2:certus_quartz_crystal x1"]}
+{"id": "340B69A08A8A7CF3", "title": "", "deps": ["49E754928BF234F3", "2EBE018FE570EF16"], "dm": "ONE", "tasks": ["ITEM create:rose_quartz x1"]}
+{"id": "2EBE018FE570EF16", "title": "", "deps": ["5167DEF3903D6CFD", "64A476C01D1C4742"], "dm": "ONE", "tasks": ["ITEM kubejs:destabilized_redstone_bucket x1"]}
+{"id": "64A476C01D1C4742", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM minecraft:redstone x1"]}
+{"id": "1C5DFA2AD6DEE1B2", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM minecraft:sugar x1"]}
+{"id": "05836C34CD66A56F", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM minecraft:water_bucket x1"]}
+{"id": "671ABB3F4DDF8A89", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM minecraft:sand x1"]}
+{"id": "1BAF2EB40FE08B25", "title": "", "deps": ["5924E1675FE1A9D0", "588F642CD467FC64"], "dm": "ONE", "tasks": ["ITEM create:electron_tube x1"]}
+{"id": "201291E8B8D4FE73", "title": "", "deps": ["2BBB5E496BBD52C5"], "dm": "ONE", "tasks": ["ITEM minecraft:quartz x1"]}
+{"id": "5924E1675FE1A9D0", "title": "", "deps": ["340B69A08A8A7CF3"], "dm": "ONE", "tasks": ["ITEM create:polished_rose_quartz x1"]}
+{"id": "5E59C8255183FF3E", "title": "", "deps": ["555CE8F6001EF8E7", "14ADA913C53709AE"], "dm": "ONE", "tasks": ["ITEM create:brass_ingot x1"]}
+{"id": "555CE8F6001EF8E7", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM minecraft:copper_ingot x1"]}
+{"id": "14ADA913C53709AE", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM create:zinc_ingot x1"]}
+{"id": "701883FE5E3CF381", "title": "", "deps": ["5E59C8255183FF3E"], "dm": "ONE", "tasks": ["ITEM create:brass_sheet x1"]}
+{"id": "5167DEF3903D6CFD", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM minecraft:nether_wart x1"]}
+{"id": "2BBB5E496BBD52C5", "title": "", "deps": ["61B5DE7788ED3D6D", "70FE285006F6632F", "7A50893172D43878"], "dm": "ONE", "tasks": ["ITEM minecraft:soul_sand x1"]}
+{"id": "70FE285006F6632F", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM quark:soul_bead x1"]}
+{"id": "61B5DE7788ED3D6D", "title": "", "deps": ["671ABB3F4DDF8A89"], "dm": "ONE", "tasks": ["ITEM forbidden_arcanus:soulless_sand x1"]}
+{"id": "7A50893172D43878", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM born_in_chaos_v1:ethereal_spirit x1"]}
+{"id": "6F2EA0844769A10A", "title": "", "deps": ["7F75BF2B511A2B14", "701883FE5E3CF381", "1BAF2EB40FE08B25"], "dm": "ONE", "tasks": ["ITEM create:precision_mechanism x1"]}
+{"id": "588F642CD467FC64", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM create:iron_sheet x1"]}
+{"id": "637D976589937434", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM kubejs:brass_machine x1"]}
+{"id": "738E4BA03DA3D655", "title": "&6Tom's Simple Storage", "deps": ["637D976589937434"], "dm": "ONE", "tasks": ["ITEM toms_storage:ts.inventory_connector x1", "ITEM toms_storage:ts.storage_terminal x1", "ITEM toms_storage:ts.crafting_terminal x1"]}
+{"id": "7F75BF2B511A2B14", "title": "", "deps": ["646C119DC7AC80AB"], "dm": "ONE", "tasks": ["ITEM create:cogwheel x1"]}
+{"id": "62E69747ECE312C3", "title": "", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM patchouli:guide_book x1"]}
+{"id": "77BBCB5B0ED47F06", "title": "", "deps": ["738E4BA03DA3D655"], "dm": "ONE", "tasks": ["ITEM toms_storage:ts.inventory_cable x1", "ITEM toms_storage:ts.inventory_cable_connector x1"]}
+{"id": "07E522F440A317AA", "title": "Framed Inventory Cables", "deps": ["77BBCB5B0ED47F06"], "dm": "ONE", "tasks": ["ITEM toms_storage:ts.inventory_cable_framed x1", "ITEM toms_storage:ts.inventory_cable_connector_framed x1"]}
+{"id": "3C5651A758797922", "title": "", "deps": ["07E522F440A317AA"], "dm": "ONE", "tasks": ["ITEM toms_storage:ts.paint_kit x1"]}
+{"id": "078236AFE937C60D", "title": "", "deps": ["738E4BA03DA3D655"], "dm": "ONE", "tasks": ["ITEM toms_storage:ts.wireless_terminal x1"]}
+{"id": "0B177BE0E648B743", "title": "", "deps": ["738E4BA03DA3D655"], "dm": "ONE", "tasks": ["ITEM toms_storage:ts.inventory_hopper_basic x1"]}
+{"id": "7F8C4AC998EA00CF", "title": "", "deps": ["738E4BA03DA3D655"], "dm": "ONE", "tasks": ["ITEM toms_storage:ts.inventory_proxy x1"]}
+{"id": "71A6E188F736F35E", "title": "", "deps": ["738E4BA03DA3D655"], "dm": "ONE", "tasks": ["ITEM toms_storage:ts.trim x1"]}
+{"id": "147ED68A6F29842F", "title": "", "deps": ["62E69747ECE312C3"], "dm": "ONE", "tasks": ["ITEM buildinggadgets2:gadget_building x1"]}
+{"id": "700F1EEA44663AF4", "title": "", "deps": ["147ED68A6F29842F"], "dm": "ONE", "tasks": ["ITEM buildinggadgets2:gadget_copy_paste x1"]}
+{"id": "35436126527BB3F7", "title": "", "deps": ["147ED68A6F29842F"], "dm": "ONE", "tasks": ["ITEM buildinggadgets2:gadget_exchanging x1"]}
+{"id": "471D399F03EDCF9C", "title": "", "deps": ["700F1EEA44663AF4"], "dm": "ONE", "tasks": ["ITEM buildinggadgets2:template_manager x1"]}
+{"id": "33981F0231E2187E", "title": "Pipez", "deps": ["6F2EA0844769A10A"], "dm": "ONE", "tasks": ["ITEM pipez:item_pipe x1", "ITEM pipez:wrench x1"]}
+{"id": "0BCC513F995DF314", "title": "", "deps": ["33981F0231E2187E"], "dm": "ONE", "tasks": ["ITEM pipez:basic_upgrade x1"]}
