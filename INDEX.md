@@ -17,19 +17,29 @@
 | tools/quests/tasks.py | code | Разбор задач/титулов | готов |
 | tools/quests/graph.py | code | Граф и порядок квестов | готов |
 | tools/quests/demand.py | code | Агрегация потребностей | готов |
+| tools/items/ids.py | code | lang-ключ → id (фильтр мусора) | готов |
+| tools/recipes/load.py | code | Загрузка рецептов (моды+KubeJS) | готов |
+| tools/recipes/parse.py | code | Нормализация рецептов | готов |
+| tools/recipes/index.py | code | Индекс производства | готов |
+| tools/recipes/tree.py | code | CLI дерево потребностей | готов |
+| tools/museum/render.py | code | Отрисовка музейных чек-листов | готов |
+| tools/museum/split.py | code | Деление на части ≤ 470 | готов |
 | tools/plan/route.py | code | Маршрут этапов | готов |
 | tools/plan/render.py | code | Кирпичики Markdown | готов |
 | tools/pipeline/order_all.py | code | Порядок квестов | готов |
 | tools/pipeline/demand_all.py | code | Потребности/мобы | готов |
 | tools/pipeline/skeleton_all.py | code | Генератор чек-листов | готов |
 | tools/pipeline/progress_count.py | code | Подсчёт прогресса | готов |
+| tools/pipeline/museum_all.py | code | Генератор plan/museum/ | готов |
+| tools/pipeline/museum_count.py | code | Счётчик прогресса музея | готов |
+| tools/pipeline/production_all.py | code | Классификация производства + карта | готов |
 | tools/pipeline/items_audit.py | code | Аудит предметов + meta | готов |
 | tools/extract/quests_from_instance.py | code | Экстрактор квестов FTBQ | готов (данные уже извлечены) |
 | tools/extract/mods_from_folder.py | code | Экстрактор модов | готов (данные извлечены) |
 | tools/extract/items_from_mods.py | code | Экстрактор предметов | готов (данные извлечены) |
 | tools/extract/recipes_from_mods.py | code | Экстрактор рецептов | готов (33 мода извлечены) |
 | tools/extract/kubejs_from_instance.py | code | Экстрактор KubeJS (фильтр полезного) | готов (данные извлечены) |
-| tools/tests/selftest.py | code | Самотест (17 проверок) | готов |
+| tools/tests/selftest.py | code | Самотест (22 проверки) | готов |
 | data/meta.json | data | Мета сборки 2.5.3 + слои данных | готов |
 | data/chapters/_index.jsonl | data | Реестр 31 главы | готов |
 | data/chapters/*.jsonl (31) | data | Квесты всех глав (1827) | готов |
@@ -39,12 +49,14 @@
 | data/mods.jsonl | data | 283 мода из jar | готов |
 | data/items.jsonl | data | 26 500 предметов/блоков | готов |
 | data/items_stats.jsonl | data | Предметы по modid | готов |
+| data/production.jsonl | data | 22 501 предмет: маркеры/машины/способы | готов |
 | data/recipes/*.jsonl (33) | data | Рецепты контентных модов | готов |
 | data/kubejs/ (60 файлов) | data | Кастомные рецепты/скрипты сборки | готов |
 | analysis/progression_map.md | analysis | Карта прогрессии | готов |
 | analysis/demand_top.md | analysis | Крупные потребности | готов |
 | analysis/gating_items.md | analysis | Лестница механизмов (точные рецепты) | готов |
 | analysis/items_audit.md | analysis | Аудит предметов | готов |
+| analysis/production_map.md | analysis | Карта производства | готов |
 | plan/README.md | plan | Как читать план, статус | готов |
 | plan/00_setup.md | plan | Установка и настройка | готов |
 | plan/01_basics.md | plan | Этап 01 basics | готов |
@@ -66,4 +78,5 @@
 | plan/17_factories.md | plan | Этап 17 фабрики | готов |
 | plan/18_final.md | plan | Этап 18 финал | готов |
 | plan/auto/*.md (31) | plan | Чек-листы глав (генерируемые) | готов |
+| plan/museum/*.md (136) | plan | Чек-листы предметов (генерируемые) | готов |
 | progress/TRACKER.md | progress | Трекер игрока | готов |

@@ -32,13 +32,15 @@
 
 ## Счётчики (обновлять раз в сеанс)
 
-Команда: `cd tools && python -m pipeline.progress_count`
-(считает галочки во всех plan/auto/*.md).
+Команды (из папки tools/):
+`python -m pipeline.progress_count` — квесты (галочки plan/auto/);
+`python -m pipeline.museum_count` — предметы (галочки plan/museum/).
 
 - Квестов выполнено: 0 / 1827
 - Боссов побеждено: 0 / 59 (список: data/kills.jsonl)
 - Глав закрыто: 0 / 31
-- Предметов получено: 0 / 26500 (аудит: tools → items_audit)
+- Предметов получено: 0 / 22501 (чек-листы: plan/museum/,
+  карта добычи: analysis/production_map.md)
 
 ## Журнал сеансов
 

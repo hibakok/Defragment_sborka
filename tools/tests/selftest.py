@@ -116,6 +116,99 @@ def graph_order():
             assert place[dep] < place[quest['id']], quest['id']
 
 
+@check('IDS: lang-ключ → id, тултипы/зелья/мусор отбрасываются')
+def items_ids():
+    from items.ids import key_to_id, is_item_key, load_items, mod_of, row_id
+    assert key_to_id('item.ae2things.disk_drive_16k') == \
+        'ae2things:disk_drive_16k'
+    assert key_to_id('block.minecraft.stone') == 'minecraft:stone'
+    assert not is_item_key('item.bosses_of_mass_destruction.x.tooltip')
+    assert not is_item_key('item.create_dd.fan.tooltip.behaviour1')
+    assert not is_item_key('item.mowziesmobs.blowgun.text.0')
+    assert not is_item_key('item.minecraft.potion.effect.swiftness')
+    assert not is_item_key('item.canBreak')
+    assert row_id({'modid': 'endrem', 'key': 'block.portal_open_sound.sub',
+                   'name': 'X'}) is None
+    assert row_id({'modid': 'quark', 'key': 'item.quark.biome_map.badlands',
+                   'name': 'X'}) is None
+    assert row_id({'modid': 'minecraft',
+                   'key': 'block.minecraft.banner.base.black',
+                   'name': 'X'}) is None
+    assert row_id({'modid': 'everycomp',
+                   'key': 'block.everycomp.q.aether.hollow_log',
+                   'name': 'X'}) == 'everycomp:q/aether/hollow_log'
+    assert row_id({'modid': 'toms_storage',
+                   'key': 'item.toms_storage.ts.paint_kit',
+                   'name': 'X'}) == 'toms_storage:ts.paint_kit'
+    assert row_id({'modid': 'create', 'key': 'item.create.shaft',
+                   'name': 'Shaft'}) == 'create:shaft'
+    assert mod_of('create:shaft') == 'create'
+    assert 22000 < len(load_items()) < 24000
+
+
+@check('РЕЦЕПТЫ: загружено 10 600+, оба источника на месте')
+def recipes_load():
+    from recipes.load import load_all
+    rows = load_all()
+    sources = {row['source'] for row in rows}
+    assert len(rows) > 10600
+    assert 'kubejs' in sources and 'create' in sources
+
+
+@check('РЕЦЕПТЫ: шаблон/SA/дробление разбираются в цели')
+def recipes_parse():
+    from recipes.parse import ingredients, machine_name, results
+    shaped = {'key': {'#': {'item': 'minecraft:acacia_planks'},
+                      'X': {'tag': 'forge:glass/colorless'}},
+              'pattern': [' # ', '#X#'],
+              'result': {'count': 2, 'item': 'create:acacia_window'}}
+    assert ('tag', 'forge:glass/colorless') in ingredients(shaped)
+    assert results(shaped) == [(('item', 'create:acacia_window'), 2)]
+    sequenced = {'type': 'create:sequenced_assembly',
+                 'ingredient': {'tag': 'forge:plates/gold'},
+                 'results': [{'item': 'create:precision_mechanism'},
+                             {'item': 'create:golden_sheet'}],
+                 'sequence': [{'type': 'create:deploying',
+                               'ingredients': [
+                                   {'item': 'create:incomplete_precision_mechanism'},
+                                   {'item': 'create:cogwheel'}]}]}
+    got = results(sequenced)
+    assert got == [(('item', 'create:precision_mechanism'), 1)]
+    assert ('item', 'create:cogwheel') in ingredients(sequenced)
+    assert machine_name('create:crushing') == 'Дробитель'
+
+
+@check('ИНДЕКС+ДЕРЕВО: предмет находится, слои без повторов')
+def production_tree():
+    from recipes.load import load_all
+    from recipes.index import produce_index
+    from recipes.tree import need_layers
+    index = produce_index(load_all())
+    assert 'create:precision_mechanism' in index
+    assert 'minecraft:stone' in index
+    layers = need_layers(index, 'create:precision_mechanism')
+    seen = [one for _depth, ids in layers for one in ids]
+    assert len(seen) == len(set(seen))
+    assert seen[0] == 'create:precision_mechanism'
+
+
+@check('МУЗЕЙ: строка предмета и сохранение галочек')
+def museum_roundtrip():
+    from museum.render import item_line, marker_of
+    from pipeline.museum_all import done_ids
+    line = item_line({'id': 'create:shaft', 'name': 'Shaft'}, 'к', False)
+    ticked = item_line({'id': 'create:shaft', 'name': 'Shaft'}, 'к', True)
+    assert '`create:shaft`' in line and line.startswith('- [ ]')
+    assert ticked.startswith('- [x]')
+    with tempfile.TemporaryDirectory() as tmp:
+        path = os.path.join(tmp, 'create.md')
+        write(path, ticked + '\n' + line + '\n')
+        assert done_ids(path) == {'create:shaft'}
+    assert marker_of('create:shaft', {'create:shaft'}) == 'к'
+    assert marker_of('minecraft:stone', set()) == 'в'
+    assert marker_of('cataclysm:x', set()) == 'н'
+
+
 def make_fake_jar(tmp):
     """Вход: временная папка. Выход: путь к синтетическому jar-моду."""
     mods_toml = ('modLoader="javafml"\nloaderVersion="[47,)"\n[[mods]]\n'

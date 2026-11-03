@@ -21,5 +21,8 @@
  "recon_date": "2026-11-03",
  "items": 26500,
  "item_namespaces": 115,
- "data_layer_date": "2026-11-03"
+ "data_layer_date": "2026-11-03",
+ "museum_items": 22501,
+ "museum_files": 136,
+ "production_layer_date": "2026-11-03"
 }
