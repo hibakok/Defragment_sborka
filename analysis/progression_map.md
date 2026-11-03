@@ -58,3 +58,11 @@ tasks: список задач:
 "STRUCT " — найти структуру
 "BIOME " / "DIM " — посетить биом/измерение
 "OBSERVE ?" / "FLUID ?" — редкие типы, уточняется в игре
+
+Дополнение (2026-11-03, инфраструктура v2)
+Топологический порядок всех квестов: data/quest_order.jsonl.
+Суммарные потребности и мобы: data/demand.jsonl, data/kills.jsonl
+(выводы: analysis/demand_top.md, analysis/gating_items.md).
+Чек-листы всех глав: plan/auto/ (генерируются skeleton_all).
+Плейсмент storage_solutions и renewable_ores: этап 4 и этап 15
+маршрута (tools/plan/route.py).
