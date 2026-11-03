@@ -10,7 +10,7 @@ _string/_number/_word; те вызывают _key, _skip_ws, _peek — прим�
 import re
 
 _NUMBER = re.compile(r'[-+]?(?:\d[\d_]*\.?\d*(?:[eE][-+]?\d+)?|\.\d+)([NSLnsfdfbBI]?)')
-_WORD = re.compile(r'[A-Za-z_][A-Za-z0-9_.]*')
+_WORD = re.compile(r'[A-Za-z0-9_][A-Za-z0-9_.]*')
 _KEY = re.compile(r'[A-Za-z0-9_\-]+')
 _COMMENT = re.compile(r'(^|\s)//[^\n]*')
 
@@ -63,10 +63,17 @@ class SnbtParser:
         if char in ('"', "'"):
             return self._string()
         match = _NUMBER.match(self._text, self._pos)
-        if match:
+        if match and not self._alnum_after(match.end()):
             self._pos = match.end()
-            return self._number(match.group(1), match.group(2))
+            return self._number(match.group(0), match.group(1))
         return self._word()
+
+    def _alnum_after(self, end):
+        """Вход: позиция. Выход: bool — буква/цифра/_ сразу после числа.
+        Если да — это не число, а слово (напр. HEX-id без кавычек)."""
+        if end >= len(self._text):
+            return False
+        return self._text[end].isalnum() or self._text[end] == '_'
 
     def _object(self):
         """Вход: —. Выход: dict. Разбор { ключ: значение ... }."""
@@ -140,12 +147,15 @@ class SnbtParser:
     def _number(self, token, suffix):
         """Вход: токен и суффикс NBT. Выход: int/float. Преобразование."""
         clean = token.replace('_', '')
+        if suffix and clean.endswith(suffix):
+            clean = clean[:-len(suffix)]
         if '.' in clean or 'e' in clean or 'E' in clean:
             return float(clean)
         return int(clean)
 
     def _word(self):
-        """Вход: —. Выход: True/False/str. Разбор true/false/слова."""
+        """Вход: —. Выход: True/False/str. Разбор true/false/слова
+        (слова могут начинаться с цифры: HEX-id, 1abc)."""
         match = _WORD.match(self._text, self._pos)
         if not match:
             self._error('неожиданный символ')
