@@ -1,0 +1,283 @@
+{"modid": "ae2things", "name": "AE2 Things", "version": "1.2.1", "file": "AE2-Things-1.2.1.jar"}
+{"modid": "aeinfinitybooster", "name": "AEInfinityBooster", "version": "${file.jarVersion}", "file": "AEInfinityBooster-1.20.1-1.0.0+51.jar"}
+{"modid": "aiimprovements", "name": "AI-Improvements", "version": "${file.jarVersion}", "file": "AI-Improvements-1.20-0.5.2.jar"}
+{"modid": "advancementplaques", "name": "Advancement Plaques", "version": "${file.jarVersion}", "file": "AdvancementPlaques-1.20.1-forge-1.6.9.jar"}
+{"modid": "ambientsounds", "name": "AmbientSounds", "version": "6.1.11", "file": "AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar"}
+{"modid": "attributeslib", "name": "Apothic Attributes", "version": "1.3.7", "file": "ApothicAttributes-1.20.1-1.3.7.jar"}
+{"modid": "armorstatues", "name": "Armor Statues", "version": "8.0.6", "file": "ArmorStatues-v8.0.6-1.20.1-Forge.jar"}
+{"modid": "attributefix", "name": "AttributeFix", "version": "21.0.4", "file": "AttributeFix-Forge-1.20.1-21.0.4.jar"}
+{"modid": "autoreglib", "name": "AutoRegLib", "version": "${file.jarVersion}", "file": "AutoRegLib-1.8.2-55.jar"}
+{"modid": "bhmenu", "name": "BHMenu", "version": "2.4.2", "file": "BHMenu-Forge-1.20.1-2.4.2.jar"}
+{"modid": "bosses_of_mass_destruction", "name": "Bosses of Mass Destruction", "version": "1.1.1", "file": "BOMD-Forge-1.20.1-1.1.1.jar"}
+{"modid": "betteradvancements", "name": "Better Advancements", "version": "0.4.2.10", "file": "BetterAdvancements-Forge-1.20.1-0.4.2.10.jar"}
+{"modid": "bcc", "name": "Better Compatibility Checker", "version": "4.0.8", "file": "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar"}
+{"modid": "betterthirdperson", "name": "Better Third Person", "version": "1.9.0", "file": "BetterThirdPerson-Forge-1.20-1.9.0.jar"}
+{"modid": "boatiview", "name": "Boat Item View", "version": "0.0.5", "file": "Boat-Item-View-Forge-1.20.1-0.0.5.jar"}
+{"modid": "boatbreakfix", "name": "Boat Break Fix", "version": "${file.jarVersion}", "file": "BoatBreakFix-Universal-1.0.2.jar"}
+{"modid": "bookshelf", "name": "Bookshelf", "version": "20.2.13", "file": "Bookshelf-Forge-1.20.1-20.2.13.jar"}
+{"modid": "clumps", "name": "Clumps", "version": "${file.jarVersion}", "file": "Clumps-forge-1.20.1-12.0.0.4.jar"}
+{"modid": "controlling", "name": "Controlling", "version": "${file.jarVersion}", "file": "Controlling-forge-1.20.1-12.0.2.jar"}
+{"modid": "crash_assistant", "name": "Crash Assistant", "version": "1.9.7", "file": "CrashAssistant-forge-1.19.2-1.20.1-1.9.7.jar"}
+{"modid": "create_dd", "name": "Create: Dreams & Desires", "version": "${file.jarVersion}", "file": "Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar"}
+{"modid": "numismatics", "name": "Create: Numismatics", "version": "1.0.7+forge-mc1.20.1", "file": "CreateNumismatics-1.0.7+forge-mc1.20.1.jar"}
+{"modid": "creativecore", "name": "CreativeCore", "version": "2.12.31", "file": "CreativeCore_FORGE_v2.12.31_mc1.20.1.jar"}
+{"modid": "deathknell", "name": "DeathKnell", "version": "10.0.4", "file": "DeathKnell-Forge-1.20.1-10.0.4.jar"}
+{"modid": "ding", "name": "Ding", "version": "${file.jarVersion}", "file": "Ding-1.20.1-Forge-1.4.1.jar"}
+{"modid": "dungeons_arise", "name": "When Dungeons Arise", "version": "2.1.58-1.20.x", "file": "DungeonsArise-1.20.x-2.1.58-release.jar"}
+{"modid": "dungeons_arise_seven_seas", "name": "When Dungeons Arise: Seven Seas", "version": "1.0.2", "file": "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"}
+{"modid": "dustrial_decor", "name": "'Dustrial Decor", "version": "1.3.2", "file": "DustrialDecor-1.3.5-1.20.jar"}
+{"modid": "enchdesc", "name": "EnchantmentDescriptions", "version": "17.1.19", "file": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar"}
+{"modid": "equipmentcompare", "name": "Equipment Compare", "version": "${file.jarVersion}", "file": "EquipmentCompare-1.20.1-forge-1.3.7.jar"}
+{"modid": "explorerscompass", "name": "Explorer's Compass", "version": "1.20.1-1.3.3-forge", "file": "ExplorersCompass-1.20.1-1.3.3-forge.jar"}
+{"modid": "farmersdelight", "name": "Farmer's Delight", "version": "1.20.1-1.2.7", "file": "FarmersDelight-1.20.1-1.2.7.jar"}
+{"modid": "fastfurnace", "name": "FastFurnace", "version": "8.0.2", "file": "FastFurnace-1.20.1-8.0.2.jar"}
+{"modid": "fastleafdecay", "name": "Fast Leaf Decay", "version": "32", "file": "FastLeafDecay-32.jar"}
+{"modid": "fastbench", "name": "Fast Workbench", "version": "8.0.4", "file": "FastWorkbench-1.20.1-8.0.4.jar"}
+{"modid": "framedblocks", "name": "FramedBlocks", "version": "9.3.1", "file": "FramedBlocks-9.3.1.jar"}
+{"modid": "geophilic", "name": "Geophilic", "version": "3.4.2", "file": "Geophilic v3.4.2 f15-80.mod.jar"}
+{"modid": "highlighter", "name": "Highlighter", "version": "${file.jarVersion}", "file": "Highlighter-1.20.1-forge-1.1.9.jar"}
+{"modid": "hostilenetworks", "name": "Hostile Neural Networks", "version": "5.3.3", "file": "HostileNeuralNetworks-1.20.1-5.3.3.jar"}
+{"modid": "iceberg", "name": "Iceberg", "version": "${file.jarVersion}", "file": "Iceberg-1.20.1-forge-1.1.25.jar"}
+{"modid": "incendium", "name": "Incendium", "version": "5.3.5", "file": "Incendium_1.20.x_v5.3.5.jar"}
+{"modid": "jade", "name": "Jade", "version": "${file.jarVersion}", "file": "Jade-1.20.1-Forge-11.13.1.jar"}
+{"modid": "jadeaddons", "name": "Jade Addons", "version": "${file.jarVersion}", "file": "JadeAddons-1.20.1-Forge-5.3.1.jar"}
+{"modid": "jeresources", "name": "Just Enough Resources", "version": "1.4.0.247", "file": "JustEnoughResources-1.20.1-1.4.0.247.jar"}
+{"modid": "cataclysm", "name": "cataclysm", "version": "3.05", "file": "L_Enders_Cataclysm-3.05.jar"}
+{"modid": "legendarytooltips", "name": "Legendary Tooltips", "version": "${file.jarVersion}", "file": "LegendaryTooltips-1.20.1-forge-1.4.5.jar"}
+{"modid": "libx", "name": "LibX", "version": "1.20.1-5.0.12", "file": "LibX-1.20.1-5.0.12.jar"}
+{"modid": "mousetweaks", "name": "Mouse Tweaks", "version": "${file.jarVersion}", "file": "MouseTweaks-forge-mc1.20.1-2.25.1.jar"}
+{"modid": "mutantmonsters", "name": "Mutant Monsters", "version": "8.0.7", "file": "MutantMonsters-v8.0.7-1.20.1-Forge.jar"}
+{"modid": "myserveriscompatible", "name": "MyServerIsCompatible", "version": "1.0", "file": "MyServerIsCompatible-1.20-1.0.jar"}
+{"modid": "necronomicon", "name": "Necronomicon", "version": "1.6.0", "file": "Necronomicon-Forge-1.6.0+1.20.1.jar"}
+{"modid": "neruina", "name": "Neruina", "version": "2.1.2", "file": "Neruina-2.1.2-forge+1.20.1.jar"}
+{"modid": "noseenotick", "name": "No See, No tick", "version": "2.0.0-build.9999", "file": "NoSeeNoTick-2.0.0-1.20.1.jar"}
+{"modid": "obtrophies", "name": "OpenBlocks Trophies", "version": "${file.jarVersion}", "file": "OpenBlocksTrophies-1.20.1-5.1.5.jar"}
+{"modid": "overflowingbars", "name": "Overflowing Bars", "version": "8.0.1", "file": "OverflowingBars-v8.0.1-1.20.1-Forge.jar"}
+{"modid": "paraglider", "name": "Paraglider", "version": "20.1.3", "file": "Paraglider-forge-20.1.3.jar"}
+{"modid": "patchouli", "name": "Patchouli", "version": "${file.jarVersion}", "file": "Patchouli-1.20.1-84.1-FORGE.jar"}
+{"modid": "paxi", "name": "Paxi", "version": "1.20-Forge-4.0", "file": "Paxi-1.20-Forge-4.0.jar"}
+{"modid": "pickupnotifier", "name": "Pick Up Notifier", "version": "8.0.0", "file": "PickUpNotifier-v8.0.0-1.20.1-Forge.jar"}
+{"modid": "pingwheel", "name": "Ping Wheel", "version": "1.10.3", "file": "Ping-Wheel-1.10.3-forge-1.20.1.jar"}
+{"modid": "placebo", "name": "Placebo", "version": "8.6.3", "file": "Placebo-1.20.1-8.6.3.jar"}
+{"modid": "prism", "name": "Prism", "version": "1.0.5", "file": "Prism-1.20.1-forge-1.0.5.jar"}
+{"modid": "puzzleslib", "name": "Puzzles Lib", "version": "8.1.29", "file": "PuzzlesLib-v8.1.29-1.20.1-Forge.jar"}
+{"modid": "quark", "name": "Quark", "version": "${file.jarVersion}", "file": "Quark-4.0-462.jar"}
+{"modid": "ribbits", "name": "Ribbits", "version": "1.20.1-Forge-3.0.0", "file": "Ribbits-1.20.1-Forge-3.0.0.jar"}
+{"modid": "ringsofascension", "name": "Rings of Ascension", "version": "2.0.0", "file": "RingsOfAscension-1.20.1-2.0.2.jar"}
+{"modid": "searchables", "name": "Searchables", "version": "${file.jarVersion}", "file": "Searchables-forge-1.20.1-1.0.3.jar"}
+{"modid": "shieldexp", "name": "Shield Expansion", "version": "1.2.2", "file": "ShieldExpansion-1.20.1-1.2.2.jar"}
+{"modid": "simplebackups", "name": "Simple Backups", "version": "1.20.1-3.1.7", "file": "SimpleBackups-1.20.1-3.1.7.jar"}
+{"modid": "sdrp", "name": "Simple Discord Rich Presence", "version": "4.0.3-build.40+mc1.20.1", "file": "SimpleDiscordRichPresence-forge-4.0.3-build.40+mc1.20.1.jar"}
+{"modid": "railways", "name": "Create: Steam 'n' Rails", "version": "1.6.7+forge-mc1.20.1", "file": "Steam_Rails-1.6.7+forge-mc1.20.1.jar"}
+{"modid": "stylisheffects", "name": "Stylish Effects", "version": "8.0.2", "file": "StylishEffects-v8.0.2-1.20.1-Forge.jar"}
+{"modid": "terrablender", "name": "TerraBlender", "version": "${file.jarVersion}", "file": "TerraBlender-forge-1.20.1-3.0.1.10.jar"}
+{"modid": "terralith", "name": "Terralith", "version": "2.5.4", "file": "Terralith_1.20.x_v2.5.4.jar"}
+{"modid": "graveyard", "name": "The Graveyard", "version": "3.1", "file": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar"}
+{"modid": "toolstats", "name": "ToolStats", "version": "16.0.9", "file": "ToolStats-Forge-1.20.1-16.0.9.jar"}
+{"modid": "travelanchors", "name": "Travel Anchors", "version": "1.20.1-5.0.1", "file": "TravelAnchors-1.20.1-5.0.1.jar"}
+{"modid": "travelerstitles", "name": "Traveler's Titles", "version": "1.20-Forge-4.0.2", "file": "TravelersTitles-1.20-Forge-4.0.2.jar"}
+{"modid": "visualworkbench", "name": "Visual Workbench", "version": "8.0.0", "file": "VisualWorkbench-v8.0.0-1.20.1-Forge.jar"}
+{"modid": "yosby", "name": "yosby", "version": "1.0.0", "file": "YOSBY-Forge-1.1.0.jar"}
+{"modid": "yeetusexperimentus", "name": "Yeetus Experimentus", "version": "2.3.1-build.6+mc1.20.1", "file": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar"}
+{"modid": "yungsapi", "name": "YUNG's API", "version": "1.20-Forge-4.0.6", "file": "YungsApi-1.20-Forge-4.0.6.jar"}
+{"modid": "betterdeserttemples", "name": "YUNG's Better Desert Temples", "version": "1.20-Forge-3.0.3", "file": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"}
+{"modid": "betterdungeons", "name": "YUNG's Better Dungeons", "version": "1.20-Forge-4.0.4", "file": "YungsBetterDungeons-1.20-Forge-4.0.4.jar"}
+{"modid": "betterendisland", "name": "YUNG's Better End Island", "version": "1.20-Forge-2.0.6", "file": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar"}
+{"modid": "betterjungletemples", "name": "YUNG's Better Jungle Temples", "version": "1.20-Forge-2.0.5", "file": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"}
+{"modid": "betterfortresses", "name": "YUNG's Better Nether Fortresses", "version": "1.20-Forge-2.0.6", "file": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"}
+{"modid": "betterwitchhuts", "name": "YUNG's Better Witch Huts", "version": "1.20-Forge-3.0.3", "file": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"}
+{"modid": "yungsbridges", "name": "YUNG's Bridges", "version": "1.20-Forge-4.0.3", "file": "YungsBridges-1.20-Forge-4.0.3.jar"}
+{"modid": "yungsextras", "name": "YUNG's Extras", "version": "1.20-Forge-4.0.3", "file": "YungsExtras-1.20-Forge-4.0.3.jar"}
+{"modid": "zeta", "name": "Zeta", "version": "${file.jarVersion}", "file": "Zeta-1.0-30.jar"}
+{"modid": "ctov", "name": "ChoiceTheorem's Overhauled Village", "version": "3.4.14", "file": "[forge]ctov-3.4.14.jar"}
+{"modid": "ad_astra", "name": "Ad Astra", "version": "1.15.5", "file": "ad_astra-forge-1.20.1-1.15.5.jar"}
+{"modid": "additional_lights", "name": "Additional Lights", "version": "2.1.7", "file": "additional_lights-1.20.1-2.1.7.jar"}
+{"modid": "ae2wtlib", "name": "AE2WTLib", "version": "15.2.3-forge", "file": "ae2wtlib-15.2.3-forge.jar"}
+{"modid": "aeroblender", "name": "AeroBlender", "version": "${file.jarVersion}", "file": "aeroblender-1.20.1-1.0.1-neoforge.jar"}
+{"modid": "aether", "name": "The Aether", "version": "${file.jarVersion}", "file": "aether-1.20.1-1.5.2-neoforge.jar"}
+{"modid": "alexscaves", "name": "Alex's Caves", "version": "2.0.2", "file": "alexscaves-2.0.2.jar"}
+{"modid": "alexscaves_torpedoes", "name": "Alex's Caves: Stuff & Torpedoes", "version": "1.0.2", "file": "alexscaves_torpedoes-1.0.2.jar"}
+{"modid": "alexsmobs", "name": "Alex's Mobs", "version": "1.22.9", "file": "alexsmobs-1.22.9.jar"}
+{"modid": "almanac", "name": "Almanac", "version": "1.0.2", "file": "almanac-1.20.x-forge-1.0.2.jar"}
+{"modid": "almostunified", "name": "AlmostUnified", "version": "1.20.1-0.10.0", "file": "almostunified-forge-1.20.1-0.10.0.jar"}
+{"modid": "alternate_current", "name": "Alternate Current", "version": "1.7.0", "file": "alternate_current-mc1.20-1.7.0.jar"}
+{"modid": "amendments", "name": "Amendments", "version": "1.20-1.2.12", "file": "amendments-1.20-1.2.12.jar"}
+{"modid": "appleskin", "name": "AppleSkin", "version": "${file.jarVersion}", "file": "appleskin-forge-mc1.20.1-2.5.1.jar"}
+{"modid": "ae2", "name": "Applied Energistics 2", "version": "15.4.5", "file": "appliedenergistics2-forge-15.4.5.jar"}
+{"modid": "architectury", "name": "Architectury", "version": "9.2.14", "file": "architectury-9.2.14-forge.jar"}
+{"modid": "ars_creo", "name": "Ars Creo", "version": "${file.jarVersion}", "file": "ars_creo-1.20.1-4.1.0.jar"}
+{"modid": "ars_elemental", "name": "Ars Elemental", "version": "${file.jarVersion}", "file": "ars_elemental-1.20.1-0.6.7.8.jar"}
+{"modid": "ars_nouveau", "name": "Ars Nouveau", "version": "${file.jarVersion}", "file": "ars_nouveau-1.20.1-4.12.7-all.jar"}
+{"modid": "artifacts", "name": "Artifacts", "version": "9.5.16", "file": "artifacts-forge-9.5.16.jar"}
+{"modid": "athena", "name": "Athena", "version": "3.1.2", "file": "athena-forge-1.20.1-3.1.2.jar"}
+{"modid": "azurelib", "name": "AzureLib", "version": "2.0.41", "file": "azurelib-neo-1.20.1-2.0.41.jar"}
+{"modid": "baguettelib", "name": "BaguetteLib", "version": "1.0.0", "file": "baguettelib-1.20.1-Forge-1.0.0.jar"}
+{"modid": "balancedflight", "name": "Create: Balanced Flight", "version": "${file.jarVersion}", "file": "balancedflight-1.20.1_v2.3.0.jar"}
+{"modid": "balm", "name": "Balm", "version": "7.3.31", "file": "balm-forge-1.20.1-7.3.31-all.jar"}
+{"modid": "betterarcheology", "name": "Better Archeology", "version": "1.2.1-1.20.1", "file": "betterarcheology-1.2.1-1.20.1.jar"}
+{"modid": "bettercombat", "name": "Better Combat", "version": "1.8.6+1.20.1", "file": "bettercombat-forge-1.8.6+1.20.1.jar"}
+{"modid": "betterfpsdist", "name": "betterfpsdist mod", "version": "${file.jarVersion}", "file": "betterfpsdist-1.20.1-6.0.jar"}
+{"modid": "bfendcities", "name": "Big F&$%ing End Cities", "version": "${file.jarVersion}", "file": "bfendcities-1.0.jar"}
+{"modid": "blue_skies", "name": "Blue Skies", "version": "${file.jarVersion}", "file": "blue_skies-1.20.1-1.3.31.jar"}
+{"modid": "blueprint", "name": "Blueprint", "version": "7.1.2", "file": "blueprint-1.20.1-7.1.2.jar"}
+{"modid": "born_in_chaos_v1", "name": "Born in Chaos ", "version": "1.5.2", "file": "born_in_chaos_[Forge]1.20.1_1.5.2.jar"}
+{"modid": "botarium", "name": "Botarium", "version": "2.3.4", "file": "botarium-forge-1.20.1-2.3.4.jar"}
+{"modid": "bowinfinityfix", "name": "Bow Infinity Fix", "version": "2.6.0", "file": "bowinfinityfix-1.20.x-forge-2.6.0.jar"}
+{"modid": "brutalbosses", "name": "brutalbosses mod", "version": "${file.jarVersion}", "file": "brutalbosses-1.20.1-7.1.jar"}
+{"modid": "buildinggadgets2", "name": "Building Gadgets 2", "version": "${file.jarVersion}", "file": "buildinggadgets2-1.0.7.jar"}
+{"modid": "caelus", "name": "Caelus API", "version": "3.2.0+1.20.1", "file": "caelus-forge-3.2.0+1.20.1.jar"}
+{"modid": "camera", "name": "Camera Mod", "version": "1.20.1-1.0.20", "file": "camera-forge-1.20.1-1.0.20.jar"}
+{"modid": "cataclysmiccombat", "name": "Cataclysmic Combat", "version": "1.4", "file": "cataclysmiccombat-1.4.jar"}
+{"modid": "cfm_circuit_breaker", "name": "CFM Refurbished: Circuit Breaker", "version": "1.0.0", "file": "cfm_circuit_breaker-1.0.2.jar"}
+{"modid": "chalk", "name": "Chalk", "version": "${file.jarVersion}", "file": "chalk-1.20.1-1.6.6.jar"}
+{"modid": "charmofundying", "name": "Charm of Undying", "version": "6.5.0+1.20.1", "file": "charmofundying-forge-6.5.0+1.20.1.jar"}
+{"modid": "chat_heads", "name": "Chat Heads", "version": "0.13.18", "file": "chat_heads-0.13.18-forge-1.20.jar"}
+{"modid": "cherishedworlds", "name": "Cherished Worlds", "version": "6.1.7+1.20.1", "file": "cherishedworlds-forge-6.1.7+1.20.1.jar"}
+{"modid": "chipped", "name": "Chipped", "version": "3.0.7", "file": "chipped-forge-1.20.1-3.0.7.jar"}
+{"modid": "chisel_chipped_integration", "name": "Chisel Chipped Integration", "version": "1.1.0-1.20.1", "file": "chisel_chipped_integration-v1.1.0-1.20.1_beta.jar"}
+{"modid": "chunksending", "name": "chunksending mod", "version": "${file.jarVersion}", "file": "chunksending-1.20.1-2.8.jar"}
+{"modid": "citadel", "name": "Citadel", "version": "2.6.2", "file": "citadel-2.6.2-1.20.1.jar"}
+{"modid": "clickadv", "name": "clickadv mod", "version": "${file.jarVersion}", "file": "clickadv-1.20.1-3.8.jar"}
+{"modid": "cloth_config", "name": "Cloth Config v10 API", "version": "11.1.136", "file": "cloth-config-11.1.136-forge.jar"}
+{"modid": "collective", "name": "Collective", "version": "8.3", "file": "collective-1.20.1-8.3.jar"}
+{"modid": "combatroll", "name": "Combat Roll", "version": "1.3.3+1.20.1", "file": "combatroll-forge-1.3.3+1.20.1.jar"}
+{"modid": "comforts", "name": "Comforts", "version": "6.4.0+1.20.1", "file": "comforts-forge-6.4.0+1.20.1.jar"}
+{"modid": "connectedglass", "name": "Connected Glass", "version": "1.1.13", "file": "connectedglass-1.1.13-forge-mc1.20.1.jar"}
+{"modid": "connectivity", "name": "Connectivity Mod", "version": "${file.jarVersion}", "file": "connectivity-1.20.1-7.1.jar"}
+{"modid": "constructionwand", "name": "Construction Wand", "version": "${file.jarVersion}", "file": "constructionwand-1.20.1-2.11.jar"}
+{"modid": "copycats", "name": "Create: Copycats+", "version": "2.1.4+mc.1.20.1-forge", "file": "copycats-2.1.4+mc.1.20.1-forge.jar"}
+{"modid": "coroutil", "name": "CoroUtil", "version": "1.20.1-1.3.7", "file": "coroutil-forge-1.20.1-1.3.7.jar"}
+{"modid": "corpse", "name": "Corpse", "version": "1.20.1-1.0.21", "file": "corpse-forge-1.20.1-1.0.21.jar"}
+{"modid": "corpsecurioscompat", "name": "corpsecurioscompat", "version": "3.0.2", "file": "corpsecurioscompat-1.20.x-Forge-3.0.2.jar"}
+{"modid": "cosmeticarmorreworked", "name": "CosmeticArmorReworked", "version": "1.20.1-v1a", "file": "cosmeticarmorreworked-1.20.1-v1a.jar"}
+{"modid": "craftingtweaks", "name": "CraftingTweaks", "version": "18.2.5", "file": "craftingtweaks-forge-1.20.1-18.2.5.jar"}
+{"modid": "create", "name": "Create", "version": "${file.jarVersion}", "file": "create-1.20.1-0.5.1.j.jar"}
+{"modid": "create_confectionery", "name": "Create Confectionery", "version": "1.1.0", "file": "create-confectionery1.20.1_v1.1.0.jar"}
+{"modid": "create_sa", "name": "Create Stuff & Additions", "version": "2.0.8", "file": "create-stuff-additions1.20.1_v2.0.8.jar"}
+{"modid": "create_central_kitchen", "name": "Create: Central Kitchen", "version": "${file.jarVersion}", "file": "create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar"}
+{"modid": "create_chronicles_core", "name": "Create Chronicles Core", "version": "0.4-1.20", "file": "create_chronicles_core-0.4-1.20.jar"}
+{"modid": "create_connected", "name": "Create: Connected", "version": "0.9.2-mc1.20.1", "file": "create_connected-0.9.2-mc1.20.1-all.jar"}
+{"modid": "create_enchantment_industry", "name": "Create Enchantment Industry", "version": "${file.jarVersion}", "file": "create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar"}
+{"modid": "create_things_and_misc", "name": "create: things and misc", "version": "1.0.0", "file": "create_misc_and_things_ 1.20.1_4.0A.jar"}
+{"modid": "create_optical", "name": "Create Optical Mod", "version": "0.3.0", "file": "create_optical-0.3.0.jar"}
+{"modid": "create_power_loader", "name": "Create: Power Loader", "version": "1.5.0-mc1.20.1", "file": "create_power_loader-1.5.0-mc1.20.1.jar"}
+{"modid": "create_sabers", "name": "Create Sabers", "version": "1.3.0", "file": "create_sabers-1.20.1-1.3.0.jar"}
+{"modid": "createaddition", "name": "Create Crafts & Additions", "version": "${file.jarVersion}", "file": "createaddition-1.20.1-1.2.5.jar"}
+{"modid": "createappliedkinetics", "name": "Create Applied Kinetics", "version": "${file.jarVersion}", "file": "createappliedkinetics-1.4.0-1.20.1.jar"}
+{"modid": "createcontraptionterminals", "name": "Create Contraption Terminals", "version": "${file.jarVersion}", "file": "createcontraptionterminals-1.20-1.0.1.jar"}
+{"modid": "createdeco", "name": "Create Deco", "version": "2.0.2-1.20.1-forge", "file": "createdeco-2.0.2-1.20.1-forge.jar"}
+{"modid": "createstuffadditionsfix", "name": "CreateStuffAdditionsFix", "version": "0.0.0.1", "file": "createstuffadditionsfix-forge-1.20.1-0.0.0.1.jar"}
+{"modid": "creeperoverhaul", "name": "Creeper Overhaul", "version": "3.0.2", "file": "creeperoverhaul-3.0.2-forge.jar"}
+{"modid": "curios", "name": "Curios API", "version": "${file.jarVersion}", "file": "curios-forge-5.14.1+1.20.1.jar"}
+{"modid": "deeperdarker", "name": "Deeper and Darker", "version": "1.3.3", "file": "deeperdarker-forge-1.20.1-1.3.3.jar"}
+{"modid": "design_decor", "name": "Create: Design n' Decor", "version": "0.4.0b", "file": "design_decor-0.4.0b-1.20.1.jar"}
+{"modid": "dimdungeons", "name": "Dimensional Dungeons", "version": "202", "file": "dimdungeons-202-forge-1.20.1.jar"}
+{"modid": "dragonfight", "name": "dragonfight mod", "version": "${file.jarVersion}", "file": "dragonfight-1.20.1-4.6.jar"}
+{"modid": "drippyloadingscreen", "name": "Drippy Loading Screen", "version": "3.0.12", "file": "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar"}
+{"modid": "dsbg", "name": "Detected setBlock Be Gone", "version": "1.0-1.20.1", "file": "dsbg-1.0-1.20.1.jar"}
+{"modid": "dummmmmmy", "name": "MmmMmmMmmmmm", "version": "1.20-2.0.7", "file": "dummmmmmy-1.20-2.0.7.jar"}
+{"modid": "eccentrictome", "name": "Eccentric Tome", "version": "1.20.1-1.10.3", "file": "eccentrictome-1.20.1-1.10.3.jar"}
+{"modid": "ecologics", "name": "Ecologics", "version": "2.2.0", "file": "ecologics-forge-1.20.1-2.2.0.jar"}
+{"modid": "elytraslot", "name": "Elytra Slot", "version": "6.4.4+1.20.1", "file": "elytraslot-forge-6.4.4+1.20.1.jar"}
+{"modid": "embeddium", "name": "Embeddium", "version": "0.3.31+mc1.20.1", "file": "embeddium-0.3.31+mc1.20.1.jar"}
+{"modid": "rubidium", "name": "Rubidium (Embeddium)", "version": "0.7.1", "file": "embeddium-0.3.31+mc1.20.1.jar"}
+{"modid": "endermanoverhaul", "name": "Enderman Overhaul", "version": "1.0.4", "file": "endermanoverhaul-forge-1.20.1-1.0.4.jar"}
+{"modid": "endrem", "name": "End Remastered", "version": "${file.jarVersion}", "file": "endrem_forge-5.3.3-R-1.20.1.jar"}
+{"modid": "everycomp", "name": "Every Compat", "version": "1.20-2.7.6", "file": "everycomp-1.20-2.7.6.jar"}
+{"modid": "eyesoficeandfire", "name": "Eyes of Ice and Fire", "version": "1.1.0-1.20.1", "file": "eyesoficeandfire-1.1.0-1.20.1.jar"}
+{"modid": "fancymenu", "name": "FancyMenu", "version": "3.6.1", "file": "fancymenu_forge_3.6.1_MC_1.20.1.jar"}
+{"modid": "fastasyncworldsave", "name": "fastasyncworldsave mod", "version": "${file.jarVersion}", "file": "fastasyncworldsave-1.20.1-2.4.jar"}
+{"modid": "ferritecore", "name": "Ferrite Core", "version": "${file.jarVersion}", "file": "ferritecore-6.0.1-forge.jar"}
+{"modid": "foodeffecttooltips", "name": "Food Effect Tooltips", "version": "1.3.0", "file": "foodeffecttooltips+forge-1.20.1-1.3.0.jar"}
+{"modid": "forbidden_arcanus", "name": "Forbidden & Arcanus", "version": "${file.jarVersion}", "file": "forbidden_arcanus-1.20.1-2.2.6.jar"}
+{"modid": "framework", "name": "Framework", "version": "0.7.15", "file": "framework-forge-1.20.1-0.7.15.jar"}
+{"modid": "ftbchunks", "name": "FTB Chunks", "version": "2001.3.5", "file": "ftb-chunks-forge-2001.3.5.jar"}
+{"modid": "ftbquests", "name": "FTB Quests", "version": "2001.4.12", "file": "ftb-quests-forge-2001.4.12.jar"}
+{"modid": "ftbteams", "name": "FTB Teams", "version": "2001.3.1", "file": "ftb-teams-forge-2001.3.1.jar"}
+{"modid": "fusion", "name": "Fusion", "version": "1.2.5", "file": "fusion-1.2.5-forge-mc1.20.1.jar"}
+{"modid": "geckolib", "name": "GeckoLib 4", "version": "4.7.2", "file": "geckolib-forge-1.20.1-4.7.2.jar"}
+{"modid": "gpumemleakfix", "name": "Gpu memory leak fix", "version": "${file.jarVersion}", "file": "gpumemleakfix-1.20.1-1.8.jar"}
+{"modid": "guideme", "name": "GuideME", "version": "20.1.11", "file": "guideme-20.1.11.jar"}
+{"modid": "handcrafted", "name": "Handcrafted", "version": "3.0.6", "file": "handcrafted-forge-1.20.1-3.0.6.jar"}
+{"modid": "iceandfire", "name": "Ice and Fire", "version": "${file.jarVersion}", "file": "iceandfire-2.1.13-1.20.1-beta-5.jar"}
+{"modid": "idas", "name": "Integrated Dungeons and Structures", "version": "${file.jarVersion}", "file": "idas_forge-1.10.1+1.20.1.jar"}
+{"modid": "illageandspillage", "name": "Illage and Spillage: Respillaged", "version": "1.2.8", "file": "illageandspillagerespillaged-1.2.8.jar"}
+{"modid": "zillagersweararmor", "name": "Illagers Wear Armor", "version": "${file.jarVersion}", "file": "illagersweararmor-1.20.1-1.4.0.jar"}
+{"modid": "immersive_paintings", "name": "Immersive Paintings", "version": "0.6.8+1.20.1", "file": "immersive_paintings-0.6.8+1.20.1-forge.jar"}
+{"modid": "integrated_api", "name": "Integrated API", "version": "1.5.1+1.20.1-forge", "file": "integrated_api-1.5.1+1.20.1-forge.jar"}
+{"modid": "inventorysorter", "name": "Simple Inventory Sorter", "version": "${file.jarVersion}", "file": "inventorysorter-1.20.1-23.0.8.jar"}
+{"modid": "irons_spellbooks", "name": "Iron's Spells 'n Spellbooks", "version": "1.20.1-3.4.0.9", "file": "irons_spellbooks-1.20.1-3.4.0.9.jar"}
+{"modid": "itemfilters", "name": "Item Filters", "version": "2001.1.0-build.59", "file": "item-filters-forge-2001.1.0-build.59.jar"}
+{"modid": "itemzoom", "name": "Item Zoom", "version": "2.9.0", "file": "itemzoom-1.20.1-2.9.0.jar"}
+{"modid": "jei", "name": "Just Enough Items", "version": "15.20.0.112", "file": "jei-1.20.1-forge-15.20.0.112.jar"}
+{"modid": "jei", "name": "Just Enough Items", "version": "15.20.0.112", "file": "jei.jar"}
+{"modid": "jeiintegration", "name": "JEI Integration", "version": "${file.jarVersion}", "file": "jeiintegration_1.20.1-10.0.0.jar"}
+{"modid": "konkrete", "name": "Konkrete", "version": "1.8.0", "file": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"}
+{"modid": "kubejs_create", "name": "KubeJS Create", "version": "2001.2.5-build.2", "file": "kubejs-create-forge-2001.2.5-build.2.jar"}
+{"modid": "kubejs", "name": "KubeJS", "version": "2001.6.5-build.16", "file": "kubejs-forge-2001.6.5-build.16.jar"}
+{"modid": "kubejsarsnouveau", "name": "KubeJS Ars Nouveau", "version": "1.2.2", "file": "kubejsarsnouveau-1.2.2.jar"}
+{"modid": "letmedespawn", "name": "Let Me Despawn", "version": "1.5.0", "file": "letmedespawn-1.20.x-forge-1.5.0.jar"}
+{"modid": "lithostitched", "name": "Lithostitched", "version": "1.4", "file": "lithostitched-forge-1.20.1-1.4.4.jar"}
+{"modid": "lootjs", "name": "LootJS", "version": "1.20.1-2.13.0", "file": "lootjs-forge-1.20.1-2.13.0.jar"}
+{"modid": "lootr", "name": "Lootr", "version": "0.7.35.91", "file": "lootr-forge-1.20-0.7.35.91.jar"}
+{"modid": "mcwbridges", "name": "Macaw's Bridges", "version": "3.1.0", "file": "mcw-bridges-3.1.0-mc1.20.1forge.jar"}
+{"modid": "melody", "name": "Melody", "version": "1.0.2", "file": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"}
+{"modid": "modernfix", "name": "ModernFix", "version": "5.23.1+mc1.20.1", "file": "modernfix-forge-5.23.1+mc1.20.1.jar"}
+{"modid": "molten_vents", "name": "Molten Vents", "version": "${file.jarVersion}", "file": "molten_vents-1.20.1-2.0.9.jar"}
+{"modid": "moonlight", "name": "Moonlight Library", "version": "1.20-2.13.41", "file": "moonlight-1.20-2.13.41-forge.jar"}
+{"modid": "moped", "name": "Moped", "version": "1.0.0", "file": "mopeds_1.1_1.20.1.jar"}
+{"modid": "moreoverlays", "name": "More Overlays Updated", "version": "${file.jarVersion}", "file": "moreoverlays-1.22.7-mc1.20.2.jar"}
+{"modid": "mowziesmobs", "name": "Mowzie's Mobs", "version": "1.7.3", "file": "mowziesmobs-1.7.3.jar"}
+{"modid": "netherportalfix", "name": "NetherPortalFix", "version": "13.0.1", "file": "netherportalfix-forge-1.20-13.0.1.jar"}
+{"modid": "notenoughanimations", "name": "NotEnoughAnimations", "version": "1.9.3", "file": "notenoughanimations-forge-1.9.3-mc1.20.1.jar"}
+{"modid": "irisflw", "name": "Oculus Flywheel Compat", "version": "1.1.2", "file": "oculus-flywheel-compat-forge1.20.1+1.1.2.jar"}
+{"modid": "oculus", "name": "Oculus", "version": "1.7.0", "file": "oculus-mc1.20.1-1.7.0.jar"}
+{"modid": "packetfixer", "name": "PacketFixer", "version": "3.0.0", "file": "packetfixer-3.0.0-1.18-1.20.4-merged.jar"}
+{"modid": "create_pattern_schematics", "name": "Create: Pattern Schematics", "version": "1.1.16+forge-1.20.1", "file": "pattern_schematics-1.1.16+forge-1.20.1.jar"}
+{"modid": "pipez", "name": "Pipez", "version": "1.20.1-1.2.21", "file": "pipez-forge-1.20.1-1.2.21.jar"}
+{"modid": "playeranimator", "name": "Player Animator", "version": "1.0.2-rc1+1.20", "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar"}
+{"modid": "polyeng", "name": "Polymorphic Energistics", "version": "0.1.1-1.20.1", "file": "polyeng-forge-0.1.1-1.20.1.jar"}
+{"modid": "polymorph", "name": "Polymorph", "version": "0.49.10+1.20.1", "file": "polymorph-forge-0.49.10+1.20.1.jar"}
+{"modid": "puffish_skills", "name": "Pufferfish's Skills", "version": "0.11.6", "file": "puffish_skills-0.11.6-1.20-forge.jar"}
+{"modid": "radium", "name": "Radium", "version": "0.12.4+git.26c9d8e", "file": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar"}
+{"modid": "realmrpg_wyrms", "name": "Realm RPG: Dragon Wyrms", "version": "1.0.1", "file": "realmrpg_dragon_wyrms_1.0.1_forge_1.20.1.jar"}
+{"modid": "realmrpg_skeletons", "name": "Realm RPG: Fallen Adventurers", "version": "1.1.0", "file": "realmrpg_skeletons-1.1.0-forge-1.20.1.jar"}
+{"modid": "refurbished_furniture", "name": "MrCrayfish's Furniture Mod: Refurbished", "version": "1.0.14", "file": "refurbished_furniture-forge-1.20.1-1.0.14.jar"}
+{"modid": "repurposed_structures", "name": "Repurposed Structures", "version": "7.1.17+1.20.1-forge", "file": "repurposed_structures-7.1.17+1.20.1-forge.jar"}
+{"modid": "resourcefulconfig", "name": "Resourcefulconfig", "version": "2.1.3", "file": "resourcefulconfig-forge-1.20.1-2.1.3.jar"}
+{"modid": "resourcefullib", "name": "Resourceful Lib", "version": "2.1.29", "file": "resourcefullib-forge-1.20.1-2.1.29.jar"}
+{"modid": "rhino", "name": "Rhino", "version": "2001.2.3-build.10", "file": "rhino-forge-2001.2.3-build.10.jar"}
+{"modid": "embeddium_extra", "name": "Embeddium Extra", "version": "0.5.4.4+mc1.20.1-build.131", "file": "rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar"}
+{"modid": "samurai_dynasty", "name": "Samurai Dynasty", "version": "0.0.48-1.20.1-neo", "file": "samurai_dynasty-0.0.48-1.20.1-neo.jar"}
+{"modid": "serverconfigupdater", "name": "ServerConfig Updater", "version": "4.0.2", "file": "serverconfigupdater-4.0.2.jar"}
+{"modid": "simplyswords", "name": "Simply Swords", "version": "1.56.0-1.20.1", "file": "simplyswords-forge-1.56.0-1.20.1.jar"}
+{"modid": "skinlayers3d", "name": "3d-Skin-Layers", "version": "1.7.5", "file": "skinlayers3d-forge-1.7.5-mc1.20.1.jar"}
+{"modid": "smoothchunk", "name": "Smoothchunk mod", "version": "${file.jarVersion}", "file": "smoothchunk-1.20.1-4.1.jar"}
+{"modid": "snowundertrees", "name": "Snow Under Trees", "version": "${file.jarVersion}", "file": "snowundertrees-1.20.1-1.4.10.jar"}
+{"modid": "solcarrot", "name": "Spice of Life: Carrot Edition", "version": "1.15.1", "file": "solcarrot-1.20.1-1.15.1.jar"}
+{"modid": "sophisticatedbackpacks", "name": "Sophisticated Backpacks", "version": "3.23.6.1211", "file": "sophisticatedbackpacks-1.20.1-3.23.6.1211.jar"}
+{"modid": "sophisticatedcore", "name": "Sophisticated Core", "version": "1.2.23.902", "file": "sophisticatedcore-1.20.1-1.2.23.902.jar"}
+{"modid": "sophisticatedstorage", "name": "Sophisticated Storage", "version": "1.3.9.1075", "file": "sophisticatedstorage-1.20.1-1.3.9.1075.jar"}
+{"modid": "spark", "name": "spark", "version": "1.10.53", "file": "spark-1.10.53-forge.jar"}
+{"modid": "sparsestructuresreforged", "name": "SparseStructuresReforged", "version": "1.20.1-0.0.1", "file": "sparsestructuresreforged-1.20.1-0.0.1.jar"}
+{"modid": "spyglass_improvements", "name": "Spyglass Improvements", "version": "1.5+mc1.20+forge", "file": "spyglass_improvements-1.5+mc1.20+forge.jar"}
+{"modid": "starterkit", "name": "Starter Kit", "version": "7.1", "file": "starterkit-1.20.1-7.1.jar"}
+{"modid": "structure_gel", "name": "Structure Gel API", "version": "${file.jarVersion}", "file": "structure_gel-1.20.1-2.16.2.jar"}
+{"modid": "structureessentials", "name": "Structure Essentials mod", "version": "${file.jarVersion}", "file": "structureessentials-1.20.1-4.7.jar"}
+{"modid": "supermartijn642configlib", "name": "SuperMartijn642's Config Library", "version": "1.1.8", "file": "supermartijn642configlib-1.1.8-forge-mc1.20.jar"}
+{"modid": "supermartijn642corelib", "name": "SuperMartijn642's Core Lib", "version": "1.1.18", "file": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar"}
+{"modid": "supplementaries", "name": "Supplementaries", "version": "1.20-3.1.11", "file": "supplementaries-1.20-3.1.11.jar"}
+{"modid": "tfmg", "name": "Create: The Factory Must Grow", "version": "0.9.3-1.20.1", "file": "tfmg-0.9.3-1.20.1.jar"}
+{"modid": "conjurer_illager", "name": "The Conjurer", "version": "${file.jarVersion}", "file": "the-conjurer-1.20.1-1.1.6.jar"}
+{"modid": "toms_storage", "name": "Tom's Simple Storage Mod", "version": "${file.jarVersion}", "file": "toms_storage-1.20-1.7.1.jar"}
+{"modid": "toofast", "name": "Too Fast", "version": "0.4.3.5", "file": "toofast-1.20-0.4.3.5.jar"}
+{"modid": "torchmaster", "name": "Torchmaster", "version": "20.1.9", "file": "torchmaster-20.1.9.jar"}
+{"modid": "totw_modded", "name": "Towers of the Wild Modded", "version": "1.0.6", "file": "totw_modded-forge-1.20.1-1.0.6.jar"}
+{"modid": "trashslot", "name": "TrashSlot", "version": "15.1.2", "file": "trashslot-forge-1.20-15.1.2.jar"}
+{"modid": "treasuredistance", "name": "Treasure Distance mod", "version": "${file.jarVersion}", "file": "treasuredistance-1.20-1.2.jar"}
+{"modid": "twilightforest", "name": "The Twilight Forest", "version": "${file.jarVersion}", "file": "twilightforest-1.20.1-4.3.2508-universal.jar"}
+{"modid": "valhelsia_core", "name": "Valhelsia Core", "version": "1.1.2", "file": "valhelsia_core-forge-1.20.1-1.1.2.jar"}
+{"modid": "veinmining", "name": "Vein Mining", "version": "1.5.0+1.20.1", "file": "veinmining-forge-1.5.0+1.20.1.jar"}
+{"modid": "villagernames", "name": "Villager Names", "version": "8.2", "file": "villagernames-1.20.1-8.2.jar"}
+{"modid": "watut", "name": "What Are They Up To", "version": "1.20.1-1.2.3", "file": "watut-forge-1.20.1-1.2.3.jar"}
+{"modid": "waystones", "name": "Waystones", "version": "14.1.13", "file": "waystones-forge-1.20.1-14.1.13.jar"}

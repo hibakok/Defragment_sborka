@@ -18,5 +18,8 @@
   "dimension": 7,
   "fluid": 1
  },
- "recon_date": "2026-11-03"
+ "recon_date": "2026-11-03",
+ "items": 26500,
+ "item_namespaces": 115,
+ "data_layer_date": "2026-11-03"
 }
