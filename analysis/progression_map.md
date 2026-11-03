@@ -66,3 +66,10 @@ tasks: список задач:
 Чек-листы всех глав: plan/auto/ (генерируются skeleton_all).
 Плейсмент storage_solutions и renewable_ores: этап 4 и этап 15
 маршрута (tools/plan/route.py).
+
+Дополнение (2026-11-03, слой данных v3)
+Извлечены моды (data/mods.jsonl, 283), предметы (data/items.jsonl,
+26 500), рецепты 33 контентных модов (data/recipes/), KubeJS-скрипты
+(data/kubejs/, 60 файлов: точные рецепты гейтинга).
+Лестница механизмов с точными рецептами: analysis/gating_items.md.
+Порядок этапов 05–18 финализирован в plan/ (см. plan/README.md).

@@ -88,3 +88,13 @@ born_in_chaos_v1:nightmare_stalker ×5.
 3. Монеты Numismatics и enchanted_golden_apple — копить с ранней игры.
 4. Точные рецепты механизмов (кастомные kubejs:*) дадут данные
    data/kubejs/ после запуска tools/extract/kubejs_from_instance.py.
+
+Дополнение (2026-11-03, слой данных v3)
+Точные рецепты всех механизмов лестницы: analysis/gating_items.md.
+Машины РАСХОДНЫЕ: 1 машина = 8 механизлов = 1 компонент Create
+(конверсия камнетёсом/бесс-формой, main.js:147–514). Спрос в
+demand.jsonl уже учитывает это. Чёрный рынок: полный топ в
+data/demand.jsonl (cryo_fuel 100000 mB, tuff 15000, myalite/
+compost/hot_chocolate/snowy_cloud/aethersite/castle_brick/
+sky_block по 10000, spelunkie 5500, crescent_fruit 5300,
+desh 5000...). Монетный двор: spur 188 + cog 70 (numismatics).
