@@ -1,0 +1,122 @@
+# Музей: Sophisticated Storage (sophisticatedstorage)
+
+Предметов: 109 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 109 предметов.*
+
+- [ ] **Advanced Compacting Upgrade** — `sophisticatedstorage:advanced_compacting_upgrade` · н
+- [ ] **Advanced Feeding upgrade** — `sophisticatedstorage:advanced_feeding_upgrade` · н
+- [ ] **Advanced Filter Upgrade** — `sophisticatedstorage:advanced_filter_upgrade` · н
+- [ ] **Advanced Hopper Upgrade** — `sophisticatedstorage:advanced_hopper_upgrade` · н
+- [ ] **Advanced Jukebox Upgrade** — `sophisticatedstorage:advanced_jukebox_upgrade` · н
+- [ ] **Advanced Magnet Upgrade** — `sophisticatedstorage:advanced_magnet_upgrade` · н
+- [ ] **Advanced Pickup Upgrade** — `sophisticatedstorage:advanced_pickup_upgrade` · н
+- [ ] **Advanced Pump Upgrade** — `sophisticatedstorage:advanced_pump_upgrade` · н
+- [ ] **Advanced Void Upgrade** — `sophisticatedstorage:advanced_void_upgrade` · н
+- [ ] **Auto-blasting Upgrade** — `sophisticatedstorage:auto_blasting_upgrade` · н
+- [ ] **Auto-smelting Upgrade** — `sophisticatedstorage:auto_smelting_upgrade` · н
+- [ ] **Auto-smoking Upgrade** — `sophisticatedstorage:auto_smoking_upgrade` · н
+- [ ] **%s%sBarrel** — `sophisticatedstorage:barrel` · н
+- [ ] **Basic Tier Upgrade** — `sophisticatedstorage:basic_tier_upgrade` · н
+- [ ] **Basic to Copper Tier Upgrade** — `sophisticatedstorage:basic_to_copper_tier_upgrade` · н
+- [ ] **Basic to Diamond Tier Upgrade** — `sophisticatedstorage:basic_to_diamond_tier_upgrade` · н
+- [ ] **Basic to Gold Tier Upgrade** — `sophisticatedstorage:basic_to_gold_tier_upgrade` · н
+- [ ] **Basic to Iron Tier Upgrade** — `sophisticatedstorage:basic_to_iron_tier_upgrade` · н
+- [ ] **Basic to Netherite Tier Upgrade** — `sophisticatedstorage:basic_to_netherite_tier_upgrade` · н
+- [ ] **Blasting Upgrade** — `sophisticatedstorage:blasting_upgrade` · н
+- [ ] **%s%sChest** — `sophisticatedstorage:chest` · н
+- [ ] **Compacting Upgrade** — `sophisticatedstorage:compacting_upgrade` · н
+- [ ] **Compression Upgrade** — `sophisticatedstorage:compression_upgrade` · н
+- [ ] **Storage Controller** — `sophisticatedstorage:controller` · н
+- [ ] **%s%sCopper Barrel** — `sophisticatedstorage:copper_barrel` · н
+- [ ] **%s%sCopper Chest** — `sophisticatedstorage:copper_chest` · н
+- [ ] **Copper Shulker Box** — `sophisticatedstorage:copper_shulker_box` · н
+- [ ] **Copper to Diamond Tier Upgrade** — `sophisticatedstorage:copper_to_diamond_tier_upgrade` · н
+- [ ] **Copper to Gold Tier Upgrade** — `sophisticatedstorage:copper_to_gold_tier_upgrade` · н
+- [ ] **Copper to Iron Tier Upgrade** — `sophisticatedstorage:copper_to_iron_tier_upgrade` · н
+- [ ] **Copper to Netherite Tier Upgrade** — `sophisticatedstorage:copper_to_netherite_tier_upgrade` · н
+- [ ] **Crafting Upgrade** — `sophisticatedstorage:crafting_upgrade` · н
+- [ ] **Debug Tool** — `sophisticatedstorage:debug_tool` · н
+- [ ] **Decoration Table** — `sophisticatedstorage:decoration_table` · н
+- [ ] **%s%sDiamond Barrel** — `sophisticatedstorage:diamond_barrel` · н
+- [ ] **%s%sDiamond Chest** — `sophisticatedstorage:diamond_chest` · н
+- [ ] **Diamond Shulker Box** — `sophisticatedstorage:diamond_shulker_box` · н
+- [ ] **Diamond to Netherite Tier Upgrade** — `sophisticatedstorage:diamond_to_netherite_tier_upgrade` · н
+- [ ] **Feeding upgrade** — `sophisticatedstorage:feeding_upgrade` · н
+- [ ] **Filter Upgrade** — `sophisticatedstorage:filter_upgrade` · н
+- [ ] **%s%sGold Barrel** — `sophisticatedstorage:gold_barrel` · н
+- [ ] **%s%sGold Chest** — `sophisticatedstorage:gold_chest` · н
+- [ ] **Gold Shulker Box** — `sophisticatedstorage:gold_shulker_box` · н
+- [ ] **Gold to Diamond Tier Upgrade** — `sophisticatedstorage:gold_to_diamond_tier_upgrade` · н
+- [ ] **Gold to Netherite Tier Upgrade** — `sophisticatedstorage:gold_to_netherite_tier_upgrade` · н
+- [ ] **Hopper Upgrade** — `sophisticatedstorage:hopper_upgrade` · н
+- [ ] **Infinity Upgrade (Admin)** — `sophisticatedstorage:infinity_upgrade` · н
+- [ ] **%s%sIron Barrel** — `sophisticatedstorage:iron_barrel` · н
+- [ ] **%s%sIron Chest** — `sophisticatedstorage:iron_chest` · н
+- [ ] **Iron Shulker Box** — `sophisticatedstorage:iron_shulker_box` · н
+- [ ] **Iron to Diamond Tier Upgrade** — `sophisticatedstorage:iron_to_diamond_tier_upgrade` · н
+- [ ] **Iron to Gold Tier Upgrade** — `sophisticatedstorage:iron_to_gold_tier_upgrade` · н
+- [ ] **Iron to Netherite Tier Upgrade** — `sophisticatedstorage:iron_to_netherite_tier_upgrade` · н
+- [ ] **Jukebox Upgrade** — `sophisticatedstorage:jukebox_upgrade` · н
+- [ ] **Limited %s%sBarrel I** — `sophisticatedstorage:limited_barrel_1` · н
+- [ ] **Limited %s%sBarrel II** — `sophisticatedstorage:limited_barrel_2` · н
+- [ ] **Limited %s%sBarrel III** — `sophisticatedstorage:limited_barrel_3` · н
+- [ ] **Limited %s%sBarrel IV** — `sophisticatedstorage:limited_barrel_4` · н
+- [ ] **Limited %s%sCopper Barrel I** — `sophisticatedstorage:limited_copper_barrel_1` · н
+- [ ] **Limited %s%sCopper Barrel II** — `sophisticatedstorage:limited_copper_barrel_2` · н
+- [ ] **Limited %s%sCopper Barrel III** — `sophisticatedstorage:limited_copper_barrel_3` · н
+- [ ] **Limited %s%sCopper Barrel IV** — `sophisticatedstorage:limited_copper_barrel_4` · н
+- [ ] **Limited %s%sDiamond Barrel I** — `sophisticatedstorage:limited_diamond_barrel_1` · н
+- [ ] **Limited %s%sDiamond Barrel II** — `sophisticatedstorage:limited_diamond_barrel_2` · н
+- [ ] **Limited %s%sDiamond Barrel III** — `sophisticatedstorage:limited_diamond_barrel_3` · н
+- [ ] **Limited %s%sDiamond Barrel IV** — `sophisticatedstorage:limited_diamond_barrel_4` · н
+- [ ] **Limited %s%sGold Barrel I** — `sophisticatedstorage:limited_gold_barrel_1` · н
+- [ ] **Limited %s%sGold Barrel II** — `sophisticatedstorage:limited_gold_barrel_2` · н
+- [ ] **Limited %s%sGold Barrel III** — `sophisticatedstorage:limited_gold_barrel_3` · н
+- [ ] **Limited %s%sGold Barrel IV** — `sophisticatedstorage:limited_gold_barrel_4` · н
+- [ ] **Limited %s%sIron Barrel I** — `sophisticatedstorage:limited_iron_barrel_1` · н
+- [ ] **Limited %s%sIron Barrel II** — `sophisticatedstorage:limited_iron_barrel_2` · н
+- [ ] **Limited %s%sIron Barrel III** — `sophisticatedstorage:limited_iron_barrel_3` · н
+- [ ] **Limited %s%sIron Barrel IV** — `sophisticatedstorage:limited_iron_barrel_4` · н
+- [ ] **Limited %s%sNetherite Barrel I** — `sophisticatedstorage:limited_netherite_barrel_1` · н
+- [ ] **Limited %s%sNetherite Barrel II** — `sophisticatedstorage:limited_netherite_barrel_2` · н
+- [ ] **Limited %s%sNetherite Barrel III** — `sophisticatedstorage:limited_netherite_barrel_3` · н
+- [ ] **Limited %s%sNetherite Barrel IV** — `sophisticatedstorage:limited_netherite_barrel_4` · н
+- [ ] **Magnet Upgrade** — `sophisticatedstorage:magnet_upgrade` · н
+- [ ] **%s%sNetherite Barrel** — `sophisticatedstorage:netherite_barrel` · н
+- [ ] **%s%sNetherite Chest** — `sophisticatedstorage:netherite_chest` · н
+- [ ] **Netherite Shulker Box** — `sophisticatedstorage:netherite_shulker_box` · н
+- [ ] **Packing Tape** — `sophisticatedstorage:packing_tape` · н
+- [ ] **Paintbrush** — `sophisticatedstorage:paintbrush` · н
+- [ ] **Pickup Upgrade** — `sophisticatedstorage:pickup_upgrade` · н
+- [ ] **Pump Upgrade** — `sophisticatedstorage:pump_upgrade` · н
+- [ ] **Shulker Box** — `sophisticatedstorage:shulker_box` · н
+- [ ] **Smelting Upgrade** — `sophisticatedstorage:smelting_upgrade` · н
+- [ ] **Smoking Upgrade** — `sophisticatedstorage:smoking_upgrade` · н
+- [ ] **Stack Downgrade Tier 1** — `sophisticatedstorage:stack_downgrade_tier_1` · н
+- [ ] **Stack Downgrade Tier 2** — `sophisticatedstorage:stack_downgrade_tier_2` · н
+- [ ] **Stack Downgrade Tier 3** — `sophisticatedstorage:stack_downgrade_tier_3` · н
+- [ ] **Stack Upgrade Omega Tier** — `sophisticatedstorage:stack_upgrade_omega_tier` · н
+- [ ] **Stack Upgrade Tier 1** — `sophisticatedstorage:stack_upgrade_tier_1` · н
+- [ ] **Stack Upgrade Tier 1 Plus** — `sophisticatedstorage:stack_upgrade_tier_1_plus` · н
+- [ ] **Stack Upgrade Tier 2** — `sophisticatedstorage:stack_upgrade_tier_2` · н
+- [ ] **Stack Upgrade Tier 3** — `sophisticatedstorage:stack_upgrade_tier_3` · н
+- [ ] **Stack Upgrade Tier 4** — `sophisticatedstorage:stack_upgrade_tier_4` · н
+- [ ] **Stack Upgrade Tier 5** — `sophisticatedstorage:stack_upgrade_tier_5` · н
+- [ ] **Stonecutter Upgrade** — `sophisticatedstorage:stonecutter_upgrade` · н
+- [ ] **Storage Input** — `sophisticatedstorage:storage_input` · н
+- [ ] **Storage I/O** — `sophisticatedstorage:storage_io` · н
+- [ ] **Storage Link** — `sophisticatedstorage:storage_link` · н
+- [ ] **Storage Output** — `sophisticatedstorage:storage_output` · н
+- [ ] **Storage Tool** — `sophisticatedstorage:storage_tool` · н
+- [ ] **Survival Infinity Upgrade** — `sophisticatedstorage:survival_infinity_upgrade` · н
+- [ ] **Upgrade Base** — `sophisticatedstorage:upgrade_base` · н
+- [ ] **Void Upgrade** — `sophisticatedstorage:void_upgrade` · н
+- [ ] **Experience Pump Upgrade** — `sophisticatedstorage:xp_pump_upgrade` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

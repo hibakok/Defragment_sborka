@@ -1,0 +1,196 @@
+# Музей: Farmer's Delight (farmersdelight)
+
+Предметов: 183 · крафтимых по данным: 160 (87%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 183 предметов.*
+
+- [ ] **Acacia Cabinet** — `farmersdelight:acacia_cabinet` · к
+- [ ] **Apple Cider** — `farmersdelight:apple_cider` · к
+- [ ] **Apple Pie** — `farmersdelight:apple_pie` · к
+- [ ] **Slice of Apple Pie** — `farmersdelight:apple_pie_slice` · к
+- [ ] **Raw Bacon** — `farmersdelight:bacon` · к
+- [ ] **Bacon and Eggs** — `farmersdelight:bacon_and_eggs` · к
+- [ ] **Bacon Sandwich** — `farmersdelight:bacon_sandwich` · к
+- [ ] **Baked Cod Stew** — `farmersdelight:baked_cod_stew` · к
+- [ ] **Bamboo Cabinet** — `farmersdelight:bamboo_cabinet` · к
+- [ ] **Barbecue on a Stick** — `farmersdelight:barbecue_stick` · к
+- [ ] **Basket** — `farmersdelight:basket` · к
+- [ ] **Beef Patty** — `farmersdelight:beef_patty` · к
+- [ ] **Beef Stew** — `farmersdelight:beef_stew` · к
+- [ ] **Beetroot Crate** — `farmersdelight:beetroot_crate` · к
+- [ ] **Birch Cabinet** — `farmersdelight:birch_cabinet` · к
+- [ ] **Black Canvas Sign** — `farmersdelight:black_canvas_sign` · к
+- [ ] **Black Hanging Canvas Sign** — `farmersdelight:black_hanging_canvas_sign` · к
+- [ ] **Blue Canvas Sign** — `farmersdelight:blue_canvas_sign` · к
+- [ ] **Blue Hanging Canvas Sign** — `farmersdelight:blue_hanging_canvas_sign` · к
+- [ ] **Bone Broth** — `farmersdelight:bone_broth` · к
+- [ ] **Brown Canvas Sign** — `farmersdelight:brown_canvas_sign` · к
+- [ ] **Brown Hanging Canvas Sign** — `farmersdelight:brown_hanging_canvas_sign` · к
+- [ ] **Brown Mushroom Colony** — `farmersdelight:brown_mushroom_colony` · н
+- [ ] **Budding Tomato Vine** — `farmersdelight:budding_tomatoes` · н
+- [ ] **Cabbage** — `farmersdelight:cabbage` · к
+- [ ] **Cabbage Crate** — `farmersdelight:cabbage_crate` · к
+- [ ] **Cabbage Leaf** — `farmersdelight:cabbage_leaf` · к
+- [ ] **Cabbage Rolls** — `farmersdelight:cabbage_rolls` · к
+- [ ] **Cabbage Seeds** — `farmersdelight:cabbage_seeds` · к
+- [ ] **Cabbage** — `farmersdelight:cabbages` · н
+- [ ] **Slice of Cake** — `farmersdelight:cake_slice` · к
+- [ ] **Canvas** — `farmersdelight:canvas` · к
+- [ ] **Canvas Rug** — `farmersdelight:canvas_rug` · к
+- [ ] **Canvas Sign** — `farmersdelight:canvas_sign` · к
+- [ ] **Carrot Crate** — `farmersdelight:carrot_crate` · к
+- [ ] **Cherry Cabinet** — `farmersdelight:cherry_cabinet` · к
+- [ ] **Raw Chicken Cuts** — `farmersdelight:chicken_cuts` · к
+- [ ] **Chicken Sandwich** — `farmersdelight:chicken_sandwich` · к
+- [ ] **Chicken Soup** — `farmersdelight:chicken_soup` · к
+- [ ] **Chocolate Pie** — `farmersdelight:chocolate_pie` · к
+- [ ] **Slice of Chocolate Pie** — `farmersdelight:chocolate_pie_slice` · к
+- [ ] **Cod Roll** — `farmersdelight:cod_roll` · к
+- [ ] **Raw Cod Slice** — `farmersdelight:cod_slice` · к
+- [ ] **Cooked Bacon** — `farmersdelight:cooked_bacon` · к
+- [ ] **Cooked Chicken Cuts** — `farmersdelight:cooked_chicken_cuts` · к
+- [ ] **Cooked Cod Slice** — `farmersdelight:cooked_cod_slice` · к
+- [ ] **Cooked Mutton Chops** — `farmersdelight:cooked_mutton_chops` · к
+- [ ] **Cooked Rice** — `farmersdelight:cooked_rice` · к
+- [ ] **Cooked Salmon Slice** — `farmersdelight:cooked_salmon_slice` · к
+- [ ] **Cooking Pot** — `farmersdelight:cooking_pot` · к
+- [ ] **Crimson Cabinet** — `farmersdelight:crimson_cabinet` · к
+- [ ] **Cutting Board** — `farmersdelight:cutting_board` · к
+- [ ] **Cyan Canvas Sign** — `farmersdelight:cyan_canvas_sign` · к
+- [ ] **Cyan Hanging Canvas Sign** — `farmersdelight:cyan_hanging_canvas_sign` · к
+- [ ] **Dark Oak Cabinet** — `farmersdelight:dark_oak_cabinet` · к
+- [ ] **Diamond Knife** — `farmersdelight:diamond_knife` · к
+- [ ] **Dog Food** — `farmersdelight:dog_food` · к
+- [ ] **Dumplings** — `farmersdelight:dumplings` · к
+- [ ] **Earthworm** — `farmersdelight:earthworm` · н
+- [ ] **Egg Sandwich** — `farmersdelight:egg_sandwich` · к
+- [ ] **Fish Stew** — `farmersdelight:fish_stew` · к
+- [ ] **Flint Knife** — `farmersdelight:flint_knife` · к
+- [ ] **Fried Egg** — `farmersdelight:fried_egg` · к
+- [ ] **Fried Rice** — `farmersdelight:fried_rice` · к
+- [ ] **Fruit Salad** — `farmersdelight:fruit_salad` · к
+- [ ] **Full Tatami Mat** — `farmersdelight:full_tatami_mat` · к
+- [ ] **Glow Berry Custard** — `farmersdelight:glow_berry_custard` · к
+- [ ] **Golden Knife** — `farmersdelight:golden_knife` · к
+- [ ] **Gray Canvas Sign** — `farmersdelight:gray_canvas_sign` · к
+- [ ] **Gray Hanging Canvas Sign** — `farmersdelight:gray_hanging_canvas_sign` · к
+- [ ] **Green Canvas Sign** — `farmersdelight:green_canvas_sign` · к
+- [ ] **Green Hanging Canvas Sign** — `farmersdelight:green_hanging_canvas_sign` · к
+- [ ] **Grilled Salmon** — `farmersdelight:grilled_salmon` · к
+- [ ] **Half Tatami Mat** — `farmersdelight:half_tatami_mat` · к
+- [ ] **Ham** — `farmersdelight:ham` · н
+- [ ] **Hamburger** — `farmersdelight:hamburger` · к
+- [ ] **Hanging Canvas Sign** — `farmersdelight:hanging_canvas_sign` · к
+- [ ] **Honey Cookie** — `farmersdelight:honey_cookie` · к
+- [ ] **Plate of Honey Glazed Ham** — `farmersdelight:honey_glazed_ham` · н
+- [ ] **Honey Glazed Ham** — `farmersdelight:honey_glazed_ham_block` · к
+- [ ] **Horse Feed** — `farmersdelight:horse_feed` · к
+- [ ] **Hot Cocoa** — `farmersdelight:hot_cocoa` · к
+- [ ] **Iron Knife** — `farmersdelight:iron_knife` · к
+- [ ] **Jungle Cabinet** — `farmersdelight:jungle_cabinet` · к
+- [ ] **Kelp Roll** — `farmersdelight:kelp_roll` · к
+- [ ] **Kelp Roll Slice** — `farmersdelight:kelp_roll_slice` · к
+- [ ] **Light Blue Canvas Sign** — `farmersdelight:light_blue_canvas_sign` · к
+- [ ] **Light Blue Hanging Canvas Sign** — `farmersdelight:light_blue_hanging_canvas_sign` · к
+- [ ] **Light Gray Canvas Sign** — `farmersdelight:light_gray_canvas_sign` · к
+- [ ] **Light Gray Hanging Canvas Sign** — `farmersdelight:light_gray_hanging_canvas_sign` · к
+- [ ] **Lime Canvas Sign** — `farmersdelight:lime_canvas_sign` · к
+- [ ] **Lime Hanging Canvas Sign** — `farmersdelight:lime_hanging_canvas_sign` · к
+- [ ] **Magenta Canvas Sign** — `farmersdelight:magenta_canvas_sign` · к
+- [ ] **Magenta Hanging Canvas Sign** — `farmersdelight:magenta_hanging_canvas_sign` · к
+- [ ] **Mangrove Cabinet** — `farmersdelight:mangrove_cabinet` · к
+- [ ] **Melon Juice** — `farmersdelight:melon_juice` · к
+- [ ] **Melon Popsicle** — `farmersdelight:melon_popsicle` · к
+- [ ] **Milk Bottle** — `farmersdelight:milk_bottle` · к
+- [ ] **Minced Beef** — `farmersdelight:minced_beef` · к
+- [ ] **Mixed Salad** — `farmersdelight:mixed_salad` · к
+- [ ] **Mushroom Rice** — `farmersdelight:mushroom_rice` · к
+- [ ] **Raw Mutton Chops** — `farmersdelight:mutton_chops` · к
+- [ ] **Mutton Wrap** — `farmersdelight:mutton_wrap` · к
+- [ ] **Nether Salad** — `farmersdelight:nether_salad` · к
+- [ ] **Netherite Knife** — `farmersdelight:netherite_knife` · к
+- [ ] **Noodle Soup** — `farmersdelight:noodle_soup` · к
+- [ ] **Oak Cabinet** — `farmersdelight:oak_cabinet` · к
+- [ ] **Onion** — `farmersdelight:onion` · к
+- [ ] **Onion Crate** — `farmersdelight:onion_crate` · к
+- [ ] **Onions** — `farmersdelight:onions` · н
+- [ ] **Orange Canvas Sign** — `farmersdelight:orange_canvas_sign` · к
+- [ ] **Orange Hanging Canvas Sign** — `farmersdelight:orange_hanging_canvas_sign` · к
+- [ ] **Organic Compost** — `farmersdelight:organic_compost` · к
+- [ ] **Pasta with Meatballs** — `farmersdelight:pasta_with_meatballs` · к
+- [ ] **Pasta with Mutton Chop** — `farmersdelight:pasta_with_mutton_chop` · к
+- [ ] **Pie Crust** — `farmersdelight:pie_crust` · к
+- [ ] **Pink Canvas Sign** — `farmersdelight:pink_canvas_sign` · к
+- [ ] **Pink Hanging Canvas Sign** — `farmersdelight:pink_hanging_canvas_sign` · к
+- [ ] **Potato Crate** — `farmersdelight:potato_crate` · к
+- [ ] **Pumpkin Slice** — `farmersdelight:pumpkin_slice` · к
+- [ ] **Pumpkin Soup** — `farmersdelight:pumpkin_soup` · к
+- [ ] **Purple Canvas Sign** — `farmersdelight:purple_canvas_sign` · к
+- [ ] **Purple Hanging Canvas Sign** — `farmersdelight:purple_hanging_canvas_sign` · к
+- [ ] **Ratatouille** — `farmersdelight:ratatouille` · к
+- [ ] **Raw Pasta** — `farmersdelight:raw_pasta` · к
+- [ ] **Red Canvas Sign** — `farmersdelight:red_canvas_sign` · к
+- [ ] **Red Hanging Canvas Sign** — `farmersdelight:red_hanging_canvas_sign` · к
+- [ ] **Red Mushroom Colony** — `farmersdelight:red_mushroom_colony` · н
+- [ ] **Rice Crops** — `farmersdelight:rice` · к
+- [ ] **Bag of Rice** — `farmersdelight:rice_bag` · к
+- [ ] **Rice Bale** — `farmersdelight:rice_bale` · к
+- [ ] **Rice Panicle** — `farmersdelight:rice_panicle` · к
+- [ ] **Rice Crops** — `farmersdelight:rice_panicles` · н
+- [ ] **Rice Roll Medley** — `farmersdelight:rice_roll_medley_block` · к
+- [ ] **Rich Soil** — `farmersdelight:rich_soil` · н
+- [ ] **Rich Soil Farmland** — `farmersdelight:rich_soil_farmland` · н
+- [ ] **Plate of Roast Chicken** — `farmersdelight:roast_chicken` · н
+- [ ] **Roast Chicken** — `farmersdelight:roast_chicken_block` · к
+- [ ] **Roasted Mutton Chops** — `farmersdelight:roasted_mutton_chops` · к
+- [ ] **Rope** — `farmersdelight:rope` · к
+- [ ] **Rotten Tomato** — `farmersdelight:rotten_tomato` · к
+- [ ] **Safety Net** — `farmersdelight:safety_net` · к
+- [ ] **Salmon Roll** — `farmersdelight:salmon_roll` · к
+- [ ] **Raw Salmon Slice** — `farmersdelight:salmon_slice` · к
+- [ ] **Sandy Shrub** — `farmersdelight:sandy_shrub` · н
+- [ ] **Plate of Shepherd's Pie** — `farmersdelight:shepherds_pie` · н
+- [ ] **Shepherd's Pie** — `farmersdelight:shepherds_pie_block` · к
+- [ ] **Skillet** — `farmersdelight:skillet` · к
+- [ ] **Smoked Ham** — `farmersdelight:smoked_ham` · к
+- [ ] **Spruce Cabinet** — `farmersdelight:spruce_cabinet` · к
+- [ ] **Squid Ink Pasta** — `farmersdelight:squid_ink_pasta` · к
+- [ ] **Steak and Potatoes** — `farmersdelight:steak_and_potatoes` · к
+- [ ] **Stove** — `farmersdelight:stove` · к
+- [ ] **Straw** — `farmersdelight:straw` · к
+- [ ] **Straw Bale** — `farmersdelight:straw_bale` · к
+- [ ] **Stuffed Potato** — `farmersdelight:stuffed_potato` · к
+- [ ] **Bowl of Stuffed Pumpkin** — `farmersdelight:stuffed_pumpkin` · н
+- [ ] **Stuffed Pumpkin** — `farmersdelight:stuffed_pumpkin_block` · к
+- [ ] **Sweet Berry Cheesecake** — `farmersdelight:sweet_berry_cheesecake` · к
+- [ ] **Slice of Sweet Berry Cheesecake** — `farmersdelight:sweet_berry_cheesecake_slice` · к
+- [ ] **Sweet Berry Cookie** — `farmersdelight:sweet_berry_cookie` · к
+- [ ] **Tatami Block** — `farmersdelight:tatami` · к
+- [ ] **Tomato** — `farmersdelight:tomato` · к
+- [ ] **Tomato Crate** — `farmersdelight:tomato_crate` · к
+- [ ] **Tomato Sauce** — `farmersdelight:tomato_sauce` · к
+- [ ] **Tomato Seeds** — `farmersdelight:tomato_seeds` · к
+- [ ] **Tomato Vine** — `farmersdelight:tomatoes` · н
+- [ ] **Tree Bark** — `farmersdelight:tree_bark` · к
+- [ ] **Vegetable Noodles** — `farmersdelight:vegetable_noodles` · к
+- [ ] **Vegetable Soup** — `farmersdelight:vegetable_soup` · к
+- [ ] **Warped Cabinet** — `farmersdelight:warped_cabinet` · к
+- [ ] **Wheat Dough** — `farmersdelight:wheat_dough` · к
+- [ ] **White Canvas Sign** — `farmersdelight:white_canvas_sign` · к
+- [ ] **White Hanging Canvas Sign** — `farmersdelight:white_hanging_canvas_sign` · к
+- [ ] **Sea Beet** — `farmersdelight:wild_beetroots` · н
+- [ ] **Wild Cabbage** — `farmersdelight:wild_cabbages` · н
+- [ ] **Wild Carrot** — `farmersdelight:wild_carrots` · н
+- [ ] **Wild Onion** — `farmersdelight:wild_onions` · н
+- [ ] **Wild Potato** — `farmersdelight:wild_potatoes` · н
+- [ ] **Wild Rice** — `farmersdelight:wild_rice` · н
+- [ ] **Tomato Shrub** — `farmersdelight:wild_tomatoes` · н
+- [ ] **Yellow Canvas Sign** — `farmersdelight:yellow_canvas_sign` · к
+- [ ] **Yellow Hanging Canvas Sign** — `farmersdelight:yellow_hanging_canvas_sign` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

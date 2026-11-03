@@ -1,0 +1,222 @@
+# Музей: FramedBlocks (framedblocks)
+
+Предметов: 209 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 209 предметов.*
+
+- [ ] **Framed Activator Rail Slope** — `framedblocks:framed_activator_rail_slope` · н
+- [ ] **Framed Adjustable Double Copycat Panel** — `framedblocks:framed_adj_double_copycat_panel` · н
+- [ ] **Framed Adjustable Double Copycat Slab** — `framedblocks:framed_adj_double_copycat_slab` · н
+- [ ] **Framed Adjustable Double Panel** — `framedblocks:framed_adj_double_panel` · н
+- [ ] **Framed Adjustable Double Slab** — `framedblocks:framed_adj_double_slab` · н
+- [ ] **Framed Bars** — `framedblocks:framed_bars` · н
+- [ ] **Framed Blueprint** — `framedblocks:framed_blueprint` · н
+- [ ] **Framed Bookshelf** — `framedblocks:framed_bookshelf` · н
+- [ ] **Framed Bouncy Cube** — `framedblocks:framed_bouncy_cube` · н
+- [ ] **Framed Button** — `framedblocks:framed_button` · н
+- [ ] **Framed Centered Panel** — `framedblocks:framed_centered_panel` · н
+- [ ] **Framed Centered Slab** — `framedblocks:framed_centered_slab` · н
+- [ ] **Framed Checkered Cube** — `framedblocks:framed_checkered_cube` · н
+- [ ] **Framed Checkered Cube Segment** — `framedblocks:framed_checkered_cube_segment` · н
+- [ ] **Framed Checkered Panel** — `framedblocks:framed_checkered_panel` · н
+- [ ] **Framed Checkered Panel Segment** — `framedblocks:framed_checkered_panel_segment` · н
+- [ ] **Framed Checkered Slab** — `framedblocks:framed_checkered_slab` · н
+- [ ] **Framed Checkered Slab Segment** — `framedblocks:framed_checkered_slab_segment` · н
+- [ ] **Framed Chest** — `framedblocks:framed_chest` · н
+- [ ] **Framed Chiseled Bookshelf** — `framedblocks:framed_chiseled_bookshelf` · н
+- [ ] **Framed Collapsible Block** — `framedblocks:framed_collapsible_block` · н
+- [ ] **Framed Collapsible Copycat Block** — `framedblocks:framed_collapsible_copycat_block` · н
+- [ ] **Framed Compound Slope Panel** — `framedblocks:framed_compound_slope_panel` · н
+- [ ] **Framed Compound Slope Slab** — `framedblocks:framed_compound_slope_slab` · н
+- [ ] **Framed Corner Pillar** — `framedblocks:framed_corner_pillar` · н
+- [ ] **Framed Corner Slope** — `framedblocks:framed_corner_slope` · н
+- [ ] **Framed Corner Strip** — `framedblocks:framed_corner_strip` · н
+- [ ] **Framed Cube** — `framedblocks:framed_cube` · н
+- [ ] **Framed Detector Rail Slope** — `framedblocks:framed_detector_rail_slope` · н
+- [ ] **Framed Divided Panel (Horizontal)** — `framedblocks:framed_divided_panel_horizontal` · н
+- [ ] **Framed Divided Panel (Vertical)** — `framedblocks:framed_divided_panel_vertical` · н
+- [ ] **Framed Divided Slab** — `framedblocks:framed_divided_slab` · н
+- [ ] **Framed Divided Slope** — `framedblocks:framed_divided_slope` · н
+- [ ] **Framed Divided Stairs** — `framedblocks:framed_divided_stairs` · н
+- [ ] **Framed Door** — `framedblocks:framed_door` · н
+- [ ] **Framed Double Corner** — `framedblocks:framed_double_corner` · н
+- [ ] **Framed Double Half Slope** — `framedblocks:framed_double_half_slope` · н
+- [ ] **Framed Double Half Stairs** — `framedblocks:framed_double_half_stairs` · н
+- [ ] **Framed Double Panel** — `framedblocks:framed_double_panel` · н
+- [ ] **Framed Double Prism** — `framedblocks:framed_double_prism` · н
+- [ ] **Framed Double Prism Corner** — `framedblocks:framed_double_prism_corner` · н
+- [ ] **Framed Double Slab** — `framedblocks:framed_double_slab` · н
+- [ ] **Framed Double Slope** — `framedblocks:framed_double_slope` · н
+- [ ] **Framed Double Slope Panel** — `framedblocks:framed_double_slope_panel` · н
+- [ ] **Framed Double Slope Slab** — `framedblocks:framed_double_slope_slab` · н
+- [ ] **Framed Double Sloped Prism** — `framedblocks:framed_double_sloped_prism` · н
+- [ ] **Framed Double Stairs** — `framedblocks:framed_double_stairs` · н
+- [ ] **Framed Double Threeway Corner** — `framedblocks:framed_double_threeway_corner` · н
+- [ ] **Framed Double Threeway Corner Pillar** — `framedblocks:framed_double_threeway_corner_pillar` · н
+- [ ] **Framed Elevated Double Slope Edge** — `framedblocks:framed_elevated_double_slope_edge` · н
+- [ ] **Framed Elevated Double Slope Slab** — `framedblocks:framed_elevated_double_slope_slab` · н
+- [ ] **Framed Elevated Slope Edge** — `framedblocks:framed_elevated_slope_edge` · н
+- [ ] **Framed Elevated Slope Slab** — `framedblocks:framed_elevated_slope_slab` · н
+- [ ] **Framed Extended Corner Slope Panel** — `framedblocks:framed_ext_corner_slope_panel` · н
+- [ ] **Framed Extended Corner Slope Panel** — `framedblocks:framed_ext_corner_slope_panel_w` · н
+- [ ] **Framed Extended Double Corner Slope Panel** — `framedblocks:framed_ext_double_corner_slope_panel` · н
+- [ ] **Framed Extended Double Corner Slope Panel** — `framedblocks:framed_ext_double_corner_slope_panel_w` · н
+- [ ] **Framed Extended Inner Corner Slope Panel** — `framedblocks:framed_ext_inner_corner_slope_panel` · н
+- [ ] **Framed Extended Inner Corner Slope Panel** — `framedblocks:framed_ext_inner_corner_slope_panel_w` · н
+- [ ] **Framed Extended Inner Double Slope Panel Corner** — `framedblocks:framed_ext_inner_double_corner_slope_panel` · н
+- [ ] **Framed Extended Inner Double Slope Panel Corner** — `framedblocks:framed_ext_inner_double_corner_slope_panel_w` · н
+- [ ] **Framed Extended Double Slope Panel** — `framedblocks:framed_extended_double_slope_panel` · н
+- [ ] **Framed Extended Slope Panel** — `framedblocks:framed_extended_slope_panel` · н
+- [ ] **Framed Fancy Activator Rail** — `framedblocks:framed_fancy_activator_rail` · н
+- [ ] **Framed Fancy Activator Rail Slope** — `framedblocks:framed_fancy_activator_rail_slope` · н
+- [ ] **Framed Fancy Detector Rail** — `framedblocks:framed_fancy_detector_rail` · н
+- [ ] **Framed Fancy Detector Rail Slope** — `framedblocks:framed_fancy_detector_rail_slope` · н
+- [ ] **Framed Fancy Powered Rail** — `framedblocks:framed_fancy_powered_rail` · н
+- [ ] **Framed Fancy Powered Rail Slope** — `framedblocks:framed_fancy_powered_rail_slope` · н
+- [ ] **Framed Fancy Rail** — `framedblocks:framed_fancy_rail` · н
+- [ ] **Framed Fancy Rail Slope** — `framedblocks:framed_fancy_rail_slope` · н
+- [ ] **Framed Fence** — `framedblocks:framed_fence` · н
+- [ ] **Framed Fence Gate** — `framedblocks:framed_fence_gate` · н
+- [ ] **Framed Flat Double Slope Panel Corner** — `framedblocks:framed_flat_double_slope_panel_corner` · н
+- [ ] **Framed Flat Double Slope Slab Corner** — `framedblocks:framed_flat_double_slope_slab_corner` · н
+- [ ] **Framed Flat Elevated Double Slope Slab Corner** — `framedblocks:framed_flat_elev_double_slope_slab_corner` · н
+- [ ] **Framed Flat Elevated Inner Double Slope Slab Corner** — `framedblocks:framed_flat_elev_inner_double_slope_slab_corner` · н
+- [ ] **Framed Flat Elevated Inner Slope Slab Corner** — `framedblocks:framed_flat_elev_inner_slope_slab_corner` · н
+- [ ] **Framed Flat Elevated Slope Slab Corner** — `framedblocks:framed_flat_elev_slope_slab_corner` · н
+- [ ] **Framed Flat Extended Double Slope Panel Corner** — `framedblocks:framed_flat_ext_double_slope_panel_corner` · н
+- [ ] **Framed Flat Extended Inner Double Slope Panel Corner** — `framedblocks:framed_flat_ext_inner_double_slope_panel_corner` · н
+- [ ] **Framed Flat Extended Inner Slope Panel Corner** — `framedblocks:framed_flat_ext_inner_slope_panel_corner` · н
+- [ ] **Framed Flat Extended Slope Panel Corner** — `framedblocks:framed_flat_ext_slope_panel_corner` · н
+- [ ] **Framed Flat Inner Slope Panel Corner** — `framedblocks:framed_flat_inner_slope_panel_corner` · н
+- [ ] **Framed Flat Inner Slope Slab Corner** — `framedblocks:framed_flat_inner_slope_slab_corner` · н
+- [ ] **Framed Flat Inverse Double Slope Panel Corner** — `framedblocks:framed_flat_inv_double_slope_panel_corner` · н
+- [ ] **Framed Flat Inverse Double Slope Slab Corner** — `framedblocks:framed_flat_inv_double_slope_slab_corner` · н
+- [ ] **Framed Flat Slope Panel Corner** — `framedblocks:framed_flat_slope_panel_corner` · н
+- [ ] **Framed Flat Slope Slab Corner** — `framedblocks:framed_flat_slope_slab_corner` · н
+- [ ] **Framed Flat Stacked Inner Slope Panel Corner** — `framedblocks:framed_flat_stacked_inner_slope_panel_corner` · н
+- [ ] **Framed Flat Stacked Inner Slope Slab Corner** — `framedblocks:framed_flat_stacked_inner_slope_slab_corner` · н
+- [ ] **Framed Flat Stacked Slope Panel Corner** — `framedblocks:framed_flat_stacked_slope_panel_corner` · н
+- [ ] **Framed Flat Stacked Slope Slab Corner** — `framedblocks:framed_flat_stacked_slope_slab_corner` · н
+- [ ] **Framed Floor Board** — `framedblocks:framed_floor_board` · н
+- [ ] **Framed Flower Pot** — `framedblocks:framed_flower_pot` · н
+- [ ] **Framed Gate** — `framedblocks:framed_gate` · н
+- [ ] **Framed Glowing Cube** — `framedblocks:framed_glowing_cube` · н
+- [ ] **Framed Glow Item Frame** — `framedblocks:framed_glowing_item_frame` · н
+- [ ] **Framed Light Weighted Pressure Plate** — `framedblocks:framed_gold_pressure_plate` · н
+- [ ] **Framed Half Pillar** — `framedblocks:framed_half_pillar` · н
+- [ ] **Framed Half Slope** — `framedblocks:framed_half_slope` · н
+- [ ] **Framed Half Stairs** — `framedblocks:framed_half_stairs` · н
+- [ ] **Framed Hammer** — `framedblocks:framed_hammer` · н
+- [ ] **Framed Hanging Sign** — `framedblocks:framed_hanging_sign` · н
+- [ ] **Framed Horizontal Pane** — `framedblocks:framed_horizontal_pane` · н
+- [ ] **Framed Inner Corner Slope** — `framedblocks:framed_inner_corner_slope` · н
+- [ ] **Framed Inner Prism** — `framedblocks:framed_inner_prism` · н
+- [ ] **Framed Inner Prism Corner** — `framedblocks:framed_inner_prism_corner` · н
+- [ ] **Framed Inner Sloped Prism** — `framedblocks:framed_inner_sloped_prism` · н
+- [ ] **Framed Inner Threeway Corner** — `framedblocks:framed_inner_threeway_corner` · н
+- [ ] **Framed Inverse Double Corner Slope Panel** — `framedblocks:framed_inv_double_corner_slope_panel` · н
+- [ ] **Framed Inverse Double Corner Slope Panel** — `framedblocks:framed_inv_double_corner_slope_panel_w` · н
+- [ ] **Framed Inverted Double Slope Panel** — `framedblocks:framed_inv_double_slope_panel` · н
+- [ ] **Framed Inverted Double Slope Slab** — `framedblocks:framed_inv_double_slope_slab` · н
+- [ ] **Framed Iron Door** — `framedblocks:framed_iron_door` · н
+- [ ] **Framed Iron Gate** — `framedblocks:framed_iron_gate` · н
+- [ ] **Framed Heavy Weighted Pressure Plate** — `framedblocks:framed_iron_pressure_plate` · н
+- [ ] **Framed Iron Trapdoor** — `framedblocks:framed_iron_trapdoor` · н
+- [ ] **Framed Item Frame** — `framedblocks:framed_item_frame` · н
+- [ ] **Framed Key** — `framedblocks:framed_key` · н
+- [ ] **Framed Ladder** — `framedblocks:framed_ladder` · н
+- [ ] **Large Framed Button** — `framedblocks:framed_large_button` · н
+- [ ] **Framed Large Corner Slope Panel** — `framedblocks:framed_large_corner_slope_panel` · н
+- [ ] **Framed Large Corner Slope Panel** — `framedblocks:framed_large_corner_slope_panel_w` · н
+- [ ] **Framed Large Double Corner Slope Panel** — `framedblocks:framed_large_double_corner_slope_panel` · н
+- [ ] **Framed Large Double Corner Slope Panel** — `framedblocks:framed_large_double_corner_slope_panel_w` · н
+- [ ] **Framed Large Inner Corner Slope Panel** — `framedblocks:framed_large_inner_corner_slope_panel` · н
+- [ ] **Framed Large Inner Corner Slope Panel** — `framedblocks:framed_large_inner_corner_slope_panel_w` · н
+- [ ] **Large Framed Stone Button** — `framedblocks:framed_large_stone_button` · н
+- [ ] **Framed Lattice** — `framedblocks:framed_lattice_block` · н
+- [ ] **Framed Lever** — `framedblocks:framed_lever` · н
+- [ ] **Framed Masonry Corner** — `framedblocks:framed_masonry_corner` · н
+- [ ] **Framed Masonry Corner Segment** — `framedblocks:framed_masonry_corner_segment` · н
+- [ ] **Framed Mini Cube** — `framedblocks:framed_mini_cube` · н
+- [ ] **Framed Obsidian Pressure Plate** — `framedblocks:framed_obsidian_pressure_plate` · н
+- [ ] **Framed One-Way Window** — `framedblocks:framed_one_way_window` · н
+- [ ] **Framed Pane** — `framedblocks:framed_pane` · н
+- [ ] **Framed Panel** — `framedblocks:framed_panel` · н
+- [ ] **Framed Pillar** — `framedblocks:framed_pillar` · н
+- [ ] **Framed Post** — `framedblocks:framed_post` · н
+- [ ] **Framed Powered Rail Slope** — `framedblocks:framed_powered_rail_slope` · н
+- [ ] **Framed Pressure Plate** — `framedblocks:framed_pressure_plate` · н
+- [ ] **Framed Prism** — `framedblocks:framed_prism` · н
+- [ ] **Framed Prism Corner** — `framedblocks:framed_prism_corner` · н
+- [ ] **Framed Pyramid** — `framedblocks:framed_pyramid` · н
+- [ ] **Framed Pyramid Slab** — `framedblocks:framed_pyramid_slab` · н
+- [ ] **Framed Rail Slope** — `framedblocks:framed_rail_slope` · н
+- [ ] **Framed Redstone Block** — `framedblocks:framed_redstone_block` · н
+- [ ] **Framed Redstone Torch** — `framedblocks:framed_redstone_torch` · н
+- [ ] **Framed Reinforcement** — `framedblocks:framed_reinforcement` · н
+- [ ] **Framed Screwdriver** — `framedblocks:framed_screwdriver` · н
+- [ ] **Framed Secret Storage** — `framedblocks:framed_secret_storage` · н
+- [ ] **Framed Sign** — `framedblocks:framed_sign` · н
+- [ ] **Framed Slab** — `framedblocks:framed_slab` · н
+- [ ] **Framed Slab Corner** — `framedblocks:framed_slab_corner` · н
+- [ ] **Framed Slab Edge** — `framedblocks:framed_slab_edge` · н
+- [ ] **Framed Sliced Stairs (Panel)** — `framedblocks:framed_sliced_stairs_panel` · н
+- [ ] **Framed Sliced Stairs (Slab)** — `framedblocks:framed_sliced_stairs_slab` · н
+- [ ] **Framed Slope** — `framedblocks:framed_slope` · н
+- [ ] **Framed Slope Edge** — `framedblocks:framed_slope_edge` · н
+- [ ] **Framed Slope Panel** — `framedblocks:framed_slope_panel` · н
+- [ ] **Framed Slope Slab** — `framedblocks:framed_slope_slab` · н
+- [ ] **Framed Sloped Prism** — `framedblocks:framed_sloped_prism` · н
+- [ ] **Framed Sloped Stairs** — `framedblocks:framed_sloped_stairs` · н
+- [ ] **Framed Small Corner Slope Panel** — `framedblocks:framed_small_corner_slope_panel` · н
+- [ ] **Framed Small Corner Slope Panel** — `framedblocks:framed_small_corner_slope_panel_w` · н
+- [ ] **Framed Small Double Corner Slope Panel** — `framedblocks:framed_small_double_corner_slope_panel` · н
+- [ ] **Framed Small Double Corner Slope Panel** — `framedblocks:framed_small_double_corner_slope_panel_w` · н
+- [ ] **Framed Small Inner Corner Slope Panel** — `framedblocks:framed_small_inner_corner_slope_panel` · н
+- [ ] **Framed Small Inner Corner Slope Panel** — `framedblocks:framed_small_inner_corner_slope_panel_w` · н
+- [ ] **Framed Soul Torch** — `framedblocks:framed_soul_torch` · н
+- [ ] **Framed Stacked Corner Slope Panel** — `framedblocks:framed_stacked_corner_slope_panel` · н
+- [ ] **Framed Stacked Corner Slope Panel** — `framedblocks:framed_stacked_corner_slope_panel_w` · н
+- [ ] **Framed Stacked Inner Corner Slope Panel** — `framedblocks:framed_stacked_inner_corner_slope_panel` · н
+- [ ] **Framed Stacked Inner Corner Slope Panel** — `framedblocks:framed_stacked_inner_corner_slope_panel_w` · н
+- [ ] **Framed Stacked Slope Edge** — `framedblocks:framed_stacked_slope_edge` · н
+- [ ] **Framed Stacked Slope Panel** — `framedblocks:framed_stacked_slope_panel` · н
+- [ ] **Framed Stacked Slope Slab** — `framedblocks:framed_stacked_slope_slab` · н
+- [ ] **Framed Stairs** — `framedblocks:framed_stairs` · н
+- [ ] **Framed Stone Button** — `framedblocks:framed_stone_button` · н
+- [ ] **Framed Stone Pressure Plate** — `framedblocks:framed_stone_pressure_plate` · н
+- [ ] **Framed Target** — `framedblocks:framed_target` · н
+- [ ] **Framed Thick Lattice** — `framedblocks:framed_thick_lattice` · н
+- [ ] **Framed Threeway Corner** — `framedblocks:framed_threeway_corner` · н
+- [ ] **Framed Threeway Corner Pillar** — `framedblocks:framed_threeway_corner_pillar` · н
+- [ ] **Framed Torch** — `framedblocks:framed_torch` · н
+- [ ] **Framed Trapdoor** — `framedblocks:framed_trapdoor` · н
+- [ ] **Framed Tube** — `framedblocks:framed_tube` · н
+- [ ] **Framed Vertical Divided Stairs** — `framedblocks:framed_vertical_divided_stairs` · н
+- [ ] **Framed Double Half Slope** — `framedblocks:framed_vertical_double_half_slope` · н
+- [ ] **Framed Vertical Double Half Stairs** — `framedblocks:framed_vertical_double_half_stairs` · н
+- [ ] **Framed Vertical Double Stairs** — `framedblocks:framed_vertical_double_stairs` · н
+- [ ] **Framed Half Slope** — `framedblocks:framed_vertical_half_slope` · н
+- [ ] **Framed Vertical Half Stairs** — `framedblocks:framed_vertical_half_stairs` · н
+- [ ] **Framed Vertical Sliced Stairs** — `framedblocks:framed_vertical_sliced_stairs` · н
+- [ ] **Framed Vertical Sloped Stairs** — `framedblocks:framed_vertical_sloped_stairs` · н
+- [ ] **Framed Vertical Stairs** — `framedblocks:framed_vertical_stairs` · н
+- [ ] **Framed Wall** — `framedblocks:framed_wall` · н
+- [ ] **Framed Wall Board** — `framedblocks:framed_wall_board` · н
+- [ ] **Framed Hanging Sign** — `framedblocks:framed_wall_hanging_sign` · н
+- [ ] **Framed Sign** — `framedblocks:framed_wall_sign` · н
+- [ ] **Framed Light Weighted Pressure Plate** — `framedblocks:framed_waterloggable_gold_pressure_plate` · н
+- [ ] **Framed Heavy Weighted Pressure Plate** — `framedblocks:framed_waterloggable_iron_pressure_plate` · н
+- [ ] **Framed Obsidian Pressure Plate** — `framedblocks:framed_waterloggable_obsidian_pressure_plate` · н
+- [ ] **Framed Pressure Plate** — `framedblocks:framed_waterloggable_pressure_plate` · н
+- [ ] **Framed Stone Pressure Plate** — `framedblocks:framed_waterloggable_stone_pressure_plate` · н
+- [ ] **Framed Wrench** — `framedblocks:framed_wrench` · н
+- [ ] **Framing Saw** — `framedblocks:framing_saw` · н
+- [ ] **Powered Framing Saw** — `framedblocks:powered_framing_saw` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

@@ -1,0 +1,461 @@
+# Музей: Create: The Factory Must Grow (tfmg)
+
+Предметов: 448 · крафтимых по данным: 360 (80%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 448 предметов.*
+
+- [ ] **Accumulator** — `tfmg:accumulator` · к
+- [ ] **Advanced Potato Cannon** — `tfmg:advanced_potato_cannon` · к
+- [ ] **Air Tank** — `tfmg:air_bucket` · к
+- [ ] **Air Intake** — `tfmg:air_intake` · к
+- [ ] **Aluminum Axe** — `tfmg:aluminum_axe` · к
+- [ ] **Aluminum Bars** — `tfmg:aluminum_bars` · к
+- [ ] **Block of Aluminum** — `tfmg:aluminum_block` · к
+- [ ] **Aluminum Cable Hub** — `tfmg:aluminum_cable_hub` · к
+- [ ] **Aluminum Cogwheel** — `tfmg:aluminum_cogwheel` · к
+- [ ] **Aluminum Fluid Valve** — `tfmg:aluminum_fluid_valve` · к
+- [ ] **Aluminum Flywheel** — `tfmg:aluminum_flywheel` · к
+- [ ] **Aluminum Frame** — `tfmg:aluminum_frame` · к
+- [ ] **Aluminum Hoe** — `tfmg:aluminum_hoe` · к
+- [ ] **Aluminum Ingot** — `tfmg:aluminum_ingot` · к
+- [ ] **Aluminum Ladder** — `tfmg:aluminum_ladder` · к
+- [ ] **Aluminum Mechanical Pump** — `tfmg:aluminum_mechanical_pump` · к
+- [ ] **Aluminum Pickaxe** — `tfmg:aluminum_pickaxe` · к
+- [ ] **Aluminum Pipe** — `tfmg:aluminum_pipe` · к
+- [ ] **Aluminum Scaffolding** — `tfmg:aluminum_scaffolding` · к
+- [ ] **Aluminum Shovel** — `tfmg:aluminum_shovel` · к
+- [ ] **Aluminum Smart Fluid Pipe** — `tfmg:aluminum_smart_fluid_pipe` · к
+- [ ] **Aluminum Sword** — `tfmg:aluminum_sword` · к
+- [ ] **Aluminum Truss** — `tfmg:aluminum_truss` · к
+- [ ] **Aluminum Wire** — `tfmg:aluminum_wire` · к
+- [ ] **Asphalt** — `tfmg:asphalt` · н
+- [ ] **Bauxite** — `tfmg:bauxite` · к
+- [ ] **Bauxite Pillar** — `tfmg:bauxite_pillar` · к
+- [ ] **Bitumen** — `tfmg:bitumen` · к
+- [ ] **Black Concrete** — `tfmg:black_concrete` · к
+- [ ] **Black Concrete Slab** — `tfmg:black_concrete_slab` · к
+- [ ] **Black Concrete Stairs** — `tfmg:black_concrete_stairs` · к
+- [ ] **Black Concrete Wall** — `tfmg:black_concrete_wall` · к
+- [ ] **Blast Furnace Output** — `tfmg:blast_furnace_output` · к
+- [ ] **Blasting Mixture** — `tfmg:blasting_mixture` · к
+- [ ] **Block Mold** — `tfmg:block_mold` · к
+- [ ] **Blue Caution Block** — `tfmg:blue_caution_block` · к
+- [ ] **Blue Concrete** — `tfmg:blue_concrete` · к
+- [ ] **Blue Concrete Slab** — `tfmg:blue_concrete_slab` · к
+- [ ] **Blue Concrete Stairs** — `tfmg:blue_concrete_stairs` · к
+- [ ] **Blue Concrete Wall** — `tfmg:blue_concrete_wall` · к
+- [ ] **Bottle o' Battery Acid** — `tfmg:bottle_of_battery_acid` · к
+- [ ] **Bottle Of Concrete** — `tfmg:bottle_of_concrete` · н
+- [ ] **Brass Cable Hub** — `tfmg:brass_cable_hub` · к
+- [ ] **Brass Fluid Valve** — `tfmg:brass_fluid_valve` · к
+- [ ] **Brass Frame** — `tfmg:brass_frame` · к
+- [ ] **Brass Mechanical Pump** — `tfmg:brass_mechanical_pump` · к
+- [ ] **Brass Pipe** — `tfmg:brass_pipe` · к
+- [ ] **Brass Smart Fluid Pipe** — `tfmg:brass_smart_fluid_pipe` · к
+- [ ] **Brass Truss** — `tfmg:brass_truss` · к
+- [ ] **Brick Smokestack** — `tfmg:brick_smokestack` · к
+- [ ] **Brown Caution Block** — `tfmg:brown_caution_block` · к
+- [ ] **Brown Concrete** — `tfmg:brown_concrete` · к
+- [ ] **Brown Concrete Slab** — `tfmg:brown_concrete_slab` · к
+- [ ] **Brown Concrete Stairs** — `tfmg:brown_concrete_stairs` · к
+- [ ] **Brown Concrete Wall** — `tfmg:brown_concrete_wall` · к
+- [ ] **Butane Tank** — `tfmg:butane_bucket` · к
+- [ ] **Cable Connector** — `tfmg:cable_connector` · к
+- [ ] **Cable Tube** — `tfmg:cable_tube` · к
+- [ ] **Capacitor** — `tfmg:capacitor` · к
+- [ ] **Capacitor** — `tfmg:capacitor_` · к
+- [ ] **Carbon Dioxide Tank** — `tfmg:carbon_dioxide_bucket` · к
+- [ ] **Cast Iron Bars** — `tfmg:cast_iron_bars` · к
+- [ ] **Block of Cast Iron** — `tfmg:cast_iron_block` · к
+- [ ] **Cast Iron Fluid Valve** — `tfmg:cast_iron_fluid_valve` · к
+- [ ] **Cast Iron Flywheel** — `tfmg:cast_iron_flywheel` · к
+- [ ] **Cast Iron Frame** — `tfmg:cast_iron_frame` · к
+- [ ] **Cast Iron Ingot** — `tfmg:cast_iron_ingot` · к
+- [ ] **Cast Iron Ladder** — `tfmg:cast_iron_ladder` · к
+- [ ] **Cast Iron Mechanical Pump** — `tfmg:cast_iron_mechanical_pump` · к
+- [ ] **Cast Iron Pipe** — `tfmg:cast_iron_pipe` · к
+- [ ] **Cast Iron Smart Fluid Pipe** — `tfmg:cast_iron_smart_fluid_pipe` · к
+- [ ] **Cast Iron Truss** — `tfmg:cast_iron_truss` · к
+- [ ] **Casting Basin** — `tfmg:casting_basin` · к
+- [ ] **Casting Spout** — `tfmg:casting_spout` · к
+- [ ] **Cement** — `tfmg:cement` · к
+- [ ] **Cinder Block** — `tfmg:cinder_block` · к
+- [ ] **Cinderblock** — `tfmg:cinderblock` · к
+- [ ] **Cinderflour Block** — `tfmg:cinderflour_block` · к
+- [ ] **Cinderflourblock** — `tfmg:cinderflourblock` · к
+- [ ] **Coal Coke** — `tfmg:coal_coke` · к
+- [ ] **Block of Coal Coke** — `tfmg:coal_coke_block` · к
+- [ ] **Coal Coke Dust** — `tfmg:coal_coke_dust` · к
+- [ ] **Coke Oven** — `tfmg:coke_oven` · к
+- [ ] **Compact Engine** — `tfmg:compact_engine` · к
+- [ ] **Concrete** — `tfmg:concrete` · н
+- [ ] **Concrete Mixture** — `tfmg:concrete_mixture` · к
+- [ ] **Concrete Slab** — `tfmg:concrete_slab` · к
+- [ ] **Concrete Smokestack** — `tfmg:concrete_smokestack` · к
+- [ ] **Concrete Stairs** — `tfmg:concrete_stairs` · к
+- [ ] **Concrete Wall** — `tfmg:concrete_wall` · к
+- [ ] **Converter** — `tfmg:converter` · к
+- [ ] **Cooling Fluid** — `tfmg:cooling_fluid` · н
+- [ ] **Cooling Fluid Bucket** — `tfmg:cooling_fluid_bucket` · н
+- [ ] **Copper Cable** — `tfmg:copper_cable` · к
+- [ ] **Copper Cable Hub** — `tfmg:copper_cable_hub` · к
+- [ ] **Copper Coil** — `tfmg:copper_coil` · к
+- [ ] **Copper Encased Aluminum Pipe** — `tfmg:copper_encased_aluminum_pipe` · н
+- [ ] **Copper Encased Brass Pipe** — `tfmg:copper_encased_brass_pipe` · н
+- [ ] **Copper Encased Cast Iron Pipe** — `tfmg:copper_encased_cast_iron_pipe` · н
+- [ ] **Copper Encased Plastic Pipe** — `tfmg:copper_encased_plastic_pipe` · н
+- [ ] **Copper Encased Steel Pipe** — `tfmg:copper_encased_steel_pipe` · н
+- [ ] **Copper Frame** — `tfmg:copper_frame` · к
+- [ ] **Copper Grenade** — `tfmg:copper_grenade` · к
+- [ ] **Copper Sulfate** — `tfmg:copper_sulfate` · к
+- [ ] **Copper Truss** — `tfmg:copper_truss` · к
+- [ ] **Copper Wire** — `tfmg:copper_wire` · к
+- [ ] **Copycat Cable Base** — `tfmg:copycat_cable_base` · н
+- [ ] **Copycat Cable Block** — `tfmg:copycat_cable_block` · к
+- [ ] **Creative Generator** — `tfmg:creative_generator` · н
+- [ ] **Creosote** — `tfmg:creosote` · н
+- [ ] **Creosote Bucket** — `tfmg:creosote_bucket` · н
+- [ ] **Crude Oil** — `tfmg:crude_oil` · н
+- [ ] **Crude Oil Bucket** — `tfmg:crude_oil_bucket` · н
+- [ ] **Cut Bauxite** — `tfmg:cut_bauxite` · к
+- [ ] **Cut Bauxite Brick Slab** — `tfmg:cut_bauxite_brick_slab` · к
+- [ ] **Cut Bauxite Brick Stairs** — `tfmg:cut_bauxite_brick_stairs` · к
+- [ ] **Cut Bauxite Brick Wall** — `tfmg:cut_bauxite_brick_wall` · к
+- [ ] **Cut Bauxite Bricks** — `tfmg:cut_bauxite_bricks` · к
+- [ ] **Cut Bauxite Slab** — `tfmg:cut_bauxite_slab` · к
+- [ ] **Cut Bauxite Stairs** — `tfmg:cut_bauxite_stairs` · к
+- [ ] **Cut Bauxite Wall** — `tfmg:cut_bauxite_wall` · к
+- [ ] **Cut Galena** — `tfmg:cut_galena` · к
+- [ ] **Cut Galena Brick Slab** — `tfmg:cut_galena_brick_slab` · к
+- [ ] **Cut Galena Brick Stairs** — `tfmg:cut_galena_brick_stairs` · к
+- [ ] **Cut Galena Brick Wall** — `tfmg:cut_galena_brick_wall` · к
+- [ ] **Cut Galena Bricks** — `tfmg:cut_galena_bricks` · к
+- [ ] **Cut Galena Slab** — `tfmg:cut_galena_slab` · к
+- [ ] **Cut Galena Stairs** — `tfmg:cut_galena_stairs` · к
+- [ ] **Cut Galena Wall** — `tfmg:cut_galena_wall` · к
+- [ ] **Cyan Caution Block** — `tfmg:cyan_caution_block` · к
+- [ ] **Cyan Concrete** — `tfmg:cyan_concrete` · к
+- [ ] **Cyan Concrete Slab** — `tfmg:cyan_concrete_slab` · к
+- [ ] **Cyan Concrete Stairs** — `tfmg:cyan_concrete_stairs` · к
+- [ ] **Cyan Concrete Wall** — `tfmg:cyan_concrete_wall` · к
+- [ ] **Debug Electric Block** — `tfmg:debug_electric_block` · н
+- [ ] **Debug Source** — `tfmg:debug_source` · н
+- [ ] **Deepslate Lead Ore** — `tfmg:deepslate_lead_ore` · н
+- [ ] **Deepslate Lithium Ore** — `tfmg:deepslate_lithium_ore` · н
+- [ ] **Deepslate Nickel Ore** — `tfmg:deepslate_nickel_ore` · н
+- [ ] **Diagonal Cable Block** — `tfmg:diagonal_cable_block` · к
+- [ ] **Diesel** — `tfmg:diesel` · н
+- [ ] **Diesel Bucket** — `tfmg:diesel_bucket` · н
+- [ ] **Diesel Engine** — `tfmg:diesel_engine` · к
+- [ ] **Diesel Engine Expansion** — `tfmg:diesel_engine_expansion` · к
+- [ ] **Electric Casing** — `tfmg:electric_casing` · к
+- [ ] **Electric Diode** — `tfmg:electric_diode` · к
+- [ ] **Electric Motor** — `tfmg:electric_motor` · к
+- [ ] **Electric Post** — `tfmg:electric_post` · к
+- [ ] **Electric Pump** — `tfmg:electric_pump` · к
+- [ ] **Energy Meter** — `tfmg:energy_meter` · к
+- [ ] **Engine Base** — `tfmg:engine_base` · к
+- [ ] **Engine Chamber** — `tfmg:engine_chamber` · к
+- [ ] **Ethylene Tank** — `tfmg:ethylene_bucket` · к
+- [ ] **Exhaust** — `tfmg:exhaust` · к
+- [ ] **Factory Floor** — `tfmg:factory_floor` · к
+- [ ] **Factory Floor Slab** — `tfmg:factory_floor_slab` · к
+- [ ] **Factory Floor Stairs** — `tfmg:factory_floor_stairs` · к
+- [ ] **Firebox** — `tfmg:firebox` · к
+- [ ] **Fireclay** — `tfmg:fireclay` · н
+- [ ] **Fireclay Ball** — `tfmg:fireclay_ball` · н
+- [ ] **Fireproof Brick** — `tfmg:fireproof_brick` · к
+- [ ] **Fireproof Brick Reinforcement** — `tfmg:fireproof_brick_reinforcement` · к
+- [ ] **Fireproof Bricks** — `tfmg:fireproof_bricks` · к
+- [ ] **Flamethrower** — `tfmg:flamethrower` · к
+- [ ] **Flarestack** — `tfmg:flarestack` · к
+- [ ] **Formwork Block** — `tfmg:formwork_block` · к
+- [ ] **Fossilstone** — `tfmg:fossilstone` · н
+- [ ] **Fuse** — `tfmg:fuse` · к
+- [ ] **Fuse Block** — `tfmg:fuse_block` · к
+- [ ] **Galena** — `tfmg:galena` · к
+- [ ] **Galena Pillar** — `tfmg:galena_pillar` · к
+- [ ] **Galvanic Cell** — `tfmg:galvanic_cell` · к
+- [ ] **Gasoline** — `tfmg:gasoline` · н
+- [ ] **Gasoline Bucket** — `tfmg:gasoline_bucket` · н
+- [ ] **Gasoline Engine** — `tfmg:gasoline_engine` · к
+- [ ] **Gasoline Engine Back** — `tfmg:gasoline_engine_back` · к
+- [ ] **Generator** — `tfmg:generator` · к
+- [ ] **Glass Aluminum Pipe** — `tfmg:glass_aluminum_pipe` · н
+- [ ] **Glass Brass Pipe** — `tfmg:glass_brass_pipe` · н
+- [ ] **Glass Cast Iron Pipe** — `tfmg:glass_cast_iron_pipe` · н
+- [ ] **Glass Plastic Pipe** — `tfmg:glass_plastic_pipe` · н
+- [ ] **Glass Steel Pipe** — `tfmg:glass_steel_pipe` · н
+- [ ] **Gray Caution Block** — `tfmg:gray_caution_block` · к
+- [ ] **Gray Concrete** — `tfmg:gray_concrete` · к
+- [ ] **Gray Concrete Slab** — `tfmg:gray_concrete_slab` · к
+- [ ] **Gray Concrete Stairs** — `tfmg:gray_concrete_stairs` · к
+- [ ] **Gray Concrete Wall** — `tfmg:gray_concrete_wall` · к
+- [ ] **Green Caution Block** — `tfmg:green_caution_block` · к
+- [ ] **Green Concrete** — `tfmg:green_concrete` · к
+- [ ] **Green Concrete Slab** — `tfmg:green_concrete_slab` · к
+- [ ] **Green Concrete Stairs** — `tfmg:green_concrete_stairs` · к
+- [ ] **Green Concrete Wall** — `tfmg:green_concrete_wall` · к
+- [ ] **Hardened Planks** — `tfmg:hardened_planks` · к
+- [ ] **Hardened Planks Slab** — `tfmg:hardened_planks_slab` · к
+- [ ] **Heavy Cable Hub** — `tfmg:heavy_cable_hub` · к
+- [ ] **Heavy Casing Door** — `tfmg:heavy_casing_door` · к
+- [ ] **Heavy Casing Encased Aluminum Cogwheel** — `tfmg:heavy_casing_encased_aluminum_cogwheel` · н
+- [ ] **Heavy Casing Encased Large Aluminum Cogwheel** — `tfmg:heavy_casing_encased_large_aluminum_cogwheel` · н
+- [ ] **Heavy Casing Encased Large Steel Cogwheel** — `tfmg:heavy_casing_encased_large_steel_cogwheel` · н
+- [ ] **Heavy Casing Encased Shaft** — `tfmg:heavy_casing_encased_shaft` · н
+- [ ] **Heavy Casing Encased Steel Cogwheel** — `tfmg:heavy_casing_encased_steel_cogwheel` · н
+- [ ] **Heavy Machinery Casing** — `tfmg:heavy_machinery_casing` · к
+- [ ] **Heavy Oil** — `tfmg:heavy_oil` · н
+- [ ] **Heavy Oil Bucket** — `tfmg:heavy_oil_bucket` · н
+- [ ] **Heavy Plate** — `tfmg:heavy_plate` · к
+- [ ] **Industrial Pipe** — `tfmg:industrial_pipe` · к
+- [ ] **Ingot Mold** — `tfmg:ingot_mold` · к
+- [ ] **Kerosene** — `tfmg:kerosene` · н
+- [ ] **Kerosene Bucket** — `tfmg:kerosene_bucket` · н
+- [ ] **Large Aluminum Cogwheel** — `tfmg:large_aluminum_cogwheel` · к
+- [ ] **Large Pumpjack Hammer Connector** — `tfmg:large_pumpjack_hammer_connector` · к
+- [ ] **Large Pumpjack Hammer Head** — `tfmg:large_pumpjack_hammer_head` · к
+- [ ] **Large Pumpjack Hammer Part** — `tfmg:large_pumpjack_hammer_part` · к
+- [ ] **Large Radial Engine** — `tfmg:large_radial_engine` · к
+- [ ] **Large Steel Cogwheel** — `tfmg:large_steel_cogwheel` · к
+- [ ] **Layered Bauxite** — `tfmg:layered_bauxite` · к
+- [ ] **Layered Galena** — `tfmg:layered_galena` · к
+- [ ] **Lead Axe** — `tfmg:lead_axe` · к
+- [ ] **Lead Bars** — `tfmg:lead_bars` · к
+- [ ] **Block of Lead** — `tfmg:lead_block` · к
+- [ ] **Lead Flywheel** — `tfmg:lead_flywheel` · н
+- [ ] **Lead Frame** — `tfmg:lead_frame` · к
+- [ ] **Lead Glass** — `tfmg:lead_glass` · к
+- [ ] **Lead Hoe** — `tfmg:lead_hoe` · к
+- [ ] **Lead Ingot** — `tfmg:lead_ingot` · к
+- [ ] **Leadder** — `tfmg:lead_ladder` · к
+- [ ] **Lead Ore** — `tfmg:lead_ore` · н
+- [ ] **Lead Pickaxe** — `tfmg:lead_pickaxe` · к
+- [ ] **Lead Shovel** — `tfmg:lead_shovel` · к
+- [ ] **Lead Sword** — `tfmg:lead_sword` · к
+- [ ] **Lead Truss** — `tfmg:lead_truss` · к
+- [ ] **Light Blue Caution Block** — `tfmg:light_blue_caution_block` · н
+- [ ] **Light Blue Concrete** — `tfmg:light_blue_concrete` · к
+- [ ] **Light Blue Concrete Slab** — `tfmg:light_blue_concrete_slab` · к
+- [ ] **Light Blue Concrete Stairs** — `tfmg:light_blue_concrete_stairs` · к
+- [ ] **Light Blue Concrete Wall** — `tfmg:light_blue_concrete_wall` · к
+- [ ] **Light Bulb** — `tfmg:light_bulb` · к
+- [ ] **Light Gray Caution Block** — `tfmg:light_gray_caution_block` · к
+- [ ] **Light Gray Concrete** — `tfmg:light_gray_concrete` · к
+- [ ] **Light Gray Concrete Slab** — `tfmg:light_gray_concrete_slab` · к
+- [ ] **Light Gray Concrete Stairs** — `tfmg:light_gray_concrete_stairs` · к
+- [ ] **Light Gray Concrete Wall** — `tfmg:light_gray_concrete_wall` · к
+- [ ] **Lignite** — `tfmg:lignite` · н
+- [ ] **Lime Caution Block** — `tfmg:lime_caution_block` · к
+- [ ] **Lime Concrete** — `tfmg:lime_concrete` · к
+- [ ] **Lime Concrete Slab** — `tfmg:lime_concrete_slab` · к
+- [ ] **Lime Concrete Stairs** — `tfmg:lime_concrete_stairs` · к
+- [ ] **Lime Concrete Wall** — `tfmg:lime_concrete_wall` · к
+- [ ] **Limesand** — `tfmg:limesand` · к
+- [ ] **Liquid Asphalt** — `tfmg:liquid_asphalt` · н
+- [ ] **Liquid Asphalt Bucket** — `tfmg:liquid_asphalt_bucket` · к
+- [ ] **Liquid Concrete** — `tfmg:liquid_concrete` · н
+- [ ] **Liquid Concrete Bucket** — `tfmg:liquid_concrete_bucket` · к
+- [ ] **Liquid Plastic** — `tfmg:liquid_plastic` · н
+- [ ] **Liquid Plastic Bucket** — `tfmg:liquid_plastic_bucket` · н
+- [ ] **Lithium Blade** — `tfmg:lit_lithium_blade` · н
+- [ ] **Lithium Blade** — `tfmg:lithium_blade` · к
+- [ ] **Block of Lithium** — `tfmg:lithium_block` · к
+- [ ] **Lithium Charge** — `tfmg:lithium_charge` · к
+- [ ] **Lithium Ingot** — `tfmg:lithium_ingot` · к
+- [ ] **Lithium Ore** — `tfmg:lithium_ore` · н
+- [ ] **Lithium Torch** — `tfmg:lithium_torch` · к
+- [ ] **Low Grade Fuel Engine** — `tfmg:low_grade_fuel_engine` · к
+- [ ] **Lpg Tank** — `tfmg:lpg_bucket` · к
+- [ ] **Lpg Engine** — `tfmg:lpg_engine` · к
+- [ ] **Lpg Engine Back** — `tfmg:lpg_engine_back` · к
+- [ ] **Lubrication Oil** — `tfmg:lubrication_oil` · н
+- [ ] **Lubrication Oil Bucket** — `tfmg:lubrication_oil_bucket` · н
+- [ ] **Machine Input** — `tfmg:machine_input` · к
+- [ ] **Magenta Caution Block** — `tfmg:magenta_caution_block` · к
+- [ ] **Magenta Concrete** — `tfmg:magenta_concrete` · к
+- [ ] **Magenta Concrete Slab** — `tfmg:magenta_concrete_slab` · к
+- [ ] **Magenta Concrete Stairs** — `tfmg:magenta_concrete_stairs` · к
+- [ ] **Magenta Concrete Wall** — `tfmg:magenta_concrete_wall` · к
+- [ ] **Magnetic Ingot** — `tfmg:magnetic_ingot` · к
+- [ ] **Metal Smokestack** — `tfmg:metal_smokestack` · к
+- [ ] **Molten Metal** — `tfmg:molten_metal` · н
+- [ ] **Molten Slag** — `tfmg:molten_slag` · н
+- [ ] **Molten Slag Bucket** — `tfmg:molten_slag_bucket` · н
+- [ ] **Molten Steel** — `tfmg:molten_steel` · н
+- [ ] **Molten Steel Bucket** — `tfmg:molten_steel_bucket` · н
+- [ ] **Napalm** — `tfmg:napalm` · н
+- [ ] **Napalm Bomb** — `tfmg:napalm_bomb` · к
+- [ ] **Napalm Bucket** — `tfmg:napalm_bucket` · н
+- [ ] **Napalm Potato** — `tfmg:napalm_potato` · к
+- [ ] **Naphtha** — `tfmg:naphtha` · н
+- [ ] **Naphtha Bucket** — `tfmg:naphtha_bucket` · н
+- [ ] **Neon Tank** — `tfmg:neon_bucket` · к
+- [ ] **Neon Tube** — `tfmg:neon_tube` · к
+- [ ] **Nickel Bars** — `tfmg:nickel_bars` · к
+- [ ] **Block of Nickel** — `tfmg:nickel_block` · к
+- [ ] **Nickel Flywheel** — `tfmg:nickel_flywheel` · н
+- [ ] **Nickel Frame** — `tfmg:nickel_frame` · к
+- [ ] **Nickel Ingot** — `tfmg:nickel_ingot` · к
+- [ ] **Nickel Ladder** — `tfmg:nickel_ladder` · к
+- [ ] **Nickel Ore** — `tfmg:nickel_ore` · н
+- [ ] **Nickel Truss** — `tfmg:nickel_truss` · к
+- [ ] **Nitrate Dust** — `tfmg:nitrate_dust` · к
+- [ ] **Oil Deposit** — `tfmg:oil_deposit` · н
+- [ ] **Orange Caution Block** — `tfmg:orange_caution_block` · к
+- [ ] **Orange Concrete** — `tfmg:orange_concrete` · к
+- [ ] **Orange Concrete Slab** — `tfmg:orange_concrete_slab` · к
+- [ ] **Orange Concrete Stairs** — `tfmg:orange_concrete_stairs` · к
+- [ ] **Orange Concrete Wall** — `tfmg:orange_concrete_wall` · к
+- [ ] **Pink Caution Block** — `tfmg:pink_caution_block` · к
+- [ ] **Pink Concrete** — `tfmg:pink_concrete` · н
+- [ ] **Pink Concrete Slab** — `tfmg:pink_concrete_slab` · к
+- [ ] **Pink Concrete Stairs** — `tfmg:pink_concrete_stairs` · к
+- [ ] **Pink Concrete Wall** — `tfmg:pink_concrete_wall` · к
+- [ ] **Pipe Bomb** — `tfmg:pipe_bomb` · к
+- [ ] **Block of Plastic** — `tfmg:plastic_block` · к
+- [ ] **Plastic Fluid Valve** — `tfmg:plastic_fluid_valve` · к
+- [ ] **Plastic Mechanical Pump** — `tfmg:plastic_mechanical_pump` · к
+- [ ] **Plastic Pipe** — `tfmg:plastic_pipe` · к
+- [ ] **Plastic Sheet** — `tfmg:plastic_sheet` · к
+- [ ] **Plastic Smart Fluid Pipe** — `tfmg:plastic_smart_fluid_pipe` · к
+- [ ] **Polarizer** — `tfmg:polarizer` · к
+- [ ] **Polished Cut Bauxite** — `tfmg:polished_cut_bauxite` · к
+- [ ] **Polished Cut Bauxite Slab** — `tfmg:polished_cut_bauxite_slab` · к
+- [ ] **Polished Cut Bauxite Stairs** — `tfmg:polished_cut_bauxite_stairs` · к
+- [ ] **Polished Cut Bauxite Wall** — `tfmg:polished_cut_bauxite_wall` · к
+- [ ] **Polished Cut Galena** — `tfmg:polished_cut_galena` · к
+- [ ] **Polished Cut Galena Slab** — `tfmg:polished_cut_galena_slab` · к
+- [ ] **Polished Cut Galena Stairs** — `tfmg:polished_cut_galena_stairs` · к
+- [ ] **Polished Cut Galena Wall** — `tfmg:polished_cut_galena_wall` · к
+- [ ] **Propane Tank** — `tfmg:propane_bucket` · к
+- [ ] **Propylene Tank** — `tfmg:propylene_bucket` · к
+- [ ] **Pumpjack Base** — `tfmg:pumpjack_base` · к
+- [ ] **Pumpjack Crank** — `tfmg:pumpjack_crank` · к
+- [ ] **Pumpjack Hammer Holder** — `tfmg:pumpjack_hammer` · к
+- [ ] **Pumpjack Hammer Connector** — `tfmg:pumpjack_hammer_connector` · к
+- [ ] **Pumpjack Hammer Head** — `tfmg:pumpjack_hammer_head` · к
+- [ ] **Pumpjack Hammer Part** — `tfmg:pumpjack_hammer_part` · к
+- [ ] **Purple Caution Block** — `tfmg:purple_caution_block` · к
+- [ ] **Purple Concrete** — `tfmg:purple_concrete` · к
+- [ ] **Purple Concrete Slab** — `tfmg:purple_concrete_slab` · к
+- [ ] **Purple Concrete Stairs** — `tfmg:purple_concrete_stairs` · к
+- [ ] **Purple Concrete Wall** — `tfmg:purple_concrete_wall` · к
+- [ ] **Quad Potato Cannon** — `tfmg:quad_potato_cannon` · к
+- [ ] **Radial Engine** — `tfmg:radial_engine` · к
+- [ ] **Radial Engine Input** — `tfmg:radial_engine_input` · н
+- [ ] **Radial Engine Input Ponder** — `tfmg:radial_engine_input_ponder` · н
+- [ ] **Raw Lead** — `tfmg:raw_lead` · н
+- [ ] **Raw Lithium** — `tfmg:raw_lithium` · н
+- [ ] **Raw Nickel** — `tfmg:raw_nickel` · н
+- [ ] **Rebar** — `tfmg:rebar` · к
+- [ ] **Rebar Concrete** — `tfmg:rebar_concrete` · н
+- [ ] **Rebar Concrete Slab** — `tfmg:rebar_concrete_slab` · к
+- [ ] **Rebar Concrete Stairs** — `tfmg:rebar_concrete_stairs` · к
+- [ ] **Rebar Concrete Wall** — `tfmg:rebar_concrete_wall` · к
+- [ ] **Rebar Formwork Block** — `tfmg:rebar_formwork_block` · к
+- [ ] **Red Caution Block** — `tfmg:red_caution_block` · к
+- [ ] **Red Concrete** — `tfmg:red_concrete` · к
+- [ ] **Red Concrete Slab** — `tfmg:red_concrete_slab` · к
+- [ ] **Red Concrete Stairs** — `tfmg:red_concrete_stairs` · к
+- [ ] **Red Concrete Wall** — `tfmg:red_concrete_wall` · к
+- [ ] **Resistor** — `tfmg:resistor` · к
+- [ ] **Resistor** — `tfmg:resistor_` · к
+- [ ] **Rgb Light Bulb** — `tfmg:rgb_light_bulb` · к
+- [ ] **Rotor** — `tfmg:rotor` · к
+- [ ] **Screw** — `tfmg:screw` · к
+- [ ] **Screwdriver** — `tfmg:screwdriver` · к
+- [ ] **Segmented Display** — `tfmg:segmented_display` · к
+- [ ] **Slag** — `tfmg:slag` · к
+- [ ] **Small Bauxite Brick Slab** — `tfmg:small_bauxite_brick_slab` · к
+- [ ] **Small Bauxite Brick Stairs** — `tfmg:small_bauxite_brick_stairs` · к
+- [ ] **Small Bauxite Brick Wall** — `tfmg:small_bauxite_brick_wall` · к
+- [ ] **Small Bauxite Bricks** — `tfmg:small_bauxite_bricks` · к
+- [ ] **Small Galena Brick Slab** — `tfmg:small_galena_brick_slab` · к
+- [ ] **Small Galena Brick Stairs** — `tfmg:small_galena_brick_stairs` · к
+- [ ] **Small Galena Brick Wall** — `tfmg:small_galena_brick_wall` · к
+- [ ] **Small Galena Bricks** — `tfmg:small_galena_bricks` · к
+- [ ] **Spark Plug** — `tfmg:spark_plug` · к
+- [ ] **Stator** — `tfmg:stator` · к
+- [ ] **Steel Axe** — `tfmg:steel_axe` · к
+- [ ] **Steel Bars** — `tfmg:steel_bars` · к
+- [ ] **Block of Steel** — `tfmg:steel_block` · к
+- [ ] **Steel Boots** — `tfmg:steel_boots` · к
+- [ ] **Steel Cable Hub** — `tfmg:steel_cable_hub` · к
+- [ ] **Steel Casing** — `tfmg:steel_casing` · к
+- [ ] **Steel Casing Cable Hub** — `tfmg:steel_casing_cable_hub` · к
+- [ ] **Steel Chestplate** — `tfmg:steel_chestplate` · к
+- [ ] **Steel Cogwheel** — `tfmg:steel_cogwheel` · к
+- [ ] **Steel Distillation Controller** — `tfmg:steel_distillation_controller` · к
+- [ ] **Steel Distillation Output** — `tfmg:steel_distillation_output` · к
+- [ ] **Steel Door** — `tfmg:steel_door` · к
+- [ ] **Steel Encased Aluminum Cogwheel** — `tfmg:steel_encased_aluminum_cogwheel` · н
+- [ ] **Steel Encased Large Aluminum Cogwheel** — `tfmg:steel_encased_large_aluminum_cogwheel` · н
+- [ ] **Steel Encased Large Steel Cogwheel** — `tfmg:steel_encased_large_steel_cogwheel` · н
+- [ ] **Steel Encased Shaft** — `tfmg:steel_encased_shaft` · н
+- [ ] **Steel Encased Steel Cogwheel** — `tfmg:steel_encased_steel_cogwheel` · н
+- [ ] **Steel Fluid Tank** — `tfmg:steel_fluid_tank` · к
+- [ ] **Steel Fluid Valve** — `tfmg:steel_fluid_valve` · к
+- [ ] **Steel Flywheel** — `tfmg:steel_flywheel` · к
+- [ ] **Steel Frame** — `tfmg:steel_frame` · к
+- [ ] **Steel Gearbox** — `tfmg:steel_gearbox` · к
+- [ ] **Steel Helmet** — `tfmg:steel_helmet` · к
+- [ ] **Steel Hoe** — `tfmg:steel_hoe` · к
+- [ ] **Steel Ingot** — `tfmg:steel_ingot` · к
+- [ ] **Steel Ladder** — `tfmg:steel_ladder` · к
+- [ ] **Steel Leggings** — `tfmg:steel_leggings` · к
+- [ ] **Steel Mechanical Pump** — `tfmg:steel_mechanical_pump` · к
+- [ ] **Steel Mechanism** — `tfmg:steel_mechanism` · к
+- [ ] **Steel Pickaxe** — `tfmg:steel_pickaxe` · к
+- [ ] **Steel Pipe** — `tfmg:steel_pipe` · к
+- [ ] **Steel Scaffolding** — `tfmg:steel_scaffolding` · к
+- [ ] **Steel Shovel** — `tfmg:steel_shovel` · к
+- [ ] **Steel Smart Fluid Pipe** — `tfmg:steel_smart_fluid_pipe` · к
+- [ ] **Steel Sword** — `tfmg:steel_sword` · к
+- [ ] **Steel Truss** — `tfmg:steel_truss` · к
+- [ ] **Steel Vertical Gearbox** — `tfmg:steel_vertical_gearbox` · к
+- [ ] **Sulfur** — `tfmg:sulfur` · н
+- [ ] **Sulfur Dust** — `tfmg:sulfur_dust` · к
+- [ ] **Sulfuric Acid** — `tfmg:sulfuric_acid` · н
+- [ ] **Sulfuric Acid Bucket** — `tfmg:sulfuric_acid_bucket` · н
+- [ ] **Surface Scanner** — `tfmg:surface_scanner` · к
+- [ ] **Synthetic Leather** — `tfmg:synthetic_leather` · к
+- [ ] **Synthetic String** — `tfmg:synthetic_string` · к
+- [ ] **Debug Rock** — `tfmg:the_rock` · н
+- [ ] **Thermite Grenade** — `tfmg:thermite_grenade` · к
+- [ ] **Thermite Powder** — `tfmg:thermite_powder` · к
+- [ ] **Traffic Light** — `tfmg:traffic_light` · к
+- [ ] **Transistor** — `tfmg:transistor` · к
+- [ ] **Turbine Blade** — `tfmg:turbine_blade` · к
+- [ ] **Turbine Engine** — `tfmg:turbine_engine` · к
+- [ ] **Turbine Engine Back** — `tfmg:turbine_engine_back` · к
+- [ ] **Unfinished Gasoline Engine** — `tfmg:unfinished_gasoline_engine` · н
+- [ ] **Unfinished Lpg Engine** — `tfmg:unfinished_lpg_engine` · н
+- [ ] **Unfinished Steel Mechanism** — `tfmg:unfinished_steel_mechanism` · н
+- [ ] **Unfinished Turbine Engine** — `tfmg:unfinished_turbine_engine` · н
+- [ ] **Unprocessed Heavy Plate** — `tfmg:unprocessed_heavy_plate` · н
+- [ ] **Voltage Cube** — `tfmg:voltage_cube` · н
+- [ ] **Voltage Observer** — `tfmg:voltage_observer` · к
+- [ ] **Voltmeter** — `tfmg:voltmeter` · к
+- [ ] **White Caution Block** — `tfmg:white_caution_block` · к
+- [ ] **White Concrete** — `tfmg:white_concrete` · к
+- [ ] **White Concrete Slab** — `tfmg:white_concrete_slab` · к
+- [ ] **White Concrete Stairs** — `tfmg:white_concrete_stairs` · к
+- [ ] **White Concrete Wall** — `tfmg:white_concrete_wall` · к
+- [ ] **Yellow Caution Block** — `tfmg:yellow_caution_block` · к
+- [ ] **Yellow Concrete** — `tfmg:yellow_concrete` · к
+- [ ] **Yellow Concrete Slab** — `tfmg:yellow_concrete_slab` · к
+- [ ] **Yellow Concrete Stairs** — `tfmg:yellow_concrete_stairs` · к
+- [ ] **Yellow Concrete Wall** — `tfmg:yellow_concrete_wall` · к
+- [ ] **Zinc Frame** — `tfmg:zinc_frame` · к
+- [ ] **Zinc Grenade** — `tfmg:zinc_grenade` · к
+- [ ] **Zinc Sulfate** — `tfmg:zinc_sulfate` · к
+- [ ] **Zinc Truss** — `tfmg:zinc_truss` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

@@ -1,0 +1,485 @@
+# Музей: Create: Design n' Decor (design_decor)
+
+Предметов: 488 · крафтимых по данным: 0 (0%) · файлов: 2
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 1 из 2
+
+*В части: 470 предметов.*
+
+- [ ] **0 Letter Sign** — `design_decor:0_sign` · н
+- [ ] **1 Letter Sign** — `design_decor:1_sign` · н
+- [ ] **2 Letter Sign** — `design_decor:2_sign` · н
+- [ ] **3 Letter Sign** — `design_decor:3_sign` · н
+- [ ] **4 Letter Sign** — `design_decor:4_sign` · н
+- [ ] **5 Letter Sign** — `design_decor:5_sign` · н
+- [ ] **6 Letter Sign** — `design_decor:6_sign` · н
+- [ ] **7 Letter Sign** — `design_decor:7_sign` · н
+- [ ] **8 Letter Sign** — `design_decor:8_sign` · н
+- [ ] **9 Letter Sign** — `design_decor:9_sign` · н
+- [ ] **A Letter Sign** — `design_decor:a_sign` · н
+- [ ] **Aluminium Boiler** — `design_decor:aluminium_boiler` · н
+- [ ] **Large Aluminium Boiler** — `design_decor:aluminium_boiler_large` · н
+- [ ] **Aluminium Boiler** — `design_decor:aluminium_boiler_special` · н
+- [ ] **Large Aluminium Boiler** — `design_decor:aluminium_boiler_structure` · н
+- [ ] **Large Aluminium Chain** — `design_decor:aluminium_large_chain` · н
+- [ ] **Oil Sign** — `design_decor:american_sign` · н
+- [ ] **Andesite Boiler** — `design_decor:andesite_boiler` · н
+- [ ] **Large Andesite Boiler** — `design_decor:andesite_boiler_large` · н
+- [ ] **Large Andesite Boiler** — `design_decor:andesite_boiler_structure` · н
+- [ ] **Andesite Castel Brick Slab** — `design_decor:andesite_castel_brick_slab` · н
+- [ ] **Andesite Castel Brick Stairs** — `design_decor:andesite_castel_brick_stairs` · н
+- [ ] **Andesite Castel Brick Wall** — `design_decor:andesite_castel_brick_wall` · н
+- [ ] **Andesite Castel Bricks** — `design_decor:andesite_castel_bricks` · н
+- [ ] **Andesite Castel Tile Slab** — `design_decor:andesite_castel_tile_slab` · н
+- [ ] **Andesite Castel Tile Stairs** — `design_decor:andesite_castel_tile_stairs` · н
+- [ ] **Andesite Castel Tile Wall** — `design_decor:andesite_castel_tile_wall` · н
+- [ ] **Andesite Castel Tiles** — `design_decor:andesite_castel_tiles` · н
+- [ ] **Andesite Floodlight** — `design_decor:andesite_floodlight` · н
+- [ ] **Large Andesite Chain** — `design_decor:andesite_large_chain` · н
+- [ ] **Arrow Down Sign** — `design_decor:arrow_down_sign` · н
+- [ ] **Arrow Left Sign** — `design_decor:arrow_left_sign` · н
+- [ ] **Arrow Right Sign** — `design_decor:arrow_right_sign` · н
+- [ ] **Arrow Up Sign** — `design_decor:arrow_up_sign` · н
+- [ ] **Asurine Castel Brick Slab** — `design_decor:asurine_castel_brick_slab` · н
+- [ ] **Asurine Castel Brick Stairs** — `design_decor:asurine_castel_brick_stairs` · н
+- [ ] **Asurine Castel Brick Wall** — `design_decor:asurine_castel_brick_wall` · н
+- [ ] **Asurine Castel Bricks** — `design_decor:asurine_castel_bricks` · н
+- [ ] **Asurine Castel Tile Slab** — `design_decor:asurine_castel_tile_slab` · н
+- [ ] **Asurine Castel Tile Stairs** — `design_decor:asurine_castel_tile_stairs` · н
+- [ ] **Asurine Castel Tile Wall** — `design_decor:asurine_castel_tile_wall` · н
+- [ ] **Asurine Castel Tiles** — `design_decor:asurine_castel_tiles` · н
+- [ ] **Asurine Crushing Wheel** — `design_decor:asurine_crushing_wheel` · н
+- [ ] **Asurine Millstone** — `design_decor:asurine_millstone` · н
+- [ ] **B Letter Sign** — `design_decor:b_sign` · н
+- [ ] **Biohazard Sign** — `design_decor:biohazard_sign` · н
+- [ ] **Black Metal Plate** — `design_decor:black_metal_plate` · н
+- [ ] **Black Metal Plate Slab** — `design_decor:black_metal_plate_slab` · н
+- [ ] **Black Metal Plate Stairs** — `design_decor:black_metal_plate_stairs` · н
+- [ ] **Black Metal Plate Wall** — `design_decor:black_metal_plate_wall` · н
+- [ ] **Black Metal Sheet** — `design_decor:black_metal_sheet` · н
+- [ ] **Black Metal Sheet Slab** — `design_decor:black_metal_sheet_slab` · н
+- [ ] **Black Metal Sheet Stairs** — `design_decor:black_metal_sheet_stairs` · н
+- [ ] **Black Metal Sheet Wall** — `design_decor:black_metal_sheet_wall` · н
+- [ ] **Black Wavy Wallpaper** — `design_decor:black_wallpaper_wavy` · н
+- [ ] **Blank Sign** — `design_decor:blank_sign` · н
+- [ ] **Blue Container** — `design_decor:blue_container` · н
+- [ ] **Blue Metal Plate** — `design_decor:blue_metal_plate` · н
+- [ ] **Blue Metal Plate Slab** — `design_decor:blue_metal_plate_slab` · н
+- [ ] **Blue Metal Plate Stairs** — `design_decor:blue_metal_plate_stairs` · н
+- [ ] **Blue Metal Plate Wall** — `design_decor:blue_metal_plate_wall` · н
+- [ ] **Blue Metal Sheet** — `design_decor:blue_metal_sheet` · н
+- [ ] **Blue Metal Sheet Slab** — `design_decor:blue_metal_sheet_slab` · н
+- [ ] **Blue Metal Sheet Stairs** — `design_decor:blue_metal_sheet_stairs` · н
+- [ ] **Blue Metal Sheet Wall** — `design_decor:blue_metal_sheet_wall` · н
+- [ ] **Blue Wavy Wallpaper** — `design_decor:blue_wallpaper_wavy` · н
+- [ ] **Brass Boiler** — `design_decor:brass_boiler` · н
+- [ ] **Large Brass Boiler** — `design_decor:brass_boiler_large` · н
+- [ ] **Large Brass Boiler** — `design_decor:brass_boiler_structure` · н
+- [ ] **Brass Bolt** — `design_decor:brass_bolt` · н
+- [ ] **Brass Catwalk** — `design_decor:brass_catwalk` · н
+- [ ] **Brass Floodlight** — `design_decor:brass_floodlight` · н
+- [ ] **Brass Floor** — `design_decor:brass_floor` · н
+- [ ] **Brass Lamp** — `design_decor:brass_lamp` · н
+- [ ] **Large Brass Chain** — `design_decor:brass_large_chain` · н
+- [ ] **Brass Light** — `design_decor:brass_light` · н
+- [ ] **Brass Railing** — `design_decor:brass_railing` · н
+- [ ] **Brass Screw** — `design_decor:brass_screw` · н
+- [ ] **Breaker Switch** — `design_decor:breaker_switch` · н
+- [ ] **Broken Wrench Sign** — `design_decor:broken_wrench_sign` · н
+- [ ] **Large Bronze Chain** — `design_decor:bronze_large_chain` · н
+- [ ] **Brown Metal Plate** — `design_decor:brown_metal_plate` · н
+- [ ] **Brown Metal Plate Slab** — `design_decor:brown_metal_plate_slab` · н
+- [ ] **Brown Metal Plate Stairs** — `design_decor:brown_metal_plate_stairs` · н
+- [ ] **Brown Metal Plate Wall** — `design_decor:brown_metal_plate_wall` · н
+- [ ] **Brown Metal Sheet** — `design_decor:brown_metal_sheet` · н
+- [ ] **Brown Metal Sheet Slab** — `design_decor:brown_metal_sheet_slab` · н
+- [ ] **Brown Metal Sheet Stairs** — `design_decor:brown_metal_sheet_stairs` · н
+- [ ] **Brown Metal Sheet Wall** — `design_decor:brown_metal_sheet_wall` · н
+- [ ] **Brown Wavy Wallpaper** — `design_decor:brown_wallpaper_wavy` · н
+- [ ] **Bun Sign** — `design_decor:bun_sign` · н
+- [ ] **C Letter Sign** — `design_decor:c_sign` · н
+- [ ] **Calcite Castel Brick Slab** — `design_decor:calcite_castel_brick_slab` · н
+- [ ] **Calcite Castel Brick Stairs** — `design_decor:calcite_castel_brick_stairs` · н
+- [ ] **Calcite Castel Brick Wall** — `design_decor:calcite_castel_brick_wall` · н
+- [ ] **Calcite Castel Bricks** — `design_decor:calcite_castel_bricks` · н
+- [ ] **Calcite Castel Tile Slab** — `design_decor:calcite_castel_tile_slab` · н
+- [ ] **Calcite Castel Tile Stairs** — `design_decor:calcite_castel_tile_stairs` · н
+- [ ] **Calcite Castel Tile Wall** — `design_decor:calcite_castel_tile_wall` · н
+- [ ] **Calcite Castel Tiles** — `design_decor:calcite_castel_tiles` · н
+- [ ] **Calcite Crushing Wheel** — `design_decor:calcite_crushing_wheel` · н
+- [ ] **Calcite Millstone** — `design_decor:calcite_millstone` · н
+- [ ] **Block of Capitalism** — `design_decor:capitalism_block` · н
+- [ ] **Capitalism Boiler** — `design_decor:capitalism_boiler` · н
+- [ ] **Large Capitalism Boiler** — `design_decor:capitalism_boiler_large` · н
+- [ ] **Large Capitalism Boiler** — `design_decor:capitalism_boiler_structure` · н
+- [ ] **Capitalism Warning Sign** — `design_decor:capitalism_warning_sign` · н
+- [ ] **Cardboard Box** — `design_decor:cardboard_box` · н
+- [ ] **Cardboard Sheet** — `design_decor:cardboard_sheet` · н
+- [ ] **Cast Iron Boiler** — `design_decor:cast_iron_boiler` · н
+- [ ] **Large Cast Iron Boiler** — `design_decor:cast_iron_boiler_large` · н
+- [ ] **Large Cast Iron Boiler** — `design_decor:cast_iron_boiler_structure` · н
+- [ ] **Large Cast Iron Chain** — `design_decor:cast_iron_large_chain` · н
+- [ ] **Ceiling Fan** — `design_decor:ceiling_fan` · н
+- [ ] **Large Cobalt Chain** — `design_decor:cobalt_large_chain` · н
+- [ ] **Copper Boiler** — `design_decor:copper_boiler` · н
+- [ ] **Large Copper Boiler** — `design_decor:copper_boiler_large` · н
+- [ ] **Large Copper Boiler** — `design_decor:copper_boiler_structure` · н
+- [ ] **Copper Bolt** — `design_decor:copper_bolt` · н
+- [ ] **Copper Catwalk** — `design_decor:copper_catwalk` · н
+- [ ] **Copper Floodlight** — `design_decor:copper_floodlight` · н
+- [ ] **Copper Floor** — `design_decor:copper_floor` · н
+- [ ] **Compact Fluid Tank** — `design_decor:copper_gas_tank` · н
+- [ ] **Copper Lamp** — `design_decor:copper_lamp` · н
+- [ ] **Large Copper Chain** — `design_decor:copper_large_chain` · н
+- [ ] **Copper Light** — `design_decor:copper_light` · н
+- [ ] **Copper Railing** — `design_decor:copper_railing` · н
+- [ ] **Copper Screw** — `design_decor:copper_screw` · н
+- [ ] **Creeper Sign** — `design_decor:creeper_sign` · н
+- [ ] **Crimsite Castel Brick Slab** — `design_decor:crimsite_castel_brick_slab` · н
+- [ ] **Crimsite Castel Brick Stairs** — `design_decor:crimsite_castel_brick_stairs` · н
+- [ ] **Crimsite Castel Brick Wall** — `design_decor:crimsite_castel_brick_wall` · н
+- [ ] **Crimsite Castel Bricks** — `design_decor:crimsite_castel_bricks` · н
+- [ ] **Crimsite Castel Tile Slab** — `design_decor:crimsite_castel_tile_slab` · н
+- [ ] **Crimsite Castel Tile Stairs** — `design_decor:crimsite_castel_tile_stairs` · н
+- [ ] **Crimsite Castel Tile Wall** — `design_decor:crimsite_castel_tile_wall` · н
+- [ ] **Crimsite Castel Tiles** — `design_decor:crimsite_castel_tiles` · н
+- [ ] **Crimsite Crushing Wheel** — `design_decor:crimsite_crushing_wheel` · н
+- [ ] **Crimsite Millstone** — `design_decor:crimsite_millstone` · н
+- [ ] **Crushing Wheel Controller** — `design_decor:crushing_wheel_controller` · н
+- [ ] **Cyan Metal Plate** — `design_decor:cyan_metal_plate` · н
+- [ ] **Cyan Metal Plate Slab** — `design_decor:cyan_metal_plate_slab` · н
+- [ ] **Cyan Metal Plate Stairs** — `design_decor:cyan_metal_plate_stairs` · н
+- [ ] **Cyan Metal Plate Wall** — `design_decor:cyan_metal_plate_wall` · н
+- [ ] **Cyan Metal Sheet** — `design_decor:cyan_metal_sheet` · н
+- [ ] **Cyan Metal Sheet Slab** — `design_decor:cyan_metal_sheet_slab` · н
+- [ ] **Cyan Metal Sheet Stairs** — `design_decor:cyan_metal_sheet_stairs` · н
+- [ ] **Cyan Metal Sheet Wall** — `design_decor:cyan_metal_sheet_wall` · н
+- [ ] **Cyan Wavy Wallpaper** — `design_decor:cyan_wallpaper_wavy` · н
+- [ ] **D Letter Sign** — `design_decor:d_sign` · н
+- [ ] **Deepslate Castel Brick Slab** — `design_decor:deepslate_castel_brick_slab` · н
+- [ ] **Deepslate Castel Brick Stairs** — `design_decor:deepslate_castel_brick_stairs` · н
+- [ ] **Deepslate Castel Brick Wall** — `design_decor:deepslate_castel_brick_wall` · н
+- [ ] **Deepslate Castel Bricks** — `design_decor:deepslate_castel_bricks` · н
+- [ ] **Deepslate Castel Tile Slab** — `design_decor:deepslate_castel_tile_slab` · н
+- [ ] **Deepslate Castel Tile Stairs** — `design_decor:deepslate_castel_tile_stairs` · н
+- [ ] **Deepslate Castel Tile Wall** — `design_decor:deepslate_castel_tile_wall` · н
+- [ ] **Deepslate Castel Tiles** — `design_decor:deepslate_castel_tiles` · н
+- [ ] **Deepslate Crushing Wheel** — `design_decor:deepslate_crushing_wheel` · н
+- [ ] **Deepslate Millstone** — `design_decor:deepslate_millstone` · н
+- [ ] **Diagonal Girder** — `design_decor:diagonal_girder` · н
+- [ ] **Diagonal Metal Support** — `design_decor:diagonal_metal_support` · н
+- [ ] **Diorite Castel Brick Slab** — `design_decor:diorite_castel_brick_slab` · н
+- [ ] **Diorite Castel Brick Stairs** — `design_decor:diorite_castel_brick_stairs` · н
+- [ ] **Diorite Castel Brick Wall** — `design_decor:diorite_castel_brick_wall` · н
+- [ ] **Diorite Castel Bricks** — `design_decor:diorite_castel_bricks` · н
+- [ ] **Diorite Castel Tile Slab** — `design_decor:diorite_castel_tile_slab` · н
+- [ ] **Diorite Castel Tile Stairs** — `design_decor:diorite_castel_tile_stairs` · н
+- [ ] **Diorite Castel Tile Wall** — `design_decor:diorite_castel_tile_wall` · н
+- [ ] **Diorite Castel Tiles** — `design_decor:diorite_castel_tiles` · н
+- [ ] **Diorite Crushing Wheel** — `design_decor:diorite_crushing_wheel` · н
+- [ ] **Diorite Millstone** — `design_decor:diorite_millstone` · н
+- [ ] **Dripstone Castel Brick Slab** — `design_decor:dripstone_castel_brick_slab` · н
+- [ ] **Dripstone Castel Brick Stairs** — `design_decor:dripstone_castel_brick_stairs` · н
+- [ ] **Dripstone Castel Brick Wall** — `design_decor:dripstone_castel_brick_wall` · н
+- [ ] **Dripstone Castel Bricks** — `design_decor:dripstone_castel_bricks` · н
+- [ ] **Dripstone Castel Tile Slab** — `design_decor:dripstone_castel_tile_slab` · н
+- [ ] **Dripstone Castel Tile Stairs** — `design_decor:dripstone_castel_tile_stairs` · н
+- [ ] **Dripstone Castel Tile Wall** — `design_decor:dripstone_castel_tile_wall` · н
+- [ ] **Dripstone Castel Tiles** — `design_decor:dripstone_castel_tiles` · н
+- [ ] **Dripstone Crushing Wheel** — `design_decor:dripstone_crushing_wheel` · н
+- [ ] **Dripstone Millstone** — `design_decor:dripstone_millstone` · н
+- [ ] **E Letter Sign** — `design_decor:e_sign` · н
+- [ ] **Large Electrum Chain** — `design_decor:electrum_large_chain` · н
+- [ ] **F Letter Sign** — `design_decor:f_sign` · н
+- [ ] **G Letter Sign** — `design_decor:g_sign` · н
+- [ ] **Compact Iron Fluid Tank** — `design_decor:gas_tank` · н
+- [ ] **Gear Sign** — `design_decor:gear_sign` · н
+- [ ] **Glitch Warning Sign** — `design_decor:glitch_warning_sign` · н
+- [ ] **Gold Boiler** — `design_decor:gold_boiler` · н
+- [ ] **Large Gold Boiler** — `design_decor:gold_boiler_large` · н
+- [ ] **Large Gold Boiler** — `design_decor:gold_boiler_structure` · н
+- [ ] **Large Gold Chain** — `design_decor:gold_large_chain` · н
+- [ ] **Granite Castel Brick Slab** — `design_decor:granite_castel_brick_slab` · н
+- [ ] **Granite Castel Brick Stairs** — `design_decor:granite_castel_brick_stairs` · н
+- [ ] **Granite Castel Brick Wall** — `design_decor:granite_castel_brick_wall` · н
+- [ ] **Granite Castel Bricks** — `design_decor:granite_castel_bricks` · н
+- [ ] **Granite Castel Tile Slab** — `design_decor:granite_castel_tile_slab` · н
+- [ ] **Granite Castel Tile Stairs** — `design_decor:granite_castel_tile_stairs` · н
+- [ ] **Granite Castel Tile Wall** — `design_decor:granite_castel_tile_wall` · н
+- [ ] **Granite Castel Tiles** — `design_decor:granite_castel_tiles` · н
+- [ ] **Granite Crushing Wheel** — `design_decor:granite_crushing_wheel` · н
+- [ ] **Granite Millstone** — `design_decor:granite_millstone` · н
+- [ ] **Gray Metal Plate** — `design_decor:gray_metal_plate` · н
+- [ ] **Gray Metal Plate Slab** — `design_decor:gray_metal_plate_slab` · н
+- [ ] **Gray Metal Plate Stairs** — `design_decor:gray_metal_plate_stairs` · н
+- [ ] **Gray Metal Plate Wall** — `design_decor:gray_metal_plate_wall` · н
+- [ ] **Gray Metal Sheet** — `design_decor:gray_metal_sheet` · н
+- [ ] **Gray Metal Sheet Slab** — `design_decor:gray_metal_sheet_slab` · н
+- [ ] **Gray Metal Sheet Stairs** — `design_decor:gray_metal_sheet_stairs` · н
+- [ ] **Gray Metal Sheet Wall** — `design_decor:gray_metal_sheet_wall` · н
+- [ ] **Gray Wavy Wallpaper** — `design_decor:gray_wallpaper_wavy` · н
+- [ ] **Green Container** — `design_decor:green_container` · н
+- [ ] **Green Metal Plate** — `design_decor:green_metal_plate` · н
+- [ ] **Green Metal Plate Slab** — `design_decor:green_metal_plate_slab` · н
+- [ ] **Green Metal Plate Stairs** — `design_decor:green_metal_plate_stairs` · н
+- [ ] **Green Metal Plate Wall** — `design_decor:green_metal_plate_wall` · н
+- [ ] **Green Metal Sheet** — `design_decor:green_metal_sheet` · н
+- [ ] **Green Metal Sheet Slab** — `design_decor:green_metal_sheet_slab` · н
+- [ ] **Green Metal Sheet Stairs** — `design_decor:green_metal_sheet_stairs` · н
+- [ ] **Green Metal Sheet Wall** — `design_decor:green_metal_sheet_wall` · н
+- [ ] **Green Wavy Wallpaper** — `design_decor:green_wallpaper_wavy` · н
+- [ ] **H Letter Sign** — `design_decor:h_sign` · н
+- [ ] **Large Hepatizon Chain** — `design_decor:hepatizon_large_chain` · н
+- [ ] **Horizontal Tinted Framed Glass** — `design_decor:horizontal_tinted_framed_glass` · н
+- [ ] **I Letter Sign** — `design_decor:i_sign` · н
+- [ ] **Industrial Gear** — `design_decor:industrial_gear` · н
+- [ ] **Large Industrial Gear** — `design_decor:industrial_gear_large` · н
+- [ ] **Block of Industrial Gold** — `design_decor:industrial_gold_block` · н
+- [ ] **Industrial Gold Floor** — `design_decor:industrial_gold_floor` · н
+- [ ] **Industrial Iron Boiler** — `design_decor:industrial_iron_boiler` · н
+- [ ] **Large Industrial Iron Boiler** — `design_decor:industrial_iron_boiler_large` · н
+- [ ] **Large Industrial Iron Boiler** — `design_decor:industrial_iron_boiler_structure` · н
+- [ ] **Industrial Iron Floor** — `design_decor:industrial_iron_floor` · н
+- [ ] **Large Industrial Iron Chain** — `design_decor:industrial_iron_large_chain` · н
+- [ ] **Block of Industrial Plating** — `design_decor:industrial_plating_block` · н
+- [ ] **Large Invar Chain** — `design_decor:invar_large_chain` · н
+- [ ] **Iron Catwalk** — `design_decor:iron_catwalk` · н
+- [ ] **Large Iron Chain** — `design_decor:iron_large_chain` · н
+- [ ] **Iron Railing** — `design_decor:iron_railing` · н
+- [ ] **J Letter Sign** — `design_decor:j_sign` · н
+- [ ] **K Letter Sign** — `design_decor:k_sign` · н
+- [ ] **Large Knightslime Chain** — `design_decor:knightslime_large_chain` · н
+- [ ] **L Letter Sign** — `design_decor:l_sign` · н
+- [ ] **Large Lead Chain** — `design_decor:lead_large_chain` · н
+- [ ] **Blank Letter Sign** — `design_decor:letter_sign` · н
+- [ ] **Light Blue Metal Plate** — `design_decor:light_blue_metal_plate` · н
+- [ ] **Light Blue Metal Plate Slab** — `design_decor:light_blue_metal_plate_slab` · н
+- [ ] **Light Blue Metal Plate Stairs** — `design_decor:light_blue_metal_plate_stairs` · н
+- [ ] **Light Blue Metal Plate Wall** — `design_decor:light_blue_metal_plate_wall` · н
+- [ ] **Light Blue Metal Sheet** — `design_decor:light_blue_metal_sheet` · н
+- [ ] **Light Blue Metal Sheet Slab** — `design_decor:light_blue_metal_sheet_slab` · н
+- [ ] **Light Blue Metal Sheet Stairs** — `design_decor:light_blue_metal_sheet_stairs` · н
+- [ ] **Light Blue Metal Sheet Wall** — `design_decor:light_blue_metal_sheet_wall` · н
+- [ ] **Light Blue Wavy Wallpaper** — `design_decor:light_blue_wallpaper_wavy` · н
+- [ ] **Light Gray Metal Plate** — `design_decor:light_gray_metal_plate` · н
+- [ ] **Light Gray Metal Plate Slab** — `design_decor:light_gray_metal_plate_slab` · н
+- [ ] **Light Gray Metal Plate Stairs** — `design_decor:light_gray_metal_plate_stairs` · н
+- [ ] **Light Gray Metal Plate Wall** — `design_decor:light_gray_metal_plate_wall` · н
+- [ ] **Light Gray Metal Sheet** — `design_decor:light_gray_metal_sheet` · н
+- [ ] **Light Gray Metal Sheet Slab** — `design_decor:light_gray_metal_sheet_slab` · н
+- [ ] **Light Gray Metal Sheet Stairs** — `design_decor:light_gray_metal_sheet_stairs` · н
+- [ ] **Light Gray Metal Sheet Wall** — `design_decor:light_gray_metal_sheet_wall` · н
+- [ ] **Light Gray Wavy Wallpaper** — `design_decor:light_gray_wallpaper_wavy` · н
+- [ ] **Lime Metal Plate** — `design_decor:lime_metal_plate` · н
+- [ ] **Lime Metal Plate Slab** — `design_decor:lime_metal_plate_slab` · н
+- [ ] **Lime Metal Plate Stairs** — `design_decor:lime_metal_plate_stairs` · н
+- [ ] **Lime Metal Plate Wall** — `design_decor:lime_metal_plate_wall` · н
+- [ ] **Lime Metal Sheet** — `design_decor:lime_metal_sheet` · н
+- [ ] **Lime Metal Sheet Slab** — `design_decor:lime_metal_sheet_slab` · н
+- [ ] **Lime Metal Sheet Stairs** — `design_decor:lime_metal_sheet_stairs` · н
+- [ ] **Lime Metal Sheet Wall** — `design_decor:lime_metal_sheet_wall` · н
+- [ ] **Lime Wavy Wallpaper** — `design_decor:lime_wallpaper_wavy` · н
+- [ ] **Limestone Castel Brick Slab** — `design_decor:limestone_castel_brick_slab` · н
+- [ ] **Limestone Castel Brick Stairs** — `design_decor:limestone_castel_brick_stairs` · н
+- [ ] **Limestone Castel Brick Wall** — `design_decor:limestone_castel_brick_wall` · н
+- [ ] **Limestone Castel Bricks** — `design_decor:limestone_castel_bricks` · н
+- [ ] **Limestone Castel Tile Slab** — `design_decor:limestone_castel_tile_slab` · н
+- [ ] **Limestone Castel Tile Stairs** — `design_decor:limestone_castel_tile_stairs` · н
+- [ ] **Limestone Castel Tile Wall** — `design_decor:limestone_castel_tile_wall` · н
+- [ ] **Limestone Castel Tiles** — `design_decor:limestone_castel_tiles` · н
+- [ ] **Limestone Crushing Wheel** — `design_decor:limestone_crushing_wheel` · н
+- [ ] **Limestone Millstone** — `design_decor:limestone_millstone` · н
+- [ ] **M Letter Sign** — `design_decor:m_sign` · н
+- [ ] **Magenta Metal Plate** — `design_decor:magenta_metal_plate` · н
+- [ ] **Magenta Metal Plate Slab** — `design_decor:magenta_metal_plate_slab` · н
+- [ ] **Magenta Metal Plate Stairs** — `design_decor:magenta_metal_plate_stairs` · н
+- [ ] **Magenta Metal Plate Wall** — `design_decor:magenta_metal_plate_wall` · н
+- [ ] **Magenta Metal Sheet** — `design_decor:magenta_metal_sheet` · н
+- [ ] **Magenta Metal Sheet Slab** — `design_decor:magenta_metal_sheet_slab` · н
+- [ ] **Magenta Metal Sheet Stairs** — `design_decor:magenta_metal_sheet_stairs` · н
+- [ ] **Magenta Metal Sheet Wall** — `design_decor:magenta_metal_sheet_wall` · н
+- [ ] **Magenta Wavy Wallpaper** — `design_decor:magenta_wallpaper_wavy` · н
+- [ ] **Magnet Sign** — `design_decor:magnet_sign` · н
+- [ ] **Large Manyulln Chain** — `design_decor:manyullyn_large_chain` · н
+- [ ] **Metal Plate** — `design_decor:metal_plate` · н
+- [ ] **Metal Plate Slab** — `design_decor:metal_plate_slab` · н
+- [ ] **Metal Plate Stairs** — `design_decor:metal_plate_stairs` · н
+- [ ] **Metal Plate Wall** — `design_decor:metal_plate_wall` · н
+- [ ] **Metal Sheet** — `design_decor:metal_sheet` · н
+- [ ] **Metal Sheet Slab** — `design_decor:metal_sheet_slab` · н
+- [ ] **Metal Sheet Stairs** — `design_decor:metal_sheet_stairs` · н
+- [ ] **Metal Sheet Wall** — `design_decor:metal_sheet_wall` · н
+- [ ] **Metal Support** — `design_decor:metal_support` · н
+- [ ] **Large Mithril Chain** — `design_decor:mithril_large_chain` · н
+- [ ] **Moyai Sign** — `design_decor:moyai_sign` · н
+- [ ] **N Letter Sign** — `design_decor:n_sign` · н
+- [ ] **Large Netherite Chain** — `design_decor:netherite_large_chain` · н
+- [ ] **Large Nethersteel Chain** — `design_decor:nethersteel_large_chain` · н
+- [ ] **Large Nickel Chain** — `design_decor:nickel_large_chain` · н
+- [ ] **O Letter Sign** — `design_decor:o_sign` · н
+- [ ] **Ochrum Castel Brick Slab** — `design_decor:ochrum_castel_brick_slab` · н
+- [ ] **Ochrum Castel Brick Stairs** — `design_decor:ochrum_castel_brick_stairs` · н
+- [ ] **Ochrum Castel Brick Wall** — `design_decor:ochrum_castel_brick_wall` · н
+- [ ] **Ochrum Castel Bricks** — `design_decor:ochrum_castel_bricks` · н
+- [ ] **Ochrum Castel Tile Slab** — `design_decor:ochrum_castel_tile_slab` · н
+- [ ] **Ochrum Castel Tile Stairs** — `design_decor:ochrum_castel_tile_stairs` · н
+- [ ] **Ochrum Castel Tile Wall** — `design_decor:ochrum_castel_tile_wall` · н
+- [ ] **Ochrum Castel Tiles** — `design_decor:ochrum_castel_tiles` · н
+- [ ] **Ochrum Crushing Wheel** — `design_decor:ochrum_crushing_wheel` · н
+- [ ] **Ochrum Millstone** — `design_decor:ochrum_millstone` · н
+- [ ] **Orange Metal Plate** — `design_decor:orange_metal_plate` · н
+- [ ] **Orange Metal Plate Slab** — `design_decor:orange_metal_plate_slab` · н
+- [ ] **Orange Metal Plate Stairs** — `design_decor:orange_metal_plate_stairs` · н
+- [ ] **Orange Metal Plate Wall** — `design_decor:orange_metal_plate_wall` · н
+- [ ] **Orange Metal Sheet** — `design_decor:orange_metal_sheet` · н
+- [ ] **Orange Metal Sheet Slab** — `design_decor:orange_metal_sheet_slab` · н
+- [ ] **Orange Metal Sheet Stairs** — `design_decor:orange_metal_sheet_stairs` · н
+- [ ] **Orange Metal Sheet Wall** — `design_decor:orange_metal_sheet_wall` · н
+- [ ] **Orange Wavy Wallpaper** — `design_decor:orange_wallpaper_wavy` · н
+- [ ] **Ornate Grate** — `design_decor:ornate_grate` · н
+- [ ] **P Letter Sign** — `design_decor:p_sign` · н
+- [ ] **Large Pig Iron Chain** — `design_decor:pig_iron_large_chain` · н
+- [ ] **Pink Metal Plate** — `design_decor:pink_metal_plate` · н
+- [ ] **Pink Metal Plate Slab** — `design_decor:pink_metal_plate_slab` · н
+- [ ] **Pink Metal Plate Stairs** — `design_decor:pink_metal_plate_stairs` · н
+- [ ] **Pink Metal Plate Wall** — `design_decor:pink_metal_plate_wall` · н
+- [ ] **Pink Metal Sheet** — `design_decor:pink_metal_sheet` · н
+- [ ] **Pink Metal Sheet Slab** — `design_decor:pink_metal_sheet_slab` · н
+- [ ] **Pink Metal Sheet Stairs** — `design_decor:pink_metal_sheet_stairs` · н
+- [ ] **Pink Metal Sheet Wall** — `design_decor:pink_metal_sheet_wall` · н
+- [ ] **Pink Wavy Wallpaper** — `design_decor:pink_wallpaper_wavy` · н
+- [ ] **Purple Metal Plate** — `design_decor:purple_metal_plate` · н
+- [ ] **Purple Metal Plate Slab** — `design_decor:purple_metal_plate_slab` · н
+- [ ] **Purple Metal Plate Stairs** — `design_decor:purple_metal_plate_stairs` · н
+- [ ] **Purple Metal Plate Wall** — `design_decor:purple_metal_plate_wall` · н
+- [ ] **Purple Metal Sheet** — `design_decor:purple_metal_sheet` · н
+- [ ] **Purple Metal Sheet Slab** — `design_decor:purple_metal_sheet_slab` · н
+- [ ] **Purple Metal Sheet Stairs** — `design_decor:purple_metal_sheet_stairs` · н
+- [ ] **Purple Metal Sheet Wall** — `design_decor:purple_metal_sheet_wall` · н
+- [ ] **Purple Wavy Wallpaper** — `design_decor:purple_wallpaper_wavy` · н
+- [ ] **Q Letter Sign** — `design_decor:q_sign` · н
+- [ ] **Large Queen Slime Chain** — `design_decor:queen_slime_large_chain` · н
+- [ ] **R Letter Sign** — `design_decor:r_sign` · н
+- [ ] **Red Container** — `design_decor:red_container` · н
+- [ ] **Red Metal Plate** — `design_decor:red_metal_plate` · н
+- [ ] **Red Metal Plate Slab** — `design_decor:red_metal_plate_slab` · н
+- [ ] **Red Metal Plate Stairs** — `design_decor:red_metal_plate_stairs` · н
+- [ ] **Red Metal Plate Wall** — `design_decor:red_metal_plate_wall` · н
+- [ ] **Red Metal Sheet** — `design_decor:red_metal_sheet` · н
+- [ ] **Red Metal Sheet Slab** — `design_decor:red_metal_sheet_slab` · н
+- [ ] **Red Metal Sheet Stairs** — `design_decor:red_metal_sheet_stairs` · н
+- [ ] **Red Metal Sheet Wall** — `design_decor:red_metal_sheet_wall` · н
+- [ ] **Red Deepslate Tiles** — `design_decor:red_stone_tiles` · н
+- [ ] **Red Wavy Wallpaper** — `design_decor:red_wallpaper_wavy` · н
+- [ ] **Large Rose Gold Chain** — `design_decor:rose_gold_large_chain` · н
+- [ ] **S Letter Sign** — `design_decor:s_sign` · н
+- [ ] **Scorchia Castel Brick Slab** — `design_decor:scorchia_castel_brick_slab` · н
+- [ ] **Scorchia Castel Brick Stairs** — `design_decor:scorchia_castel_brick_stairs` · н
+- [ ] **Scorchia Castel Brick Wall** — `design_decor:scorchia_castel_brick_wall` · н
+- [ ] **Scorchia Castel Bricks** — `design_decor:scorchia_castel_bricks` · н
+- [ ] **Scorchia Castel Tile Slab** — `design_decor:scorchia_castel_tile_slab` · н
+- [ ] **Scorchia Castel Tile Stairs** — `design_decor:scorchia_castel_tile_stairs` · н
+- [ ] **Scorchia Castel Tile Wall** — `design_decor:scorchia_castel_tile_wall` · н
+- [ ] **Scorchia Castel Tiles** — `design_decor:scorchia_castel_tiles` · н
+- [ ] **Scorchia Crushing Wheel** — `design_decor:scorchia_crushing_wheel` · н
+- [ ] **Scorchia Millstone** — `design_decor:scorchia_millstone` · н
+- [ ] **Scoria Castel Brick Slab** — `design_decor:scoria_castel_brick_slab` · н
+- [ ] **Scoria Castel Brick Stairs** — `design_decor:scoria_castel_brick_stairs` · н
+- [ ] **Scoria Castel Brick Wall** — `design_decor:scoria_castel_brick_wall` · н
+- [ ] **Scoria Castel Bricks** — `design_decor:scoria_castel_bricks` · н
+- [ ] **Scoria Castel Tile Slab** — `design_decor:scoria_castel_tile_slab` · н
+- [ ] **Scoria Castel Tile Stairs** — `design_decor:scoria_castel_tile_stairs` · н
+- [ ] **Scoria Castel Tile Wall** — `design_decor:scoria_castel_tile_wall` · н
+- [ ] **Scoria Castel Tiles** — `design_decor:scoria_castel_tiles` · н
+- [ ] **Scoria Crushing Wheel** — `design_decor:scoria_crushing_wheel` · н
+- [ ] **Scoria Millstone** — `design_decor:scoria_millstone` · н
+- [ ] **Silly Sign** — `design_decor:silly_sign` · н
+- [ ] **Large Silver Chain** — `design_decor:silver_large_chain` · н
+- [ ] **Large Steel Chain** — `design_decor:steel_large_chain` · н
+- [ ] **Stepped Lever** — `design_decor:stepped_lever` · н
+- [ ] **Deepslate Tiles** — `design_decor:stone_tiles` · н
+- [ ] **Stop Sign** — `design_decor:stop_sign` · н
+- [ ] **Large Bronze Chain** — `design_decor:strong_bronze_large_chain` · н
+- [ ] **T Letter Sign** — `design_decor:t_sign` · н
+- [ ] **Tap Sign** — `design_decor:tap_sign` · н
+- [ ] **Large Tin Chain** — `design_decor:tin_large_chain` · н
+- [ ] **Tinted Framed Glass** — `design_decor:tinted_framed_glass` · н
+- [ ] **Tuff Castel Brick Slab** — `design_decor:tuff_castel_brick_slab` · н
+- [ ] **Tuff Castel Brick Stairs** — `design_decor:tuff_castel_brick_stairs` · н
+- [ ] **Tuff Castel Brick Wall** — `design_decor:tuff_castel_brick_wall` · н
+- [ ] **Tuff Castel Bricks** — `design_decor:tuff_castel_bricks` · н
+- [ ] **Tuff Castel Tile Slab** — `design_decor:tuff_castel_tile_slab` · н
+- [ ] **Tuff Castel Tile Stairs** — `design_decor:tuff_castel_tile_stairs` · н
+- [ ] **Tuff Castel Tile Wall** — `design_decor:tuff_castel_tile_wall` · н
+- [ ] **Tuff Castel Tiles** — `design_decor:tuff_castel_tiles` · н
+- [ ] **Tuff Crushing Wheel** — `design_decor:tuff_crushing_wheel` · н
+- [ ] **Tuff Millstone** — `design_decor:tuff_millstone` · н
+- [ ] **U Letter Sign** — `design_decor:u_sign` · н
+- [ ] **V Letter Sign** — `design_decor:v_sign` · н
+- [ ] **Veridium Castel Brick Slab** — `design_decor:veridium_castel_brick_slab` · н
+- [ ] **Veridium Castel Brick Stairs** — `design_decor:veridium_castel_brick_stairs` · н
+- [ ] **Veridium Castel Brick Wall** — `design_decor:veridium_castel_brick_wall` · н
+- [ ] **Veridium Castel Bricks** — `design_decor:veridium_castel_bricks` · н
+- [ ] **Veridium Castel Tile Slab** — `design_decor:veridium_castel_tile_slab` · н
+- [ ] **Veridium Castel Tile Stairs** — `design_decor:veridium_castel_tile_stairs` · н
+- [ ] **Veridium Castel Tile Wall** — `design_decor:veridium_castel_tile_wall` · н
+- [ ] **Veridium Castel Tiles** — `design_decor:veridium_castel_tiles` · н
+- [ ] **Veridium Crushing Wheel** — `design_decor:veridium_crushing_wheel` · н
+- [ ] **Veridium Millstone** — `design_decor:veridium_millstone` · н
+- [ ] **Vertical Tinted Framed Glass** — `design_decor:vertical_tinted_framed_glass` · н
+- [ ] **W Letter Sign** — `design_decor:w_sign` · н
+- [ ] **Black Arrow Wallpaper** — `design_decor:wallpaper_arrow_black` · н
+- [ ] **Blue Arrow Wallpaper** — `design_decor:wallpaper_arrow_blue` · н
+- [ ] **Brown Arrow Wallpaper** — `design_decor:wallpaper_arrow_brown` · н
+- [ ] **Cyan Arrow Wallpaper** — `design_decor:wallpaper_arrow_cyan` · н
+- [ ] **Gray Arrow Wallpaper** — `design_decor:wallpaper_arrow_gray` · н
+- [ ] **Green Arrow Wallpaper** — `design_decor:wallpaper_arrow_green` · н
+- [ ] **Light Blue Arrow Wallpaper** — `design_decor:wallpaper_arrow_light_blue` · н
+- [ ] **Light Gray Arrow Wallpaper** — `design_decor:wallpaper_arrow_light_gray` · н
+- [ ] **Lime Arrow Wallpaper** — `design_decor:wallpaper_arrow_lime` · н
+- [ ] **Magenta Arrow Wallpaper** — `design_decor:wallpaper_arrow_magenta` · н
+- [ ] **Orange Arrow Wallpaper** — `design_decor:wallpaper_arrow_orange` · н
+- [ ] **Pink Arrow Wallpaper** — `design_decor:wallpaper_arrow_pink` · н
+- [ ] **Purple Arrow Wallpaper** — `design_decor:wallpaper_arrow_purple` · н
+- [ ] **Red Arrow Wallpaper** — `design_decor:wallpaper_arrow_red` · н
+- [ ] **White Arrow Wallpaper** — `design_decor:wallpaper_arrow_white` · н
+- [ ] **Yellow Arrow Wallpaper** — `design_decor:wallpaper_arrow_yellow` · н
+- [ ] **Black Striped Wallpaper** — `design_decor:wallpaper_striped_black` · н
+- [ ] **Blue Striped Wallpaper** — `design_decor:wallpaper_striped_blue` · н
+- [ ] **Brown Striped Wallpaper** — `design_decor:wallpaper_striped_brown` · н
+- [ ] **Cyan Striped Wallpaper** — `design_decor:wallpaper_striped_cyan` · н
+- [ ] **Gray Striped Wallpaper** — `design_decor:wallpaper_striped_gray` · н
+- [ ] **Green Striped Wallpaper** — `design_decor:wallpaper_striped_green` · н
+- [ ] **Light Blue Striped Wallpaper** — `design_decor:wallpaper_striped_light_blue` · н
+- [ ] **Light Gray Striped Wallpaper** — `design_decor:wallpaper_striped_light_gray` · н
+- [ ] **Lime Striped Wallpaper** — `design_decor:wallpaper_striped_lime` · н
+- [ ] **Magenta Striped Wallpaper** — `design_decor:wallpaper_striped_magenta` · н
+- [ ] **Orange Striped Wallpaper** — `design_decor:wallpaper_striped_orange` · н
+- [ ] **Pink Striped Wallpaper** — `design_decor:wallpaper_striped_pink` · н
+- [ ] **Purple Striped Wallpaper** — `design_decor:wallpaper_striped_purple` · н
+- [ ] **Red Striped Wallpaper** — `design_decor:wallpaper_striped_red` · н
+- [ ] **White Striped Wallpaper** — `design_decor:wallpaper_striped_white` · н
+- [ ] **Yellow Striped Wallpaper** — `design_decor:wallpaper_striped_yellow` · н
+- [ ] **Warning Sign** — `design_decor:warning_sign` · н
+- [ ] **White Metal Plate** — `design_decor:white_metal_plate` · н
+- [ ] **White Metal Plate Slab** — `design_decor:white_metal_plate_slab` · н
+- [ ] **White Metal Plate Stairs** — `design_decor:white_metal_plate_stairs` · н
+- [ ] **White Metal Plate Wall** — `design_decor:white_metal_plate_wall` · н
+- [ ] **White Metal Sheet** — `design_decor:white_metal_sheet` · н
+- [ ] **White Metal Sheet Slab** — `design_decor:white_metal_sheet_slab` · н
+- [ ] **White Metal Sheet Stairs** — `design_decor:white_metal_sheet_stairs` · н
+- [ ] **White Metal Sheet Wall** — `design_decor:white_metal_sheet_wall` · н
+- [ ] **White Wavy Wallpaper** — `design_decor:white_wallpaper_wavy` · н
+- [ ] **Wooden Support** — `design_decor:wood_support` · н
+- [ ] **X Letter Sign** — `design_decor:x_sign` · н
+- [ ] **Y Letter Sign** — `design_decor:y_sign` · н
+- [ ] **Yellow Metal Plate** — `design_decor:yellow_metal_plate` · н
+- [ ] **Yellow Metal Plate Slab** — `design_decor:yellow_metal_plate_slab` · н
+- [ ] **Yellow Metal Plate Stairs** — `design_decor:yellow_metal_plate_stairs` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

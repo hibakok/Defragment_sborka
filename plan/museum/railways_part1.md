@@ -1,0 +1,485 @@
+# Музей: Create: Steam 'n' Rails (railways)
+
+Предметов: 1022 · крафтимых по данным: 604 (59%) · файлов: 3
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 1 из 3
+
+*В части: 470 предметов.*
+
+- [ ] **Minecart with Workbench** — `railways:benchcart` · к
+- [ ] **Big Buffer** — `railways:big_buffer` · к
+- [ ] **Black Brass Wrapped Locometal** — `railways:black_brass_wrapped_locometal` · к
+- [ ] **Black Brass Wrapped Locometal Boiler** — `railways:black_brass_wrapped_locometal_boiler` · к
+- [ ] **Black Conductor's Cap** — `railways:black_conductor_cap` · к
+- [ ] **Black Copper Wrapped Locometal** — `railways:black_copper_wrapped_locometal` · к
+- [ ] **Black Copper Wrapped Locometal Boiler** — `railways:black_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Black Riveted Locometal** — `railways:black_flat_riveted_locometal` · к
+- [ ] **Flat Black Slashed Locometal** — `railways:black_flat_slashed_locometal` · к
+- [ ] **Incomplete Black Conductor's Cap** — `railways:black_incomplete_conductor_cap` · н
+- [ ] **Black Iron Wrapped Locometal** — `railways:black_iron_wrapped_locometal` · к
+- [ ] **Black Iron Wrapped Locometal Boiler** — `railways:black_iron_wrapped_locometal_boiler` · к
+- [ ] **Black Locometal Boiler** — `railways:black_locometal_boiler` · к
+- [ ] **Black Locometal Pillar** — `railways:black_locometal_pillar` · к
+- [ ] **Black Locometal Smokebox** — `railways:black_locometal_smokebox` · к
+- [ ] **Plated Black Locometal** — `railways:black_plated_locometal` · к
+- [ ] **Black Riveted Locometal** — `railways:black_riveted_locometal` · к
+- [ ] **Black Slashed Locometal** — `railways:black_slashed_locometal` · к
+- [ ] **Blue Brass Wrapped Locometal** — `railways:blue_brass_wrapped_locometal` · к
+- [ ] **Blue Brass Wrapped Locometal Boiler** — `railways:blue_brass_wrapped_locometal_boiler` · к
+- [ ] **Blue Conductor's Cap** — `railways:blue_conductor_cap` · к
+- [ ] **Blue Copper Wrapped Locometal** — `railways:blue_copper_wrapped_locometal` · к
+- [ ] **Blue Copper Wrapped Locometal Boiler** — `railways:blue_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Blue Riveted Locometal** — `railways:blue_flat_riveted_locometal` · к
+- [ ] **Flat Blue Slashed Locometal** — `railways:blue_flat_slashed_locometal` · к
+- [ ] **Incomplete Blue Conductor's Cap** — `railways:blue_incomplete_conductor_cap` · н
+- [ ] **Blue Iron Wrapped Locometal** — `railways:blue_iron_wrapped_locometal` · к
+- [ ] **Blue Iron Wrapped Locometal Boiler** — `railways:blue_iron_wrapped_locometal_boiler` · к
+- [ ] **Blue Locometal Boiler** — `railways:blue_locometal_boiler` · к
+- [ ] **Blue Locometal Pillar** — `railways:blue_locometal_pillar` · к
+- [ ] **Blue Locometal Smokebox** — `railways:blue_locometal_smokebox` · к
+- [ ] **Plated Blue Locometal** — `railways:blue_plated_locometal` · к
+- [ ] **Blue Riveted Locometal** — `railways:blue_riveted_locometal` · к
+- [ ] **Blue Slashed Locometal** — `railways:blue_slashed_locometal` · к
+- [ ] **Brass Wrapped Locometal** — `railways:brass_wrapped_locometal` · к
+- [ ] **Brass Wrapped Locometal Boiler** — `railways:brass_wrapped_locometal_boiler` · к
+- [ ] **Brown Brass Wrapped Locometal** — `railways:brown_brass_wrapped_locometal` · к
+- [ ] **Brown Brass Wrapped Locometal Boiler** — `railways:brown_brass_wrapped_locometal_boiler` · к
+- [ ] **Brown Conductor's Cap** — `railways:brown_conductor_cap` · к
+- [ ] **Brown Copper Wrapped Locometal** — `railways:brown_copper_wrapped_locometal` · к
+- [ ] **Brown Copper Wrapped Locometal Boiler** — `railways:brown_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Brown Riveted Locometal** — `railways:brown_flat_riveted_locometal` · к
+- [ ] **Flat Brown Slashed Locometal** — `railways:brown_flat_slashed_locometal` · к
+- [ ] **Incomplete Brown Conductor's Cap** — `railways:brown_incomplete_conductor_cap` · н
+- [ ] **Brown Iron Wrapped Locometal** — `railways:brown_iron_wrapped_locometal` · к
+- [ ] **Brown Iron Wrapped Locometal Boiler** — `railways:brown_iron_wrapped_locometal_boiler` · к
+- [ ] **Brown Locometal Boiler** — `railways:brown_locometal_boiler` · к
+- [ ] **Brown Locometal Pillar** — `railways:brown_locometal_pillar` · к
+- [ ] **Brown Locometal Smokebox** — `railways:brown_locometal_smokebox` · к
+- [ ] **Plated Brown Locometal** — `railways:brown_plated_locometal` · к
+- [ ] **Brown Riveted Locometal** — `railways:brown_riveted_locometal` · к
+- [ ] **Brown Slashed Locometal** — `railways:brown_slashed_locometal` · к
+- [ ] **Track Buffer** — `railways:buffer` · к
+- [ ] **Monorail Track Buffer** — `railways:buffer_mono` · н
+- [ ] **Narrow Track Buffer** — `railways:buffer_narrow` · н
+- [ ] **Wide Track Buffer** — `railways:buffer_wide` · н
+- [ ] **Track Casing Collision Block** — `railways:casing_collision` · н
+- [ ] **Vent Block** — `railways:conductor_vent` · к
+- [ ] **Conductor Whistle** — `railways:conductor_whistle` · к
+- [ ] **Copper Wrapped Locometal** — `railways:copper_wrapped_locometal` · к
+- [ ] **Copper Wrapped Locometal Boiler** — `railways:copper_wrapped_locometal_boiler` · к
+- [ ] **Copycat Headstock** — `railways:copycat_headstock` · н
+- [ ] **Copycat Headstock Bars** — `railways:copycat_headstock_bars` · н
+- [ ] **Copycat Headstock (Buffer)** — `railways:copycat_headstock_buffer` · н
+- [ ] **Copycat Headstock (Knuckle Coupler)** — `railways:copycat_headstock_knuckle_coupler` · н
+- [ ] **Copycat Headstock (Link 'n Pin)** — `railways:copycat_headstock_link_and_pin` · к
+- [ ] **Copycat Headstock (Linkless Link 'n Pin)** — `railways:copycat_headstock_link_and_pin_linkless` · н
+- [ ] **Copycat Headstock (Screwlink Coupler)** — `railways:copycat_headstock_screwlink_coupler` · н
+- [ ] **Copycat Headstock (Split Knuckle Coupler)** — `railways:copycat_headstock_split_knuckle_coupler` · н
+- [ ] **Cyan Brass Wrapped Locometal** — `railways:cyan_brass_wrapped_locometal` · к
+- [ ] **Cyan Brass Wrapped Locometal Boiler** — `railways:cyan_brass_wrapped_locometal_boiler` · к
+- [ ] **Cyan Conductor's Cap** — `railways:cyan_conductor_cap` · к
+- [ ] **Cyan Copper Wrapped Locometal** — `railways:cyan_copper_wrapped_locometal` · к
+- [ ] **Cyan Copper Wrapped Locometal Boiler** — `railways:cyan_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Cyan Riveted Locometal** — `railways:cyan_flat_riveted_locometal` · к
+- [ ] **Flat Cyan Slashed Locometal** — `railways:cyan_flat_slashed_locometal` · к
+- [ ] **Incomplete Cyan Conductor's Cap** — `railways:cyan_incomplete_conductor_cap` · н
+- [ ] **Cyan Iron Wrapped Locometal** — `railways:cyan_iron_wrapped_locometal` · к
+- [ ] **Cyan Iron Wrapped Locometal Boiler** — `railways:cyan_iron_wrapped_locometal_boiler` · к
+- [ ] **Cyan Locometal Boiler** — `railways:cyan_locometal_boiler` · к
+- [ ] **Cyan Locometal Pillar** — `railways:cyan_locometal_pillar` · к
+- [ ] **Cyan Locometal Smokebox** — `railways:cyan_locometal_smokebox` · к
+- [ ] **Plated Cyan Locometal** — `railways:cyan_plated_locometal` · к
+- [ ] **Cyan Riveted Locometal** — `railways:cyan_riveted_locometal` · к
+- [ ] **Cyan Slashed Locometal** — `railways:cyan_slashed_locometal` · к
+- [ ] **Double Axle Bogey** — `railways:doubleaxle_bogey` · н
+- [ ] **Flat Riveted Locometal** — `railways:flat_riveted_locometal` · к
+- [ ] **Flat Slashed Locometal** — `railways:flat_slashed_locometal` · к
+- [ ] **Fuel Tank** — `railways:fuel_tank` · к
+- [ ] **Generic Crossing** — `railways:generic_crossing` · н
+- [ ] **Gray Brass Wrapped Locometal** — `railways:gray_brass_wrapped_locometal` · к
+- [ ] **Gray Brass Wrapped Locometal Boiler** — `railways:gray_brass_wrapped_locometal_boiler` · к
+- [ ] **Gray Conductor's Cap** — `railways:gray_conductor_cap` · к
+- [ ] **Gray Copper Wrapped Locometal** — `railways:gray_copper_wrapped_locometal` · к
+- [ ] **Gray Copper Wrapped Locometal Boiler** — `railways:gray_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Gray Riveted Locometal** — `railways:gray_flat_riveted_locometal` · к
+- [ ] **Flat Gray Slashed Locometal** — `railways:gray_flat_slashed_locometal` · к
+- [ ] **Incomplete Gray Conductor's Cap** — `railways:gray_incomplete_conductor_cap` · н
+- [ ] **Gray Iron Wrapped Locometal** — `railways:gray_iron_wrapped_locometal` · к
+- [ ] **Gray Iron Wrapped Locometal Boiler** — `railways:gray_iron_wrapped_locometal_boiler` · к
+- [ ] **Gray Locometal Boiler** — `railways:gray_locometal_boiler` · к
+- [ ] **Gray Locometal Pillar** — `railways:gray_locometal_pillar` · к
+- [ ] **Gray Locometal Smokebox** — `railways:gray_locometal_smokebox` · к
+- [ ] **Plated Gray Locometal** — `railways:gray_plated_locometal` · к
+- [ ] **Gray Riveted Locometal** — `railways:gray_riveted_locometal` · к
+- [ ] **Gray Slashed Locometal** — `railways:gray_slashed_locometal` · к
+- [ ] **Green Brass Wrapped Locometal** — `railways:green_brass_wrapped_locometal` · к
+- [ ] **Green Brass Wrapped Locometal Boiler** — `railways:green_brass_wrapped_locometal_boiler` · к
+- [ ] **Green Conductor's Cap** — `railways:green_conductor_cap` · к
+- [ ] **Green Copper Wrapped Locometal** — `railways:green_copper_wrapped_locometal` · к
+- [ ] **Green Copper Wrapped Locometal Boiler** — `railways:green_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Green Riveted Locometal** — `railways:green_flat_riveted_locometal` · к
+- [ ] **Flat Green Slashed Locometal** — `railways:green_flat_slashed_locometal` · к
+- [ ] **Incomplete Green Conductor's Cap** — `railways:green_incomplete_conductor_cap` · н
+- [ ] **Green Iron Wrapped Locometal** — `railways:green_iron_wrapped_locometal` · к
+- [ ] **Green Iron Wrapped Locometal Boiler** — `railways:green_iron_wrapped_locometal_boiler` · к
+- [ ] **Green Locometal Boiler** — `railways:green_locometal_boiler` · к
+- [ ] **Green Locometal Pillar** — `railways:green_locometal_pillar` · к
+- [ ] **Green Locometal Smokebox** — `railways:green_locometal_smokebox` · к
+- [ ] **Plated Green Locometal** — `railways:green_plated_locometal` · к
+- [ ] **Green Riveted Locometal** — `railways:green_riveted_locometal` · к
+- [ ] **Green Slashed Locometal** — `railways:green_slashed_locometal` · к
+- [ ] **Handcar** — `railways:handcar` · к
+- [ ] **Headstock** — `railways:headstock` · н
+- [ ] **Invisible Bogey** — `railways:invisible_bogey` · н
+- [ ] **Invisible Mono Bogey** — `railways:invisible_mono_bogey` · н
+- [ ] **Iron Wrapped Locometal** — `railways:iron_wrapped_locometal` · к
+- [ ] **Iron Wrapped Locometal Boiler** — `railways:iron_wrapped_locometal_boiler` · к
+- [ ] **Minecart with Jukebox** — `railways:jukeboxcart` · к
+- [ ] **Knuckle Coupler** — `railways:knuckle_coupler` · н
+- [ ] **Large Create Styled 0-10-0** — `railways:large_create_styled_0_10_0` · н
+- [ ] **Large Create Styled 0-12-0** — `railways:large_create_styled_0_12_0` · н
+- [ ] **Large Create Styled 0-4-0** — `railways:large_create_styled_0_4_0` · н
+- [ ] **Large Create Styled 0-6-0** — `railways:large_create_styled_0_6_0` · н
+- [ ] **Large Create Styled 0-8-0** — `railways:large_create_styled_0_8_0` · н
+- [ ] **Large Platform Double Axle Bogey** — `railways:large_platform_doubleaxle_bogey` · н
+- [ ] **Light Blue Brass Wrapped Locometal** — `railways:light_blue_brass_wrapped_locometal` · к
+- [ ] **Light Blue Brass Wrapped Locometal Boiler** — `railways:light_blue_brass_wrapped_locometal_boiler` · к
+- [ ] **Light Blue Conductor's Cap** — `railways:light_blue_conductor_cap` · к
+- [ ] **Light Blue Copper Wrapped Locometal** — `railways:light_blue_copper_wrapped_locometal` · к
+- [ ] **Light Blue Copper Wrapped Locometal Boiler** — `railways:light_blue_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Light Blue Riveted Locometal** — `railways:light_blue_flat_riveted_locometal` · к
+- [ ] **Flat Light Blue Slashed Locometal** — `railways:light_blue_flat_slashed_locometal` · к
+- [ ] **Incomplete Light Blue Conductor's Cap** — `railways:light_blue_incomplete_conductor_cap` · н
+- [ ] **Light Blue Iron Wrapped Locometal** — `railways:light_blue_iron_wrapped_locometal` · к
+- [ ] **Light Blue Iron Wrapped Locometal Boiler** — `railways:light_blue_iron_wrapped_locometal_boiler` · к
+- [ ] **Light Blue Locometal Boiler** — `railways:light_blue_locometal_boiler` · к
+- [ ] **Light Blue Locometal Pillar** — `railways:light_blue_locometal_pillar` · к
+- [ ] **Light Blue Locometal Smokebox** — `railways:light_blue_locometal_smokebox` · к
+- [ ] **Plated Light Blue Locometal** — `railways:light_blue_plated_locometal` · к
+- [ ] **Light Blue Riveted Locometal** — `railways:light_blue_riveted_locometal` · к
+- [ ] **Light Blue Slashed Locometal** — `railways:light_blue_slashed_locometal` · к
+- [ ] **Light Gray Brass Wrapped Locometal** — `railways:light_gray_brass_wrapped_locometal` · к
+- [ ] **Light Gray Brass Wrapped Locometal Boiler** — `railways:light_gray_brass_wrapped_locometal_boiler` · к
+- [ ] **Light Gray Conductor's Cap** — `railways:light_gray_conductor_cap` · к
+- [ ] **Light Gray Copper Wrapped Locometal** — `railways:light_gray_copper_wrapped_locometal` · к
+- [ ] **Light Gray Copper Wrapped Locometal Boiler** — `railways:light_gray_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Light Gray Riveted Locometal** — `railways:light_gray_flat_riveted_locometal` · к
+- [ ] **Flat Light Gray Slashed Locometal** — `railways:light_gray_flat_slashed_locometal` · к
+- [ ] **Incomplete Light Gray Conductor's Cap** — `railways:light_gray_incomplete_conductor_cap` · н
+- [ ] **Light Gray Iron Wrapped Locometal** — `railways:light_gray_iron_wrapped_locometal` · к
+- [ ] **Light Gray Iron Wrapped Locometal Boiler** — `railways:light_gray_iron_wrapped_locometal_boiler` · к
+- [ ] **Light Gray Locometal Boiler** — `railways:light_gray_locometal_boiler` · к
+- [ ] **Light Gray Locometal Pillar** — `railways:light_gray_locometal_pillar` · к
+- [ ] **Light Gray Locometal Smokebox** — `railways:light_gray_locometal_smokebox` · к
+- [ ] **Plated Light Gray Locometal** — `railways:light_gray_plated_locometal` · к
+- [ ] **Light Gray Riveted Locometal** — `railways:light_gray_riveted_locometal` · к
+- [ ] **Light Gray Slashed Locometal** — `railways:light_gray_slashed_locometal` · к
+- [ ] **Lime Brass Wrapped Locometal** — `railways:lime_brass_wrapped_locometal` · к
+- [ ] **Lime Brass Wrapped Locometal Boiler** — `railways:lime_brass_wrapped_locometal_boiler` · к
+- [ ] **Lime Conductor's Cap** — `railways:lime_conductor_cap` · к
+- [ ] **Lime Copper Wrapped Locometal** — `railways:lime_copper_wrapped_locometal` · к
+- [ ] **Lime Copper Wrapped Locometal Boiler** — `railways:lime_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Lime Riveted Locometal** — `railways:lime_flat_riveted_locometal` · к
+- [ ] **Flat Lime Slashed Locometal** — `railways:lime_flat_slashed_locometal` · к
+- [ ] **Incomplete Lime Conductor's Cap** — `railways:lime_incomplete_conductor_cap` · н
+- [ ] **Lime Iron Wrapped Locometal** — `railways:lime_iron_wrapped_locometal` · к
+- [ ] **Lime Iron Wrapped Locometal Boiler** — `railways:lime_iron_wrapped_locometal_boiler` · к
+- [ ] **Lime Locometal Boiler** — `railways:lime_locometal_boiler` · к
+- [ ] **Lime Locometal Pillar** — `railways:lime_locometal_pillar` · к
+- [ ] **Lime Locometal Smokebox** — `railways:lime_locometal_smokebox` · к
+- [ ] **Plated Lime Locometal** — `railways:lime_plated_locometal` · к
+- [ ] **Lime Riveted Locometal** — `railways:lime_riveted_locometal` · к
+- [ ] **Lime Slashed Locometal** — `railways:lime_slashed_locometal` · к
+- [ ] **Deco Coupler** — `railways:link_and_pin` · к
+- [ ] **Linkless Link 'n Pin** — `railways:link_and_pin_linkless` · н
+- [ ] **Locometal Boiler** — `railways:locometal_boiler` · к
+- [ ] **Locometal Pillar** — `railways:locometal_pillar` · к
+- [ ] **Locometal Smokebox** — `railways:locometal_smokebox` · к
+- [ ] **Magenta Brass Wrapped Locometal** — `railways:magenta_brass_wrapped_locometal` · к
+- [ ] **Magenta Brass Wrapped Locometal Boiler** — `railways:magenta_brass_wrapped_locometal_boiler` · к
+- [ ] **Magenta Conductor's Cap** — `railways:magenta_conductor_cap` · к
+- [ ] **Magenta Copper Wrapped Locometal** — `railways:magenta_copper_wrapped_locometal` · к
+- [ ] **Magenta Copper Wrapped Locometal Boiler** — `railways:magenta_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Magenta Riveted Locometal** — `railways:magenta_flat_riveted_locometal` · к
+- [ ] **Flat Magenta Slashed Locometal** — `railways:magenta_flat_slashed_locometal` · к
+- [ ] **Incomplete Magenta Conductor's Cap** — `railways:magenta_incomplete_conductor_cap` · н
+- [ ] **Magenta Iron Wrapped Locometal** — `railways:magenta_iron_wrapped_locometal` · к
+- [ ] **Magenta Iron Wrapped Locometal Boiler** — `railways:magenta_iron_wrapped_locometal_boiler` · к
+- [ ] **Magenta Locometal Boiler** — `railways:magenta_locometal_boiler` · к
+- [ ] **Magenta Locometal Pillar** — `railways:magenta_locometal_pillar` · к
+- [ ] **Magenta Locometal Smokebox** — `railways:magenta_locometal_smokebox` · к
+- [ ] **Plated Magenta Locometal** — `railways:magenta_plated_locometal` · к
+- [ ] **Magenta Riveted Locometal** — `railways:magenta_riveted_locometal` · к
+- [ ] **Magenta Slashed Locometal** — `railways:magenta_slashed_locometal` · к
+- [ ] **Medium 2-0-2 Trailing Bogey** — `railways:medium_2_0_2_trailing` · н
+- [ ] **Medium 4-0-4 Trailing Bogey** — `railways:medium_4_0_4_trailing` · н
+- [ ] **Medium Bogey** — `railways:medium_bogey` · н
+- [ ] **Medium Quadruple Wheel Bogey** — `railways:medium_quadruple_wheel` · н
+- [ ] **Medium Quintuple Wheel Bogey** — `railways:medium_quintuple_wheel` · н
+- [ ] **Medium Triple Wheel Bogey** — `railways:medium_triple_wheel` · н
+- [ ] **Monorail Bogey** — `railways:mono_bogey` · н
+- [ ] **Narrow Gauge Double Scotch Yoke Bogey** — `railways:narrow_double_scotch_bogey` · н
+- [ ] **Narrow Gauge Scotch Yoke Bogey** — `railways:narrow_scotch_bogey` · н
+- [ ] **Narrow Gauge Small Bogey** — `railways:narrow_small_bogey` · н
+- [ ] **Orange Brass Wrapped Locometal** — `railways:orange_brass_wrapped_locometal` · к
+- [ ] **Orange Brass Wrapped Locometal Boiler** — `railways:orange_brass_wrapped_locometal_boiler` · к
+- [ ] **Orange Conductor's Cap** — `railways:orange_conductor_cap` · к
+- [ ] **Orange Copper Wrapped Locometal** — `railways:orange_copper_wrapped_locometal` · к
+- [ ] **Orange Copper Wrapped Locometal Boiler** — `railways:orange_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Orange Riveted Locometal** — `railways:orange_flat_riveted_locometal` · к
+- [ ] **Flat Orange Slashed Locometal** — `railways:orange_flat_slashed_locometal` · к
+- [ ] **Incomplete Orange Conductor's Cap** — `railways:orange_incomplete_conductor_cap` · н
+- [ ] **Orange Iron Wrapped Locometal** — `railways:orange_iron_wrapped_locometal` · к
+- [ ] **Orange Iron Wrapped Locometal Boiler** — `railways:orange_iron_wrapped_locometal_boiler` · к
+- [ ] **Orange Locometal Boiler** — `railways:orange_locometal_boiler` · к
+- [ ] **Orange Locometal Pillar** — `railways:orange_locometal_pillar` · к
+- [ ] **Orange Locometal Smokebox** — `railways:orange_locometal_smokebox` · к
+- [ ] **Plated Orange Locometal** — `railways:orange_plated_locometal` · к
+- [ ] **Orange Riveted Locometal** — `railways:orange_riveted_locometal` · к
+- [ ] **Orange Slashed Locometal** — `railways:orange_slashed_locometal` · к
+- [ ] **Pink Brass Wrapped Locometal** — `railways:pink_brass_wrapped_locometal` · к
+- [ ] **Pink Brass Wrapped Locometal Boiler** — `railways:pink_brass_wrapped_locometal_boiler` · к
+- [ ] **Pink Conductor's Cap** — `railways:pink_conductor_cap` · к
+- [ ] **Pink Copper Wrapped Locometal** — `railways:pink_copper_wrapped_locometal` · к
+- [ ] **Pink Copper Wrapped Locometal Boiler** — `railways:pink_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Pink Riveted Locometal** — `railways:pink_flat_riveted_locometal` · к
+- [ ] **Flat Pink Slashed Locometal** — `railways:pink_flat_slashed_locometal` · к
+- [ ] **Incomplete Pink Conductor's Cap** — `railways:pink_incomplete_conductor_cap` · н
+- [ ] **Pink Iron Wrapped Locometal** — `railways:pink_iron_wrapped_locometal` · к
+- [ ] **Pink Iron Wrapped Locometal Boiler** — `railways:pink_iron_wrapped_locometal_boiler` · к
+- [ ] **Pink Locometal Boiler** — `railways:pink_locometal_boiler` · к
+- [ ] **Pink Locometal Pillar** — `railways:pink_locometal_pillar` · к
+- [ ] **Pink Locometal Smokebox** — `railways:pink_locometal_smokebox` · к
+- [ ] **Plated Pink Locometal** — `railways:pink_plated_locometal` · к
+- [ ] **Pink Riveted Locometal** — `railways:pink_riveted_locometal` · к
+- [ ] **Pink Slashed Locometal** — `railways:pink_slashed_locometal` · к
+- [ ] **Plated Locometal** — `railways:plated_locometal` · к
+- [ ] **Portable Fuel Interface** — `railways:portable_fuel_interface` · к
+- [ ] **Purple Brass Wrapped Locometal** — `railways:purple_brass_wrapped_locometal` · к
+- [ ] **Purple Brass Wrapped Locometal Boiler** — `railways:purple_brass_wrapped_locometal_boiler` · к
+- [ ] **Purple Conductor's Cap** — `railways:purple_conductor_cap` · к
+- [ ] **Purple Copper Wrapped Locometal** — `railways:purple_copper_wrapped_locometal` · к
+- [ ] **Purple Copper Wrapped Locometal Boiler** — `railways:purple_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Purple Riveted Locometal** — `railways:purple_flat_riveted_locometal` · к
+- [ ] **Flat Purple Slashed Locometal** — `railways:purple_flat_slashed_locometal` · к
+- [ ] **Incomplete Purple Conductor's Cap** — `railways:purple_incomplete_conductor_cap` · н
+- [ ] **Purple Iron Wrapped Locometal** — `railways:purple_iron_wrapped_locometal` · к
+- [ ] **Purple Iron Wrapped Locometal Boiler** — `railways:purple_iron_wrapped_locometal_boiler` · к
+- [ ] **Purple Locometal Boiler** — `railways:purple_locometal_boiler` · к
+- [ ] **Purple Locometal Pillar** — `railways:purple_locometal_pillar` · к
+- [ ] **Purple Locometal Smokebox** — `railways:purple_locometal_smokebox` · к
+- [ ] **Plated Purple Locometal** — `railways:purple_plated_locometal` · к
+- [ ] **Purple Riveted Locometal** — `railways:purple_riveted_locometal` · к
+- [ ] **Purple Slashed Locometal** — `railways:purple_slashed_locometal` · к
+- [ ] **Red Brass Wrapped Locometal** — `railways:red_brass_wrapped_locometal` · к
+- [ ] **Red Brass Wrapped Locometal Boiler** — `railways:red_brass_wrapped_locometal_boiler` · к
+- [ ] **Red Conductor's Cap** — `railways:red_conductor_cap` · к
+- [ ] **Red Copper Wrapped Locometal** — `railways:red_copper_wrapped_locometal` · к
+- [ ] **Red Copper Wrapped Locometal Boiler** — `railways:red_copper_wrapped_locometal_boiler` · к
+- [ ] **Flat Red Riveted Locometal** — `railways:red_flat_riveted_locometal` · к
+- [ ] **Flat Red Slashed Locometal** — `railways:red_flat_slashed_locometal` · к
+- [ ] **Incomplete Red Conductor's Cap** — `railways:red_incomplete_conductor_cap` · н
+- [ ] **Red Iron Wrapped Locometal** — `railways:red_iron_wrapped_locometal` · к
+- [ ] **Red Iron Wrapped Locometal Boiler** — `railways:red_iron_wrapped_locometal_boiler` · к
+- [ ] **Red Locometal Boiler** — `railways:red_locometal_boiler` · к
+- [ ] **Red Locometal Pillar** — `railways:red_locometal_pillar` · к
+- [ ] **Red Locometal Smokebox** — `railways:red_locometal_smokebox` · к
+- [ ] **Plated Red Locometal** — `railways:red_plated_locometal` · к
+- [ ] **Red Riveted Locometal** — `railways:red_riveted_locometal` · к
+- [ ] **Red Slashed Locometal** — `railways:red_slashed_locometal` · к
+- [ ] **Remote Lens** — `railways:remote_lens` · к
+- [ ] **Riveted Locometal** — `railways:riveted_locometal` · к
+- [ ] **Screwlink Coupler** — `railways:screwlink_coupler` · н
+- [ ] **Semaphore** — `railways:semaphore` · к
+- [ ] **Single Axle Bogey** — `railways:singleaxle_bogey` · н
+- [ ] **Slashed Locometal** — `railways:slashed_locometal` · к
+- [ ] **Small Buffer** — `railways:small_buffer` · к
+- [ ] **Caboose Smokestack** — `railways:smokestack_caboosestyle` · к
+- [ ] **Coalburner Smokestack** — `railways:smokestack_coalburner` · к
+- [ ] **Brass Coalburner Smokestack** — `railways:smokestack_coalburner_brass` · н
+- [ ] **Brass Capped Copper Coalburner Smokestack** — `railways:smokestack_coalburner_brass_cap_copper` · н
+- [ ] **Brass Capped Steel Coalburner Smokestack** — `railways:smokestack_coalburner_brass_cap_steel` · н
+- [ ] **Copper Coalburner Smokestack** — `railways:smokestack_coalburner_copper` · н
+- [ ] **Copper Capped Brass Coalburner Smokestack** — `railways:smokestack_coalburner_copper_cap_brass` · н
+- [ ] **Copper Capped Steel Coalburner Smokestack** — `railways:smokestack_coalburner_copper_cap_steel` · н
+- [ ] **Radiator Fan** — `railways:smokestack_diesel` · к
+- [ ] **Double Smokestack** — `railways:smokestack_long` · к
+- [ ] **Brass Double Smokestack** — `railways:smokestack_long_brass` · н
+- [ ] **Brass Capped Copper Double Smokestack** — `railways:smokestack_long_brass_cap_copper` · н
+- [ ] **Brass Capped Steel Double Smokestack** — `railways:smokestack_long_brass_cap_steel` · н
+- [ ] **Copper Double Smokestack** — `railways:smokestack_long_copper` · н
+- [ ] **Copper Capped Brass Double Smokestack** — `railways:smokestack_long_copper_cap_brass` · н
+- [ ] **Copper Capped Steel Double Smokestack** — `railways:smokestack_long_copper_cap_steel` · н
+- [ ] **Oilburner Smokestack** — `railways:smokestack_oilburner` · к
+- [ ] **Brass Oilburner Smokestack** — `railways:smokestack_oilburner_brass` · н
+- [ ] **Brass Capped Copper Oilburner Smokestack** — `railways:smokestack_oilburner_brass_cap_copper` · н
+- [ ] **Brass Capped Steel Oilburner Smokestack** — `railways:smokestack_oilburner_brass_cap_steel` · н
+- [ ] **Copper Oilburner Smokestack** — `railways:smokestack_oilburner_copper` · н
+- [ ] **Copper Capped Brass Oilburner Smokestack** — `railways:smokestack_oilburner_copper_cap_brass` · н
+- [ ] **Copper Capped Steel Oilburner Smokestack** — `railways:smokestack_oilburner_copper_cap_steel` · н
+- [ ] **Streamlined Smokestack** — `railways:smokestack_streamlined` · к
+- [ ] **Brass Streamlined Smokestack** — `railways:smokestack_streamlined_brass` · н
+- [ ] **Brass Capped Copper Streamlined Smokestack** — `railways:smokestack_streamlined_brass_cap_copper` · н
+- [ ] **Brass Capped Steel Streamlined Smokestack** — `railways:smokestack_streamlined_brass_cap_steel` · н
+- [ ] **Copper Streamlined Smokestack** — `railways:smokestack_streamlined_copper` · н
+- [ ] **Copper Capped Brass Streamlined Smokestack** — `railways:smokestack_streamlined_copper_cap_brass` · н
+- [ ] **Copper Capped Steel Streamlined Smokestack** — `railways:smokestack_streamlined_copper_cap_steel` · н
+- [ ] **Woodburner Smokestack** — `railways:smokestack_woodburner` · к
+- [ ] **Brass Woodburner Smokestack** — `railways:smokestack_woodburner_brass` · н
+- [ ] **Brass Capped Copper Woodburner Smokestack** — `railways:smokestack_woodburner_brass_cap_copper` · н
+- [ ] **Brass Capped Steel Woodburner Smokestack** — `railways:smokestack_woodburner_brass_cap_steel` · н
+- [ ] **Copper Woodburner Smokestack** — `railways:smokestack_woodburner_copper` · н
+- [ ] **Copper Capped Brass Woodburner Smokestack** — `railways:smokestack_woodburner_copper_cap_brass` · н
+- [ ] **Copper Capped Steel Woodburner Smokestack** — `railways:smokestack_woodburner_copper_cap_steel` · н
+- [ ] **Split Knuckle Coupler** — `railways:split_knuckle_coupler` · н
+- [ ] **Acacia Train Track** — `railways:track_acacia` · к
+- [ ] **Narrow Acacia Train Track** — `railways:track_acacia_narrow` · к
+- [ ] **Wide Acacia Train Track** — `railways:track_acacia_wide` · к
+- [ ] **Bamboo Train Track** — `railways:track_bamboo` · к
+- [ ] **Narrow Bamboo Train Track** — `railways:track_bamboo_narrow` · к
+- [ ] **Wide Bamboo Train Track** — `railways:track_bamboo_wide` · к
+- [ ] **Dead Train Track** — `railways:track_biomesoplenty_dead` · к
+- [ ] **Narrow Dead Train Track** — `railways:track_biomesoplenty_dead_narrow` · к
+- [ ] **Wide Dead Train Track** — `railways:track_biomesoplenty_dead_wide` · к
+- [ ] **Fir Train Track** — `railways:track_biomesoplenty_fir` · к
+- [ ] **Narrow Fir Train Track** — `railways:track_biomesoplenty_fir_narrow` · к
+- [ ] **Wide Fir Train Track** — `railways:track_biomesoplenty_fir_wide` · к
+- [ ] **Hellbark Train Track** — `railways:track_biomesoplenty_hellbark` · к
+- [ ] **Narrow Hellbark Train Track** — `railways:track_biomesoplenty_hellbark_narrow` · к
+- [ ] **Wide Hellbark Train Track** — `railways:track_biomesoplenty_hellbark_wide` · к
+- [ ] **Jacaranda Train Track** — `railways:track_biomesoplenty_jacaranda` · к
+- [ ] **Narrow Jacaranda Train Track** — `railways:track_biomesoplenty_jacaranda_narrow` · к
+- [ ] **Wide Jacaranda Train Track** — `railways:track_biomesoplenty_jacaranda_wide` · к
+- [ ] **Magic Train Track** — `railways:track_biomesoplenty_magic` · к
+- [ ] **Narrow Magic Train Track** — `railways:track_biomesoplenty_magic_narrow` · к
+- [ ] **Wide Magic Train Track** — `railways:track_biomesoplenty_magic_wide` · к
+- [ ] **Mahogany Train Track** — `railways:track_biomesoplenty_mahogany` · к
+- [ ] **Narrow Mahogany Train Track** — `railways:track_biomesoplenty_mahogany_narrow` · к
+- [ ] **Wide Mahogany Train Track** — `railways:track_biomesoplenty_mahogany_wide` · к
+- [ ] **Palm Train Track** — `railways:track_biomesoplenty_palm` · к
+- [ ] **Narrow Palm Train Track** — `railways:track_biomesoplenty_palm_narrow` · к
+- [ ] **Wide Palm Train Track** — `railways:track_biomesoplenty_palm_wide` · к
+- [ ] **Redwood Train Track** — `railways:track_biomesoplenty_redwood` · к
+- [ ] **Narrow Redwood Train Track** — `railways:track_biomesoplenty_redwood_narrow` · к
+- [ ] **Wide Redwood Train Track** — `railways:track_biomesoplenty_redwood_wide` · к
+- [ ] **Umbran Train Track** — `railways:track_biomesoplenty_umbran` · к
+- [ ] **Narrow Umbran Train Track** — `railways:track_biomesoplenty_umbran_narrow` · к
+- [ ] **Wide Umbran Train Track** — `railways:track_biomesoplenty_umbran_wide` · к
+- [ ] **Willow Train Track** — `railways:track_biomesoplenty_willow` · к
+- [ ] **Narrow Willow Train Track** — `railways:track_biomesoplenty_willow_narrow` · к
+- [ ] **Wide Willow Train Track** — `railways:track_biomesoplenty_willow_wide` · к
+- [ ] **Birch Train Track** — `railways:track_birch` · к
+- [ ] **Narrow Birch Train Track** — `railways:track_birch_narrow` · к
+- [ ] **Wide Birch Train Track** — `railways:track_birch_wide` · к
+- [ ] **Blackstone Train Track** — `railways:track_blackstone` · к
+- [ ] **Narrow Blackstone Train Track** — `railways:track_blackstone_narrow` · к
+- [ ] **Wide Blackstone Train Track** — `railways:track_blackstone_wide` · к
+- [ ] **Bluebright Train Track** — `railways:track_blue_skies_bluebright` · к
+- [ ] **Narrow Bluebright Train Track** — `railways:track_blue_skies_bluebright_narrow` · к
+- [ ] **Wide Bluebright Train Track** — `railways:track_blue_skies_bluebright_wide` · к
+- [ ] **Dusk Train Track** — `railways:track_blue_skies_dusk` · к
+- [ ] **Narrow Dusk Train Track** — `railways:track_blue_skies_dusk_narrow` · к
+- [ ] **Wide Dusk Train Track** — `railways:track_blue_skies_dusk_wide` · к
+- [ ] **Frostbright Train Track** — `railways:track_blue_skies_frostbright` · к
+- [ ] **Narrow Frostbright Train Track** — `railways:track_blue_skies_frostbright_narrow` · к
+- [ ] **Wide Frostbright Train Track** — `railways:track_blue_skies_frostbright_wide` · к
+- [ ] **Lunar Train Track** — `railways:track_blue_skies_lunar` · к
+- [ ] **Narrow Lunar Train Track** — `railways:track_blue_skies_lunar_narrow` · к
+- [ ] **Wide Lunar Train Track** — `railways:track_blue_skies_lunar_wide` · к
+- [ ] **Maple Train Track** — `railways:track_blue_skies_maple` · к
+- [ ] **Narrow Maple Train Track** — `railways:track_blue_skies_maple_narrow` · к
+- [ ] **Wide Maple Train Track** — `railways:track_blue_skies_maple_wide` · к
+- [ ] **Starlit Train Track** — `railways:track_blue_skies_starlit` · к
+- [ ] **Narrow Starlit Train Track** — `railways:track_blue_skies_starlit_narrow` · к
+- [ ] **Wide Starlit Train Track** — `railways:track_blue_skies_starlit_wide` · к
+- [ ] **Aspen Train Track** — `railways:track_byg_aspen` · к
+- [ ] **Narrow Aspen Train Track** — `railways:track_byg_aspen_narrow` · к
+- [ ] **Wide Aspen Train Track** — `railways:track_byg_aspen_wide` · к
+- [ ] **Baobab Train Track** — `railways:track_byg_baobab` · к
+- [ ] **Narrow Baobab Train Track** — `railways:track_byg_baobab_narrow` · к
+- [ ] **Wide Baobab Train Track** — `railways:track_byg_baobab_wide` · к
+- [ ] **Blue Enchanted Train Track** — `railways:track_byg_blue_enchanted` · к
+- [ ] **Narrow Blue Enchanted Train Track** — `railways:track_byg_blue_enchanted_narrow` · к
+- [ ] **Wide Blue Enchanted Train Track** — `railways:track_byg_blue_enchanted_wide` · к
+- [ ] **Bulbis Train Track** — `railways:track_byg_bulbis` · к
+- [ ] **Narrow Bulbis Train Track** — `railways:track_byg_bulbis_narrow` · к
+- [ ] **Wide Bulbis Train Track** — `railways:track_byg_bulbis_wide` · к
+- [ ] **Cika Train Track** — `railways:track_byg_cika` · к
+- [ ] **Narrow Cika Train Track** — `railways:track_byg_cika_narrow` · к
+- [ ] **Wide Cika Train Track** — `railways:track_byg_cika_wide` · к
+- [ ] **Cypress Train Track** — `railways:track_byg_cypress` · к
+- [ ] **Narrow Cypress Train Track** — `railways:track_byg_cypress_narrow` · к
+- [ ] **Wide Cypress Train Track** — `railways:track_byg_cypress_wide` · к
+- [ ] **Ebony Train Track** — `railways:track_byg_ebony` · к
+- [ ] **Narrow Ebony Train Track** — `railways:track_byg_ebony_narrow` · к
+- [ ] **Wide Ebony Train Track** — `railways:track_byg_ebony_wide` · к
+- [ ] **Embur Train Track** — `railways:track_byg_embur` · к
+- [ ] **Narrow Embur Train Track** — `railways:track_byg_embur_narrow` · к
+- [ ] **Wide Embur Train Track** — `railways:track_byg_embur_wide` · к
+- [ ] **Ether Train Track** — `railways:track_byg_ether` · к
+- [ ] **Narrow Ether Train Track** — `railways:track_byg_ether_narrow` · к
+- [ ] **Wide Ether Train Track** — `railways:track_byg_ether_wide` · к
+- [ ] **Fir Train Track** — `railways:track_byg_fir` · к
+- [ ] **Narrow Fir Train Track** — `railways:track_byg_fir_narrow` · к
+- [ ] **Wide Fir Train Track** — `railways:track_byg_fir_wide` · к
+- [ ] **Green Enchanted Train Track** — `railways:track_byg_green_enchanted` · к
+- [ ] **Narrow Green Enchanted Train Track** — `railways:track_byg_green_enchanted_narrow` · к
+- [ ] **Wide Green Enchanted Train Track** — `railways:track_byg_green_enchanted_wide` · к
+- [ ] **Holly Train Track** — `railways:track_byg_holly` · к
+- [ ] **Narrow Holly Train Track** — `railways:track_byg_holly_narrow` · к
+- [ ] **Wide Holly Train Track** — `railways:track_byg_holly_wide` · к
+- [ ] **Imparius Train Track** — `railways:track_byg_imparius` · к
+- [ ] **Narrow Imparius Train Track** — `railways:track_byg_imparius_narrow` · к
+- [ ] **Wide Imparius Train Track** — `railways:track_byg_imparius_wide` · к
+- [ ] **Jacaranda Train Track** — `railways:track_byg_jacaranda` · к
+- [ ] **Narrow Jacaranda Train Track** — `railways:track_byg_jacaranda_narrow` · к
+- [ ] **Wide Jacaranda Train Track** — `railways:track_byg_jacaranda_wide` · к
+- [ ] **Lament Train Track** — `railways:track_byg_lament` · к
+- [ ] **Narrow Lament Train Track** — `railways:track_byg_lament_narrow` · к
+- [ ] **Wide Lament Train Track** — `railways:track_byg_lament_wide` · к
+- [ ] **Mahogany Train Track** — `railways:track_byg_mahogany` · к
+- [ ] **Narrow Mahogany Train Track** — `railways:track_byg_mahogany_narrow` · к
+- [ ] **Wide Mahogany Train Track** — `railways:track_byg_mahogany_wide` · к
+- [ ] **Maple Train Track** — `railways:track_byg_maple` · к
+- [ ] **Narrow Maple Train Track** — `railways:track_byg_maple_narrow` · к
+- [ ] **Wide Maple Train Track** — `railways:track_byg_maple_wide` · к
+- [ ] **Nightshade Train Track** — `railways:track_byg_nightshade` · к
+- [ ] **Narrow Nightshade Train Track** — `railways:track_byg_nightshade_narrow` · к
+- [ ] **Wide Nightshade Train Track** — `railways:track_byg_nightshade_wide` · к
+- [ ] **Palm Train Track** — `railways:track_byg_palm` · к
+- [ ] **Narrow Palm Train Track** — `railways:track_byg_palm_narrow` · к
+- [ ] **Wide Palm Train Track** — `railways:track_byg_palm_wide` · к
+- [ ] **Pine Train Track** — `railways:track_byg_pine` · к
+- [ ] **Narrow Pine Train Track** — `railways:track_byg_pine_narrow` · к
+- [ ] **Wide Pine Train Track** — `railways:track_byg_pine_wide` · к
+- [ ] **Rainbow Eucalyptus Train Track** — `railways:track_byg_rainbow_eucalyptus` · к
+- [ ] **Narrow Rainbow Eucalyptus Train Track** — `railways:track_byg_rainbow_eucalyptus_narrow` · к
+- [ ] **Wide Rainbow Eucalyptus Train Track** — `railways:track_byg_rainbow_eucalyptus_wide` · к
+- [ ] **Redwood Train Track** — `railways:track_byg_redwood` · к
+- [ ] **Narrow Redwood Train Track** — `railways:track_byg_redwood_narrow` · к
+- [ ] **Wide Redwood Train Track** — `railways:track_byg_redwood_wide` · к
+- [ ] **Skyris Train Track** — `railways:track_byg_skyris` · к
+- [ ] **Narrow Skyris Train Track** — `railways:track_byg_skyris_narrow` · к
+- [ ] **Wide Skyris Train Track** — `railways:track_byg_skyris_wide` · к
+- [ ] **Sythian Train Track** — `railways:track_byg_sythian` · к
+- [ ] **Narrow Sythian Train Track** — `railways:track_byg_sythian_narrow` · к
+- [ ] **Wide Sythian Train Track** — `railways:track_byg_sythian_wide` · к
+- [ ] **White Mangrove Train Track** — `railways:track_byg_white_mangrove` · к
+- [ ] **Narrow White Mangrove Train Track** — `railways:track_byg_white_mangrove_narrow` · к
+- [ ] **Wide White Mangrove Train Track** — `railways:track_byg_white_mangrove_wide` · к
+- [ ] **Willow Train Track** — `railways:track_byg_willow` · к
+- [ ] **Narrow Willow Train Track** — `railways:track_byg_willow_narrow` · к
+- [ ] **Wide Willow Train Track** — `railways:track_byg_willow_wide` · к
+- [ ] **Witch Hazel Train Track** — `railways:track_byg_witch_hazel` · к
+- [ ] **Narrow Witch Hazel Train Track** — `railways:track_byg_witch_hazel_narrow` · к
+- [ ] **Wide Witch Hazel Train Track** — `railways:track_byg_witch_hazel_wide` · к
+- [ ] **Zelkova Train Track** — `railways:track_byg_zelkova` · к
+- [ ] **Narrow Zelkova Train Track** — `railways:track_byg_zelkova_narrow` · к
+- [ ] **Wide Zelkova Train Track** — `railways:track_byg_zelkova_wide` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

@@ -1,0 +1,298 @@
+# Музей: Handcrafted (handcrafted)
+
+Предметов: 285 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 285 предметов.*
+
+- [ ] **Acacia Bench** — `handcrafted:acacia_bench` · н
+- [ ] **Acacia Chair** — `handcrafted:acacia_chair` · н
+- [ ] **Acacia Corner Trim** — `handcrafted:acacia_corner_trim` · н
+- [ ] **Acacia Couch** — `handcrafted:acacia_couch` · н
+- [ ] **Acacia Counter** — `handcrafted:acacia_counter` · н
+- [ ] **Acacia Cupboard** — `handcrafted:acacia_cupboard` · н
+- [ ] **Acacia Desk** — `handcrafted:acacia_desk` · н
+- [ ] **Acacia Dining Bench** — `handcrafted:acacia_dining_bench` · н
+- [ ] **Acacia Drawer** — `handcrafted:acacia_drawer` · н
+- [ ] **Acacia Fancy Bed** — `handcrafted:acacia_fancy_bed` · н
+- [ ] **Acacia Nightstand** — `handcrafted:acacia_nightstand` · н
+- [ ] **Acacia Pillar Trim** — `handcrafted:acacia_pillar_trim` · н
+- [ ] **Acacia Shelf** — `handcrafted:acacia_shelf` · н
+- [ ] **Acacia Side Table** — `handcrafted:acacia_side_table` · н
+- [ ] **Acacia Table** — `handcrafted:acacia_table` · н
+- [ ] **Andesite Corner Trim** — `handcrafted:andesite_corner_trim` · н
+- [ ] **Andesite Pillar Trim** — `handcrafted:andesite_pillar_trim` · н
+- [ ] **Bamboo Bench** — `handcrafted:bamboo_bench` · н
+- [ ] **Bamboo Chair** — `handcrafted:bamboo_chair` · н
+- [ ] **Bamboo Corner Trim** — `handcrafted:bamboo_corner_trim` · н
+- [ ] **Bamboo Couch** — `handcrafted:bamboo_couch` · н
+- [ ] **Bamboo Counter** — `handcrafted:bamboo_counter` · н
+- [ ] **Bamboo Cupboard** — `handcrafted:bamboo_cupboard` · н
+- [ ] **Bamboo Desk** — `handcrafted:bamboo_desk` · н
+- [ ] **Bamboo Dining Bench** — `handcrafted:bamboo_dining_bench` · н
+- [ ] **Bamboo Drawer** — `handcrafted:bamboo_drawer` · н
+- [ ] **Bamboo Fancy Bed** — `handcrafted:bamboo_fancy_bed` · н
+- [ ] **Bamboo Nightstand** — `handcrafted:bamboo_nightstand` · н
+- [ ] **Bamboo Pillar Trim** — `handcrafted:bamboo_pillar_trim` · н
+- [ ] **Bamboo Shelf** — `handcrafted:bamboo_shelf` · н
+- [ ] **Bamboo Side Table** — `handcrafted:bamboo_side_table` · н
+- [ ] **Bamboo Table** — `handcrafted:bamboo_table` · н
+- [ ] **Bear Trophy** — `handcrafted:bear_trophy` · н
+- [ ] **Bench** — `handcrafted:bench` · н
+- [ ] **Berry Jam Jar** — `handcrafted:berry_jam_jar` · н
+- [ ] **Birch Bench** — `handcrafted:birch_bench` · н
+- [ ] **Birch Chair** — `handcrafted:birch_chair` · н
+- [ ] **Birch Corner Trim** — `handcrafted:birch_corner_trim` · н
+- [ ] **Birch Couch** — `handcrafted:birch_couch` · н
+- [ ] **Birch Counter** — `handcrafted:birch_counter` · н
+- [ ] **Birch Cupboard** — `handcrafted:birch_cupboard` · н
+- [ ] **Birch Desk** — `handcrafted:birch_desk` · н
+- [ ] **Birch Dining Bench** — `handcrafted:birch_dining_bench` · н
+- [ ] **Birch Drawer** — `handcrafted:birch_drawer` · н
+- [ ] **Birch Fancy Bed** — `handcrafted:birch_fancy_bed` · н
+- [ ] **Birch Nightstand** — `handcrafted:birch_nightstand` · н
+- [ ] **Birch Pillar Trim** — `handcrafted:birch_pillar_trim` · н
+- [ ] **Birch Shelf** — `handcrafted:birch_shelf` · н
+- [ ] **Birch Side Table** — `handcrafted:birch_side_table` · н
+- [ ] **Birch Table** — `handcrafted:birch_table` · н
+- [ ] **Black Cushion** — `handcrafted:black_cushion` · н
+- [ ] **Black Sheet** — `handcrafted:black_sheet` · н
+- [ ] **Blackstone Corner Trim** — `handcrafted:blackstone_corner_trim` · н
+- [ ] **Blackstone Pillar Trim** — `handcrafted:blackstone_pillar_trim` · н
+- [ ] **Blaze Trophy** — `handcrafted:blaze_trophy` · н
+- [ ] **Blue Bowl** — `handcrafted:blue_bowl` · н
+- [ ] **Blue Crockery Combo** — `handcrafted:blue_crockery_combo` · н
+- [ ] **Blue Cup** — `handcrafted:blue_cup` · н
+- [ ] **Blue Cushion** — `handcrafted:blue_cushion` · н
+- [ ] **Blue Glazed Medium Pot** — `handcrafted:blue_glazed_medium_pot` · н
+- [ ] **Blue Glazed Thick Pot** — `handcrafted:blue_glazed_thick_pot` · н
+- [ ] **Blue Glazed Thin Pot** — `handcrafted:blue_glazed_thin_pot` · н
+- [ ] **Blue Glazed Wide Pot** — `handcrafted:blue_glazed_wide_pot` · н
+- [ ] **Blue Plate** — `handcrafted:blue_plate` · н
+- [ ] **Blue Sheet** — `handcrafted:blue_sheet` · н
+- [ ] **Bricks Corner Trim** — `handcrafted:bricks_corner_trim` · н
+- [ ] **Bricks Pillar Trim** — `handcrafted:bricks_pillar_trim` · н
+- [ ] **Brown Cushion** — `handcrafted:brown_cushion` · н
+- [ ] **Brown Sheet** — `handcrafted:brown_sheet` · н
+- [ ] **Calcite Corner Trim** — `handcrafted:calcite_corner_trim` · н
+- [ ] **Calcite Pillar Trim** — `handcrafted:calcite_pillar_trim` · н
+- [ ] **Cherry Bench** — `handcrafted:cherry_bench` · н
+- [ ] **Cherry Chair** — `handcrafted:cherry_chair` · н
+- [ ] **Cherry Corner Trim** — `handcrafted:cherry_corner_trim` · н
+- [ ] **Cherry Couch** — `handcrafted:cherry_couch` · н
+- [ ] **Cherry Counter** — `handcrafted:cherry_counter` · н
+- [ ] **Cherry Cupboard** — `handcrafted:cherry_cupboard` · н
+- [ ] **Cherry Desk** — `handcrafted:cherry_desk` · н
+- [ ] **Cherry Dining Bench** — `handcrafted:cherry_dining_bench` · н
+- [ ] **Cherry Drawer** — `handcrafted:cherry_drawer` · н
+- [ ] **Cherry Fancy Bed** — `handcrafted:cherry_fancy_bed` · н
+- [ ] **Cherry Nightstand** — `handcrafted:cherry_nightstand` · н
+- [ ] **Cherry Pillar Trim** — `handcrafted:cherry_pillar_trim` · н
+- [ ] **Cherry Shelf** — `handcrafted:cherry_shelf` · н
+- [ ] **Cherry Side Table** — `handcrafted:cherry_side_table` · н
+- [ ] **Cherry Table** — `handcrafted:cherry_table` · н
+- [ ] **Creeper Trophy** — `handcrafted:creeper_trophy` · н
+- [ ] **Crimson Bench** — `handcrafted:crimson_bench` · н
+- [ ] **Crimson Chair** — `handcrafted:crimson_chair` · н
+- [ ] **Crimson Corner Trim** — `handcrafted:crimson_corner_trim` · н
+- [ ] **Crimson Couch** — `handcrafted:crimson_couch` · н
+- [ ] **Crimson Counter** — `handcrafted:crimson_counter` · н
+- [ ] **Crimson Cupboard** — `handcrafted:crimson_cupboard` · н
+- [ ] **Crimson Desk** — `handcrafted:crimson_desk` · н
+- [ ] **Crimson Dining Bench** — `handcrafted:crimson_dining_bench` · н
+- [ ] **Crimson Drawer** — `handcrafted:crimson_drawer` · н
+- [ ] **Crimson Fancy Bed** — `handcrafted:crimson_fancy_bed` · н
+- [ ] **Crimson Nightstand** — `handcrafted:crimson_nightstand` · н
+- [ ] **Crimson Pillar Trim** — `handcrafted:crimson_pillar_trim` · н
+- [ ] **Crimson Shelf** — `handcrafted:crimson_shelf` · н
+- [ ] **Crimson Side Table** — `handcrafted:crimson_side_table` · н
+- [ ] **Crimson Table** — `handcrafted:crimson_table` · н
+- [ ] **Cyan Cushion** — `handcrafted:cyan_cushion` · н
+- [ ] **Cyan Sheet** — `handcrafted:cyan_sheet` · н
+- [ ] **Dark Oak Bench** — `handcrafted:dark_oak_bench` · н
+- [ ] **Dark Oak Chair** — `handcrafted:dark_oak_chair` · н
+- [ ] **Dark Oak Corner Trim** — `handcrafted:dark_oak_corner_trim` · н
+- [ ] **Dark Oak Couch** — `handcrafted:dark_oak_couch` · н
+- [ ] **Dark Oak Counter** — `handcrafted:dark_oak_counter` · н
+- [ ] **Dark Oak Cupboard** — `handcrafted:dark_oak_cupboard` · н
+- [ ] **Dark Oak Desk** — `handcrafted:dark_oak_desk` · н
+- [ ] **Dark Oak Dining Bench** — `handcrafted:dark_oak_dining_bench` · н
+- [ ] **Dark Oak Drawer** — `handcrafted:dark_oak_drawer` · н
+- [ ] **Dark Oak Fancy Bed** — `handcrafted:dark_oak_fancy_bed` · н
+- [ ] **Dark Oak Nightstand** — `handcrafted:dark_oak_nightstand` · н
+- [ ] **Dark Oak Pillar Trim** — `handcrafted:dark_oak_pillar_trim` · н
+- [ ] **Dark Oak Shelf** — `handcrafted:dark_oak_shelf` · н
+- [ ] **Dark Oak Side Table** — `handcrafted:dark_oak_side_table` · н
+- [ ] **Dark Oak Table** — `handcrafted:dark_oak_table` · н
+- [ ] **Deepslate Corner Trim** — `handcrafted:deepslate_corner_trim` · н
+- [ ] **Deepslate Pillar Trim** — `handcrafted:deepslate_pillar_trim` · н
+- [ ] **Diorite Corner Trim** — `handcrafted:diorite_corner_trim` · н
+- [ ] **Diorite Pillar Trim** — `handcrafted:diorite_pillar_trim` · н
+- [ ] **Dripstone Corner Trim** — `handcrafted:dripstone_corner_trim` · н
+- [ ] **Dripstone Pillar Trim** — `handcrafted:dripstone_pillar_trim` · н
+- [ ] **Evoker Trophy** — `handcrafted:evoker_trophy` · н
+- [ ] **Fancy Painting** — `handcrafted:fancy_painting` · н
+- [ ] **Fox Trophy** — `handcrafted:fox_trophy` · н
+- [ ] **Frozen Bench** — `handcrafted:frozen_bench` · н
+- [ ] **Goat Trophy** — `handcrafted:goat_trophy` · н
+- [ ] **Golden Medium Pot** — `handcrafted:golden_medium_pot` · н
+- [ ] **Golden Thick Pot** — `handcrafted:golden_thick_pot` · н
+- [ ] **Golden Thin Pot** — `handcrafted:golden_thin_pot` · н
+- [ ] **Golden Wide Pot** — `handcrafted:golden_wide_pot` · н
+- [ ] **Granite Corner Trim** — `handcrafted:granite_corner_trim` · н
+- [ ] **Granite Pillar Trim** — `handcrafted:granite_pillar_trim` · н
+- [ ] **Gray Cushion** — `handcrafted:gray_cushion` · н
+- [ ] **Gray Sheet** — `handcrafted:gray_sheet` · н
+- [ ] **Green Cushion** — `handcrafted:green_cushion` · н
+- [ ] **Green Sheet** — `handcrafted:green_sheet` · н
+- [ ] **Hammer** — `handcrafted:hammer` · н
+- [ ] **Jungle Bench** — `handcrafted:jungle_bench` · н
+- [ ] **Jungle Chair** — `handcrafted:jungle_chair` · н
+- [ ] **Jungle Corner Trim** — `handcrafted:jungle_corner_trim` · н
+- [ ] **Jungle Couch** — `handcrafted:jungle_couch` · н
+- [ ] **Jungle Counter** — `handcrafted:jungle_counter` · н
+- [ ] **Jungle Cupboard** — `handcrafted:jungle_cupboard` · н
+- [ ] **Jungle Desk** — `handcrafted:jungle_desk` · н
+- [ ] **Jungle Dining Bench** — `handcrafted:jungle_dining_bench` · н
+- [ ] **Jungle Drawer** — `handcrafted:jungle_drawer` · н
+- [ ] **Jungle Fancy Bed** — `handcrafted:jungle_fancy_bed` · н
+- [ ] **Jungle Nightstand** — `handcrafted:jungle_nightstand` · н
+- [ ] **Jungle Pillar Trim** — `handcrafted:jungle_pillar_trim` · н
+- [ ] **Jungle Shelf** — `handcrafted:jungle_shelf` · н
+- [ ] **Jungle Side Table** — `handcrafted:jungle_side_table` · н
+- [ ] **Jungle Table** — `handcrafted:jungle_table` · н
+- [ ] **Kitchen Hood** — `handcrafted:kitchen_hood` · н
+- [ ] **Kitchen Hood Pipe** — `handcrafted:kitchen_hood_pipe` · н
+- [ ] **Light Blue Cushion** — `handcrafted:light_blue_cushion` · н
+- [ ] **Light Blue Sheet** — `handcrafted:light_blue_sheet` · н
+- [ ] **Light Gray Cushion** — `handcrafted:light_gray_cushion` · н
+- [ ] **Light Gray Sheet** — `handcrafted:light_gray_sheet` · н
+- [ ] **Lime Cushion** — `handcrafted:lime_cushion` · н
+- [ ] **Lime Sheet** — `handcrafted:lime_sheet` · н
+- [ ] **Magenta Cushion** — `handcrafted:magenta_cushion` · н
+- [ ] **Magenta Sheet** — `handcrafted:magenta_sheet` · н
+- [ ] **Mangrove Bench** — `handcrafted:mangrove_bench` · н
+- [ ] **Mangrove Chair** — `handcrafted:mangrove_chair` · н
+- [ ] **Mangrove Corner Trim** — `handcrafted:mangrove_corner_trim` · н
+- [ ] **Mangrove Couch** — `handcrafted:mangrove_couch` · н
+- [ ] **Mangrove Counter** — `handcrafted:mangrove_counter` · н
+- [ ] **Mangrove Cupboard** — `handcrafted:mangrove_cupboard` · н
+- [ ] **Mangrove Desk** — `handcrafted:mangrove_desk` · н
+- [ ] **Mangrove Dining Bench** — `handcrafted:mangrove_dining_bench` · н
+- [ ] **Mangrove Drawer** — `handcrafted:mangrove_drawer` · н
+- [ ] **Mangrove Fancy Bed** — `handcrafted:mangrove_fancy_bed` · н
+- [ ] **Mangrove Nightstand** — `handcrafted:mangrove_nightstand` · н
+- [ ] **Mangrove Pillar Trim** — `handcrafted:mangrove_pillar_trim` · н
+- [ ] **Mangrove Shelf** — `handcrafted:mangrove_shelf` · н
+- [ ] **Mangrove Side Table** — `handcrafted:mangrove_side_table` · н
+- [ ] **Mangrove Table** — `handcrafted:mangrove_table` · н
+- [ ] **Oak Bench** — `handcrafted:oak_bench` · н
+- [ ] **Oak Chair** — `handcrafted:oak_chair` · н
+- [ ] **Oak Corner Trim** — `handcrafted:oak_corner_trim` · н
+- [ ] **Oak Couch** — `handcrafted:oak_couch` · н
+- [ ] **Oak Counter** — `handcrafted:oak_counter` · н
+- [ ] **Oak Cupboard** — `handcrafted:oak_cupboard` · н
+- [ ] **Oak Desk** — `handcrafted:oak_desk` · н
+- [ ] **Oak Dining Bench** — `handcrafted:oak_dining_bench` · н
+- [ ] **Oak Drawer** — `handcrafted:oak_drawer` · н
+- [ ] **Oak Fancy Bed** — `handcrafted:oak_fancy_bed` · н
+- [ ] **Oak Nightstand** — `handcrafted:oak_nightstand` · н
+- [ ] **Oak Pillar Trim** — `handcrafted:oak_pillar_trim` · н
+- [ ] **Oak Shelf** — `handcrafted:oak_shelf` · н
+- [ ] **Oak Side Table** — `handcrafted:oak_side_table` · н
+- [ ] **Oak Table** — `handcrafted:oak_table` · н
+- [ ] **Orange Cushion** — `handcrafted:orange_cushion` · н
+- [ ] **Orange Sheet** — `handcrafted:orange_sheet` · н
+- [ ] **Oven** — `handcrafted:oven` · н
+- [ ] **Phantom Trophy** — `handcrafted:phantom_trophy` · н
+- [ ] **Pillager Trophy** — `handcrafted:pillager_trophy` · н
+- [ ] **Pink Cushion** — `handcrafted:pink_cushion` · н
+- [ ] **Pink Sheet** — `handcrafted:pink_sheet` · н
+- [ ] **Pufferfish Trophy** — `handcrafted:pufferfish_trophy` · н
+- [ ] **Purple Cushion** — `handcrafted:purple_cushion` · н
+- [ ] **Purple Sheet** — `handcrafted:purple_sheet` · н
+- [ ] **Quartz Corner Trim** — `handcrafted:quartz_corner_trim` · н
+- [ ] **Quartz Pillar Trim** — `handcrafted:quartz_pillar_trim` · н
+- [ ] **Red Cushion** — `handcrafted:red_cushion` · н
+- [ ] **Red Sandstone Corner Trim** — `handcrafted:red_sandstone_corner_trim` · н
+- [ ] **Red Sandstone Pillar Trim** — `handcrafted:red_sandstone_pillar_trim` · н
+- [ ] **Red Sheet** — `handcrafted:red_sheet` · н
+- [ ] **Salmon Trophy** — `handcrafted:salmon_trophy` · н
+- [ ] **Sandstone Corner Trim** — `handcrafted:sandstone_corner_trim` · н
+- [ ] **Sandstone Pillar Trim** — `handcrafted:sandstone_pillar_trim` · н
+- [ ] **Silverfish Trophy** — `handcrafted:silverfish_trophy` · н
+- [ ] **Skeleton Horse Trophy** — `handcrafted:skeleton_horse_trophy` · н
+- [ ] **Skeleton Trophy** — `handcrafted:skeleton_trophy` · н
+- [ ] **Spider Trophy** — `handcrafted:spider_trophy` · н
+- [ ] **Spruce Bench** — `handcrafted:spruce_bench` · н
+- [ ] **Spruce Chair** — `handcrafted:spruce_chair` · н
+- [ ] **Spruce Corner Trim** — `handcrafted:spruce_corner_trim` · н
+- [ ] **Spruce Couch** — `handcrafted:spruce_couch` · н
+- [ ] **Spruce Counter** — `handcrafted:spruce_counter` · н
+- [ ] **Spruce Cupboard** — `handcrafted:spruce_cupboard` · н
+- [ ] **Spruce Desk** — `handcrafted:spruce_desk` · н
+- [ ] **Spruce Dining Bench** — `handcrafted:spruce_dining_bench` · н
+- [ ] **Spruce Drawer** — `handcrafted:spruce_drawer` · н
+- [ ] **Spruce Fancy Bed** — `handcrafted:spruce_fancy_bed` · н
+- [ ] **Spruce Nightstand** — `handcrafted:spruce_nightstand` · н
+- [ ] **Spruce Pillar Trim** — `handcrafted:spruce_pillar_trim` · н
+- [ ] **Spruce Shelf** — `handcrafted:spruce_shelf` · н
+- [ ] **Spruce Side Table** — `handcrafted:spruce_side_table` · н
+- [ ] **Spruce Table** — `handcrafted:spruce_table` · н
+- [ ] **Stackable Book** — `handcrafted:stackable_book` · н
+- [ ] **Stone Corner Trim** — `handcrafted:stone_corner_trim` · н
+- [ ] **Stone Pillar Trim** — `handcrafted:stone_pillar_trim` · н
+- [ ] **Terracotta Bowl** — `handcrafted:terracotta_bowl` · н
+- [ ] **Terracotta Crockery Combo** — `handcrafted:terracotta_crockery_combo` · н
+- [ ] **Terracotta Cup** — `handcrafted:terracotta_cup` · н
+- [ ] **Terracotta Medium Pot** — `handcrafted:terracotta_medium_pot` · н
+- [ ] **Terracotta Plate** — `handcrafted:terracotta_plate` · н
+- [ ] **Terracotta Thick Pot** — `handcrafted:terracotta_thick_pot` · н
+- [ ] **Terracotta Thin Pot** — `handcrafted:terracotta_thin_pot` · н
+- [ ] **Terracotta Wide Pot** — `handcrafted:terracotta_wide_pot` · н
+- [ ] **Tropical Fish Trophy** — `handcrafted:tropical_fish_trophy` · н
+- [ ] **Vindicator Trophy** — `handcrafted:vindicator_trophy` · н
+- [ ] **Warped Bench** — `handcrafted:warped_bench` · н
+- [ ] **Warped Chair** — `handcrafted:warped_chair` · н
+- [ ] **Warped Corner Trim** — `handcrafted:warped_corner_trim` · н
+- [ ] **Warped Couch** — `handcrafted:warped_couch` · н
+- [ ] **Warped Counter** — `handcrafted:warped_counter` · н
+- [ ] **Warped Cupboard** — `handcrafted:warped_cupboard` · н
+- [ ] **Warped Desk** — `handcrafted:warped_desk` · н
+- [ ] **Warped Dining Bench** — `handcrafted:warped_dining_bench` · н
+- [ ] **Warped Drawer** — `handcrafted:warped_drawer` · н
+- [ ] **Warped Fancy Bed** — `handcrafted:warped_fancy_bed` · н
+- [ ] **Warped Nightstand** — `handcrafted:warped_nightstand` · н
+- [ ] **Warped Pillar Trim** — `handcrafted:warped_pillar_trim` · н
+- [ ] **Warped Shelf** — `handcrafted:warped_shelf` · н
+- [ ] **Warped Side Table** — `handcrafted:warped_side_table` · н
+- [ ] **Warped Table** — `handcrafted:warped_table` · н
+- [ ] **White Bowl** — `handcrafted:white_bowl` · н
+- [ ] **White Crockery Combo** — `handcrafted:white_crockery_combo` · н
+- [ ] **White Cup** — `handcrafted:white_cup` · н
+- [ ] **White Cushion** — `handcrafted:white_cushion` · н
+- [ ] **White Glazed Medium Pot** — `handcrafted:white_glazed_medium_pot` · н
+- [ ] **White Glazed Thick Pot** — `handcrafted:white_glazed_thick_pot` · н
+- [ ] **White Glazed Thin Pot** — `handcrafted:white_glazed_thin_pot` · н
+- [ ] **White Glazed Wide Pot** — `handcrafted:white_glazed_wide_pot` · н
+- [ ] **White Plate** — `handcrafted:white_plate` · н
+- [ ] **White Sheet** — `handcrafted:white_sheet` · н
+- [ ] **Witch Trophy** — `handcrafted:witch_trophy` · н
+- [ ] **Wither Skeleton Trophy** — `handcrafted:wither_skeleton_trophy` · н
+- [ ] **Wolf Trophy** — `handcrafted:wolf_trophy` · н
+- [ ] **Wood Bowl** — `handcrafted:wood_bowl` · н
+- [ ] **Wood Crockery Combo** — `handcrafted:wood_crockery_combo` · н
+- [ ] **Wood Cup** — `handcrafted:wood_cup` · н
+- [ ] **Wood Plate** — `handcrafted:wood_plate` · н
+- [ ] **Yellow Bowl** — `handcrafted:yellow_bowl` · н
+- [ ] **Yellow Crockery Combo** — `handcrafted:yellow_crockery_combo` · н
+- [ ] **Yellow Cup** — `handcrafted:yellow_cup` · н
+- [ ] **Yellow Cushion** — `handcrafted:yellow_cushion` · н
+- [ ] **Yellow Plate** — `handcrafted:yellow_plate` · н
+- [ ] **Yellow Sheet** — `handcrafted:yellow_sheet` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

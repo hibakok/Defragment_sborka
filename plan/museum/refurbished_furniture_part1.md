@@ -1,0 +1,485 @@
+# Музей: MrCrayfish's Furniture Mod: Refurbished (refurbished_furniture)
+
+Предметов: 471 · крафтимых по данным: 469 (99%) · файлов: 2
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 1 из 2
+
+*В части: 470 предметов.*
+
+- [ ] **Acacia Basin** — `refurbished_furniture:acacia_basin` · к
+- [ ] **Acacia Bath** — `refurbished_furniture:acacia_bath` · к
+- [ ] **Acacia Chair** — `refurbished_furniture:acacia_chair` · к
+- [ ] **Acacia Crate** — `refurbished_furniture:acacia_crate` · к
+- [ ] **Acacia Cutting Board** — `refurbished_furniture:acacia_cutting_board` · к
+- [ ] **Acacia Dark Ceiling Fan** — `refurbished_furniture:acacia_dark_ceiling_fan` · к
+- [ ] **Acacia Desk** — `refurbished_furniture:acacia_desk` · к
+- [ ] **Acacia Drawer** — `refurbished_furniture:acacia_drawer` · к
+- [ ] **Acacia Hedge** — `refurbished_furniture:acacia_hedge` · к
+- [ ] **Acacia Kitchen Cabinetry** — `refurbished_furniture:acacia_kitchen_cabinetry` · к
+- [ ] **Acacia Kitchen Drawer** — `refurbished_furniture:acacia_kitchen_drawer` · к
+- [ ] **Acacia Kitchen Sink** — `refurbished_furniture:acacia_kitchen_sink` · к
+- [ ] **Acacia Kitchen Storage Cabinet** — `refurbished_furniture:acacia_kitchen_storage_cabinet` · к
+- [ ] **Acacia Lattice Fence** — `refurbished_furniture:acacia_lattice_fence` · к
+- [ ] **Acacia Lattice Fence Gate** — `refurbished_furniture:acacia_lattice_fence_gate` · к
+- [ ] **Acacia Light Ceiling Fan** — `refurbished_furniture:acacia_light_ceiling_fan` · к
+- [ ] **Acacia Mailbox** — `refurbished_furniture:acacia_mail_box` · к
+- [ ] **Acacia Storage Cabinet** — `refurbished_furniture:acacia_storage_cabinet` · к
+- [ ] **Acacia Storage Jar** — `refurbished_furniture:acacia_storage_jar` · к
+- [ ] **Acacia Table** — `refurbished_furniture:acacia_table` · к
+- [ ] **Acacia Toilet** — `refurbished_furniture:acacia_toilet` · к
+- [ ] **Andesite Stepping Stones** — `refurbished_furniture:andesite_stepping_stones` · к
+- [ ] **Azalea Hedge** — `refurbished_furniture:azalea_hedge` · к
+- [ ] **Birch Basin** — `refurbished_furniture:birch_basin` · к
+- [ ] **Birch Bath** — `refurbished_furniture:birch_bath` · к
+- [ ] **Birch Chair** — `refurbished_furniture:birch_chair` · к
+- [ ] **Birch Crate** — `refurbished_furniture:birch_crate` · к
+- [ ] **Birch Cutting Board** — `refurbished_furniture:birch_cutting_board` · к
+- [ ] **Birch Dark Ceiling Fan** — `refurbished_furniture:birch_dark_ceiling_fan` · к
+- [ ] **Birch Desk** — `refurbished_furniture:birch_desk` · к
+- [ ] **Birch Drawer** — `refurbished_furniture:birch_drawer` · к
+- [ ] **Birch Hedge** — `refurbished_furniture:birch_hedge` · к
+- [ ] **Birch Kitchen Cabinetry** — `refurbished_furniture:birch_kitchen_cabinetry` · к
+- [ ] **Birch Kitchen Drawer** — `refurbished_furniture:birch_kitchen_drawer` · к
+- [ ] **Birch Kitchen Sink** — `refurbished_furniture:birch_kitchen_sink` · к
+- [ ] **Birch Kitchen Storage Cabinet** — `refurbished_furniture:birch_kitchen_storage_cabinet` · к
+- [ ] **Birch Lattice Fence** — `refurbished_furniture:birch_lattice_fence` · к
+- [ ] **Birch Lattice Fence Gate** — `refurbished_furniture:birch_lattice_fence_gate` · к
+- [ ] **Birch Light Ceiling Fan** — `refurbished_furniture:birch_light_ceiling_fan` · к
+- [ ] **Birch Mailbox** — `refurbished_furniture:birch_mail_box` · к
+- [ ] **Birch Storage Cabinet** — `refurbished_furniture:birch_storage_cabinet` · к
+- [ ] **Birch Storage Jar** — `refurbished_furniture:birch_storage_jar` · к
+- [ ] **Birch Table** — `refurbished_furniture:birch_table` · к
+- [ ] **Birch Toilet** — `refurbished_furniture:birch_toilet` · к
+- [ ] **Black Basin** — `refurbished_furniture:black_basin` · к
+- [ ] **Black Bath** — `refurbished_furniture:black_bath` · к
+- [ ] **Black Cooler** — `refurbished_furniture:black_cooler` · к
+- [ ] **Black Grill** — `refurbished_furniture:black_grill` · к
+- [ ] **Black Kitchen Cabinetry** — `refurbished_furniture:black_kitchen_cabinetry` · к
+- [ ] **Black Kitchen Drawer** — `refurbished_furniture:black_kitchen_drawer` · к
+- [ ] **Black Kitchen Sink** — `refurbished_furniture:black_kitchen_sink` · к
+- [ ] **Black Kitchen Storage Cabinet** — `refurbished_furniture:black_kitchen_storage_cabinet` · к
+- [ ] **Black Lamp** — `refurbished_furniture:black_lamp` · к
+- [ ] **Black Sofa** — `refurbished_furniture:black_sofa` · к
+- [ ] **Black Stool** — `refurbished_furniture:black_stool` · к
+- [ ] **Black Toilet** — `refurbished_furniture:black_toilet` · к
+- [ ] **Black Trampoline** — `refurbished_furniture:black_trampoline` · к
+- [ ] **Blue Basin** — `refurbished_furniture:blue_basin` · к
+- [ ] **Blue Bath** — `refurbished_furniture:blue_bath` · к
+- [ ] **Blue Cooler** — `refurbished_furniture:blue_cooler` · к
+- [ ] **Blue Grill** — `refurbished_furniture:blue_grill` · к
+- [ ] **Blue Kitchen Cabinetry** — `refurbished_furniture:blue_kitchen_cabinetry` · к
+- [ ] **Blue Kitchen Drawer** — `refurbished_furniture:blue_kitchen_drawer` · к
+- [ ] **Blue Kitchen Sink** — `refurbished_furniture:blue_kitchen_sink` · к
+- [ ] **Blue Kitchen Storage Cabinet** — `refurbished_furniture:blue_kitchen_storage_cabinet` · к
+- [ ] **Blue Lamp** — `refurbished_furniture:blue_lamp` · к
+- [ ] **Blue Sofa** — `refurbished_furniture:blue_sofa` · к
+- [ ] **Blue Stool** — `refurbished_furniture:blue_stool` · к
+- [ ] **Blue Toilet** — `refurbished_furniture:blue_toilet` · к
+- [ ] **Blue Trampoline** — `refurbished_furniture:blue_trampoline` · к
+- [ ] **Bread Slice** — `refurbished_furniture:bread_slice` · к
+- [ ] **Brown Basin** — `refurbished_furniture:brown_basin` · к
+- [ ] **Brown Bath** — `refurbished_furniture:brown_bath` · к
+- [ ] **Brown Cooler** — `refurbished_furniture:brown_cooler` · к
+- [ ] **Brown Grill** — `refurbished_furniture:brown_grill` · к
+- [ ] **Brown Kitchen Cabinetry** — `refurbished_furniture:brown_kitchen_cabinetry` · к
+- [ ] **Brown Kitchen Drawer** — `refurbished_furniture:brown_kitchen_drawer` · к
+- [ ] **Brown Kitchen Sink** — `refurbished_furniture:brown_kitchen_sink` · к
+- [ ] **Brown Kitchen Storage Cabinet** — `refurbished_furniture:brown_kitchen_storage_cabinet` · к
+- [ ] **Brown Lamp** — `refurbished_furniture:brown_lamp` · к
+- [ ] **Brown Sofa** — `refurbished_furniture:brown_sofa` · к
+- [ ] **Brown Stool** — `refurbished_furniture:brown_stool` · к
+- [ ] **Brown Toilet** — `refurbished_furniture:brown_toilet` · к
+- [ ] **Brown Trampoline** — `refurbished_furniture:brown_trampoline` · к
+- [ ] **Cheese** — `refurbished_furniture:cheese` · к
+- [ ] **Cheese Sandwich** — `refurbished_furniture:cheese_sandwich` · к
+- [ ] **Grilled Cheese** — `refurbished_furniture:cheese_toastie` · к
+- [ ] **Cherry Basin** — `refurbished_furniture:cherry_basin` · к
+- [ ] **Cherry Bath** — `refurbished_furniture:cherry_bath` · к
+- [ ] **Cherry Chair** — `refurbished_furniture:cherry_chair` · к
+- [ ] **Cherry Crate** — `refurbished_furniture:cherry_crate` · к
+- [ ] **Cherry Cutting Board** — `refurbished_furniture:cherry_cutting_board` · к
+- [ ] **Cherry Dark Ceiling Fan** — `refurbished_furniture:cherry_dark_ceiling_fan` · к
+- [ ] **Cherry Desk** — `refurbished_furniture:cherry_desk` · к
+- [ ] **Cherry Drawer** — `refurbished_furniture:cherry_drawer` · к
+- [ ] **Cherry Hedge** — `refurbished_furniture:cherry_hedge` · к
+- [ ] **Cherry Kitchen Cabinetry** — `refurbished_furniture:cherry_kitchen_cabinetry` · к
+- [ ] **Cherry Kitchen Drawer** — `refurbished_furniture:cherry_kitchen_drawer` · к
+- [ ] **Cherry Kitchen Sink** — `refurbished_furniture:cherry_kitchen_sink` · к
+- [ ] **Cherry Kitchen Storage Cabinet** — `refurbished_furniture:cherry_kitchen_storage_cabinet` · к
+- [ ] **Cherry Lattice Fence** — `refurbished_furniture:cherry_lattice_fence` · к
+- [ ] **Cherry Lattice Fence Gate** — `refurbished_furniture:cherry_lattice_fence_gate` · к
+- [ ] **Cherry Light Ceiling Fan** — `refurbished_furniture:cherry_light_ceiling_fan` · к
+- [ ] **Cherry Mailbox** — `refurbished_furniture:cherry_mail_box` · к
+- [ ] **Cherry Storage Cabinet** — `refurbished_furniture:cherry_storage_cabinet` · к
+- [ ] **Cherry Storage Jar** — `refurbished_furniture:cherry_storage_jar` · к
+- [ ] **Cherry Table** — `refurbished_furniture:cherry_table` · к
+- [ ] **Cherry Toilet** — `refurbished_furniture:cherry_toilet` · к
+- [ ] **Computer** — `refurbished_furniture:computer` · к
+- [ ] **Cooked Meat Pizza** — `refurbished_furniture:cooked_meatlovers_pizza` · к
+- [ ] **Cooked Vegetable Pizza** — `refurbished_furniture:cooked_vegetable_pizza` · к
+- [ ] **Crimson Basin** — `refurbished_furniture:crimson_basin` · к
+- [ ] **Crimson Bath** — `refurbished_furniture:crimson_bath` · к
+- [ ] **Crimson Chair** — `refurbished_furniture:crimson_chair` · к
+- [ ] **Crimson Crate** — `refurbished_furniture:crimson_crate` · к
+- [ ] **Crimson Cutting Board** — `refurbished_furniture:crimson_cutting_board` · к
+- [ ] **Crimson Dark Ceiling Fan** — `refurbished_furniture:crimson_dark_ceiling_fan` · к
+- [ ] **Crimson Desk** — `refurbished_furniture:crimson_desk` · к
+- [ ] **Crimson Drawer** — `refurbished_furniture:crimson_drawer` · к
+- [ ] **Crimson Kitchen Cabinetry** — `refurbished_furniture:crimson_kitchen_cabinetry` · к
+- [ ] **Crimson Kitchen Drawer** — `refurbished_furniture:crimson_kitchen_drawer` · к
+- [ ] **Crimson Kitchen Sink** — `refurbished_furniture:crimson_kitchen_sink` · к
+- [ ] **Crimson Kitchen Storage Cabinet** — `refurbished_furniture:crimson_kitchen_storage_cabinet` · к
+- [ ] **Crimson Lattice Fence** — `refurbished_furniture:crimson_lattice_fence` · к
+- [ ] **Crimson Lattice Fence Gate** — `refurbished_furniture:crimson_lattice_fence_gate` · к
+- [ ] **Crimson Light Ceiling Fan** — `refurbished_furniture:crimson_light_ceiling_fan` · к
+- [ ] **Crimson Mailbox** — `refurbished_furniture:crimson_mail_box` · к
+- [ ] **Crimson Storage Cabinet** — `refurbished_furniture:crimson_storage_cabinet` · к
+- [ ] **Crimson Storage Jar** — `refurbished_furniture:crimson_storage_jar` · к
+- [ ] **Crimson Table** — `refurbished_furniture:crimson_table` · к
+- [ ] **Crimson Toilet** — `refurbished_furniture:crimson_toilet` · к
+- [ ] **Cyan Basin** — `refurbished_furniture:cyan_basin` · к
+- [ ] **Cyan Bath** — `refurbished_furniture:cyan_bath` · к
+- [ ] **Cyan Cooler** — `refurbished_furniture:cyan_cooler` · к
+- [ ] **Cyan Grill** — `refurbished_furniture:cyan_grill` · к
+- [ ] **Cyan Kitchen Cabinetry** — `refurbished_furniture:cyan_kitchen_cabinetry` · к
+- [ ] **Cyan Kitchen Drawer** — `refurbished_furniture:cyan_kitchen_drawer` · к
+- [ ] **Cyan Kitchen Sink** — `refurbished_furniture:cyan_kitchen_sink` · к
+- [ ] **Cyan Kitchen Storage Cabinet** — `refurbished_furniture:cyan_kitchen_storage_cabinet` · к
+- [ ] **Cyan Lamp** — `refurbished_furniture:cyan_lamp` · к
+- [ ] **Cyan Sofa** — `refurbished_furniture:cyan_sofa` · к
+- [ ] **Cyan Stool** — `refurbished_furniture:cyan_stool` · к
+- [ ] **Cyan Toilet** — `refurbished_furniture:cyan_toilet` · к
+- [ ] **Cyan Trampoline** — `refurbished_furniture:cyan_trampoline` · к
+- [ ] **Dark Ceiling Light** — `refurbished_furniture:dark_ceiling_light` · к
+- [ ] **Dark Electricity Generator** — `refurbished_furniture:dark_electricity_generator` · к
+- [ ] **Dark Fridge** — `refurbished_furniture:dark_fridge` · к
+- [ ] **Dark Lightswitch** — `refurbished_furniture:dark_lightswitch` · к
+- [ ] **Dark Microwave** — `refurbished_furniture:dark_microwave` · к
+- [ ] **Dark Oak Basin** — `refurbished_furniture:dark_oak_basin` · к
+- [ ] **Dark Oak Bath** — `refurbished_furniture:dark_oak_bath` · к
+- [ ] **Dark Oak Chair** — `refurbished_furniture:dark_oak_chair` · к
+- [ ] **Dark Oak Crate** — `refurbished_furniture:dark_oak_crate` · к
+- [ ] **Dark Oak Cutting Board** — `refurbished_furniture:dark_oak_cutting_board` · к
+- [ ] **Dark Oak Dark Ceiling Fan** — `refurbished_furniture:dark_oak_dark_ceiling_fan` · к
+- [ ] **Dark Oak Desk** — `refurbished_furniture:dark_oak_desk` · к
+- [ ] **Dark Oak Drawer** — `refurbished_furniture:dark_oak_drawer` · к
+- [ ] **Dark Oak Hedge** — `refurbished_furniture:dark_oak_hedge` · к
+- [ ] **Dark Oak Kitchen Cabinetry** — `refurbished_furniture:dark_oak_kitchen_cabinetry` · к
+- [ ] **Dark Oak Kitchen Drawer** — `refurbished_furniture:dark_oak_kitchen_drawer` · к
+- [ ] **Dark Oak Kitchen Sink** — `refurbished_furniture:dark_oak_kitchen_sink` · к
+- [ ] **Dark Oak Kitchen Storage Cabinet** — `refurbished_furniture:dark_oak_kitchen_storage_cabinet` · к
+- [ ] **Dark Oak Lattice Fence** — `refurbished_furniture:dark_oak_lattice_fence` · к
+- [ ] **Dark Oak Lattice Fence Gate** — `refurbished_furniture:dark_oak_lattice_fence_gate` · к
+- [ ] **Dark Oak Light Ceiling Fan** — `refurbished_furniture:dark_oak_light_ceiling_fan` · к
+- [ ] **Dark Oak Mailbox** — `refurbished_furniture:dark_oak_mail_box` · к
+- [ ] **Dark Oak Storage Cabinet** — `refurbished_furniture:dark_oak_storage_cabinet` · к
+- [ ] **Dark Oak Storage Jar** — `refurbished_furniture:dark_oak_storage_jar` · к
+- [ ] **Dark Oak Table** — `refurbished_furniture:dark_oak_table` · к
+- [ ] **Dark Oak Toilet** — `refurbished_furniture:dark_oak_toilet` · к
+- [ ] **Dark Range Hood** — `refurbished_furniture:dark_range_hood` · к
+- [ ] **Dark Stove** — `refurbished_furniture:dark_stove` · к
+- [ ] **Dark Toaster** — `refurbished_furniture:dark_toaster` · к
+- [ ] **Deepslate Stepping Stones** — `refurbished_furniture:deepslate_stepping_stones` · к
+- [ ] **Diorite Stepping Stones** — `refurbished_furniture:diorite_stepping_stones` · к
+- [ ] **Door Mat** — `refurbished_furniture:door_mat` · к
+- [ ] **Doorbell** — `refurbished_furniture:doorbell` · к
+- [ ] **Dough** — `refurbished_furniture:dough` · к
+- [ ] **Frying Pan** — `refurbished_furniture:frying_pan` · к
+- [ ] **Glow Berry Jam** — `refurbished_furniture:glow_berry_jam` · к
+- [ ] **Glow Berry Jam Toast** — `refurbished_furniture:glow_berry_jam_toast` · к
+- [ ] **Granite Stepping Stones** — `refurbished_furniture:granite_stepping_stones` · к
+- [ ] **Gray Basin** — `refurbished_furniture:gray_basin` · к
+- [ ] **Gray Bath** — `refurbished_furniture:gray_bath` · к
+- [ ] **Gray Cooler** — `refurbished_furniture:gray_cooler` · к
+- [ ] **Gray Grill** — `refurbished_furniture:gray_grill` · к
+- [ ] **Gray Kitchen Cabinetry** — `refurbished_furniture:gray_kitchen_cabinetry` · к
+- [ ] **Gray Kitchen Drawer** — `refurbished_furniture:gray_kitchen_drawer` · к
+- [ ] **Gray Kitchen Sink** — `refurbished_furniture:gray_kitchen_sink` · к
+- [ ] **Gray Kitchen Storage Cabinet** — `refurbished_furniture:gray_kitchen_storage_cabinet` · к
+- [ ] **Gray Lamp** — `refurbished_furniture:gray_lamp` · к
+- [ ] **Gray Sofa** — `refurbished_furniture:gray_sofa` · к
+- [ ] **Gray Stool** — `refurbished_furniture:gray_stool` · к
+- [ ] **Gray Toilet** — `refurbished_furniture:gray_toilet` · к
+- [ ] **Gray Trampoline** — `refurbished_furniture:gray_trampoline` · к
+- [ ] **Green Basin** — `refurbished_furniture:green_basin` · к
+- [ ] **Green Bath** — `refurbished_furniture:green_bath` · к
+- [ ] **Green Cooler** — `refurbished_furniture:green_cooler` · к
+- [ ] **Green Grill** — `refurbished_furniture:green_grill` · к
+- [ ] **Green Kitchen Cabinetry** — `refurbished_furniture:green_kitchen_cabinetry` · к
+- [ ] **Green Kitchen Drawer** — `refurbished_furniture:green_kitchen_drawer` · к
+- [ ] **Green Kitchen Sink** — `refurbished_furniture:green_kitchen_sink` · к
+- [ ] **Green Kitchen Storage Cabinet** — `refurbished_furniture:green_kitchen_storage_cabinet` · к
+- [ ] **Green Lamp** — `refurbished_furniture:green_lamp` · к
+- [ ] **Green Sofa** — `refurbished_furniture:green_sofa` · к
+- [ ] **Green Stool** — `refurbished_furniture:green_stool` · к
+- [ ] **Green Toilet** — `refurbished_furniture:green_toilet` · к
+- [ ] **Green Trampoline** — `refurbished_furniture:green_trampoline` · к
+- [ ] **Jungle Basin** — `refurbished_furniture:jungle_basin` · к
+- [ ] **Jungle Bath** — `refurbished_furniture:jungle_bath` · к
+- [ ] **Jungle Chair** — `refurbished_furniture:jungle_chair` · к
+- [ ] **Jungle Crate** — `refurbished_furniture:jungle_crate` · к
+- [ ] **Jungle Cutting Board** — `refurbished_furniture:jungle_cutting_board` · к
+- [ ] **Jungle Dark Ceiling Fan** — `refurbished_furniture:jungle_dark_ceiling_fan` · к
+- [ ] **Jungle Desk** — `refurbished_furniture:jungle_desk` · к
+- [ ] **Jungle Drawer** — `refurbished_furniture:jungle_drawer` · к
+- [ ] **Jungle Hedge** — `refurbished_furniture:jungle_hedge` · к
+- [ ] **Jungle Kitchen Cabinetry** — `refurbished_furniture:jungle_kitchen_cabinetry` · к
+- [ ] **Jungle Kitchen Drawer** — `refurbished_furniture:jungle_kitchen_drawer` · к
+- [ ] **Jungle Kitchen Sink** — `refurbished_furniture:jungle_kitchen_sink` · к
+- [ ] **Jungle Kitchen Storage Cabinet** — `refurbished_furniture:jungle_kitchen_storage_cabinet` · к
+- [ ] **Jungle Lattice Fence** — `refurbished_furniture:jungle_lattice_fence` · к
+- [ ] **Jungle Lattice Fence Gate** — `refurbished_furniture:jungle_lattice_fence_gate` · к
+- [ ] **Jungle Light Ceiling Fan** — `refurbished_furniture:jungle_light_ceiling_fan` · к
+- [ ] **Jungle Mailbox** — `refurbished_furniture:jungle_mail_box` · к
+- [ ] **Jungle Storage Cabinet** — `refurbished_furniture:jungle_storage_cabinet` · к
+- [ ] **Jungle Storage Jar** — `refurbished_furniture:jungle_storage_jar` · к
+- [ ] **Jungle Table** — `refurbished_furniture:jungle_table` · к
+- [ ] **Jungle Toilet** — `refurbished_furniture:jungle_toilet` · к
+- [ ] **Knife** — `refurbished_furniture:knife` · к
+- [ ] **Light Blue Basin** — `refurbished_furniture:light_blue_basin` · к
+- [ ] **Light Blue Bath** — `refurbished_furniture:light_blue_bath` · к
+- [ ] **Light Blue Cooler** — `refurbished_furniture:light_blue_cooler` · к
+- [ ] **Light Blue Grill** — `refurbished_furniture:light_blue_grill` · к
+- [ ] **Light Blue Kitchen Cabinetry** — `refurbished_furniture:light_blue_kitchen_cabinetry` · к
+- [ ] **Light Blue Kitchen Drawer** — `refurbished_furniture:light_blue_kitchen_drawer` · к
+- [ ] **Light Blue Kitchen Sink** — `refurbished_furniture:light_blue_kitchen_sink` · к
+- [ ] **Light Blue Kitchen Storage Cabinet** — `refurbished_furniture:light_blue_kitchen_storage_cabinet` · к
+- [ ] **Light Blue Lamp** — `refurbished_furniture:light_blue_lamp` · к
+- [ ] **Light Blue Sofa** — `refurbished_furniture:light_blue_sofa` · к
+- [ ] **Light Blue Stool** — `refurbished_furniture:light_blue_stool` · к
+- [ ] **Light Blue Toilet** — `refurbished_furniture:light_blue_toilet` · к
+- [ ] **Light Blue Trampoline** — `refurbished_furniture:light_blue_trampoline` · к
+- [ ] **Light Ceiling Light** — `refurbished_furniture:light_ceiling_light` · к
+- [ ] **Light Electricity Generator** — `refurbished_furniture:light_electricity_generator` · к
+- [ ] **Light Fridge** — `refurbished_furniture:light_fridge` · к
+- [ ] **Light Gray Basin** — `refurbished_furniture:light_gray_basin` · к
+- [ ] **Light Gray Bath** — `refurbished_furniture:light_gray_bath` · к
+- [ ] **Light Gray Cooler** — `refurbished_furniture:light_gray_cooler` · к
+- [ ] **Light Gray Grill** — `refurbished_furniture:light_gray_grill` · к
+- [ ] **Light Gray Kitchen Cabinetry** — `refurbished_furniture:light_gray_kitchen_cabinetry` · к
+- [ ] **Light Gray Kitchen Drawer** — `refurbished_furniture:light_gray_kitchen_drawer` · к
+- [ ] **Light Gray Kitchen Sink** — `refurbished_furniture:light_gray_kitchen_sink` · к
+- [ ] **Light Gray Kitchen Storage Cabinet** — `refurbished_furniture:light_gray_kitchen_storage_cabinet` · к
+- [ ] **Light Gray Lamp** — `refurbished_furniture:light_gray_lamp` · к
+- [ ] **Light Gray Sofa** — `refurbished_furniture:light_gray_sofa` · к
+- [ ] **Light Gray Stool** — `refurbished_furniture:light_gray_stool` · к
+- [ ] **Light Gray Toilet** — `refurbished_furniture:light_gray_toilet` · к
+- [ ] **Light Gray Trampoline** — `refurbished_furniture:light_gray_trampoline` · к
+- [ ] **Light Lightswitch** — `refurbished_furniture:light_lightswitch` · к
+- [ ] **Light Microwave** — `refurbished_furniture:light_microwave` · к
+- [ ] **Light Range Hood** — `refurbished_furniture:light_range_hood` · к
+- [ ] **Light Stove** — `refurbished_furniture:light_stove` · к
+- [ ] **Light Toaster** — `refurbished_furniture:light_toaster` · к
+- [ ] **Lime Basin** — `refurbished_furniture:lime_basin` · к
+- [ ] **Lime Bath** — `refurbished_furniture:lime_bath` · к
+- [ ] **Lime Cooler** — `refurbished_furniture:lime_cooler` · к
+- [ ] **Lime Grill** — `refurbished_furniture:lime_grill` · к
+- [ ] **Lime Kitchen Cabinetry** — `refurbished_furniture:lime_kitchen_cabinetry` · к
+- [ ] **Lime Kitchen Drawer** — `refurbished_furniture:lime_kitchen_drawer` · к
+- [ ] **Lime Kitchen Sink** — `refurbished_furniture:lime_kitchen_sink` · к
+- [ ] **Lime Kitchen Storage Cabinet** — `refurbished_furniture:lime_kitchen_storage_cabinet` · к
+- [ ] **Lime Lamp** — `refurbished_furniture:lime_lamp` · к
+- [ ] **Lime Sofa** — `refurbished_furniture:lime_sofa` · к
+- [ ] **Lime Stool** — `refurbished_furniture:lime_stool` · к
+- [ ] **Lime Toilet** — `refurbished_furniture:lime_toilet` · к
+- [ ] **Lime Trampoline** — `refurbished_furniture:lime_trampoline` · к
+- [ ] **Magenta Basin** — `refurbished_furniture:magenta_basin` · к
+- [ ] **Magenta Bath** — `refurbished_furniture:magenta_bath` · к
+- [ ] **Magenta Cooler** — `refurbished_furniture:magenta_cooler` · к
+- [ ] **Magenta Grill** — `refurbished_furniture:magenta_grill` · к
+- [ ] **Magenta Kitchen Cabinetry** — `refurbished_furniture:magenta_kitchen_cabinetry` · к
+- [ ] **Magenta Kitchen Drawer** — `refurbished_furniture:magenta_kitchen_drawer` · к
+- [ ] **Magenta Kitchen Sink** — `refurbished_furniture:magenta_kitchen_sink` · к
+- [ ] **Magenta Kitchen Storage Cabinet** — `refurbished_furniture:magenta_kitchen_storage_cabinet` · к
+- [ ] **Magenta Lamp** — `refurbished_furniture:magenta_lamp` · к
+- [ ] **Magenta Sofa** — `refurbished_furniture:magenta_sofa` · к
+- [ ] **Magenta Stool** — `refurbished_furniture:magenta_stool` · к
+- [ ] **Magenta Toilet** — `refurbished_furniture:magenta_toilet` · к
+- [ ] **Magenta Trampoline** — `refurbished_furniture:magenta_trampoline` · к
+- [ ] **Mangrove Basin** — `refurbished_furniture:mangrove_basin` · к
+- [ ] **Mangrove Bath** — `refurbished_furniture:mangrove_bath` · к
+- [ ] **Mangrove Chair** — `refurbished_furniture:mangrove_chair` · к
+- [ ] **Mangrove Crate** — `refurbished_furniture:mangrove_crate` · к
+- [ ] **Mangrove Cutting Board** — `refurbished_furniture:mangrove_cutting_board` · к
+- [ ] **Mangrove Dark Ceiling Fan** — `refurbished_furniture:mangrove_dark_ceiling_fan` · к
+- [ ] **Mangrove Desk** — `refurbished_furniture:mangrove_desk` · к
+- [ ] **Mangrove Drawer** — `refurbished_furniture:mangrove_drawer` · к
+- [ ] **Mangrove Hedge** — `refurbished_furniture:mangrove_hedge` · к
+- [ ] **Mangrove Kitchen Cabinetry** — `refurbished_furniture:mangrove_kitchen_cabinetry` · к
+- [ ] **Mangrove Kitchen Drawer** — `refurbished_furniture:mangrove_kitchen_drawer` · к
+- [ ] **Mangrove Kitchen Sink** — `refurbished_furniture:mangrove_kitchen_sink` · к
+- [ ] **Mangrove Kitchen Storage Cabinet** — `refurbished_furniture:mangrove_kitchen_storage_cabinet` · к
+- [ ] **Mangrove Lattice Fence** — `refurbished_furniture:mangrove_lattice_fence` · к
+- [ ] **Mangrove Lattice Fence Gate** — `refurbished_furniture:mangrove_lattice_fence_gate` · к
+- [ ] **Mangrove Light Ceiling Fan** — `refurbished_furniture:mangrove_light_ceiling_fan` · к
+- [ ] **Mangrove Mailbox** — `refurbished_furniture:mangrove_mail_box` · к
+- [ ] **Mangrove Storage Cabinet** — `refurbished_furniture:mangrove_storage_cabinet` · к
+- [ ] **Mangrove Storage Jar** — `refurbished_furniture:mangrove_storage_jar` · к
+- [ ] **Mangrove Table** — `refurbished_furniture:mangrove_table` · к
+- [ ] **Mangrove Toilet** — `refurbished_furniture:mangrove_toilet` · к
+- [ ] **Meat Pizza Slice** — `refurbished_furniture:meatlovers_pizza_slice` · к
+- [ ] **Milk** — `refurbished_furniture:milk` · н
+- [ ] **Oak Basin** — `refurbished_furniture:oak_basin` · к
+- [ ] **Oak Bath** — `refurbished_furniture:oak_bath` · к
+- [ ] **Oak Chair** — `refurbished_furniture:oak_chair` · к
+- [ ] **Oak Crate** — `refurbished_furniture:oak_crate` · к
+- [ ] **Oak Cutting Board** — `refurbished_furniture:oak_cutting_board` · к
+- [ ] **Oak Dark Ceiling Fan** — `refurbished_furniture:oak_dark_ceiling_fan` · к
+- [ ] **Oak Desk** — `refurbished_furniture:oak_desk` · к
+- [ ] **Oak Drawer** — `refurbished_furniture:oak_drawer` · к
+- [ ] **Oak Hedge** — `refurbished_furniture:oak_hedge` · к
+- [ ] **Oak Kitchen Cabinetry** — `refurbished_furniture:oak_kitchen_cabinetry` · к
+- [ ] **Oak Kitchen Drawer** — `refurbished_furniture:oak_kitchen_drawer` · к
+- [ ] **Oak Kitchen Sink** — `refurbished_furniture:oak_kitchen_sink` · к
+- [ ] **Oak Kitchen Storage Cabinet** — `refurbished_furniture:oak_kitchen_storage_cabinet` · к
+- [ ] **Oak Lattice Fence** — `refurbished_furniture:oak_lattice_fence` · к
+- [ ] **Oak Lattice Fence Gate** — `refurbished_furniture:oak_lattice_fence_gate` · к
+- [ ] **Oak Light Ceiling Fan** — `refurbished_furniture:oak_light_ceiling_fan` · к
+- [ ] **Oak Mailbox** — `refurbished_furniture:oak_mail_box` · к
+- [ ] **Oak Storage Cabinet** — `refurbished_furniture:oak_storage_cabinet` · к
+- [ ] **Oak Storage Jar** — `refurbished_furniture:oak_storage_jar` · к
+- [ ] **Oak Table** — `refurbished_furniture:oak_table` · к
+- [ ] **Oak Toilet** — `refurbished_furniture:oak_toilet` · к
+- [ ] **Orange Basin** — `refurbished_furniture:orange_basin` · к
+- [ ] **Orange Bath** — `refurbished_furniture:orange_bath` · к
+- [ ] **Orange Cooler** — `refurbished_furniture:orange_cooler` · к
+- [ ] **Orange Grill** — `refurbished_furniture:orange_grill` · к
+- [ ] **Orange Kitchen Cabinetry** — `refurbished_furniture:orange_kitchen_cabinetry` · к
+- [ ] **Orange Kitchen Drawer** — `refurbished_furniture:orange_kitchen_drawer` · к
+- [ ] **Orange Kitchen Sink** — `refurbished_furniture:orange_kitchen_sink` · к
+- [ ] **Orange Kitchen Storage Cabinet** — `refurbished_furniture:orange_kitchen_storage_cabinet` · к
+- [ ] **Orange Lamp** — `refurbished_furniture:orange_lamp` · к
+- [ ] **Orange Sofa** — `refurbished_furniture:orange_sofa` · к
+- [ ] **Orange Stool** — `refurbished_furniture:orange_stool` · к
+- [ ] **Orange Toilet** — `refurbished_furniture:orange_toilet` · к
+- [ ] **Orange Trampoline** — `refurbished_furniture:orange_trampoline` · к
+- [ ] **Package** — `refurbished_furniture:package` · н
+- [ ] **Pink Basin** — `refurbished_furniture:pink_basin` · к
+- [ ] **Pink Bath** — `refurbished_furniture:pink_bath` · к
+- [ ] **Pink Cooler** — `refurbished_furniture:pink_cooler` · к
+- [ ] **Pink Grill** — `refurbished_furniture:pink_grill` · к
+- [ ] **Pink Kitchen Cabinetry** — `refurbished_furniture:pink_kitchen_cabinetry` · к
+- [ ] **Pink Kitchen Drawer** — `refurbished_furniture:pink_kitchen_drawer` · к
+- [ ] **Pink Kitchen Sink** — `refurbished_furniture:pink_kitchen_sink` · к
+- [ ] **Pink Kitchen Storage Cabinet** — `refurbished_furniture:pink_kitchen_storage_cabinet` · к
+- [ ] **Pink Lamp** — `refurbished_furniture:pink_lamp` · к
+- [ ] **Pink Sofa** — `refurbished_furniture:pink_sofa` · к
+- [ ] **Pink Stool** — `refurbished_furniture:pink_stool` · к
+- [ ] **Pink Toilet** — `refurbished_furniture:pink_toilet` · к
+- [ ] **Pink Trampoline** — `refurbished_furniture:pink_trampoline` · к
+- [ ] **Plate** — `refurbished_furniture:plate` · к
+- [ ] **Post Box** — `refurbished_furniture:post_box` · к
+- [ ] **Purple Basin** — `refurbished_furniture:purple_basin` · к
+- [ ] **Purple Bath** — `refurbished_furniture:purple_bath` · к
+- [ ] **Purple Cooler** — `refurbished_furniture:purple_cooler` · к
+- [ ] **Purple Grill** — `refurbished_furniture:purple_grill` · к
+- [ ] **Purple Kitchen Cabinetry** — `refurbished_furniture:purple_kitchen_cabinetry` · к
+- [ ] **Purple Kitchen Drawer** — `refurbished_furniture:purple_kitchen_drawer` · к
+- [ ] **Purple Kitchen Sink** — `refurbished_furniture:purple_kitchen_sink` · к
+- [ ] **Purple Kitchen Storage Cabinet** — `refurbished_furniture:purple_kitchen_storage_cabinet` · к
+- [ ] **Purple Lamp** — `refurbished_furniture:purple_lamp` · к
+- [ ] **Purple Sofa** — `refurbished_furniture:purple_sofa` · к
+- [ ] **Purple Stool** — `refurbished_furniture:purple_stool` · к
+- [ ] **Purple Toilet** — `refurbished_furniture:purple_toilet` · к
+- [ ] **Purple Trampoline** — `refurbished_furniture:purple_trampoline` · к
+- [ ] **Raw Meat Pizza** — `refurbished_furniture:raw_meatlovers_pizza` · к
+- [ ] **Raw Vegetable Pizza** — `refurbished_furniture:raw_vegetable_pizza` · к
+- [ ] **Recycle Bin** — `refurbished_furniture:recycle_bin` · к
+- [ ] **Red Basin** — `refurbished_furniture:red_basin` · к
+- [ ] **Red Bath** — `refurbished_furniture:red_bath` · к
+- [ ] **Red Cooler** — `refurbished_furniture:red_cooler` · к
+- [ ] **Red Grill** — `refurbished_furniture:red_grill` · к
+- [ ] **Red Kitchen Cabinetry** — `refurbished_furniture:red_kitchen_cabinetry` · к
+- [ ] **Red Kitchen Drawer** — `refurbished_furniture:red_kitchen_drawer` · к
+- [ ] **Red Kitchen Sink** — `refurbished_furniture:red_kitchen_sink` · к
+- [ ] **Red Kitchen Storage Cabinet** — `refurbished_furniture:red_kitchen_storage_cabinet` · к
+- [ ] **Red Lamp** — `refurbished_furniture:red_lamp` · к
+- [ ] **Red Sofa** — `refurbished_furniture:red_sofa` · к
+- [ ] **Red Stool** — `refurbished_furniture:red_stool` · к
+- [ ] **Red Toilet** — `refurbished_furniture:red_toilet` · к
+- [ ] **Red Trampoline** — `refurbished_furniture:red_trampoline` · к
+- [ ] **Sea Salt** — `refurbished_furniture:sea_salt` · к
+- [ ] **Spatula** — `refurbished_furniture:spatula` · к
+- [ ] **Spruce Basin** — `refurbished_furniture:spruce_basin` · к
+- [ ] **Spruce Bath** — `refurbished_furniture:spruce_bath` · к
+- [ ] **Spruce Chair** — `refurbished_furniture:spruce_chair` · к
+- [ ] **Spruce Crate** — `refurbished_furniture:spruce_crate` · к
+- [ ] **Spruce Cutting Board** — `refurbished_furniture:spruce_cutting_board` · к
+- [ ] **Spruce Dark Ceiling Fan** — `refurbished_furniture:spruce_dark_ceiling_fan` · к
+- [ ] **Spruce Desk** — `refurbished_furniture:spruce_desk` · к
+- [ ] **Spruce Drawer** — `refurbished_furniture:spruce_drawer` · к
+- [ ] **Spruce Hedge** — `refurbished_furniture:spruce_hedge` · к
+- [ ] **Spruce Kitchen Cabinetry** — `refurbished_furniture:spruce_kitchen_cabinetry` · к
+- [ ] **Spruce Kitchen Drawer** — `refurbished_furniture:spruce_kitchen_drawer` · к
+- [ ] **Spruce Kitchen Sink** — `refurbished_furniture:spruce_kitchen_sink` · к
+- [ ] **Spruce Kitchen Storage Cabinet** — `refurbished_furniture:spruce_kitchen_storage_cabinet` · к
+- [ ] **Spruce Lattice Fence** — `refurbished_furniture:spruce_lattice_fence` · к
+- [ ] **Spruce Lattice Fence Gate** — `refurbished_furniture:spruce_lattice_fence_gate` · к
+- [ ] **Spruce Light Ceiling Fan** — `refurbished_furniture:spruce_light_ceiling_fan` · к
+- [ ] **Spruce Mailbox** — `refurbished_furniture:spruce_mail_box` · к
+- [ ] **Spruce Storage Cabinet** — `refurbished_furniture:spruce_storage_cabinet` · к
+- [ ] **Spruce Storage Jar** — `refurbished_furniture:spruce_storage_jar` · к
+- [ ] **Spruce Table** — `refurbished_furniture:spruce_table` · к
+- [ ] **Spruce Toilet** — `refurbished_furniture:spruce_toilet` · к
+- [ ] **Stone Stepping Stones** — `refurbished_furniture:stone_stepping_stones` · к
+- [ ] **Sweet Berry Jam** — `refurbished_furniture:sweet_berry_jam` · к
+- [ ] **Sweet Berry Jam Toast** — `refurbished_furniture:sweet_berry_jam_toast` · к
+- [ ] **Television** — `refurbished_furniture:television` · к
+- [ ] **Television Remote** — `refurbished_furniture:television_remote` · к
+- [ ] **Toast** — `refurbished_furniture:toast` · к
+- [ ] **Vegetable Pizza Slice** — `refurbished_furniture:vegetable_pizza_slice` · к
+- [ ] **Warped Basin** — `refurbished_furniture:warped_basin` · к
+- [ ] **Warped Bath** — `refurbished_furniture:warped_bath` · к
+- [ ] **Warped Chair** — `refurbished_furniture:warped_chair` · к
+- [ ] **Warped Crate** — `refurbished_furniture:warped_crate` · к
+- [ ] **Warped Cutting Board** — `refurbished_furniture:warped_cutting_board` · к
+- [ ] **Warped Dark Ceiling Fan** — `refurbished_furniture:warped_dark_ceiling_fan` · к
+- [ ] **Warped Desk** — `refurbished_furniture:warped_desk` · к
+- [ ] **Warped Drawer** — `refurbished_furniture:warped_drawer` · к
+- [ ] **Warped Kitchen Cabinetry** — `refurbished_furniture:warped_kitchen_cabinetry` · к
+- [ ] **Warped Kitchen Drawer** — `refurbished_furniture:warped_kitchen_drawer` · к
+- [ ] **Warped Kitchen Sink** — `refurbished_furniture:warped_kitchen_sink` · к
+- [ ] **Warped Kitchen Storage Cabinet** — `refurbished_furniture:warped_kitchen_storage_cabinet` · к
+- [ ] **Warped Lattice Fence** — `refurbished_furniture:warped_lattice_fence` · к
+- [ ] **Warped Lattice Fence Gate** — `refurbished_furniture:warped_lattice_fence_gate` · к
+- [ ] **Warped Light Ceiling Fan** — `refurbished_furniture:warped_light_ceiling_fan` · к
+- [ ] **Warped Mailbox** — `refurbished_furniture:warped_mail_box` · к
+- [ ] **Warped Storage Cabinet** — `refurbished_furniture:warped_storage_cabinet` · к
+- [ ] **Warped Storage Jar** — `refurbished_furniture:warped_storage_jar` · к
+- [ ] **Warped Table** — `refurbished_furniture:warped_table` · к
+- [ ] **Warped Toilet** — `refurbished_furniture:warped_toilet` · к
+- [ ] **Wheat Flour** — `refurbished_furniture:wheat_flour` · к
+- [ ] **White Basin** — `refurbished_furniture:white_basin` · к
+- [ ] **White Bath** — `refurbished_furniture:white_bath` · к
+- [ ] **White Cooler** — `refurbished_furniture:white_cooler` · к
+- [ ] **White Grill** — `refurbished_furniture:white_grill` · к
+- [ ] **White Kitchen Cabinetry** — `refurbished_furniture:white_kitchen_cabinetry` · к
+- [ ] **White Kitchen Drawer** — `refurbished_furniture:white_kitchen_drawer` · к
+- [ ] **White Kitchen Sink** — `refurbished_furniture:white_kitchen_sink` · к
+- [ ] **White Kitchen Storage Cabinet** — `refurbished_furniture:white_kitchen_storage_cabinet` · к
+- [ ] **White Lamp** — `refurbished_furniture:white_lamp` · к
+- [ ] **White Sofa** — `refurbished_furniture:white_sofa` · к
+- [ ] **White Stool** — `refurbished_furniture:white_stool` · к
+- [ ] **White Toilet** — `refurbished_furniture:white_toilet` · к
+- [ ] **White Trampoline** — `refurbished_furniture:white_trampoline` · к
+- [ ] **Workbench** — `refurbished_furniture:workbench` · к
+- [ ] **Wrench** — `refurbished_furniture:wrench` · к
+- [ ] **Yellow Basin** — `refurbished_furniture:yellow_basin` · к
+- [ ] **Yellow Bath** — `refurbished_furniture:yellow_bath` · к
+- [ ] **Yellow Cooler** — `refurbished_furniture:yellow_cooler` · к
+- [ ] **Yellow Grill** — `refurbished_furniture:yellow_grill` · к
+- [ ] **Yellow Kitchen Cabinetry** — `refurbished_furniture:yellow_kitchen_cabinetry` · к
+- [ ] **Yellow Kitchen Drawer** — `refurbished_furniture:yellow_kitchen_drawer` · к
+- [ ] **Yellow Kitchen Sink** — `refurbished_furniture:yellow_kitchen_sink` · к
+- [ ] **Yellow Kitchen Storage Cabinet** — `refurbished_furniture:yellow_kitchen_storage_cabinet` · к
+- [ ] **Yellow Lamp** — `refurbished_furniture:yellow_lamp` · к
+- [ ] **Yellow Sofa** — `refurbished_furniture:yellow_sofa` · к
+- [ ] **Yellow Stool** — `refurbished_furniture:yellow_stool` · к
+- [ ] **Yellow Toilet** — `refurbished_furniture:yellow_toilet` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

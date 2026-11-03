@@ -1,0 +1,447 @@
+# Музей: Ice and Fire (iceandfire)
+
+Предметов: 434 · крафтимых по данным: 252 (58%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 434 предметов.*
+
+- [ ] **Apple AirPods** — `iceandfire:air_pods` · н
+- [ ] **Ambrosia** — `iceandfire:ambrosia` · к
+- [ ] **Amphithere Arrow** — `iceandfire:amphithere_arrow` · к
+- [ ] **Amphithere Feather** — `iceandfire:amphithere_feather` · н
+- [ ] **Amphithere Macuahuitl** — `iceandfire:amphithere_macuahuitl` · к
+- [ ] **Amphithere Skull** — `iceandfire:amphithere_skull` · н
+- [ ] **Amethyst** — `iceandfire:amythest_gem` · н
+- [ ] **Copper Boots** — `iceandfire:armor_copper_metal_boots` · к
+- [ ] **Copper Chestplate** — `iceandfire:armor_copper_metal_chestplate` · к
+- [ ] **Copper Helmet** — `iceandfire:armor_copper_metal_helmet` · к
+- [ ] **Copper Leggings** — `iceandfire:armor_copper_metal_leggings` · к
+- [ ] **Silver Boots** — `iceandfire:armor_silver_metal_boots` · к
+- [ ] **Silver Chestplate** — `iceandfire:armor_silver_metal_chestplate` · к
+- [ ] **Silver Helmet** — `iceandfire:armor_silver_metal_helmet` · к
+- [ ] **Silver Leggings** — `iceandfire:armor_silver_metal_leggings` · к
+- [ ] **Ash** — `iceandfire:ash` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_amphithere` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_bird` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_dread` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_eye` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_fae` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_feather` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_fire` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_fire_head` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_gorgon` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_hippocampus` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_hippogryph_head` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_ice` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_ice_head` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_lightning` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_lightning_head` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_mermaid` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_sea_serpent` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_troll` · к
+- [ ] **Banner Pattern** — `iceandfire:banner_pattern_weezer` · к
+- [ ] **Bestiary** — `iceandfire:bestiary` · к
+- [ ] **Blindfold** — `iceandfire:blindfold` · к
+- [ ] **Burnt Out Torch** — `iceandfire:burnt_torch` · н
+- [ ] **Burnt Out Torch** — `iceandfire:burnt_torch_wall` · н
+- [ ] **§6Cannoli§r** — `iceandfire:cannoli` · н
+- [ ] **Chain Line** — `iceandfire:chain` · к
+- [ ] **Sticky Chain Line** — `iceandfire:chain_sticky` · к
+- [ ] **Charred Cobblestone** — `iceandfire:chared_cobblestone` · н
+- [ ] **Charred Dirt** — `iceandfire:chared_dirt` · н
+- [ ] **Charred Dirt Path** — `iceandfire:chared_dirt_path` · н
+- [ ] **Charred Grass** — `iceandfire:chared_grass` · н
+- [ ] **Charred Gravel** — `iceandfire:chared_gravel` · н
+- [ ] **Charred Stone** — `iceandfire:chared_stone` · н
+- [ ] **Cockatrice Eye** — `iceandfire:cockatrice_eye` · н
+- [ ] **Cockatrice Scepter** — `iceandfire:cockatrice_scepter` · к
+- [ ] **Cockatrice Skull** — `iceandfire:cockatrice_skull` · н
+- [ ] **Copper Axe** — `iceandfire:copper_axe` · к
+- [ ] **Copper Hoe** — `iceandfire:copper_hoe` · к
+- [ ] **Copper Nugget** — `iceandfire:copper_nugget` · к
+- [ ] **Copper Pickaxe** — `iceandfire:copper_pickaxe` · к
+- [ ] **Pile of Copper** — `iceandfire:copper_pile` · к
+- [ ] **Copper Shovel** — `iceandfire:copper_shovel` · к
+- [ ] **Copper Sword** — `iceandfire:copper_sword` · к
+- [ ] **Crackled Cobblestone** — `iceandfire:crackled_cobblestone` · н
+- [ ] **Crackled Dirt** — `iceandfire:crackled_dirt` · н
+- [ ] **Crackled Dirt Path** — `iceandfire:crackled_dirt_path` · н
+- [ ] **Crackled Grass** — `iceandfire:crackled_grass` · н
+- [ ] **Crackled Gravel** — `iceandfire:crackled_gravel` · н
+- [ ] **Crackled Stone** — `iceandfire:crackled_stone` · н
+- [ ] **Creative Dragon Meal** — `iceandfire:creative_dragon_meal` · н
+- [ ] **Eye of Cyclops** — `iceandfire:cyclops_eye` · н
+- [ ] **Cyclops Skull** — `iceandfire:cyclops_skull` · н
+- [ ] **Red Death Worm Chitin** — `iceandfire:deathworm_chitin_red` · н
+- [ ] **White Death Worm Chitin** — `iceandfire:deathworm_chitin_white` · н
+- [ ] **Tan Death Worm Chitin** — `iceandfire:deathworm_chitin_yellow` · н
+- [ ] **Death Worm Egg** — `iceandfire:deathworm_egg` · н
+- [ ] **Giant Death Worm Egg** — `iceandfire:deathworm_egg_giant` · н
+- [ ] **Death Worm Gauntlet** — `iceandfire:deathworm_gauntlet_red` · к
+- [ ] **Death Worm Gauntlet** — `iceandfire:deathworm_gauntlet_white` · к
+- [ ] **Death Worm Gauntlet** — `iceandfire:deathworm_gauntlet_yellow` · к
+- [ ] **Red Death Worm Chitin Boots** — `iceandfire:deathworm_red_boots` · к
+- [ ] **Red Death Worm Chitin Chestplate** — `iceandfire:deathworm_red_chestplate` · к
+- [ ] **Red Death Worm Chitin Helmet** — `iceandfire:deathworm_red_helmet` · к
+- [ ] **Red Death Worm Chitin Leggings** — `iceandfire:deathworm_red_leggings` · к
+- [ ] **Death Worm Tongue** — `iceandfire:deathworm_tounge` · н
+- [ ] **White Death Worm Chitin Boots** — `iceandfire:deathworm_white_boots` · к
+- [ ] **White Death Worm Chitin Chestplate** — `iceandfire:deathworm_white_chestplate` · к
+- [ ] **White Death Worm Chitin Helmet** — `iceandfire:deathworm_white_helmet` · к
+- [ ] **White Death Worm Chitin Leggings** — `iceandfire:deathworm_white_leggings` · к
+- [ ] **Tan Death Worm Chitin Boots** — `iceandfire:deathworm_yellow_boots` · к
+- [ ] **Tan Death Worm Chitin Chestplate** — `iceandfire:deathworm_yellow_chestplate` · к
+- [ ] **Tan Death Worm Chitin Helmet** — `iceandfire:deathworm_yellow_helmet` · к
+- [ ] **Tan Death Worm Chitin Leggings** — `iceandfire:deathworm_yellow_leggings` · к
+- [ ] **Deepslate Silver Ore** — `iceandfire:deepslate_silver_ore` · н
+- [ ] **Desert Myrmex Cocoon** — `iceandfire:desert_myrmex_cocoon` · к
+- [ ] **Diamond Hippogryph Armor** — `iceandfire:diamond_hippogryph_armor` · к
+- [ ] **Block of Dragon Bones** — `iceandfire:dragon_bone_block` · к
+- [ ] **Dragon Bone Wall** — `iceandfire:dragon_bone_wall` · к
+- [ ] **Dragon Scale Boots** — `iceandfire:dragon_boots` · н
+- [ ] **Dragon Scale Chestplate** — `iceandfire:dragon_chestplate` · н
+- [ ] **Dragon Debug Stick** — `iceandfire:dragon_debug_stick` · н
+- [ ] **Dragon Bone Flute** — `iceandfire:dragon_flute` · к
+- [ ] **Dragon Scale Helmet** — `iceandfire:dragon_helmet` · н
+- [ ] **Dragon Horn** — `iceandfire:dragon_horn` · к
+- [ ] **Dragon Horn** — `iceandfire:dragon_horn_fire` · н
+- [ ] **Dragon Horn** — `iceandfire:dragon_horn_ice` · н
+- [ ] **Dragon Ice** — `iceandfire:dragon_ice` · к
+- [ ] **Dragon Ice Spikes** — `iceandfire:dragon_ice_spikes` · к
+- [ ] **Dragon Scale Leggings** — `iceandfire:dragon_leggings` · н
+- [ ] **Dragon Meal** — `iceandfire:dragon_meal` · к
+- [ ] **Dragon Skull** — `iceandfire:dragon_skull_fire` · н
+- [ ] **Dragon Skull** — `iceandfire:dragon_skull_ice` · н
+- [ ] **Dragon Skull** — `iceandfire:dragon_skull_lightning` · н
+- [ ] **Dragon Command Staff** — `iceandfire:dragon_stick` · к
+- [ ] **Copper Dragon Armor** — `iceandfire:dragonarmor_copper` · н
+- [ ] **Diamond Dragon Armor** — `iceandfire:dragonarmor_diamond` · н
+- [ ] **Fire Dragonsteel Dragon Armor** — `iceandfire:dragonarmor_dragonsteel_fire` · н
+- [ ] **Ice Dragonsteel Dragon Armor** — `iceandfire:dragonarmor_dragonsteel_ice` · н
+- [ ] **Lightning Dragonsteel Dragon Armor** — `iceandfire:dragonarmor_dragonsteel_lightning` · н
+- [ ] **Gold Dragon Armor** — `iceandfire:dragonarmor_gold` · н
+- [ ] **Iron Dragon Armor** — `iceandfire:dragonarmor_iron` · н
+- [ ] **Silver Dragon Armor** — `iceandfire:dragonarmor_silver` · н
+- [ ] **Dragon Bone** — `iceandfire:dragonbone` · к
+- [ ] **Dragon Bone Arrow** — `iceandfire:dragonbone_arrow` · к
+- [ ] **Dragon Bone Axe** — `iceandfire:dragonbone_axe` · к
+- [ ] **Dragon Bone Bow** — `iceandfire:dragonbone_bow` · к
+- [ ] **Dragon Bone Hoe** — `iceandfire:dragonbone_hoe` · к
+- [ ] **Dragon Bone Pickaxe** — `iceandfire:dragonbone_pickaxe` · к
+- [ ] **Dragon Bone Shovel** — `iceandfire:dragonbone_shovel` · к
+- [ ] **Dragon Bone Sword** — `iceandfire:dragonbone_sword` · к
+- [ ] **Flamed Dragon Bone Sword** — `iceandfire:dragonbone_sword_fire` · к
+- [ ] **Iced Dragon Bone Sword** — `iceandfire:dragonbone_sword_ice` · к
+- [ ] **Lightning Dragon Bone Sword** — `iceandfire:dragonbone_sword_lightning` · к
+- [ ] **Dragon Egg** — `iceandfire:dragonegg` · н
+- [ ] **Dragonforge Fire Brick** — `iceandfire:dragonforge_fire_brick` · к
+- [ ] **Dragonforge Fire Core** — `iceandfire:dragonforge_fire_core` · н
+- [ ] **Dragonforge Fire Core** — `iceandfire:dragonforge_fire_core_disabled` · к
+- [ ] **Dragonforge Fire Aperture** — `iceandfire:dragonforge_fire_input` · к
+- [ ] **Dragonforge Ice Brick** — `iceandfire:dragonforge_ice_brick` · к
+- [ ] **Dragonforge Ice Core** — `iceandfire:dragonforge_ice_core` · н
+- [ ] **Dragonforge Ice Core** — `iceandfire:dragonforge_ice_core_disabled` · к
+- [ ] **Dragonforge Ice Aperture** — `iceandfire:dragonforge_ice_input` · к
+- [ ] **Dragonforge Lightning Brick** — `iceandfire:dragonforge_lightning_brick` · к
+- [ ] **Dragonforge Lightning Core** — `iceandfire:dragonforge_lightning_core` · н
+- [ ] **Dragonforge Lightning Core** — `iceandfire:dragonforge_lightning_core_disabled` · к
+- [ ] **Dragonforge Lightning Aperture** — `iceandfire:dragonforge_lightning_input` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_amythest` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_black` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_blue` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_bronze` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_copper` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_electric` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_gray` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_green` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_red` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_sapphire` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_silver` · к
+- [ ] **Block of Dragon Scales** — `iceandfire:dragonscale_white` · к
+- [ ] **Dragon Scales** — `iceandfire:dragonscales` · н
+- [ ] **Fire Dragonsteel Axe** — `iceandfire:dragonsteel_fire_axe` · к
+- [ ] **Block of Fire Dragonsteel** — `iceandfire:dragonsteel_fire_block` · к
+- [ ] **Fire Dragonsteel Boots** — `iceandfire:dragonsteel_fire_boots` · к
+- [ ] **Fire Dragonsteel Chestplate** — `iceandfire:dragonsteel_fire_chestplate` · к
+- [ ] **Fire Dragonsteel Helmet** — `iceandfire:dragonsteel_fire_helmet` · к
+- [ ] **Fire Dragonsteel Hoe** — `iceandfire:dragonsteel_fire_hoe` · к
+- [ ] **Fire Dragonsteel Ingot** — `iceandfire:dragonsteel_fire_ingot` · к
+- [ ] **Fire Dragonsteel Leggings** — `iceandfire:dragonsteel_fire_leggings` · к
+- [ ] **Fire Dragonsteel Pickaxe** — `iceandfire:dragonsteel_fire_pickaxe` · к
+- [ ] **Fire Dragonsteel Shovel** — `iceandfire:dragonsteel_fire_shovel` · к
+- [ ] **Fire Dragonsteel Sword** — `iceandfire:dragonsteel_fire_sword` · к
+- [ ] **Ice Dragonsteel Axe** — `iceandfire:dragonsteel_ice_axe` · к
+- [ ] **Block of Ice Dragonsteel** — `iceandfire:dragonsteel_ice_block` · к
+- [ ] **Ice Dragonsteel Boots** — `iceandfire:dragonsteel_ice_boots` · к
+- [ ] **Ice Dragonsteel Chestplate** — `iceandfire:dragonsteel_ice_chestplate` · к
+- [ ] **Ice Dragonsteel Helmet** — `iceandfire:dragonsteel_ice_helmet` · к
+- [ ] **Ice Dragonsteel Hoe** — `iceandfire:dragonsteel_ice_hoe` · к
+- [ ] **Ice Dragonsteel Ingot** — `iceandfire:dragonsteel_ice_ingot` · к
+- [ ] **Ice Dragonsteel Leggings** — `iceandfire:dragonsteel_ice_leggings` · к
+- [ ] **Ice Dragonsteel Pickaxe** — `iceandfire:dragonsteel_ice_pickaxe` · к
+- [ ] **Ice Dragonsteel Shovel** — `iceandfire:dragonsteel_ice_shovel` · к
+- [ ] **Ice Dragonsteel Sword** — `iceandfire:dragonsteel_ice_sword` · к
+- [ ] **Lightning Dragonsteel Axe** — `iceandfire:dragonsteel_lightning_axe` · к
+- [ ] **Block of Lightning Dragonsteel** — `iceandfire:dragonsteel_lightning_block` · к
+- [ ] **Lightning Dragonsteel Boots** — `iceandfire:dragonsteel_lightning_boots` · к
+- [ ] **Lightning Dragonsteel Chestplate** — `iceandfire:dragonsteel_lightning_chestplate` · к
+- [ ] **Lightning Dragonsteel Helmet** — `iceandfire:dragonsteel_lightning_helmet` · к
+- [ ] **Lightning Dragonsteel Hoe** — `iceandfire:dragonsteel_lightning_hoe` · к
+- [ ] **Lightning Dragonsteel Ingot** — `iceandfire:dragonsteel_lightning_ingot` · к
+- [ ] **Lightning Dragonsteel Leggings** — `iceandfire:dragonsteel_lightning_leggings` · к
+- [ ] **Lightning Dragonsteel Pickaxe** — `iceandfire:dragonsteel_lightning_pickaxe` · к
+- [ ] **Lightning Dragonsteel Shovel** — `iceandfire:dragonsteel_lightning_shovel` · к
+- [ ] **Lightning Dragonsteel Sword** — `iceandfire:dragonsteel_lightning_sword` · к
+- [ ] **§bGravemaster's Key§r** — `iceandfire:dread_key` · н
+- [ ] **Dread Knight's Sword** — `iceandfire:dread_knight_sword` · н
+- [ ] **Dread Lands Portal** — `iceandfire:dread_portal` · н
+- [ ] **Staff of the Dreaded Queen** — `iceandfire:dread_queen_staff` · н
+- [ ] **Blade of the Dreaded Queen** — `iceandfire:dread_queen_sword` · н
+- [ ] **Dread Shard** — `iceandfire:dread_shard` · н
+- [ ] **Dreadstone Mob Spawner** — `iceandfire:dread_spawner` · н
+- [ ] **Dreadstone** — `iceandfire:dread_stone` · к
+- [ ] **Dreadstone Bricks** — `iceandfire:dread_stone_bricks` · к
+- [ ] **Chiseled Dreadstone Bricks** — `iceandfire:dread_stone_bricks_chiseled` · к
+- [ ] **Cracked Dreadstone Bricks** — `iceandfire:dread_stone_bricks_cracked` · к
+- [ ] **Mossy Dreadstone Bricks** — `iceandfire:dread_stone_bricks_mossy` · к
+- [ ] **Dreadstone Chiseled Skull** — `iceandfire:dread_stone_face` · к
+- [ ] **Dreadstone Bricks Slab** — `iceandfire:dread_stone_slab` · к
+- [ ] **Dreadstone Bricks Stairs** — `iceandfire:dread_stone_stairs` · к
+- [ ] **Dreadstone Tile** — `iceandfire:dread_stone_tile` · к
+- [ ] **Dread Thrall's Sword** — `iceandfire:dread_sword` · н
+- [ ] **Dreadstone Torch** — `iceandfire:dread_torch` · к
+- [ ] **Dreadstone Torch** — `iceandfire:dread_torch_wall` · н
+- [ ] **Dreadwood Log** — `iceandfire:dreadwood_log` · н
+- [ ] **Dreadwood Planks** — `iceandfire:dreadwood_planks` · к
+- [ ] **Dreadwood Keyhole** — `iceandfire:dreadwood_planks_lock` · н
+- [ ] **Earplugs** — `iceandfire:earplugs` · к
+- [ ] **Ectoplasm** — `iceandfire:ectoplasm` · н
+- [ ] **Frozen Dragon Egg** — `iceandfire:egginice` · н
+- [ ] **Fire Dragon Blood** — `iceandfire:fire_dragon_blood` · н
+- [ ] **Fire Dragon Flesh** — `iceandfire:fire_dragon_flesh` · н
+- [ ] **Fire Dragon Heart** — `iceandfire:fire_dragon_heart` · н
+- [ ] **Fire Lily** — `iceandfire:fire_lily` · н
+- [ ] **Fire Lily Mixture** — `iceandfire:fire_stew` · к
+- [ ] **Fishing Spear** — `iceandfire:fishing_spear` · н
+- [ ] **Forest Troll Leather Boots** — `iceandfire:forest_troll_leather_boots` · к
+- [ ] **Forest Troll Leather Chestplate** — `iceandfire:forest_troll_leather_chestplate` · к
+- [ ] **Forest Troll Leather Helmet** — `iceandfire:forest_troll_leather_helmet` · к
+- [ ] **Forest Troll Leather Leggings** — `iceandfire:forest_troll_leather_leggings` · к
+- [ ] **Frost Lily** — `iceandfire:frost_lily` · н
+- [ ] **Frost Lily Mixture** — `iceandfire:frost_stew` · к
+- [ ] **Frost Troll Leather Boots** — `iceandfire:frost_troll_leather_boots` · к
+- [ ] **Frost Troll Leather Chestplate** — `iceandfire:frost_troll_leather_chestplate` · к
+- [ ] **Frost Troll Leather Helmet** — `iceandfire:frost_troll_leather_helmet` · к
+- [ ] **Frost Troll Leather Leggings** — `iceandfire:frost_troll_leather_leggings` · к
+- [ ] **Frozen Cobblestone** — `iceandfire:frozen_cobblestone` · н
+- [ ] **Frozen Dirt** — `iceandfire:frozen_dirt` · н
+- [ ] **Frozen Dirt Path** — `iceandfire:frozen_dirt_path` · н
+- [ ] **Frozen Grass** — `iceandfire:frozen_grass` · н
+- [ ] **Frozen Gravel** — `iceandfire:frozen_gravel` · н
+- [ ] **Frozen Splinters** — `iceandfire:frozen_splinters` · н
+- [ ] **Frozen Stone** — `iceandfire:frozen_stone` · н
+- [ ] **Cursed Chest** — `iceandfire:ghost_chest` · к
+- [ ] **Phantasmal Ingot** — `iceandfire:ghost_ingot` · н
+- [ ] **Phantasmal Blade** — `iceandfire:ghost_sword` · к
+- [ ] **Gold Hippogryph Armor** — `iceandfire:gold_hippogryph_armor` · к
+- [ ] **Pile of Gold** — `iceandfire:gold_pile` · к
+- [ ] **Gorgon Head** — `iceandfire:gorgon_head` · н
+- [ ] **Graveyard Soil** — `iceandfire:graveyard_soil` · к
+- [ ] **Hippocampus Fin** — `iceandfire:hippocampus_fin` · н
+- [ ] **Hippocampus Slapper** — `iceandfire:hippocampus_slapper` · к
+- [ ] **Hippogryph Egg** — `iceandfire:hippogryph_egg` · н
+- [ ] **Hippogryph Skull** — `iceandfire:hippogryph_skull` · н
+- [ ] **Hippogryph Talon Sword** — `iceandfire:hippogryph_sword` · к
+- [ ] **Hippogryph Talon** — `iceandfire:hippogryph_talon` · н
+- [ ] **Hydra Arrow** — `iceandfire:hydra_arrow` · к
+- [ ] **Hydra Fang** — `iceandfire:hydra_fang` · н
+- [ ] **Hydra Heart** — `iceandfire:hydra_heart` · н
+- [ ] **Hydra Skull** — `iceandfire:hydra_skull` · н
+- [ ] **Ice Dragon Blood** — `iceandfire:ice_dragon_blood` · н
+- [ ] **Ice Dragon Flesh** — `iceandfire:ice_dragon_flesh` · н
+- [ ] **Ice Dragon Heart** — `iceandfire:ice_dragon_heart` · н
+- [ ] **Iron Hippogryph Armor** — `iceandfire:iron_hippogryph_armor` · к
+- [ ] **Jungle Myrmex Cocoon** — `iceandfire:jungle_myrmex_cocoon` · к
+- [ ] **Bestiary Lectern** — `iceandfire:lectern` · к
+- [ ] **Dread Lich Staff** — `iceandfire:lich_staff` · н
+- [ ] **Lightning Dragon Blood** — `iceandfire:lightning_dragon_blood` · н
+- [ ] **Lightning Dragon Flesh** — `iceandfire:lightning_dragon_flesh` · н
+- [ ] **Lightning Dragon Heart** — `iceandfire:lightning_dragon_heart` · н
+- [ ] **Lightning Lily** — `iceandfire:lightning_lily` · н
+- [ ] **Lightning Lily Mixture** — `iceandfire:lightning_stew` · к
+- [ ] **Manuscript** — `iceandfire:manuscript` · н
+- [ ] **Mountain Troll Leather Boots** — `iceandfire:mountain_troll_leather_boots` · к
+- [ ] **Mountain Troll Leather Chestplate** — `iceandfire:mountain_troll_leather_chestplate` · к
+- [ ] **Mountain Troll Leather Helmet** — `iceandfire:mountain_troll_leather_helmet` · к
+- [ ] **Mountain Troll Leather Leggings** — `iceandfire:mountain_troll_leather_leggings` · к
+- [ ] **Desert Myrmex Chitin Axe** — `iceandfire:myrmex_desert_axe` · к
+- [ ] **Desert Myrmex Bioluminescence** — `iceandfire:myrmex_desert_biolight` · н
+- [ ] **Desert Myrmex Chitin Boots** — `iceandfire:myrmex_desert_boots` · к
+- [ ] **Desert Myrmex Chitin Chestplate** — `iceandfire:myrmex_desert_chestplate` · к
+- [ ] **Desert Myrmex Chitin** — `iceandfire:myrmex_desert_chitin` · н
+- [ ] **Desert Myrmex Egg** — `iceandfire:myrmex_desert_egg` · н
+- [ ] **Desert Myrmex Chitin Helmet** — `iceandfire:myrmex_desert_helmet` · к
+- [ ] **Desert Myrmex Chitin Hoe** — `iceandfire:myrmex_desert_hoe` · к
+- [ ] **Desert Myrmex Chitin Leggings** — `iceandfire:myrmex_desert_leggings` · к
+- [ ] **Desert Myrmex Chitin Pickaxe** — `iceandfire:myrmex_desert_pickaxe` · к
+- [ ] **Desert Myrmex Resin Chunk** — `iceandfire:myrmex_desert_resin` · н
+- [ ] **Hardened Desert Myrmex Resin** — `iceandfire:myrmex_desert_resin_block` · н
+- [ ] **Desert Myrmex Resin Glass** — `iceandfire:myrmex_desert_resin_glass` · к
+- [ ] **Desert Myrmex Chitin Shovel** — `iceandfire:myrmex_desert_shovel` · к
+- [ ] **Desert Myrmex Staff** — `iceandfire:myrmex_desert_staff` · к
+- [ ] **Myrmex Swarm** — `iceandfire:myrmex_desert_swarm` · к
+- [ ] **Desert Myrmex Chitin Sword** — `iceandfire:myrmex_desert_sword` · к
+- [ ] **Desert Myrmex Stinger Sword** — `iceandfire:myrmex_desert_sword_venom` · к
+- [ ] **Jungle Myrmex Chitin Axe** — `iceandfire:myrmex_jungle_axe` · к
+- [ ] **Jungle Myrmex Bioluminescence** — `iceandfire:myrmex_jungle_biolight` · н
+- [ ] **Jungle Myrmex Chitin Boots** — `iceandfire:myrmex_jungle_boots` · к
+- [ ] **Jungle Myrmex Chitin Chestplate** — `iceandfire:myrmex_jungle_chestplate` · к
+- [ ] **Jungle Myrmex Chitin** — `iceandfire:myrmex_jungle_chitin` · н
+- [ ] **Jungle Myrmex Egg** — `iceandfire:myrmex_jungle_egg` · н
+- [ ] **Jungle Myrmex Chitin Helmet** — `iceandfire:myrmex_jungle_helmet` · к
+- [ ] **Jungle Myrmex Chitin Hoe** — `iceandfire:myrmex_jungle_hoe` · к
+- [ ] **Jungle Myrmex Chitin Leggings** — `iceandfire:myrmex_jungle_leggings` · к
+- [ ] **Jungle Myrmex Chitin Pickaxe** — `iceandfire:myrmex_jungle_pickaxe` · к
+- [ ] **Jungle Myrmex Resin Chunk** — `iceandfire:myrmex_jungle_resin` · н
+- [ ] **Hardened Jungle Myrmex Resin** — `iceandfire:myrmex_jungle_resin_block` · н
+- [ ] **Jungle Myrmex Resin Glass** — `iceandfire:myrmex_jungle_resin_glass` · к
+- [ ] **Jungle Myrmex Chitin Shovel** — `iceandfire:myrmex_jungle_shovel` · к
+- [ ] **Jungle Myrmex Staff** — `iceandfire:myrmex_jungle_staff` · к
+- [ ] **Myrmex Swarm** — `iceandfire:myrmex_jungle_swarm` · к
+- [ ] **Jungle Myrmex Chitin Sword** — `iceandfire:myrmex_jungle_sword` · к
+- [ ] **Jungle Myrmex Stinger Sword** — `iceandfire:myrmex_jungle_sword_venom` · к
+- [ ] **Desert Myrmex Resin** — `iceandfire:myrmex_resin_desert` · к
+- [ ] **Jungle Myrmex Resin** — `iceandfire:myrmex_resin_jungle` · к
+- [ ] **Sticky Desert Myrmex Resin** — `iceandfire:myrmex_resin_sticky_desert` · к
+- [ ] **Sticky Jungle Myrmex Resin** — `iceandfire:myrmex_resin_sticky_jungle` · к
+- [ ] **Myrmex Stinger** — `iceandfire:myrmex_stinger` · н
+- [ ] **Dragon Nest** — `iceandfire:nest` · к
+- [ ] **Pixie Dust** — `iceandfire:pixie_dust` · н
+- [ ] **Birch Pixie Hovel** — `iceandfire:pixie_house_birch` · н
+- [ ] **Dark Oak Pixie Hovel** — `iceandfire:pixie_house_dark_oak` · н
+- [ ] **Brown Mushroom Pixie Hovel** — `iceandfire:pixie_house_mushroom_brown` · н
+- [ ] **Red Mushroom Pixie Hovel** — `iceandfire:pixie_house_mushroom_red` · н
+- [ ] **Oak Pixie Hovel** — `iceandfire:pixie_house_oak` · н
+- [ ] **Spruce Pixie Hovel** — `iceandfire:pixie_house_spruce` · н
+- [ ] **Pink Pixie Jar** — `iceandfire:pixie_jar_0` · н
+- [ ] **Purple Pixie Jar** — `iceandfire:pixie_jar_1` · н
+- [ ] **Blue Pixie Jar** — `iceandfire:pixie_jar_2` · н
+- [ ] **Green Pixie Jar** — `iceandfire:pixie_jar_3` · н
+- [ ] **Yellow Pixie Jar** — `iceandfire:pixie_jar_4` · н
+- [ ] **Jar** — `iceandfire:pixie_jar_empty` · к
+- [ ] **Pixie Wand** — `iceandfire:pixie_wand` · к
+- [ ] **Pixie Wings** — `iceandfire:pixie_wings` · н
+- [ ] **Podium** — `iceandfire:podium` · н
+- [ ] **Acacia Podium** — `iceandfire:podium_acacia` · к
+- [ ] **Birch Podium** — `iceandfire:podium_birch` · к
+- [ ] **Dark Oak Podium** — `iceandfire:podium_dark_oak` · к
+- [ ] **Jungle Podium** — `iceandfire:podium_jungle` · к
+- [ ] **Oak Podium** — `iceandfire:podium_oak` · к
+- [ ] **Spruce Podium** — `iceandfire:podium_spruce` · к
+- [ ] **Raw Silver** — `iceandfire:raw_silver` · к
+- [ ] **Raw Silver Block** — `iceandfire:raw_silver_block` · к
+- [ ] **Rotten Egg** — `iceandfire:rotten_egg` · н
+- [ ] **Sapphire Block** — `iceandfire:sapphire_block` · к
+- [ ] **Sapphire** — `iceandfire:sapphire_gem` · к
+- [ ] **Sapphire Ore** — `iceandfire:sapphire_ore` · н
+- [ ] **Tide Arrow** — `iceandfire:sea_serpent_arrow` · к
+- [ ] **Tide Guardian Boots** — `iceandfire:sea_serpent_boots` · н
+- [ ] **Tide Guardian Chestplate** — `iceandfire:sea_serpent_chestplate` · н
+- [ ] **Sea Serpent Fang** — `iceandfire:sea_serpent_fang` · н
+- [ ] **Tide Guardian Helmet** — `iceandfire:sea_serpent_helmet` · н
+- [ ] **Tide Guardian Leggings** — `iceandfire:sea_serpent_leggings` · н
+- [ ] **Block of Sea Serpent Scales** — `iceandfire:sea_serpent_scale_block` · н
+- [ ] **Block of Sea Serpent Scales** — `iceandfire:sea_serpent_scale_block_blue` · к
+- [ ] **Block of Sea Serpent Scales** — `iceandfire:sea_serpent_scale_block_bronze` · к
+- [ ] **Block of Sea Serpent Scales** — `iceandfire:sea_serpent_scale_block_deepblue` · к
+- [ ] **Block of Sea Serpent Scales** — `iceandfire:sea_serpent_scale_block_green` · к
+- [ ] **Block of Sea Serpent Scales** — `iceandfire:sea_serpent_scale_block_purple` · к
+- [ ] **Block of Sea Serpent Scales** — `iceandfire:sea_serpent_scale_block_red` · к
+- [ ] **Block of Sea Serpent Scales** — `iceandfire:sea_serpent_scale_block_teal` · к
+- [ ] **Sea Serpent Scales** — `iceandfire:sea_serpent_scales_blue` · к
+- [ ] **Sea Serpent Scales** — `iceandfire:sea_serpent_scales_bronze` · к
+- [ ] **Sea Serpent Scales** — `iceandfire:sea_serpent_scales_deepblue` · к
+- [ ] **Sea Serpent Scales** — `iceandfire:sea_serpent_scales_green` · к
+- [ ] **Sea Serpent Scales** — `iceandfire:sea_serpent_scales_purple` · к
+- [ ] **Sea Serpent Scales** — `iceandfire:sea_serpent_scales_red` · к
+- [ ] **Sea Serpent Scales** — `iceandfire:sea_serpent_scales_teal` · к
+- [ ] **Sea Serpent Skull** — `iceandfire:seaserpent_skull` · н
+- [ ] **Sheep Disguise Boots** — `iceandfire:sheep_boots` · к
+- [ ] **Sheep Disguise Chestplate** — `iceandfire:sheep_chestplate` · к
+- [ ] **Sheep Disguise Helmet** — `iceandfire:sheep_helmet` · к
+- [ ] **Sheep Disguise Leggings** — `iceandfire:sheep_leggings` · к
+- [ ] **Shiny Scales** — `iceandfire:shiny_scales` · н
+- [ ] **Sickly Dragon Meal** — `iceandfire:sickly_dragon_meal` · к
+- [ ] **Silver Axe** — `iceandfire:silver_axe` · к
+- [ ] **Silver Block** — `iceandfire:silver_block` · к
+- [ ] **Silver Hoe** — `iceandfire:silver_hoe` · к
+- [ ] **Silver Ingot** — `iceandfire:silver_ingot` · к
+- [ ] **Silver Nugget** — `iceandfire:silver_nugget` · к
+- [ ] **Silver Ore** — `iceandfire:silver_ore` · н
+- [ ] **Silver Pickaxe** — `iceandfire:silver_pickaxe` · к
+- [ ] **Pile of Silver** — `iceandfire:silver_pile` · к
+- [ ] **Silver Shovel** — `iceandfire:silver_shovel` · к
+- [ ] **Silver Sword** — `iceandfire:silver_sword` · к
+- [ ] **Siren Flute** — `iceandfire:siren_flute` · к
+- [ ] **Siren Tear** — `iceandfire:siren_tear` · н
+- [ ] **Amphithere Spawn Egg** — `iceandfire:spawn_egg_amphithere` · н
+- [ ] **Cockatrice Spawn Egg** — `iceandfire:spawn_egg_cockatrice` · н
+- [ ] **Cyclops Spawn Egg** — `iceandfire:spawn_egg_cyclops` · н
+- [ ] **Death Worm Spawn Egg** — `iceandfire:spawn_egg_death_worm` · н
+- [ ] **Dread Beast Spawn Egg** — `iceandfire:spawn_egg_dread_beast` · н
+- [ ] **Dread Ghoul Spawn Egg** — `iceandfire:spawn_egg_dread_ghoul` · н
+- [ ] **Dread Knight Horse Spawn Egg** — `iceandfire:spawn_egg_dread_horse` · н
+- [ ] **Dread Knight Spawn Egg** — `iceandfire:spawn_egg_dread_knight` · н
+- [ ] **Dread Scuttler Spawn Egg** — `iceandfire:spawn_egg_dread_scuttler` · н
+- [ ] **Dread Thrall Spawn Egg** — `iceandfire:spawn_egg_dread_thrall` · н
+- [ ] **Fire Dragon Spawn Egg** — `iceandfire:spawn_egg_fire_dragon` · н
+- [ ] **Ghost Spawn Egg** — `iceandfire:spawn_egg_ghost` · н
+- [ ] **Gorgon Spawn Egg** — `iceandfire:spawn_egg_gorgon` · н
+- [ ] **Hippocampus Spawn Egg** — `iceandfire:spawn_egg_hippocampus` · н
+- [ ] **Hippogryph Spawn Egg** — `iceandfire:spawn_egg_hippogryph` · н
+- [ ] **Hydra Spawn Egg** — `iceandfire:spawn_egg_hydra` · н
+- [ ] **Ice Dragon Spawn Egg** — `iceandfire:spawn_egg_ice_dragon` · н
+- [ ] **Dread Lich Spawn Egg** — `iceandfire:spawn_egg_lich` · н
+- [ ] **Lightning Dragon Spawn Egg** — `iceandfire:spawn_egg_lightning_dragon` · н
+- [ ] **Myrmex Queen Spawn Egg** — `iceandfire:spawn_egg_myrmex_queen` · н
+- [ ] **Myrmex Royal Spawn Egg** — `iceandfire:spawn_egg_myrmex_royal` · н
+- [ ] **Myrmex Sentinel Spawn Egg** — `iceandfire:spawn_egg_myrmex_sentinel` · н
+- [ ] **Myrmex Soldier Spawn Egg** — `iceandfire:spawn_egg_myrmex_soldier` · н
+- [ ] **Myrmex Worker Spawn Egg** — `iceandfire:spawn_egg_myrmex_worker` · н
+- [ ] **Pixie Spawn Egg** — `iceandfire:spawn_egg_pixie` · н
+- [ ] **Sea Serpent Spawn Egg** — `iceandfire:spawn_egg_sea_serpent` · н
+- [ ] **Siren Spawn Egg** — `iceandfire:spawn_egg_siren` · н
+- [ ] **Stymphalian Bird Spawn Egg** — `iceandfire:spawn_egg_stymphalian_bird` · н
+- [ ] **Troll Spawn Egg** — `iceandfire:spawn_egg_troll` · н
+- [ ] **Stone Statue** — `iceandfire:stone_statue` · н
+- [ ] **Stymphalian Arrow** — `iceandfire:stymphalian_arrow` · к
+- [ ] **Stymphalian Bird Dagger** — `iceandfire:stymphalian_bird_dagger` · к
+- [ ] **Stymphalian Bird Feather** — `iceandfire:stymphalian_bird_feather` · н
+- [ ] **Stymphalian Bird Feather Bundle** — `iceandfire:stymphalian_feather_bundle` · к
+- [ ] **Stymphalian Bird Skull** — `iceandfire:stymphalian_skull` · н
+- [ ] **Fire Dragon Summoning Crystal** — `iceandfire:summoning_crystal_fire` · к
+- [ ] **Ice Dragon Summoning Crystal** — `iceandfire:summoning_crystal_ice` · к
+- [ ] **Lightning Dragon Summoning Crystal** — `iceandfire:summoning_crystal_lightning` · к
+- [ ] **Tide Trident** — `iceandfire:tide_trident` · к
+- [ ] **Tide Trident** — `iceandfire:tide_trident_inventory` · н
+- [ ] **Forest Troll Leather** — `iceandfire:troll_leather_forest` · н
+- [ ] **Frost Troll Leather** — `iceandfire:troll_leather_frost` · н
+- [ ] **Mountain Troll Leather** — `iceandfire:troll_leather_mountain` · н
+- [ ] **Troll Skull** — `iceandfire:troll_skull` · н
+- [ ] **Troll Tusk** — `iceandfire:troll_tusk` · н
+- [ ] **Troll's Axe** — `iceandfire:troll_weapon_axe` · н
+- [ ] **Troll's Stone Column** — `iceandfire:troll_weapon_column` · н
+- [ ] **Troll's Mossy Column** — `iceandfire:troll_weapon_column_forest` · н
+- [ ] **Troll's Frosted Col** — `iceandfire:troll_weapon_column_frost` · н
+- [ ] **Troll's Hammer** — `iceandfire:troll_weapon_hammer` · н
+- [ ] **Troll's Tree Trunk** — `iceandfire:troll_weapon_trunk` · н
+- [ ] **Troll's Frosted Tree Trunk** — `iceandfire:troll_weapon_trunk_frost` · н
+- [ ] **Weezer** — `iceandfire:weezer_blue_album` · н
+- [ ] **Witherbone Shard** — `iceandfire:wither_shard` · к
+- [ ] **Witherbone** — `iceandfire:witherbone` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

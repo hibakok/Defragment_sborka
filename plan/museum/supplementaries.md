@@ -1,0 +1,285 @@
+# Музей: Supplementaries (supplementaries)
+
+Предметов: 272 · крафтимых по данным: 2 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 272 предметов.*
+
+- [ ] **Altimeter** — `supplementaries:altimeter` · н
+- [ ] **Antique Ink** — `supplementaries:antique_ink` · н
+- [ ] **Ash** — `supplementaries:ash` · н
+- [ ] **Ash Brick** — `supplementaries:ash_brick` · н
+- [ ] **Ash Bricks** — `supplementaries:ash_bricks` · н
+- [ ] **Ash Brick Slab** — `supplementaries:ash_bricks_slab` · н
+- [ ] **Ash Brick Stairs** — `supplementaries:ash_bricks_stairs` · н
+- [ ] **Ash Brick Vertical Slab** — `supplementaries:ash_bricks_vertical_slab` · н
+- [ ] **Ash Brick Wall** — `supplementaries:ash_bricks_wall` · н
+- [ ] **Basalt** — `supplementaries:ashen_basalt` · н
+- [ ] **Awning** — `supplementaries:awning` · н
+- [ ] **Black Awning** — `supplementaries:awning_black` · н
+- [ ] **Blue Awning** — `supplementaries:awning_blue` · н
+- [ ] **Brown Awning** — `supplementaries:awning_brown` · н
+- [ ] **Cyan Awning** — `supplementaries:awning_cyan` · н
+- [ ] **Gray Awning** — `supplementaries:awning_gray` · н
+- [ ] **Green Awning** — `supplementaries:awning_green` · н
+- [ ] **Light Blue Awning** — `supplementaries:awning_light_blue` · н
+- [ ] **Light Gray Awning** — `supplementaries:awning_light_gray` · н
+- [ ] **Lime Awning** — `supplementaries:awning_lime` · н
+- [ ] **Magenta Awning** — `supplementaries:awning_magenta` · н
+- [ ] **Orange Awning** — `supplementaries:awning_orange` · н
+- [ ] **Pink Awning** — `supplementaries:awning_pink` · н
+- [ ] **Purple Awning** — `supplementaries:awning_purple` · н
+- [ ] **Red Awning** — `supplementaries:awning_red` · н
+- [ ] **White Awning** — `supplementaries:awning_white` · н
+- [ ] **Yellow Awning** — `supplementaries:awning_yellow` · н
+- [ ] **Bamboo Spikes** — `supplementaries:bamboo_spikes` · н
+- [ ] **Tipped Bamboo Spikes** — `supplementaries:bamboo_spikes_tipped` · н
+- [ ] **Bellows** — `supplementaries:bellows` · н
+- [ ] **Blackboard** — `supplementaries:blackboard` · к
+- [ ] **Blackstone Lamp** — `supplementaries:blackstone_lamp` · н
+- [ ] **Blackstone Tiles** — `supplementaries:blackstone_tile` · н
+- [ ] **Blackstone Tile Slab** — `supplementaries:blackstone_tile_slab` · н
+- [ ] **Blackstone Tile Stairs** — `supplementaries:blackstone_tile_stairs` · н
+- [ ] **Blackstone Tile Vertical Slab** — `supplementaries:blackstone_tile_vertical_slab` · н
+- [ ] **Blackstone Tile Wall** — `supplementaries:blackstone_tile_wall` · н
+- [ ] **Blaze Rod** — `supplementaries:blaze_rod` · н
+- [ ] **Bomb** — `supplementaries:bomb` · н
+- [ ] **Blue Bomb** — `supplementaries:bomb_blue` · н
+- [ ] **Blue Bomb** — `supplementaries:bomb_blue_projectile` · н
+- [ ] **Bomb** — `supplementaries:bomb_projectile` · н
+- [ ] **Spiky Bomb** — `supplementaries:bomb_spiky` · н
+- [ ] **Spiky Bomb** — `supplementaries:bomb_spiky_projectile` · н
+- [ ] **Book Pile** — `supplementaries:book_pile` · н
+- [ ] **Book Pile** — `supplementaries:book_pile_horizontal` · н
+- [ ] **Brass Lantern** — `supplementaries:brass_lantern` · н
+- [ ] **Bubble Block** — `supplementaries:bubble_block` · н
+- [ ] **Bubble Blower** — `supplementaries:bubble_blower` · н
+- [ ] **Bunting** — `supplementaries:bunting` · н
+- [ ] **Black Bunting** — `supplementaries:bunting_black` · н
+- [ ] **Blue Bunting** — `supplementaries:bunting_blue` · н
+- [ ] **Brown Bunting** — `supplementaries:bunting_brown` · н
+- [ ] **Cyan Bunting** — `supplementaries:bunting_cyan` · н
+- [ ] **Gray Bunting** — `supplementaries:bunting_gray` · н
+- [ ] **Green Bunting** — `supplementaries:bunting_green` · н
+- [ ] **Light Blue Bunting** — `supplementaries:bunting_light_blue` · н
+- [ ] **Light Gray Bunting** — `supplementaries:bunting_light_gray` · н
+- [ ] **Lime Bunting** — `supplementaries:bunting_lime` · н
+- [ ] **Magenta Bunting** — `supplementaries:bunting_magenta` · н
+- [ ] **Orange Bunting** — `supplementaries:bunting_orange` · н
+- [ ] **Pink Bunting** — `supplementaries:bunting_pink` · н
+- [ ] **Purple Bunting** — `supplementaries:bunting_purple` · н
+- [ ] **Red Bunting** — `supplementaries:bunting_red` · н
+- [ ] **White Bunting** — `supplementaries:bunting_white` · н
+- [ ] **Yellow Bunting** — `supplementaries:bunting_yellow` · н
+- [ ] **Cage** — `supplementaries:cage` · н
+- [ ] **Gold Candelabra** — `supplementaries:candelabra` · н
+- [ ] **Silver Candelabra** — `supplementaries:candelabra_silver` · н
+- [ ] **Candle Holder** — `supplementaries:candle_holder` · н
+- [ ] **Black Candle Holder** — `supplementaries:candle_holder_black` · н
+- [ ] **Blue Candle Holder** — `supplementaries:candle_holder_blue` · н
+- [ ] **Brown Candle Holder** — `supplementaries:candle_holder_brown` · н
+- [ ] **Cyan Candle Holder** — `supplementaries:candle_holder_cyan` · н
+- [ ] **Gray Candle Holder** — `supplementaries:candle_holder_gray` · н
+- [ ] **Green Candle Holder** — `supplementaries:candle_holder_green` · н
+- [ ] **Light Blue Candle Holder** — `supplementaries:candle_holder_light_blue` · н
+- [ ] **Light Gray Candle Holder** — `supplementaries:candle_holder_light_gray` · н
+- [ ] **Lime Candle Holder** — `supplementaries:candle_holder_lime` · н
+- [ ] **Magenta Candle Holder** — `supplementaries:candle_holder_magenta` · н
+- [ ] **Orange Candle Holder** — `supplementaries:candle_holder_orange` · н
+- [ ] **Pink Candle Holder** — `supplementaries:candle_holder_pink` · н
+- [ ] **Purple Candle Holder** — `supplementaries:candle_holder_purple` · н
+- [ ] **Red Candle Holder** — `supplementaries:candle_holder_red` · н
+- [ ] **Soul Candle Holder** — `supplementaries:candle_holder_soul` · н
+- [ ] **Spectacle Candle Holder** — `supplementaries:candle_holder_spectacle` · н
+- [ ] **White Candle Holder** — `supplementaries:candle_holder_white` · н
+- [ ] **Yellow Candle Holder** — `supplementaries:candle_holder_yellow` · н
+- [ ] **Candy** — `supplementaries:candy` · н
+- [ ] **Cannon** — `supplementaries:cannon` · н
+- [ ] **Cannonball** — `supplementaries:cannonball` · н
+- [ ] **Cartographer's Quill** — `supplementaries:cartographers_quill` · н
+- [ ] **Checker Block** — `supplementaries:checker_block` · н
+- [ ] **Checker Slab** — `supplementaries:checker_slab` · н
+- [ ] **Clock Block** — `supplementaries:clock_block` · н
+- [ ] **Cog Block** — `supplementaries:cog_block` · н
+- [ ] **Confetti Popper** — `supplementaries:confetti_popper` · н
+- [ ] **Crank** — `supplementaries:crank` · н
+- [ ] **Crimson Lantern** — `supplementaries:crimson_lantern` · н
+- [ ] **Crystal Display** — `supplementaries:crystal_display` · н
+- [ ] **Daub** — `supplementaries:daub` · н
+- [ ] **Wattle and Daub Brace** — `supplementaries:daub_brace` · н
+- [ ] **Wattle and Daub Cross Brace** — `supplementaries:daub_cross_brace` · н
+- [ ] **Wattle and Daub Frame** — `supplementaries:daub_frame` · н
+- [ ] **Deepslate Lamp** — `supplementaries:deepslate_lamp` · н
+- [ ] **Minecart with Dispenser** — `supplementaries:dispenser_minecart` · н
+- [ ] **Doormat** — `supplementaries:doormat` · н
+- [ ] **End Stone Lamp** — `supplementaries:end_stone_lamp` · н
+- [ ] **Enderman Head** — `supplementaries:enderman_head` · н
+- [ ] **Faucet** — `supplementaries:faucet` · н
+- [ ] **Feather Block** — `supplementaries:feather_block` · н
+- [ ] **Fine Wood** — `supplementaries:fine_wood` · н
+- [ ] **Fine Wood Slab** — `supplementaries:fine_wood_slab` · н
+- [ ] **Fine Wood Stairs** — `supplementaries:fine_wood_stairs` · н
+- [ ] **Fire Pit** — `supplementaries:fire_pit` · н
+- [ ] **Flag** — `supplementaries:flag` · н
+- [ ] **Black Flag** — `supplementaries:flag_black` · н
+- [ ] **Blue Flag** — `supplementaries:flag_blue` · н
+- [ ] **Brown Flag** — `supplementaries:flag_brown` · н
+- [ ] **Cyan Flag** — `supplementaries:flag_cyan` · н
+- [ ] **Gray Flag** — `supplementaries:flag_gray` · н
+- [ ] **Green Flag** — `supplementaries:flag_green` · н
+- [ ] **Light Blue Flag** — `supplementaries:flag_light_blue` · н
+- [ ] **Light Gray Flag** — `supplementaries:flag_light_gray` · н
+- [ ] **Lime Flag** — `supplementaries:flag_lime` · н
+- [ ] **Magenta Flag** — `supplementaries:flag_magenta` · н
+- [ ] **Orange Flag** — `supplementaries:flag_orange` · н
+- [ ] **Pink Flag** — `supplementaries:flag_pink` · н
+- [ ] **Purple Flag** — `supplementaries:flag_purple` · н
+- [ ] **Red Flag** — `supplementaries:flag_red` · н
+- [ ] **White Flag** — `supplementaries:flag_white` · н
+- [ ] **Yellow Flag** — `supplementaries:flag_yellow` · н
+- [ ] **Flax** — `supplementaries:flax` · н
+- [ ] **Flax Bale** — `supplementaries:flax_block` · н
+- [ ] **Flax Seeds** — `supplementaries:flax_seeds` · к
+- [ ] **Block of Flint** — `supplementaries:flint_block` · н
+- [ ] **Flower Box** — `supplementaries:flower_box` · н
+- [ ] **Flute** — `supplementaries:flute` · н
+- [ ] **Fodder** — `supplementaries:fodder` · н
+- [ ] **Globe** — `supplementaries:globe` · н
+- [ ] **Sepia Globe** — `supplementaries:globe_sepia` · н
+- [ ] **Goblet** — `supplementaries:goblet` · н
+- [ ] **Gold Door** — `supplementaries:gold_door` · н
+- [ ] **Gold Gate** — `supplementaries:gold_gate` · н
+- [ ] **Gold Lantern** — `supplementaries:gold_lantern` · н
+- [ ] **Gold Trapdoor** — `supplementaries:gold_trapdoor` · н
+- [ ] **Gravel Bricks** — `supplementaries:gravel_bricks` · н
+- [ ] **Gunpowder** — `supplementaries:gunpowder` · н
+- [ ] **Hat Stand** — `supplementaries:hat_stand` · н
+- [ ] **Hourglass** — `supplementaries:hourglass` · н
+- [ ] **Iron Gate** — `supplementaries:iron_gate` · н
+- [ ] **Item Shelf** — `supplementaries:item_shelf` · н
+- [ ] **Jar** — `supplementaries:jar` · н
+- [ ] **Boat in a Jar** — `supplementaries:jar_boat` · н
+- [ ] **Tinted Jar** — `supplementaries:jar_tinted` · н
+- [ ] **Key** — `supplementaries:key` · н
+- [ ] **Lapis Bricks** — `supplementaries:lapis_bricks` · н
+- [ ] **Lapis Brick Slab** — `supplementaries:lapis_bricks_slab` · н
+- [ ] **Lapis Brick Stairs** — `supplementaries:lapis_bricks_stairs` · н
+- [ ] **Lapis Brick Vertical Slab** — `supplementaries:lapis_bricks_vertical_slab` · н
+- [ ] **Lapis Brick Wall** — `supplementaries:lapis_bricks_wall` · н
+- [ ] **Lead Door** — `supplementaries:lead_door` · н
+- [ ] **Lead Lantern** — `supplementaries:lead_lantern` · н
+- [ ] **Lead Trapdoor** — `supplementaries:lead_trapdoor` · н
+- [ ] **Lock Block** — `supplementaries:lock_block` · н
+- [ ] **Lumisene** — `supplementaries:lumisene` · н
+- [ ] **Lumisene Bottle** — `supplementaries:lumisene_bottle` · н
+- [ ] **Lumisene Bucket** — `supplementaries:lumisene_bucket` · н
+- [ ] **Lunch Basket** — `supplementaries:lunch_basket` · н
+- [ ] **Music Disc** — `supplementaries:music_disc_heave_ho` · н
+- [ ] **Netherite Door** — `supplementaries:netherite_door` · н
+- [ ] **Netherite Trapdoor** — `supplementaries:netherite_trapdoor` · н
+- [ ] **Notice Board** — `supplementaries:notice_board` · н
+- [ ] **Pancake** — `supplementaries:pancake` · н
+- [ ] **Pancake** — `supplementaries:pancake_disc` · н
+- [ ] **Pedestal** — `supplementaries:pedestal` · н
+- [ ] **Planter** — `supplementaries:planter` · н
+- [ ] **Potted Flax** — `supplementaries:potted_flax` · н
+- [ ] **Present** — `supplementaries:present` · н
+- [ ] **Black Present** — `supplementaries:present_black` · н
+- [ ] **Blue Present** — `supplementaries:present_blue` · н
+- [ ] **Brown Present** — `supplementaries:present_brown` · н
+- [ ] **Cyan Present** — `supplementaries:present_cyan` · н
+- [ ] **Gray Present** — `supplementaries:present_gray` · н
+- [ ] **Green Present** — `supplementaries:present_green` · н
+- [ ] **Light Blue Present** — `supplementaries:present_light_blue` · н
+- [ ] **Light Gray Present** — `supplementaries:present_light_gray` · н
+- [ ] **Lime Present** — `supplementaries:present_lime` · н
+- [ ] **Magenta Present** — `supplementaries:present_magenta` · н
+- [ ] **Orange Present** — `supplementaries:present_orange` · н
+- [ ] **Pink Present** — `supplementaries:present_pink` · н
+- [ ] **Purple Present** — `supplementaries:present_purple` · н
+- [ ] **Red Present** — `supplementaries:present_red` · н
+- [ ] **White Present** — `supplementaries:present_white` · н
+- [ ] **Yellow Present** — `supplementaries:present_yellow` · н
+- [ ] **Pulley Block** — `supplementaries:pulley_block` · н
+- [ ] **Quiver** — `supplementaries:quiver` · н
+- [ ] **Raked Gravel** — `supplementaries:raked_gravel` · н
+- [ ] **Red Merchant Spawn Egg** — `supplementaries:red_merchant_spawn_egg` · н
+- [ ] **Redstone Illuminator** — `supplementaries:redstone_illuminator` · н
+- [ ] **Relayer** — `supplementaries:relayer` · н
+- [ ] **Rope** — `supplementaries:rope` · н
+- [ ] **Rope Arrow** — `supplementaries:rope_arrow` · н
+- [ ] **Roped Post** — `supplementaries:rope_knot` · н
+- [ ] **Sack** — `supplementaries:sack` · н
+- [ ] **Safe** — `supplementaries:safe` · н
+- [ ] **Sconce** — `supplementaries:sconce` · н
+- [ ] **Ender Sconce** — `supplementaries:sconce_ender` · н
+- [ ] **Ender Sconce** — `supplementaries:sconce_ender_wall` · н
+- [ ] **Glow Sconce** — `supplementaries:sconce_glow` · н
+- [ ] **Glow Sconce** — `supplementaries:sconce_glow_wall` · н
+- [ ] **Cupric Sconce** — `supplementaries:sconce_green` · н
+- [ ] **Sconce Lever** — `supplementaries:sconce_lever` · н
+- [ ] **Nether Brass Sconce** — `supplementaries:sconce_nether_brass` · н
+- [ ] **Nether Brass Sconce** — `supplementaries:sconce_nether_brass_wall` · н
+- [ ] **Soul Sconce** — `supplementaries:sconce_soul` · н
+- [ ] **Soul Sconce** — `supplementaries:sconce_soul_wall` · н
+- [ ] **Sconce** — `supplementaries:sconce_wall` · н
+- [ ] **Sign Post** — `supplementaries:sign_post` · н
+- [ ] **Silver Door** — `supplementaries:silver_door` · н
+- [ ] **Silver Lantern** — `supplementaries:silver_lantern` · н
+- [ ] **Silver Trapdoor** — `supplementaries:silver_trapdoor` · н
+- [ ] **Skull Candle** — `supplementaries:skull_candle` · н
+- [ ] **Slice Map** — `supplementaries:slice_map` · н
+- [ ] **Sliding Block** — `supplementaries:slidy_block` · н
+- [ ] **Slingshot** — `supplementaries:slingshot` · н
+- [ ] **Soap** — `supplementaries:soap` · н
+- [ ] **Soap Block** — `supplementaries:soap_block` · н
+- [ ] **Soapy Water** — `supplementaries:soap_water` · н
+- [ ] **Speaker Block** — `supplementaries:speaker_block` · н
+- [ ] **Speedometer** — `supplementaries:speedometer` · н
+- [ ] **Spring Launcher** — `supplementaries:spring_launcher` · н
+- [ ] **Spring Launcher Arm** — `supplementaries:spring_launcher_arm` · н
+- [ ] **Spring Launcher** — `supplementaries:spring_launcher_head` · н
+- [ ] **Statue** — `supplementaries:statue` · н
+- [ ] **Stick** — `supplementaries:stick` · н
+- [ ] **Stone Lamp** — `supplementaries:stone_lamp` · н
+- [ ] **Stone Tiles** — `supplementaries:stone_tile` · н
+- [ ] **Stone Tile Slab** — `supplementaries:stone_tile_slab` · н
+- [ ] **Stone Tile Stairs** — `supplementaries:stone_tile_stairs` · н
+- [ ] **Stone Tile Vertical Slab** — `supplementaries:stone_tile_vertical_slab` · н
+- [ ] **Stone Tile Wall** — `supplementaries:stone_tile_wall` · н
+- [ ] **0** — `supplementaries:structure_temp` · н
+- [ ] **Sugar Cube** — `supplementaries:sugar_cube` · н
+- [ ] **Suspicious Gravel Bricks** — `supplementaries:suspicious_gravel_bricks` · н
+- [ ] **Tater in a Jar** — `supplementaries:tater_in_a_jar` · н
+- [ ] **Timber Brace** — `supplementaries:timber_brace` · н
+- [ ] **Timber Cross Brace** — `supplementaries:timber_cross_brace` · н
+- [ ] **Timber Frame** — `supplementaries:timber_frame` · н
+- [ ] **Trapped Present** — `supplementaries:trapped_present` · н
+- [ ] **Trapped Black Present** — `supplementaries:trapped_present_black` · н
+- [ ] **Trapped Blue Present** — `supplementaries:trapped_present_blue` · н
+- [ ] **Trapped Brown Present** — `supplementaries:trapped_present_brown` · н
+- [ ] **Trapped Cyan Present** — `supplementaries:trapped_present_cyan` · н
+- [ ] **Trapped Gray Present** — `supplementaries:trapped_present_gray` · н
+- [ ] **Trapped Green Present** — `supplementaries:trapped_present_green` · н
+- [ ] **Trapped Light Blue Present** — `supplementaries:trapped_present_light_blue` · н
+- [ ] **Trapped Light Gray Present** — `supplementaries:trapped_present_light_gray` · н
+- [ ] **Trapped Lime Present** — `supplementaries:trapped_present_lime` · н
+- [ ] **Trapped Magenta Present** — `supplementaries:trapped_present_magenta` · н
+- [ ] **Trapped Orange Present** — `supplementaries:trapped_present_orange` · н
+- [ ] **Trapped Pink Present** — `supplementaries:trapped_present_pink` · н
+- [ ] **Trapped Purple Present** — `supplementaries:trapped_present_purple` · н
+- [ ] **Trapped Red Present** — `supplementaries:trapped_present_red` · н
+- [ ] **Trapped White Present** — `supplementaries:trapped_present_white` · н
+- [ ] **Trapped Yellow Present** — `supplementaries:trapped_present_yellow` · н
+- [ ] **Turn Table** — `supplementaries:turn_table` · н
+- [ ] **Urn** — `supplementaries:urn` · н
+- [ ] **Wicker Fence** — `supplementaries:wicker_fence` · н
+- [ ] **Wild Flax** — `supplementaries:wild_flax` · н
+- [ ] **Wind Vane** — `supplementaries:wind_vane` · н
+- [ ] **Wrench** — `supplementaries:wrench` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

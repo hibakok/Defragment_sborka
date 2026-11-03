@@ -1,0 +1,203 @@
+# Музей: Iron's Spells 'n Spellbooks (irons_spellbooks)
+
+Предметов: 190 · крафтимых по данным: 108 (56%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 190 предметов.*
+
+- [ ] **Ring of %s Affinity** — `irons_spellbooks:affinity_ring` · к
+- [ ] **Alchemical Trade Route** — `irons_spellbooks:alchemical_trade_route` · н
+- [ ] **Alchemist Cauldron** — `irons_spellbooks:alchemist_cauldron` · к
+- [ ] **Amethyst Rapier** — `irons_spellbooks:amethyst_rapier` · к
+- [ ] **Amethyst Resonance Charm** — `irons_spellbooks:amethyst_resonance_charm` · к
+- [ ] **Ancient Knowledge Fragment** — `irons_spellbooks:ancient_knowledge_fragment` · н
+- [ ] **Antiquated Compass** — `irons_spellbooks:antiquated_compass` · н
+- [ ] **A magical resonance pulls strongly towards... Something.** — `irons_spellbooks:antiquated_compass_desc` · н
+- [ ] **Apothecarist Spawn Egg** — `irons_spellbooks:apothecarist_spawn_egg` · н
+- [ ] **Arcane Anvil** — `irons_spellbooks:arcane_anvil` · к
+- [ ] **Arcane Debris** — `irons_spellbooks:arcane_debris` · н
+- [ ] **Arcane Essence** — `irons_spellbooks:arcane_essence` · н
+- [ ] **Arcane Ingot** — `irons_spellbooks:arcane_ingot` · к
+- [ ] **Arcane Rune** — `irons_spellbooks:arcane_rune` · к
+- [ ] **Arcane Salvage** — `irons_spellbooks:arcane_salvage` · к
+- [ ] **Power still radiates from this forgotten material** — `irons_spellbooks:arcane_salvage_desc` · н
+- [ ] **Archevoker Boots** — `irons_spellbooks:archevoker_boots` · к
+- [ ] **Archevoker Coat** — `irons_spellbooks:archevoker_chestplate` · к
+- [ ] **Archevoker Hat** — `irons_spellbooks:archevoker_helmet` · к
+- [ ] **Archevoker Leggings** — `irons_spellbooks:archevoker_leggings` · к
+- [ ] **Research Journal** — `irons_spellbooks:archevoker_log` · н
+- [ ] **Archevoker Spawn Egg** — `irons_spellbooks:archevoker_spawn_egg` · н
+- [ ] **Armor Pile** — `irons_spellbooks:armor_pile` · н
+- [ ] **Artificer's Cane** — `irons_spellbooks:artificer_cane` · к
+- [ ] **Autoloader Crossbow** — `irons_spellbooks:autoloader_crossbow` · н
+- [ ] **Blank Runestone** — `irons_spellbooks:blank_rune` · к
+- [ ] **Blaze Instruction Manual** — `irons_spellbooks:blaze_spell_book` · н
+- [ ] **Blood Rune** — `irons_spellbooks:blood_rune` · к
+- [ ] **The Blood Staff** — `irons_spellbooks:blood_staff` · н
+- [ ] **Blood Upgrade Orb** — `irons_spellbooks:blood_upgrade_orb` · к
+- [ ] **Blood Vial** — `irons_spellbooks:blood_vial` · н
+- [ ] **Ring of Expediency** — `irons_spellbooks:cast_time_ring` · к
+- [ ] **Caster's Tea** — `irons_spellbooks:casters_tea` · н
+- [ ] **Cinder Essence** — `irons_spellbooks:cinder_essence` · н
+- [ ] **Claymore** — `irons_spellbooks:claymore` · н
+- [ ] **Common Ink** — `irons_spellbooks:common_ink` · н
+- [ ] **Amulet of Concentration** — `irons_spellbooks:concentration_amulet` · к
+- [ ] **Conjurer's Talisman** — `irons_spellbooks:conjurers_talisman` · к
+- [ ] **Ring of Recovery** — `irons_spellbooks:cooldown_ring` · к
+- [ ] **Recovery Rune** — `irons_spellbooks:cooldown_rune` · к
+- [ ] **Cooldown Upgrade Orb** — `irons_spellbooks:cooldown_upgrade_orb` · к
+- [ ] **Flimsy Journal** — `irons_spellbooks:copper_spell_book` · к
+- [ ] **Cryomancer Boots** — `irons_spellbooks:cryomancer_boots` · к
+- [ ] **Cryomancer Coat** — `irons_spellbooks:cryomancer_chestplate` · к
+- [ ] **Cryomancer Hood** — `irons_spellbooks:cryomancer_helmet` · к
+- [ ] **Cryomancer Leggings** — `irons_spellbooks:cryomancer_leggings` · к
+- [ ] **Cryomancer Spawn Egg** — `irons_spellbooks:cryomancer_spawn_egg` · н
+- [ ] **Skull of No-One Important** — `irons_spellbooks:crypt_skull` · н
+- [ ] **Cultist Boots** — `irons_spellbooks:cultist_boots` · к
+- [ ] **Cultist Armor** — `irons_spellbooks:cultist_chestplate` · к
+- [ ] **Cultist Hood** — `irons_spellbooks:cultist_helmet` · к
+- [ ] **Cultist Leggings** — `irons_spellbooks:cultist_leggings` · к
+- [ ] **Dead King Corpse Spawn Egg** — `irons_spellbooks:dead_king_corpse_spawn_egg` · н
+- [ ] **Staff of Testing** — `irons_spellbooks:dev_staff` · н
+- [ ] **Enchanted Spell Book** — `irons_spellbooks:diamond_spell_book` · к
+- [ ] **Divine Pearl** — `irons_spellbooks:divine_pearl` · к
+- [ ] **Dragonskin** — `irons_spellbooks:dragonskin` · н
+- [ ] **Dragonskin Spell Book** — `irons_spellbooks:dragonskin_spell_book` · к
+- [ ] **Druidic Tome** — `irons_spellbooks:druidic_spell_book` · к
+- [ ] **Eldritch Manuscript** — `irons_spellbooks:eldritch_manuscript` · к
+- [ ] **Use to learn Eldritch spells** — `irons_spellbooks:eldritch_manuscript_desc` · н
+- [ ] **Electromancer Boots** — `irons_spellbooks:electromancer_boots` · к
+- [ ] **Electromancer Robe** — `irons_spellbooks:electromancer_chestplate` · к
+- [ ] **Electromancer Hat** — `irons_spellbooks:electromancer_helmet` · к
+- [ ] **Electromancer Leggings** — `irons_spellbooks:electromancer_leggings` · к
+- [ ] **Emerald Stoneplate Ring** — `irons_spellbooks:emerald_stoneplate_ring` · к
+- [ ] **Amulet of Warding** — `irons_spellbooks:enchanted_ward_amulet` · н
+- [ ] **The instilled ancient magic can protect against the Lost Citadel's magical ward** — `irons_spellbooks:enchanted_ward_amulet_desc` · н
+- [ ] **Ender Rune** — `irons_spellbooks:ender_rune` · к
+- [ ] **Ender Upgrade Orb** — `irons_spellbooks:ender_upgrade_orb` · к
+- [ ] **Energized Core** — `irons_spellbooks:energized_core` · к
+- [ ] **Epic Ink** — `irons_spellbooks:epic_ink` · н
+- [ ] **Evasion Elixir** — `irons_spellbooks:evasion_elixir` · н
+- [ ] **Evocation Rune** — `irons_spellbooks:evocation_rune` · к
+- [ ] **Evocation Upgrade Orb** — `irons_spellbooks:evocation_upgrade_orb` · к
+- [ ] **Evoker Fort Attack Plans** — `irons_spellbooks:evoker_fort_battle_plans` · н
+- [ ] **Grimoire of Evokation** — `irons_spellbooks:evoker_spell_book` · н
+- [ ] **Arctic Expedition Route** — `irons_spellbooks:failed_arctic_voyage_map` · н
+- [ ] **Fire Ale** — `irons_spellbooks:fire_ale` · н
+- [ ] **Fire Rune** — `irons_spellbooks:fire_rune` · к
+- [ ] **Fire Upgrade Orb** — `irons_spellbooks:fire_upgrade_orb` · к
+- [ ] **Firefly Jar** — `irons_spellbooks:firefly_jar` · к
+- [ ] **Fireward Ring** — `irons_spellbooks:fireward_ring` · к
+- [ ] **Frosted Helve** — `irons_spellbooks:frosted_helve` · к
+- [ ] **Frostward Ring** — `irons_spellbooks:frostward_ring` · к
+- [ ] **Frozen Bone** — `irons_spellbooks:frozen_bone` · н
+- [ ] **Furled Map** — `irons_spellbooks:furled_map` · н
+- [ ] **[%s]** — `irons_spellbooks:furled_map_descriptor_framing` · н
+- [ ] **Iron's Crown** — `irons_spellbooks:gold_crown` · н
+- [ ] **Apprentice's Spell Book** — `irons_spellbooks:gold_spell_book` · к
+- [ ] **Graybeard Staff** — `irons_spellbooks:graybeard_staff` · к
+- [ ] **Greater Evasion Elixir** — `irons_spellbooks:greater_evasion_elixir` · н
+- [ ] **Greater Potion of Healing** — `irons_spellbooks:greater_healing_potion` · н
+- [ ] **Greater Invisibility Elixir** — `irons_spellbooks:greater_invisibility_elixir` · н
+- [ ] **Greater Oakskin Elixir** — `irons_spellbooks:greater_oakskin_elixir` · н
+- [ ] **Handwritten Invoice** — `irons_spellbooks:handwritten_invoice` · н
+- [ ] **Heavy Chain** — `irons_spellbooks:heavy_chain_necklace` · к
+- [ ] **Hither-Thither Wand** — `irons_spellbooks:hither_thither_wand` · н
+- [ ] **Hogskin** — `irons_spellbooks:hogskin` · н
+- [ ] **Holy Rune** — `irons_spellbooks:holy_rune` · к
+- [ ] **Holy Upgrade Orb** — `irons_spellbooks:holy_upgrade_orb` · к
+- [ ] **Ice Rune** — `irons_spellbooks:ice_rune` · к
+- [ ] **Ice Staff** — `irons_spellbooks:ice_staff` · к
+- [ ] **Ice Upgrade Orb** — `irons_spellbooks:ice_upgrade_orb` · к
+- [ ] **Book of Illusions** — `irons_spellbooks:illusioner_spell_book` · н
+- [ ] **Improved Blood Staff** — `irons_spellbooks:improved_blood_staff` · н
+- [ ] **Inscription Table** — `irons_spellbooks:inscription_table` · к
+- [ ] **Invisibility Elixir** — `irons_spellbooks:invisibility_elixir` · н
+- [ ] **Ring of Invisibility** — `irons_spellbooks:invisibility_ring` · н
+- [ ] **Ironbound Tome** — `irons_spellbooks:iron_spell_book` · к
+- [ ] **Decrepit Flamberge** — `irons_spellbooks:keeper_flamberge` · н
+- [ ] **Ancient Knight Spawn Egg** — `irons_spellbooks:keeper_spawn_egg` · н
+- [ ] **Legendary Ink** — `irons_spellbooks:legendary_ink` · н
+- [ ] **Lesser Spell Slot Improvement** — `irons_spellbooks:lesser_spell_slot_upgrade` · к
+- [ ] **Bottle o' Lightning** — `irons_spellbooks:lightning_bottle` · н
+- [ ] **Rod o' Lightning** — `irons_spellbooks:lightning_rod` · н
+- [ ] **Lightning Rune** — `irons_spellbooks:lightning_rune` · к
+- [ ] **Lightning Upgrade Orb** — `irons_spellbooks:lightning_upgrade_orb` · к
+- [ ] **Ring of the Lurker** — `irons_spellbooks:lurker_ring` · н
+- [ ] **Magehunter** — `irons_spellbooks:magehunter` · н
+- [ ] **Arcane Cloth** — `irons_spellbooks:magic_cloth` · к
+- [ ] **Ring of Mana** — `irons_spellbooks:mana_ring` · к
+- [ ] **Mana Upgrade Orb** — `irons_spellbooks:mana_upgrade_orb` · к
+- [ ] **Misery** — `irons_spellbooks:misery` · н
+- [ ] **Nature Rune** — `irons_spellbooks:nature_rune` · к
+- [ ] **Nature Upgrade Orb** — `irons_spellbooks:nature_upgrade_orb` · к
+- [ ] **Necromancer Spawn Egg** — `irons_spellbooks:necromancer_spawn_egg` · н
+- [ ] **Necronomicon** — `irons_spellbooks:necronomicon_spell_book` · н
+- [ ] **Netherite Battlemage Boots** — `irons_spellbooks:netherite_mage_boots` · к
+- [ ] **Netherite Battlemage Robes** — `irons_spellbooks:netherite_mage_chestplate` · к
+- [ ] **Netherite Battlemage Hat** — `irons_spellbooks:netherite_mage_helmet` · к
+- [ ] **Netherite Battlemage Leggings** — `irons_spellbooks:netherite_mage_leggings` · к
+- [ ] **Ancient Codex** — `irons_spellbooks:netherite_spell_book` · к
+- [ ] **Netherward Tincture** — `irons_spellbooks:netherward_tincture` · н
+- [ ] **Oakskin Elixir** — `irons_spellbooks:oakskin_elixir` · н
+- [ ] **Pedestal** — `irons_spellbooks:pedestal` · н
+- [ ] **Permafrost Shard** — `irons_spellbooks:permafrost_shard` · н
+- [ ] **Plagued Boots** — `irons_spellbooks:plagued_boots` · к
+- [ ] **Plagued Coat** — `irons_spellbooks:plagued_chestplate` · к
+- [ ] **Plagued Mask** — `irons_spellbooks:plagued_helmet` · к
+- [ ] **Plagued Leggings** — `irons_spellbooks:plagued_leggings` · к
+- [ ] **Poisonward Ring** — `irons_spellbooks:poisonward_ring` · к
+- [ ] **Priest Boots** — `irons_spellbooks:priest_boots` · к
+- [ ] **Priest Robes** — `irons_spellbooks:priest_chestplate` · к
+- [ ] **Priest Mask** — `irons_spellbooks:priest_helmet` · к
+- [ ] **Priest Leggings** — `irons_spellbooks:priest_leggings` · к
+- [ ] **Priest Spawn Egg** — `irons_spellbooks:priest_spawn_egg` · н
+- [ ] **Protective Rune** — `irons_spellbooks:protection_rune` · к
+- [ ] **Protection Upgrade Orb** — `irons_spellbooks:protection_upgrade_orb` · к
+- [ ] **Scarecrow Boots** — `irons_spellbooks:pumpkin_boots` · к
+- [ ] **Scarecrow Coat** — `irons_spellbooks:pumpkin_chestplate` · к
+- [ ] **Scarecrow Hat** — `irons_spellbooks:pumpkin_helmet` · к
+- [ ] **Scarecrow Leggings** — `irons_spellbooks:pumpkin_leggings` · к
+- [ ] **Pyromancer Boots** — `irons_spellbooks:pyromancer_boots` · к
+- [ ] **Pyromancer Robe** — `irons_spellbooks:pyromancer_chestplate` · к
+- [ ] **Pyromancer Hat** — `irons_spellbooks:pyromancer_helmet` · к
+- [ ] **Pyromancer Leggings** — `irons_spellbooks:pyromancer_leggings` · к
+- [ ] **Pyromancer Spawn Egg** — `irons_spellbooks:pyromancer_spawn_egg` · н
+- [ ] **Rare Ink** — `irons_spellbooks:rare_ink` · н
+- [ ] **Rotten Spell Book** — `irons_spellbooks:rotten_spell_book` · н
+- [ ] **Ruined Book** — `irons_spellbooks:ruined_book` · н
+- [ ] **Scroll** — `irons_spellbooks:scroll` · н
+- [ ] **Scroll Forge** — `irons_spellbooks:scroll_forge` · к
+- [ ] **Mystery Scroll Pouch** — `irons_spellbooks:scroll_pouch` · н
+- [ ] **Shadow-Walker Boots** — `irons_spellbooks:shadowwalker_boots` · к
+- [ ] **Shadow-Walker Armor** — `irons_spellbooks:shadowwalker_chestplate` · к
+- [ ] **Shadow-Walker Mask** — `irons_spellbooks:shadowwalker_helmet` · к
+- [ ] **Shadow-Walker Leggings** — `irons_spellbooks:shadowwalker_leggings` · к
+- [ ] **Shriving Stone** — `irons_spellbooks:shriving_stone` · к
+- [ ] **Use in Anvil to remove Imbuement or Upgrades** — `irons_spellbooks:shriving_stone_desc` · н
+- [ ] **Silver Ring** — `irons_spellbooks:silver_ring` · н
+- [ ] **Spell Book** — `irons_spellbooks:spell_book` · н
+- [ ] **Improves Spell Book capacity, up to %s Slots** — `irons_spellbooks:spell_slot_upgrade_desc` · н
+- [ ] **Spellbreaker** — `irons_spellbooks:spellbreaker` · к
+- [ ] **Staff of the Nines** — `irons_spellbooks:staff_of_the_nines` · н
+- [ ] **Tarnished Crown** — `irons_spellbooks:tarnished_crown` · н
+- [ ] **Tarnished Crown** — `irons_spellbooks:tarnished_helmet` · н
+- [ ] **Translated Research Journal** — `irons_spellbooks:translated_archevoker_log` · н
+- [ ] **Truthseeker** — `irons_spellbooks:truthseeker` · н
+- [ ] **Uncommon Ink** — `irons_spellbooks:uncommon_ink` · н
+- [ ] **Empty Upgrade Orb** — `irons_spellbooks:upgrade_orb` · к
+- [ ] **Villager Bible** — `irons_spellbooks:villager_spell_book` · н
+- [ ] **Wandering Magician Shoes** — `irons_spellbooks:wandering_magician_boots` · к
+- [ ] **Wandering Magician Robe** — `irons_spellbooks:wandering_magician_chestplate` · к
+- [ ] **Wandering Magician Hood** — `irons_spellbooks:wandering_magician_helmet` · к
+- [ ] **Wandering Magician Pants** — `irons_spellbooks:wandering_magician_leggings` · к
+- [ ] **Wayward Compass** — `irons_spellbooks:wayward_compass` · к
+- [ ] **The trapped soul points toward its home** — `irons_spellbooks:wayward_compass_desc` · н
+- [ ] **Weapon Parts** — `irons_spellbooks:weapon_parts` · к
+- [ ] **Wimpy Spell Book** — `irons_spellbooks:wimpy_spell_book` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

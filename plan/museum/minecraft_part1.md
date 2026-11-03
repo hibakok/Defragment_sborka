@@ -1,0 +1,485 @@
+# Музей: minecraft (minecraft)
+
+Предметов: 1398 · крафтимых по данным: 291 (20%) · файлов: 3
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 1 из 3
+
+*В части: 470 предметов.*
+
+- [ ] **Acacia Boat** — `minecraft:acacia_boat` · в
+- [ ] **Acacia Button** — `minecraft:acacia_button` · в
+- [ ] **Acacia Boat with Chest** — `minecraft:acacia_chest_boat` · в
+- [ ] **Acacia Door** — `minecraft:acacia_door` · в
+- [ ] **Acacia Fence** — `minecraft:acacia_fence` · в
+- [ ] **Acacia Fence Gate** — `minecraft:acacia_fence_gate` · в
+- [ ] **Acacia Hanging Sign** — `minecraft:acacia_hanging_sign` · в
+- [ ] **Acacia Leaves** — `minecraft:acacia_leaves` · в
+- [ ] **Acacia Log** — `minecraft:acacia_log` · в
+- [ ] **Acacia Planks** — `minecraft:acacia_planks` · к
+- [ ] **Acacia Pressure Plate** — `minecraft:acacia_pressure_plate` · в
+- [ ] **Acacia Sapling** — `minecraft:acacia_sapling` · в
+- [ ] **Acacia Sign** — `minecraft:acacia_sign` · в
+- [ ] **Acacia Slab** — `minecraft:acacia_slab` · в
+- [ ] **Acacia Stairs** — `minecraft:acacia_stairs` · в
+- [ ] **Acacia Trapdoor** — `minecraft:acacia_trapdoor` · в
+- [ ] **Acacia Wall Hanging Sign** — `minecraft:acacia_wall_hanging_sign` · в
+- [ ] **Acacia Wall Sign** — `minecraft:acacia_wall_sign` · в
+- [ ] **Acacia Wood** — `minecraft:acacia_wood` · в
+- [ ] **Activator Rail** — `minecraft:activator_rail` · к
+- [ ] **Air** — `minecraft:air` · в
+- [ ] **Allay Spawn Egg** — `minecraft:allay_spawn_egg` · в
+- [ ] **Allium** — `minecraft:allium` · в
+- [ ] **Block of Amethyst** — `minecraft:amethyst_block` · в
+- [ ] **Amethyst Cluster** — `minecraft:amethyst_cluster` · в
+- [ ] **Amethyst Shard** — `minecraft:amethyst_shard` · к
+- [ ] **Ancient Debris** — `minecraft:ancient_debris` · в
+- [ ] **Andesite** — `minecraft:andesite` · к
+- [ ] **Andesite Slab** — `minecraft:andesite_slab` · в
+- [ ] **Andesite Stairs** — `minecraft:andesite_stairs` · в
+- [ ] **Andesite Wall** — `minecraft:andesite_wall` · в
+- [ ] **Angler Pottery Shard** — `minecraft:angler_pottery_shard` · в
+- [ ] **Angler Pottery Sherd** — `minecraft:angler_pottery_sherd` · в
+- [ ] **Anvil** — `minecraft:anvil` · к
+- [ ] **Apple** — `minecraft:apple` · в
+- [ ] **Archer Pottery Shard** — `minecraft:archer_pottery_shard` · в
+- [ ] **Archer Pottery Sherd** — `minecraft:archer_pottery_sherd` · в
+- [ ] **Armor Stand** — `minecraft:armor_stand` · в
+- [ ] **Arms Up Pottery Shard** — `minecraft:arms_up_pottery_shard` · в
+- [ ] **Arms Up Pottery Sherd** — `minecraft:arms_up_pottery_sherd` · в
+- [ ] **Arrow** — `minecraft:arrow` · к
+- [ ] **Attached Melon Stem** — `minecraft:attached_melon_stem` · в
+- [ ] **Attached Pumpkin Stem** — `minecraft:attached_pumpkin_stem` · в
+- [ ] **Bucket of Axolotl** — `minecraft:axolotl_bucket` · в
+- [ ] **Axolotl Spawn Egg** — `minecraft:axolotl_spawn_egg` · в
+- [ ] **Azalea** — `minecraft:azalea` · в
+- [ ] **Azalea Leaves** — `minecraft:azalea_leaves` · в
+- [ ] **Azure Bluet** — `minecraft:azure_bluet` · в
+- [ ] **Baked Potato** — `minecraft:baked_potato` · к
+- [ ] **Bamboo** — `minecraft:bamboo` · в
+- [ ] **Block of Bamboo** — `minecraft:bamboo_block` · в
+- [ ] **Bamboo Button** — `minecraft:bamboo_button` · в
+- [ ] **Bamboo Raft with Chest** — `minecraft:bamboo_chest_raft` · в
+- [ ] **Bamboo Door** — `minecraft:bamboo_door` · в
+- [ ] **Bamboo Fence** — `minecraft:bamboo_fence` · в
+- [ ] **Bamboo Fence Gate** — `minecraft:bamboo_fence_gate` · в
+- [ ] **Bamboo Hanging Sign** — `minecraft:bamboo_hanging_sign` · в
+- [ ] **Bamboo Mosaic** — `minecraft:bamboo_mosaic` · к
+- [ ] **Bamboo Mosaic Slab** — `minecraft:bamboo_mosaic_slab` · в
+- [ ] **Bamboo Mosaic Stairs** — `minecraft:bamboo_mosaic_stairs` · в
+- [ ] **Bamboo Planks** — `minecraft:bamboo_planks` · к
+- [ ] **Bamboo Pressure Plate** — `minecraft:bamboo_pressure_plate` · в
+- [ ] **Bamboo Raft** — `minecraft:bamboo_raft` · в
+- [ ] **Bamboo Shoot** — `minecraft:bamboo_sapling` · в
+- [ ] **Bamboo Sign** — `minecraft:bamboo_sign` · в
+- [ ] **Bamboo Slab** — `minecraft:bamboo_slab` · в
+- [ ] **Bamboo Stairs** — `minecraft:bamboo_stairs` · в
+- [ ] **Bamboo Trapdoor** — `minecraft:bamboo_trapdoor` · в
+- [ ] **Bamboo Wall Hanging Sign** — `minecraft:bamboo_wall_hanging_sign` · в
+- [ ] **Bamboo Wall Sign** — `minecraft:bamboo_wall_sign` · в
+- [ ] **Barrel** — `minecraft:barrel` · к
+- [ ] **Barrier** — `minecraft:barrier` · в
+- [ ] **Basalt** — `minecraft:basalt` · в
+- [ ] **Bat Spawn Egg** — `minecraft:bat_spawn_egg` · в
+- [ ] **Beacon** — `minecraft:beacon` · в
+- [ ] **Bedrock** — `minecraft:bedrock` · в
+- [ ] **Bee Nest** — `minecraft:bee_nest` · в
+- [ ] **Bee Spawn Egg** — `minecraft:bee_spawn_egg` · в
+- [ ] **Raw Beef** — `minecraft:beef` · в
+- [ ] **Beehive** — `minecraft:beehive` · к
+- [ ] **Beetroot** — `minecraft:beetroot` · к
+- [ ] **Beetroot Seeds** — `minecraft:beetroot_seeds` · к
+- [ ] **Beetroot Soup** — `minecraft:beetroot_soup` · к
+- [ ] **Beetroots** — `minecraft:beetroots` · в
+- [ ] **Bell** — `minecraft:bell` · в
+- [ ] **Big Dripleaf** — `minecraft:big_dripleaf` · в
+- [ ] **Big Dripleaf Stem** — `minecraft:big_dripleaf_stem` · в
+- [ ] **Birch Boat** — `minecraft:birch_boat` · в
+- [ ] **Birch Button** — `minecraft:birch_button` · в
+- [ ] **Birch Boat with Chest** — `minecraft:birch_chest_boat` · в
+- [ ] **Birch Door** — `minecraft:birch_door` · в
+- [ ] **Birch Fence** — `minecraft:birch_fence` · в
+- [ ] **Birch Fence Gate** — `minecraft:birch_fence_gate` · в
+- [ ] **Birch Hanging Sign** — `minecraft:birch_hanging_sign` · в
+- [ ] **Birch Leaves** — `minecraft:birch_leaves` · в
+- [ ] **Birch Log** — `minecraft:birch_log` · в
+- [ ] **Birch Planks** — `minecraft:birch_planks` · к
+- [ ] **Birch Pressure Plate** — `minecraft:birch_pressure_plate` · в
+- [ ] **Birch Sapling** — `minecraft:birch_sapling` · в
+- [ ] **Birch Sign** — `minecraft:birch_sign` · в
+- [ ] **Birch Slab** — `minecraft:birch_slab` · в
+- [ ] **Birch Stairs** — `minecraft:birch_stairs` · в
+- [ ] **Birch Trapdoor** — `minecraft:birch_trapdoor` · в
+- [ ] **Birch Wall Hanging Sign** — `minecraft:birch_wall_hanging_sign` · в
+- [ ] **Birch Wall Sign** — `minecraft:birch_wall_sign` · в
+- [ ] **Birch Wood** — `minecraft:birch_wood` · в
+- [ ] **Black Banner** — `minecraft:black_banner` · в
+- [ ] **Black Bed** — `minecraft:black_bed` · в
+- [ ] **Black Candle** — `minecraft:black_candle` · в
+- [ ] **Cake with Black Candle** — `minecraft:black_candle_cake` · в
+- [ ] **Black Carpet** — `minecraft:black_carpet` · в
+- [ ] **Black Concrete** — `minecraft:black_concrete` · к
+- [ ] **Black Concrete Powder** — `minecraft:black_concrete_powder` · в
+- [ ] **Black Dye** — `minecraft:black_dye` · к
+- [ ] **Black Glazed Terracotta** — `minecraft:black_glazed_terracotta` · в
+- [ ] **Black Shulker Box** — `minecraft:black_shulker_box` · в
+- [ ] **Black Stained Glass** — `minecraft:black_stained_glass` · в
+- [ ] **Black Stained Glass Pane** — `minecraft:black_stained_glass_pane` · в
+- [ ] **Black Terracotta** — `minecraft:black_terracotta` · в
+- [ ] **Black Wool** — `minecraft:black_wool` · к
+- [ ] **Blackstone** — `minecraft:blackstone` · к
+- [ ] **Blackstone Slab** — `minecraft:blackstone_slab` · в
+- [ ] **Blackstone Stairs** — `minecraft:blackstone_stairs` · в
+- [ ] **Blackstone Wall** — `minecraft:blackstone_wall` · в
+- [ ] **Blade Pottery Shard** — `minecraft:blade_pottery_shard` · в
+- [ ] **Blade Pottery Sherd** — `minecraft:blade_pottery_sherd` · в
+- [ ] **Blast Furnace** — `minecraft:blast_furnace` · к
+- [ ] **Blaze Powder** — `minecraft:blaze_powder` · к
+- [ ] **Blaze Rod** — `minecraft:blaze_rod` · к
+- [ ] **Blaze Spawn Egg** — `minecraft:blaze_spawn_egg` · в
+- [ ] **Blue Banner** — `minecraft:blue_banner` · в
+- [ ] **Blue Bed** — `minecraft:blue_bed` · в
+- [ ] **Blue Candle** — `minecraft:blue_candle` · в
+- [ ] **Cake with Blue Candle** — `minecraft:blue_candle_cake` · в
+- [ ] **Blue Carpet** — `minecraft:blue_carpet` · в
+- [ ] **Blue Concrete** — `minecraft:blue_concrete` · к
+- [ ] **Blue Concrete Powder** — `minecraft:blue_concrete_powder` · в
+- [ ] **Blue Dye** — `minecraft:blue_dye` · к
+- [ ] **Blue Glazed Terracotta** — `minecraft:blue_glazed_terracotta` · в
+- [ ] **Blue Ice** — `minecraft:blue_ice` · к
+- [ ] **Blue Orchid** — `minecraft:blue_orchid` · в
+- [ ] **Blue Shulker Box** — `minecraft:blue_shulker_box` · в
+- [ ] **Blue Stained Glass** — `minecraft:blue_stained_glass` · в
+- [ ] **Blue Stained Glass Pane** — `minecraft:blue_stained_glass_pane` · в
+- [ ] **Blue Terracotta** — `minecraft:blue_terracotta` · в
+- [ ] **Blue Wool** — `minecraft:blue_wool` · в
+- [ ] **Bone** — `minecraft:bone` · к
+- [ ] **Bone Block** — `minecraft:bone_block` · в
+- [ ] **Bone Meal** — `minecraft:bone_meal` · к
+- [ ] **Book** — `minecraft:book` · к
+- [ ] **Bookshelf** — `minecraft:bookshelf` · в
+- [ ] **Bow** — `minecraft:bow` · в
+- [ ] **Bowl** — `minecraft:bowl` · в
+- [ ] **Brain Coral** — `minecraft:brain_coral` · в
+- [ ] **Brain Coral Block** — `minecraft:brain_coral_block` · к
+- [ ] **Brain Coral Fan** — `minecraft:brain_coral_fan` · в
+- [ ] **Brain Coral Wall Fan** — `minecraft:brain_coral_wall_fan` · в
+- [ ] **Bread** — `minecraft:bread` · к
+- [ ] **Brewer Pottery Shard** — `minecraft:brewer_pottery_shard` · в
+- [ ] **Brewer Pottery Sherd** — `minecraft:brewer_pottery_sherd` · в
+- [ ] **Brewing Stand** — `minecraft:brewing_stand` · в
+- [ ] **Brick** — `minecraft:brick` · к
+- [ ] **Brick Slab** — `minecraft:brick_slab` · в
+- [ ] **Brick Stairs** — `minecraft:brick_stairs` · в
+- [ ] **Brick Wall** — `minecraft:brick_wall` · в
+- [ ] **Bricks** — `minecraft:bricks` · в
+- [ ] **Brown Banner** — `minecraft:brown_banner` · в
+- [ ] **Brown Bed** — `minecraft:brown_bed` · в
+- [ ] **Brown Candle** — `minecraft:brown_candle` · в
+- [ ] **Cake with Brown Candle** — `minecraft:brown_candle_cake` · в
+- [ ] **Brown Carpet** — `minecraft:brown_carpet` · в
+- [ ] **Brown Concrete** — `minecraft:brown_concrete` · к
+- [ ] **Brown Concrete Powder** — `minecraft:brown_concrete_powder` · в
+- [ ] **Brown Dye** — `minecraft:brown_dye` · к
+- [ ] **Brown Glazed Terracotta** — `minecraft:brown_glazed_terracotta` · в
+- [ ] **Brown Mushroom** — `minecraft:brown_mushroom` · к
+- [ ] **Brown Mushroom Block** — `minecraft:brown_mushroom_block` · в
+- [ ] **Brown Shulker Box** — `minecraft:brown_shulker_box` · в
+- [ ] **Brown Stained Glass** — `minecraft:brown_stained_glass` · в
+- [ ] **Brown Stained Glass Pane** — `minecraft:brown_stained_glass_pane` · в
+- [ ] **Brown Terracotta** — `minecraft:brown_terracotta` · в
+- [ ] **Brown Wool** — `minecraft:brown_wool` · в
+- [ ] **Brush** — `minecraft:brush` · в
+- [ ] **Bubble Column** — `minecraft:bubble_column` · в
+- [ ] **Bubble Coral** — `minecraft:bubble_coral` · в
+- [ ] **Bubble Coral Block** — `minecraft:bubble_coral_block` · к
+- [ ] **Bubble Coral Fan** — `minecraft:bubble_coral_fan` · в
+- [ ] **Bubble Coral Wall Fan** — `minecraft:bubble_coral_wall_fan` · в
+- [ ] **Bucket** — `minecraft:bucket` · к
+- [ ] **Budding Amethyst** — `minecraft:budding_amethyst` · к
+- [ ] **Bundle** — `minecraft:bundle` · в
+- [ ] **Burn Pottery Shard** — `minecraft:burn_pottery_shard` · в
+- [ ] **Burn Pottery Sherd** — `minecraft:burn_pottery_sherd` · в
+- [ ] **Cactus** — `minecraft:cactus` · в
+- [ ] **Cake** — `minecraft:cake` · к
+- [ ] **Calcite** — `minecraft:calcite` · к
+- [ ] **Calibrated Sculk Sensor** — `minecraft:calibrated_sculk_sensor` · в
+- [ ] **Camel Spawn Egg** — `minecraft:camel_spawn_egg` · в
+- [ ] **Campfire** — `minecraft:campfire` · к
+- [ ] **Candle** — `minecraft:candle` · в
+- [ ] **Cake with Candle** — `minecraft:candle_cake` · в
+- [ ] **Carrot** — `minecraft:carrot` · к
+- [ ] **Carrot on a Stick** — `minecraft:carrot_on_a_stick` · в
+- [ ] **Carrots** — `minecraft:carrots` · в
+- [ ] **Cartography Table** — `minecraft:cartography_table` · к
+- [ ] **Carved Pumpkin** — `minecraft:carved_pumpkin` · в
+- [ ] **Cat Spawn Egg** — `minecraft:cat_spawn_egg` · в
+- [ ] **Cauldron** — `minecraft:cauldron` · к
+- [ ] **Cave Air** — `minecraft:cave_air` · в
+- [ ] **Cave Spider Spawn Egg** — `minecraft:cave_spider_spawn_egg` · в
+- [ ] **Cave Vines** — `minecraft:cave_vines` · в
+- [ ] **Cave Vines Plant** — `minecraft:cave_vines_plant` · в
+- [ ] **Chain** — `minecraft:chain` · к
+- [ ] **Chain Command Block** — `minecraft:chain_command_block` · в
+- [ ] **Chainmail Boots** — `minecraft:chainmail_boots` · к
+- [ ] **Chainmail Chestplate** — `minecraft:chainmail_chestplate` · к
+- [ ] **Chainmail Helmet** — `minecraft:chainmail_helmet` · к
+- [ ] **Chainmail Leggings** — `minecraft:chainmail_leggings` · к
+- [ ] **Charcoal** — `minecraft:charcoal` · к
+- [ ] **Cherry Boat** — `minecraft:cherry_boat` · в
+- [ ] **Cherry Button** — `minecraft:cherry_button` · в
+- [ ] **Cherry Boat with Chest** — `minecraft:cherry_chest_boat` · в
+- [ ] **Cherry Door** — `minecraft:cherry_door` · в
+- [ ] **Cherry Fence** — `minecraft:cherry_fence` · в
+- [ ] **Cherry Fence Gate** — `minecraft:cherry_fence_gate` · в
+- [ ] **Cherry Hanging Sign** — `minecraft:cherry_hanging_sign` · в
+- [ ] **Cherry Leaves** — `minecraft:cherry_leaves` · в
+- [ ] **Cherry Log** — `minecraft:cherry_log` · в
+- [ ] **Cherry Planks** — `minecraft:cherry_planks` · к
+- [ ] **Cherry Pressure Plate** — `minecraft:cherry_pressure_plate` · в
+- [ ] **Cherry Sapling** — `minecraft:cherry_sapling` · в
+- [ ] **Cherry Sign** — `minecraft:cherry_sign` · в
+- [ ] **Cherry Slab** — `minecraft:cherry_slab` · в
+- [ ] **Cherry Stairs** — `minecraft:cherry_stairs` · в
+- [ ] **Cherry Trapdoor** — `minecraft:cherry_trapdoor` · в
+- [ ] **Cherry Wall Hanging Sign** — `minecraft:cherry_wall_hanging_sign` · в
+- [ ] **Cherry Wall Sign** — `minecraft:cherry_wall_sign` · в
+- [ ] **Cherry Wood** — `minecraft:cherry_wood` · в
+- [ ] **Chest** — `minecraft:chest` · к
+- [ ] **Minecart with Chest** — `minecraft:chest_minecart` · в
+- [ ] **Raw Chicken** — `minecraft:chicken` · в
+- [ ] **Chicken Spawn Egg** — `minecraft:chicken_spawn_egg` · в
+- [ ] **Chipped Anvil** — `minecraft:chipped_anvil` · в
+- [ ] **Chiseled Bookshelf** — `minecraft:chiseled_bookshelf` · в
+- [ ] **Chiseled Deepslate** — `minecraft:chiseled_deepslate` · в
+- [ ] **Chiseled Nether Bricks** — `minecraft:chiseled_nether_bricks` · в
+- [ ] **Chiseled Polished Blackstone** — `minecraft:chiseled_polished_blackstone` · в
+- [ ] **Chiseled Quartz Block** — `minecraft:chiseled_quartz_block` · в
+- [ ] **Chiseled Red Sandstone** — `minecraft:chiseled_red_sandstone` · в
+- [ ] **Chiseled Sandstone** — `minecraft:chiseled_sandstone` · в
+- [ ] **Chiseled Stone Bricks** — `minecraft:chiseled_stone_bricks` · в
+- [ ] **Chorus Flower** — `minecraft:chorus_flower` · в
+- [ ] **Chorus Fruit** — `minecraft:chorus_fruit` · к
+- [ ] **Chorus Plant** — `minecraft:chorus_plant` · в
+- [ ] **Clay** — `minecraft:clay` · в
+- [ ] **Clay Ball** — `minecraft:clay_ball` · к
+- [ ] **Clock** — `minecraft:clock` · в
+- [ ] **Coal** — `minecraft:coal` · к
+- [ ] **Block of Coal** — `minecraft:coal_block` · в
+- [ ] **Coal Ore** — `minecraft:coal_ore` · в
+- [ ] **Coarse Dirt** — `minecraft:coarse_dirt` · в
+- [ ] **Cobbled Deepslate** — `minecraft:cobbled_deepslate` · к
+- [ ] **Cobbled Deepslate Slab** — `minecraft:cobbled_deepslate_slab` · в
+- [ ] **Cobbled Deepslate Stairs** — `minecraft:cobbled_deepslate_stairs` · в
+- [ ] **Cobbled Deepslate Wall** — `minecraft:cobbled_deepslate_wall` · в
+- [ ] **Cobblestone** — `minecraft:cobblestone` · к
+- [ ] **Cobblestone Slab** — `minecraft:cobblestone_slab` · в
+- [ ] **Cobblestone Stairs** — `minecraft:cobblestone_stairs` · в
+- [ ] **Cobblestone Wall** — `minecraft:cobblestone_wall` · в
+- [ ] **Cobweb** — `minecraft:cobweb` · к
+- [ ] **Cocoa** — `minecraft:cocoa` · в
+- [ ] **Cocoa Beans** — `minecraft:cocoa_beans` · в
+- [ ] **Raw Cod** — `minecraft:cod` · в
+- [ ] **Bucket of Cod** — `minecraft:cod_bucket` · в
+- [ ] **Cod Spawn Egg** — `minecraft:cod_spawn_egg` · в
+- [ ] **Command Block** — `minecraft:command_block` · в
+- [ ] **Minecart with Command Block** — `minecraft:command_block_minecart` · в
+- [ ] **Redstone Comparator** — `minecraft:comparator` · в
+- [ ] **Compass** — `minecraft:compass` · в
+- [ ] **Composter** — `minecraft:composter` · в
+- [ ] **Conduit** — `minecraft:conduit` · в
+- [ ] **Steak** — `minecraft:cooked_beef` · к
+- [ ] **Cooked Chicken** — `minecraft:cooked_chicken` · к
+- [ ] **Cooked Cod** — `minecraft:cooked_cod` · к
+- [ ] **Cooked Mutton** — `minecraft:cooked_mutton` · к
+- [ ] **Cooked Porkchop** — `minecraft:cooked_porkchop` · к
+- [ ] **Cooked Rabbit** — `minecraft:cooked_rabbit` · к
+- [ ] **Cooked Salmon** — `minecraft:cooked_salmon` · к
+- [ ] **Cookie** — `minecraft:cookie` · к
+- [ ] **Block of Copper** — `minecraft:copper_block` · к
+- [ ] **Copper Ingot** — `minecraft:copper_ingot` · к
+- [ ] **Copper Ore** — `minecraft:copper_ore` · в
+- [ ] **Cornflower** — `minecraft:cornflower` · в
+- [ ] **Cow Spawn Egg** — `minecraft:cow_spawn_egg` · в
+- [ ] **Cracked Deepslate Bricks** — `minecraft:cracked_deepslate_bricks` · в
+- [ ] **Cracked Deepslate Tiles** — `minecraft:cracked_deepslate_tiles` · в
+- [ ] **Cracked Nether Bricks** — `minecraft:cracked_nether_bricks` · в
+- [ ] **Cracked Polished Blackstone Bricks** — `minecraft:cracked_polished_blackstone_bricks` · в
+- [ ] **Cracked Stone Bricks** — `minecraft:cracked_stone_bricks` · в
+- [ ] **Crafting Table** — `minecraft:crafting_table` · к
+- [ ] **Banner Pattern** — `minecraft:creeper_banner_pattern` · в
+- [ ] **Creeper Head** — `minecraft:creeper_head` · в
+- [ ] **Creeper Spawn Egg** — `minecraft:creeper_spawn_egg` · в
+- [ ] **Creeper Wall Head** — `minecraft:creeper_wall_head` · в
+- [ ] **Crimson Button** — `minecraft:crimson_button` · в
+- [ ] **Crimson Door** — `minecraft:crimson_door` · в
+- [ ] **Crimson Fence** — `minecraft:crimson_fence` · в
+- [ ] **Crimson Fence Gate** — `minecraft:crimson_fence_gate` · в
+- [ ] **Crimson Fungus** — `minecraft:crimson_fungus` · к
+- [ ] **Crimson Hanging Sign** — `minecraft:crimson_hanging_sign` · в
+- [ ] **Crimson Hyphae** — `minecraft:crimson_hyphae` · в
+- [ ] **Crimson Nylium** — `minecraft:crimson_nylium` · в
+- [ ] **Crimson Planks** — `minecraft:crimson_planks` · к
+- [ ] **Crimson Pressure Plate** — `minecraft:crimson_pressure_plate` · в
+- [ ] **Crimson Roots** — `minecraft:crimson_roots` · в
+- [ ] **Crimson Sign** — `minecraft:crimson_sign` · в
+- [ ] **Crimson Slab** — `minecraft:crimson_slab` · в
+- [ ] **Crimson Stairs** — `minecraft:crimson_stairs` · в
+- [ ] **Crimson Stem** — `minecraft:crimson_stem` · в
+- [ ] **Crimson Trapdoor** — `minecraft:crimson_trapdoor` · в
+- [ ] **Crimson Wall Hanging Sign** — `minecraft:crimson_wall_hanging_sign` · в
+- [ ] **Crimson Wall Sign** — `minecraft:crimson_wall_sign` · в
+- [ ] **Crossbow** — `minecraft:crossbow` · в
+- [ ] **Crying Obsidian** — `minecraft:crying_obsidian` · к
+- [ ] **Cut Copper** — `minecraft:cut_copper` · к
+- [ ] **Cut Copper Slab** — `minecraft:cut_copper_slab` · к
+- [ ] **Cut Copper Stairs** — `minecraft:cut_copper_stairs` · к
+- [ ] **Cut Red Sandstone** — `minecraft:cut_red_sandstone` · в
+- [ ] **Cut Red Sandstone Slab** — `minecraft:cut_red_sandstone_slab` · в
+- [ ] **Cut Sandstone** — `minecraft:cut_sandstone` · в
+- [ ] **Cut Sandstone Slab** — `minecraft:cut_sandstone_slab` · в
+- [ ] **Cyan Banner** — `minecraft:cyan_banner` · в
+- [ ] **Cyan Bed** — `minecraft:cyan_bed` · в
+- [ ] **Cyan Candle** — `minecraft:cyan_candle` · в
+- [ ] **Cake with Cyan Candle** — `minecraft:cyan_candle_cake` · в
+- [ ] **Cyan Carpet** — `minecraft:cyan_carpet` · в
+- [ ] **Cyan Concrete** — `minecraft:cyan_concrete` · к
+- [ ] **Cyan Concrete Powder** — `minecraft:cyan_concrete_powder` · в
+- [ ] **Cyan Dye** — `minecraft:cyan_dye` · к
+- [ ] **Cyan Glazed Terracotta** — `minecraft:cyan_glazed_terracotta` · в
+- [ ] **Cyan Shulker Box** — `minecraft:cyan_shulker_box` · в
+- [ ] **Cyan Stained Glass** — `minecraft:cyan_stained_glass` · в
+- [ ] **Cyan Stained Glass Pane** — `minecraft:cyan_stained_glass_pane` · в
+- [ ] **Cyan Terracotta** — `minecraft:cyan_terracotta` · в
+- [ ] **Cyan Wool** — `minecraft:cyan_wool` · в
+- [ ] **Damaged Anvil** — `minecraft:damaged_anvil` · в
+- [ ] **Dandelion** — `minecraft:dandelion` · в
+- [ ] **Danger Pottery Shard** — `minecraft:danger_pottery_shard` · в
+- [ ] **Danger Pottery Sherd** — `minecraft:danger_pottery_sherd` · в
+- [ ] **Dark Oak Boat** — `minecraft:dark_oak_boat` · в
+- [ ] **Dark Oak Button** — `minecraft:dark_oak_button` · в
+- [ ] **Dark Oak Boat with Chest** — `minecraft:dark_oak_chest_boat` · в
+- [ ] **Dark Oak Door** — `minecraft:dark_oak_door` · в
+- [ ] **Dark Oak Fence** — `minecraft:dark_oak_fence` · в
+- [ ] **Dark Oak Fence Gate** — `minecraft:dark_oak_fence_gate` · в
+- [ ] **Dark Oak Hanging Sign** — `minecraft:dark_oak_hanging_sign` · в
+- [ ] **Dark Oak Leaves** — `minecraft:dark_oak_leaves` · в
+- [ ] **Dark Oak Log** — `minecraft:dark_oak_log` · в
+- [ ] **Dark Oak Planks** — `minecraft:dark_oak_planks` · к
+- [ ] **Dark Oak Pressure Plate** — `minecraft:dark_oak_pressure_plate` · в
+- [ ] **Dark Oak Sapling** — `minecraft:dark_oak_sapling` · в
+- [ ] **Dark Oak Sign** — `minecraft:dark_oak_sign` · в
+- [ ] **Dark Oak Slab** — `minecraft:dark_oak_slab` · в
+- [ ] **Dark Oak Stairs** — `minecraft:dark_oak_stairs` · в
+- [ ] **Dark Oak Trapdoor** — `minecraft:dark_oak_trapdoor` · в
+- [ ] **Dark Oak Wall Hanging Sign** — `minecraft:dark_oak_wall_hanging_sign` · в
+- [ ] **Dark Oak Wall Sign** — `minecraft:dark_oak_wall_sign` · в
+- [ ] **Dark Oak Wood** — `minecraft:dark_oak_wood` · в
+- [ ] **Dark Prismarine** — `minecraft:dark_prismarine` · в
+- [ ] **Dark Prismarine Slab** — `minecraft:dark_prismarine_slab` · в
+- [ ] **Dark Prismarine Stairs** — `minecraft:dark_prismarine_stairs` · в
+- [ ] **Daylight Detector** — `minecraft:daylight_detector` · в
+- [ ] **Dead Brain Coral** — `minecraft:dead_brain_coral` · в
+- [ ] **Dead Brain Coral Block** — `minecraft:dead_brain_coral_block` · в
+- [ ] **Dead Brain Coral Fan** — `minecraft:dead_brain_coral_fan` · в
+- [ ] **Dead Brain Coral Wall Fan** — `minecraft:dead_brain_coral_wall_fan` · в
+- [ ] **Dead Bubble Coral** — `minecraft:dead_bubble_coral` · в
+- [ ] **Dead Bubble Coral Block** — `minecraft:dead_bubble_coral_block` · в
+- [ ] **Dead Bubble Coral Fan** — `minecraft:dead_bubble_coral_fan` · в
+- [ ] **Dead Bubble Coral Wall Fan** — `minecraft:dead_bubble_coral_wall_fan` · в
+- [ ] **Dead Bush** — `minecraft:dead_bush` · к
+- [ ] **Dead Fire Coral** — `minecraft:dead_fire_coral` · в
+- [ ] **Dead Fire Coral Block** — `minecraft:dead_fire_coral_block` · в
+- [ ] **Dead Fire Coral Fan** — `minecraft:dead_fire_coral_fan` · в
+- [ ] **Dead Fire Coral Wall Fan** — `minecraft:dead_fire_coral_wall_fan` · в
+- [ ] **Dead Horn Coral** — `minecraft:dead_horn_coral` · в
+- [ ] **Dead Horn Coral Block** — `minecraft:dead_horn_coral_block` · в
+- [ ] **Dead Horn Coral Fan** — `minecraft:dead_horn_coral_fan` · в
+- [ ] **Dead Horn Coral Wall Fan** — `minecraft:dead_horn_coral_wall_fan` · в
+- [ ] **Dead Tube Coral** — `minecraft:dead_tube_coral` · в
+- [ ] **Dead Tube Coral Block** — `minecraft:dead_tube_coral_block` · в
+- [ ] **Dead Tube Coral Fan** — `minecraft:dead_tube_coral_fan` · в
+- [ ] **Dead Tube Coral Wall Fan** — `minecraft:dead_tube_coral_wall_fan` · в
+- [ ] **Debug Stick** — `minecraft:debug_stick` · в
+- [ ] **Decorated Pot** — `minecraft:decorated_pot` · в
+- [ ] **Deepslate** — `minecraft:deepslate` · к
+- [ ] **Deepslate Brick Slab** — `minecraft:deepslate_brick_slab` · в
+- [ ] **Deepslate Brick Stairs** — `minecraft:deepslate_brick_stairs` · в
+- [ ] **Deepslate Brick Wall** — `minecraft:deepslate_brick_wall` · в
+- [ ] **Deepslate Bricks** — `minecraft:deepslate_bricks` · в
+- [ ] **Deepslate Coal Ore** — `minecraft:deepslate_coal_ore` · в
+- [ ] **Deepslate Copper Ore** — `minecraft:deepslate_copper_ore` · в
+- [ ] **Deepslate Diamond Ore** — `minecraft:deepslate_diamond_ore` · в
+- [ ] **Deepslate Emerald Ore** — `minecraft:deepslate_emerald_ore` · в
+- [ ] **Deepslate Gold Ore** — `minecraft:deepslate_gold_ore` · в
+- [ ] **Deepslate Iron Ore** — `minecraft:deepslate_iron_ore` · в
+- [ ] **Deepslate Lapis Lazuli Ore** — `minecraft:deepslate_lapis_ore` · в
+- [ ] **Deepslate Redstone Ore** — `minecraft:deepslate_redstone_ore` · в
+- [ ] **Deepslate Tile Slab** — `minecraft:deepslate_tile_slab` · в
+- [ ] **Deepslate Tile Stairs** — `minecraft:deepslate_tile_stairs` · в
+- [ ] **Deepslate Tile Wall** — `minecraft:deepslate_tile_wall` · в
+- [ ] **Deepslate Tiles** — `minecraft:deepslate_tiles` · в
+- [ ] **Detector Rail** — `minecraft:detector_rail` · к
+- [ ] **Diamond** — `minecraft:diamond` · к
+- [ ] **Diamond Axe** — `minecraft:diamond_axe` · в
+- [ ] **Block of Diamond** — `minecraft:diamond_block` · к
+- [ ] **Diamond Boots** — `minecraft:diamond_boots` · в
+- [ ] **Diamond Chestplate** — `minecraft:diamond_chestplate` · в
+- [ ] **Diamond Helmet** — `minecraft:diamond_helmet` · в
+- [ ] **Diamond Hoe** — `minecraft:diamond_hoe` · в
+- [ ] **Diamond Horse Armor** — `minecraft:diamond_horse_armor` · в
+- [ ] **Diamond Leggings** — `minecraft:diamond_leggings` · в
+- [ ] **Diamond Ore** — `minecraft:diamond_ore` · в
+- [ ] **Diamond Pickaxe** — `minecraft:diamond_pickaxe` · в
+- [ ] **Diamond Shovel** — `minecraft:diamond_shovel` · в
+- [ ] **Diamond Sword** — `minecraft:diamond_sword` · в
+- [ ] **Diorite** — `minecraft:diorite` · к
+- [ ] **Diorite Slab** — `minecraft:diorite_slab` · в
+- [ ] **Diorite Stairs** — `minecraft:diorite_stairs` · в
+- [ ] **Diorite Wall** — `minecraft:diorite_wall` · в
+- [ ] **Dirt** — `minecraft:dirt` · к
+- [ ] **Dirt Path** — `minecraft:dirt_path` · к
+- [ ] **Disc Fragment** — `minecraft:disc_fragment_5` · в
+- [ ] **Dispenser** — `minecraft:dispenser` · в
+- [ ] **Dolphin Spawn Egg** — `minecraft:dolphin_spawn_egg` · в
+- [ ] **Donkey Spawn Egg** — `minecraft:donkey_spawn_egg` · в
+- [ ] **Dragon's Breath** — `minecraft:dragon_breath` · к
+- [ ] **Dragon Egg** — `minecraft:dragon_egg` · в
+- [ ] **Dragon Head** — `minecraft:dragon_head` · в
+- [ ] **Dragon Wall Head** — `minecraft:dragon_wall_head` · в
+- [ ] **Dried Kelp** — `minecraft:dried_kelp` · в
+- [ ] **Dried Kelp Block** — `minecraft:dried_kelp_block` · в
+- [ ] **Dripstone Block** — `minecraft:dripstone_block` · к
+- [ ] **Dropper** — `minecraft:dropper` · в
+- [ ] **Drowned Spawn Egg** — `minecraft:drowned_spawn_egg` · в
+- [ ] **Echo Shard** — `minecraft:echo_shard` · в
+- [ ] **Egg** — `minecraft:egg` · в
+- [ ] **Elder Guardian Spawn Egg** — `minecraft:elder_guardian_spawn_egg` · в
+- [ ] **Elytra** — `minecraft:elytra` · в
+- [ ] **Emerald** — `minecraft:emerald` · к
+- [ ] **Block of Emerald** — `minecraft:emerald_block` · к
+- [ ] **Emerald Ore** — `minecraft:emerald_ore` · в
+- [ ] **Enchanted Book** — `minecraft:enchanted_book` · к
+- [ ] **Enchanted Golden Apple** — `minecraft:enchanted_golden_apple` · к
+- [ ] **Enchanting Table** — `minecraft:enchanting_table` · к
+- [ ] **End Crystal** — `minecraft:end_crystal` · в
+- [ ] **End Gateway** — `minecraft:end_gateway` · в
+- [ ] **End Portal** — `minecraft:end_portal` · в
+- [ ] **End Portal Frame** — `minecraft:end_portal_frame` · в
+- [ ] **End Rod** — `minecraft:end_rod` · в
+- [ ] **End Stone** — `minecraft:end_stone` · к
+- [ ] **End Stone Brick Slab** — `minecraft:end_stone_brick_slab` · в
+- [ ] **End Stone Brick Stairs** — `minecraft:end_stone_brick_stairs` · в
+- [ ] **End Stone Brick Wall** — `minecraft:end_stone_brick_wall` · в
+- [ ] **End Stone Bricks** — `minecraft:end_stone_bricks` · в
+- [ ] **Ender Chest** — `minecraft:ender_chest` · в
+- [ ] **Ender Dragon Spawn Egg** — `minecraft:ender_dragon_spawn_egg` · в
+- [ ] **Eye of Ender** — `minecraft:ender_eye` · к
+- [ ] **Ender Pearl** — `minecraft:ender_pearl` · к
+- [ ] **Enderman Spawn Egg** — `minecraft:enderman_spawn_egg` · в
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

@@ -1,0 +1,430 @@
+# Музей: Quark (quark)
+
+Предметов: 885 · крафтимых по данным: 11 (1%) · файлов: 2
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 2 из 2
+
+*В части: 415 предметов.*
+
+- [ ] **Magenta Terracotta Shingle Slab** — `quark:magenta_shingles_slab` · н
+- [ ] **Magenta Terracotta Shingle Stairs** — `quark:magenta_shingles_stairs` · н
+- [ ] **Magenta Terracotta Shingle Vertical Slab** — `quark:magenta_shingles_vertical_slab` · н
+- [ ] **Magenta Stool** — `quark:magenta_stool` · н
+- [ ] **Magnet** — `quark:magnet` · н
+- [ ] **Magnetized Block** — `quark:magnetized_block` · н
+- [ ] **Mangrove Bookshelf** — `quark:mangrove_bookshelf` · н
+- [ ] **Mangrove Chest** — `quark:mangrove_chest` · н
+- [ ] **Mangrove Leaf Hedge** — `quark:mangrove_hedge` · н
+- [ ] **Mangrove Ladder** — `quark:mangrove_ladder` · н
+- [ ] **Mangrove Leaf Carpet** — `quark:mangrove_leaf_carpet` · н
+- [ ] **Mangrove Post** — `quark:mangrove_post` · н
+- [ ] **Mangrove Trapped Chest** — `quark:mangrove_trapped_chest` · н
+- [ ] **Mangrove Vertical Slab** — `quark:mangrove_vertical_slab` · н
+- [ ] **Matrix Enchanting Table** — `quark:matrix_enchanter` · н
+- [ ] **Midori Block** — `quark:midori_block` · н
+- [ ] **Midori Slab** — `quark:midori_block_slab` · н
+- [ ] **Midori Stairs** — `quark:midori_block_stairs` · н
+- [ ] **Midori Vertical Slab** — `quark:midori_block_vertical_slab` · н
+- [ ] **Midori Pillar** — `quark:midori_pillar` · н
+- [ ] **Monster Box** — `quark:monster_box` · н
+- [ ] **Moss Paste** — `quark:moss_paste` · к
+- [ ] **Mossy Cobblestone Bricks** — `quark:mossy_cobblestone_bricks` · н
+- [ ] **Mossy Cobblestone Brick Slab** — `quark:mossy_cobblestone_bricks_slab` · н
+- [ ] **Mossy Cobblestone Brick Stairs** — `quark:mossy_cobblestone_bricks_stairs` · н
+- [ ] **Mossy Cobblestone Brick Vertical Slab** — `quark:mossy_cobblestone_bricks_vertical_slab` · н
+- [ ] **Mossy Cobblestone Brick Wall** — `quark:mossy_cobblestone_bricks_wall` · н
+- [ ] **Mossy Cobblestone Vertical Slab** — `quark:mossy_cobblestone_vertical_slab` · н
+- [ ] **Mossy Stone Brick Vertical Slab** — `quark:mossy_stone_brick_vertical_slab` · н
+- [ ] **Mud Brick Lattice** — `quark:mud_brick_lattice` · н
+- [ ] **Mud Brick Vertical Slab** — `quark:mud_brick_vertical_slab` · н
+- [ ] **Mud Pillar** — `quark:mud_pillar` · н
+- [ ] **Ambience Disc** — `quark:music_disc_chatter` · н
+- [ ] **Ambience Disc** — `quark:music_disc_clock` · н
+- [ ] **Ambience Disc** — `quark:music_disc_crickets` · н
+- [ ] **Ambience Disc** — `quark:music_disc_drips` · н
+- [ ] **Music Disc** — `quark:music_disc_endermosh` · н
+- [ ] **Ambience Disc** — `quark:music_disc_fire` · н
+- [ ] **Ambience Disc** — `quark:music_disc_ocean` · н
+- [ ] **Ambience Disc** — `quark:music_disc_rain` · н
+- [ ] **Ambience Disc** — `quark:music_disc_wind` · н
+- [ ] **Myalite** — `quark:myalite` · н
+- [ ] **Myalite Bricks** — `quark:myalite_bricks` · н
+- [ ] **Myalite Brick Slab** — `quark:myalite_bricks_slab` · н
+- [ ] **Myalite Brick Stairs** — `quark:myalite_bricks_stairs` · н
+- [ ] **Myalite Brick Vertical Slab** — `quark:myalite_bricks_vertical_slab` · н
+- [ ] **Myalite Brick Wall** — `quark:myalite_bricks_wall` · н
+- [ ] **Myalite Crystal** — `quark:myalite_crystal` · н
+- [ ] **Myalite Pillar** — `quark:myalite_pillar` · н
+- [ ] **Myalite Slab** — `quark:myalite_slab` · н
+- [ ] **Myalite Stairs** — `quark:myalite_stairs` · н
+- [ ] **Myalite Vertical Slab** — `quark:myalite_vertical_slab` · н
+- [ ] **Myalite Wall** — `quark:myalite_wall` · н
+- [ ] **Nether Brick Chest** — `quark:nether_brick_chest` · н
+- [ ] **Nether Brick Fence Gate** — `quark:nether_brick_fence_gate` · н
+- [ ] **Nether Brick Trapped Chest** — `quark:nether_brick_trapped_chest` · н
+- [ ] **Nether Brick Vertical Slab** — `quark:nether_brick_vertical_slab` · н
+- [ ] **Nether Wart Sack** — `quark:nether_wart_sack` · н
+- [ ] **Netherrack Bricks** — `quark:netherrack_bricks` · н
+- [ ] **Netherrack Brick Slab** — `quark:netherrack_bricks_slab` · н
+- [ ] **Netherrack Brick Stairs** — `quark:netherrack_bricks_stairs` · н
+- [ ] **Netherrack Brick Vertical Slab** — `quark:netherrack_bricks_vertical_slab` · н
+- [ ] **Netherrack Brick Wall** — `quark:netherrack_bricks_wall` · н
+- [ ] **Oak Bookshelf** — `quark:oak_bookshelf` · н
+- [ ] **Oak Chest** — `quark:oak_chest` · н
+- [ ] **Oak Leaf Hedge** — `quark:oak_hedge` · н
+- [ ] **Oak Ladder** — `quark:oak_ladder` · н
+- [ ] **Oak Leaf Carpet** — `quark:oak_leaf_carpet` · н
+- [ ] **Oak Post** — `quark:oak_post` · н
+- [ ] **Oak Trapped Chest** — `quark:oak_trapped_chest` · н
+- [ ] **Oak Vertical Slab** — `quark:oak_vertical_slab` · н
+- [ ] **Obsidian Pressure Plate** — `quark:obsidian_pressure_plate` · н
+- [ ] **Warm Trumpet Leaf Hedge** — `quark:orange_blossom_hedge` · н
+- [ ] **Warm Trumpet Leaf Carpet** — `quark:orange_blossom_leaf_carpet` · н
+- [ ] **Warm Trumpet Leaves** — `quark:orange_blossom_leaves` · н
+- [ ] **Warm Trumpet Sapling** — `quark:orange_blossom_sapling` · н
+- [ ] **Orange Corundum** — `quark:orange_corundum` · н
+- [ ] **Orange Corundum Cluster** — `quark:orange_corundum_cluster` · н
+- [ ] **Orange Corundum Lamp** — `quark:orange_corundum_lamp` · н
+- [ ] **Orange Corundum Sheet** — `quark:orange_corundum_pane` · н
+- [ ] **Orange Crystal Lamp** — `quark:orange_crystal_lamp` · н
+- [ ] **Orange Framed Glass** — `quark:orange_framed_glass` · н
+- [ ] **Orange Framed Glass Pane** — `quark:orange_framed_glass_pane` · н
+- [ ] **Orange Glass Shard** — `quark:orange_shard` · н
+- [ ] **Orange Terracotta Shingles** — `quark:orange_shingles` · н
+- [ ] **Orange Terracotta Shingle Slab** — `quark:orange_shingles_slab` · н
+- [ ] **Orange Terracotta Shingle Stairs** — `quark:orange_shingles_stairs` · н
+- [ ] **Orange Terracotta Shingle Vertical Slab** — `quark:orange_shingles_vertical_slab` · н
+- [ ] **Orange Stool** — `quark:orange_stool` · н
+- [ ] **Oxidized Cut Copper Vertical Slab** — `quark:oxidized_cut_copper_vertical_slab` · н
+- [ ] **Paper Lantern** — `quark:paper_lantern` · н
+- [ ] **Decorated Paper Lantern** — `quark:paper_lantern_sakura` · н
+- [ ] **Paper Wall** — `quark:paper_wall` · н
+- [ ] **Big Paper Wall** — `quark:paper_wall_big` · н
+- [ ] **Decorated Paper Wall** — `quark:paper_wall_sakura` · н
+- [ ] **Pathfinder's Quill** — `quark:pathfinders_quill` · н
+- [ ] **Permafrost** — `quark:permafrost` · н
+- [ ] **Permafrost Bricks** — `quark:permafrost_bricks` · н
+- [ ] **Permafrost Brick Slab** — `quark:permafrost_bricks_slab` · н
+- [ ] **Permafrost Brick Stairs** — `quark:permafrost_bricks_stairs` · н
+- [ ] **Permafrost Brick Vertical Slab** — `quark:permafrost_bricks_vertical_slab` · н
+- [ ] **Permafrost Brick Wall** — `quark:permafrost_bricks_wall` · н
+- [ ] **Permafrost Slab** — `quark:permafrost_slab` · н
+- [ ] **Permafrost Stairs** — `quark:permafrost_stairs` · н
+- [ ] **Permafrost Vertical Slab** — `quark:permafrost_vertical_slab` · н
+- [ ] **Permafrost Wall** — `quark:permafrost_wall` · н
+- [ ] **Pickarang** — `quark:pickarang` · н
+- [ ] **Pink Framed Glass** — `quark:pink_framed_glass` · н
+- [ ] **Pink Framed Glass Pane** — `quark:pink_framed_glass_pane` · н
+- [ ] **Pink Glass Shard** — `quark:pink_shard` · н
+- [ ] **Pink Terracotta Shingles** — `quark:pink_shingles` · н
+- [ ] **Pink Terracotta Shingle Slab** — `quark:pink_shingles_slab` · н
+- [ ] **Pink Terracotta Shingle Stairs** — `quark:pink_shingles_stairs` · н
+- [ ] **Pink Terracotta Shingle Vertical Slab** — `quark:pink_shingles_vertical_slab` · н
+- [ ] **Pink Stool** — `quark:pink_stool` · н
+- [ ] **Copper Pipe** — `quark:pipe` · н
+- [ ] **Polished Andesite Vertical Slab** — `quark:polished_andesite_vertical_slab` · н
+- [ ] **Polished Blackstone Brick Vertical Slab** — `quark:polished_blackstone_brick_vertical_slab` · н
+- [ ] **Polished Blackstone Vertical Slab** — `quark:polished_blackstone_vertical_slab` · н
+- [ ] **Polished Calcite** — `quark:polished_calcite` · н
+- [ ] **Polished Calcite Slab** — `quark:polished_calcite_slab` · н
+- [ ] **Polished Calcite Stairs** — `quark:polished_calcite_stairs` · н
+- [ ] **Polished Calcite Vertical Slab** — `quark:polished_calcite_vertical_slab` · н
+- [ ] **Polished Deepslate Vertical Slab** — `quark:polished_deepslate_vertical_slab` · н
+- [ ] **Polished Diorite Vertical Slab** — `quark:polished_diorite_vertical_slab` · н
+- [ ] **Polished Dripstone** — `quark:polished_dripstone` · н
+- [ ] **Polished Dripstone Slab** — `quark:polished_dripstone_slab` · н
+- [ ] **Polished Dripstone Stairs** — `quark:polished_dripstone_stairs` · н
+- [ ] **Polished Dripstone Vertical Slab** — `quark:polished_dripstone_vertical_slab` · н
+- [ ] **Polished Granite Vertical Slab** — `quark:polished_granite_vertical_slab` · н
+- [ ] **Polished Jasper** — `quark:polished_jasper` · н
+- [ ] **Polished Jasper Slab** — `quark:polished_jasper_slab` · н
+- [ ] **Polished Jasper Stairs** — `quark:polished_jasper_stairs` · н
+- [ ] **Polished Jasper Vertical Slab** — `quark:polished_jasper_vertical_slab` · н
+- [ ] **Polished Limestone** — `quark:polished_limestone` · н
+- [ ] **Polished Limestone Slab** — `quark:polished_limestone_slab` · н
+- [ ] **Polished Limestone Stairs** — `quark:polished_limestone_stairs` · н
+- [ ] **Polished Limestone Vertical Slab** — `quark:polished_limestone_vertical_slab` · н
+- [ ] **Polished Myalite** — `quark:polished_myalite` · н
+- [ ] **Polished Myalite Slab** — `quark:polished_myalite_slab` · н
+- [ ] **Polished Myalite Stairs** — `quark:polished_myalite_stairs` · н
+- [ ] **Polished Myalite Vertical Slab** — `quark:polished_myalite_vertical_slab` · н
+- [ ] **Polished Shale** — `quark:polished_shale` · н
+- [ ] **Polished Shale Slab** — `quark:polished_shale_slab` · н
+- [ ] **Polished Shale Stairs** — `quark:polished_shale_stairs` · н
+- [ ] **Polished Shale Vertical Slab** — `quark:polished_shale_vertical_slab` · н
+- [ ] **Polished Tuff** — `quark:polished_tuff` · н
+- [ ] **Polished Tuff Slab** — `quark:polished_tuff_slab` · н
+- [ ] **Polished Tuff Stairs** — `quark:polished_tuff_stairs` · н
+- [ ] **Polished Tuff Vertical Slab** — `quark:polished_tuff_vertical_slab` · н
+- [ ] **Potato Crate** — `quark:potato_crate` · н
+- [ ] **Potted Ashen Sapling** — `quark:potted_ancient_sapling` · н
+- [ ] **Potted Beetroots** — `quark:potted_beetroot` · н
+- [ ] **Potted Sweet Berry Bush** — `quark:potted_berries` · н
+- [ ] **Potted Frosty Trumpet Sapling** — `quark:potted_blue_blossom_sapling` · н
+- [ ] **Potted Carrots** — `quark:potted_carrot` · н
+- [ ] **Potted Cave Vines** — `quark:potted_cave_vines` · н
+- [ ] **Potted Chorus Tree** — `quark:potted_chorus` · н
+- [ ] **Potted Chorus Twist** — `quark:potted_chorus_twist` · н
+- [ ] **Potted Chorus Weeds** — `quark:potted_chorus_weeds` · н
+- [ ] **Potted Cocoa** — `quark:potted_cocoa_bean` · н
+- [ ] **Potted Glow Lichen** — `quark:potted_glow_lichen_growth` · н
+- [ ] **Potted Glow Shroom** — `quark:potted_glow_shroom` · н
+- [ ] **Potted Grass** — `quark:potted_grass` · н
+- [ ] **Potted Large Fern** — `quark:potted_large_fern` · н
+- [ ] **Potted Serene Trumpet Sapling** — `quark:potted_lavender_blossom_sapling` · н
+- [ ] **Potted Lilac** — `quark:potted_lilac` · н
+- [ ] **Potted Melon** — `quark:potted_melon` · н
+- [ ] **Potted Nether Sprouts** — `quark:potted_nether_sprouts` · н
+- [ ] **Potted Nether Wart** — `quark:potted_nether_wart` · н
+- [ ] **Potted Warm Trumpet Sapling** — `quark:potted_orange_blossom_sapling` · н
+- [ ] **Potted Peony** — `quark:potted_peony` · н
+- [ ] **Potted Potatoes** — `quark:potted_potato` · н
+- [ ] **Potted Pumpkin** — `quark:potted_pumpkin` · н
+- [ ] **Potted Fiery Trumpet Sapling** — `quark:potted_red_blossom_sapling` · н
+- [ ] **Potted Rose** — `quark:potted_rose` · н
+- [ ] **Potted Sea Pickle** — `quark:potted_sea_pickle` · н
+- [ ] **Potted Sugar Cane** — `quark:potted_sugar_cane` · н
+- [ ] **Potted Sunflower** — `quark:potted_sunflower` · н
+- [ ] **Potted Tall Grass** — `quark:potted_tall_grass` · н
+- [ ] **Potted Twisting Vines** — `quark:potted_twisting_vines` · н
+- [ ] **Potted Vines** — `quark:potted_vine` · н
+- [ ] **Potted Weeping Vines** — `quark:potted_weeping_vines` · н
+- [ ] **Potted Wheat** — `quark:potted_wheat` · н
+- [ ] **Potted Sunny Trumpet Sapling** — `quark:potted_yellow_blossom_sapling` · н
+- [ ] **Prismarine Brick Vertical Slab** — `quark:prismarine_brick_vertical_slab` · н
+- [ ] **Prismarine Chest** — `quark:prismarine_chest` · н
+- [ ] **Prismarine Trapped Chest** — `quark:prismarine_trapped_chest` · н
+- [ ] **Prismarine Vertical Slab** — `quark:prismarine_vertical_slab` · н
+- [ ] **Purple Framed Glass** — `quark:purple_framed_glass` · н
+- [ ] **Purple Framed Glass Pane** — `quark:purple_framed_glass_pane` · н
+- [ ] **Purple Glass Shard** — `quark:purple_shard` · н
+- [ ] **Purple Terracotta Shingles** — `quark:purple_shingles` · н
+- [ ] **Purple Terracotta Shingle Slab** — `quark:purple_shingles_slab` · н
+- [ ] **Purple Terracotta Shingle Stairs** — `quark:purple_shingles_stairs` · н
+- [ ] **Purple Terracotta Shingle Vertical Slab** — `quark:purple_shingles_vertical_slab` · н
+- [ ] **Purple Stool** — `quark:purple_stool` · н
+- [ ] **Purpur Chest** — `quark:purpur_chest` · н
+- [ ] **Purpur Trapped Chest** — `quark:purpur_trapped_chest` · н
+- [ ] **Purpur Vertical Slab** — `quark:purpur_vertical_slab` · н
+- [ ] **Quartz Vertical Slab** — `quark:quartz_vertical_slab` · н
+- [ ] **Ravager Hide** — `quark:ravager_hide` · н
+- [ ] **Raw Copper Bricks** — `quark:raw_copper_bricks` · н
+- [ ] **Raw Copper Brick Slab** — `quark:raw_copper_bricks_slab` · н
+- [ ] **Raw Copper Brick Stairs** — `quark:raw_copper_bricks_stairs` · н
+- [ ] **Raw Copper Brick Vertical Slab** — `quark:raw_copper_bricks_vertical_slab` · н
+- [ ] **Raw Copper Brick Wall** — `quark:raw_copper_bricks_wall` · н
+- [ ] **Raw Gold Bricks** — `quark:raw_gold_bricks` · н
+- [ ] **Raw Gold Brick Slab** — `quark:raw_gold_bricks_slab` · н
+- [ ] **Raw Gold Brick Stairs** — `quark:raw_gold_bricks_stairs` · н
+- [ ] **Raw Gold Brick Vertical Slab** — `quark:raw_gold_bricks_vertical_slab` · н
+- [ ] **Raw Gold Brick Wall** — `quark:raw_gold_bricks_wall` · н
+- [ ] **Raw Iron Bricks** — `quark:raw_iron_bricks` · н
+- [ ] **Raw Iron Brick Slab** — `quark:raw_iron_bricks_slab` · н
+- [ ] **Raw Iron Brick Stairs** — `quark:raw_iron_bricks_stairs` · н
+- [ ] **Raw Iron Brick Vertical Slab** — `quark:raw_iron_bricks_vertical_slab` · н
+- [ ] **Raw Iron Brick Wall** — `quark:raw_iron_bricks_wall` · н
+- [ ] **Fiery Trumpet Leaf Hedge** — `quark:red_blossom_hedge` · н
+- [ ] **Fiery Trumpet Leaf Carpet** — `quark:red_blossom_leaf_carpet` · н
+- [ ] **Fiery Trumpet Leaves** — `quark:red_blossom_leaves` · н
+- [ ] **Fiery Trumpet Sapling** — `quark:red_blossom_sapling` · н
+- [ ] **Red Corundum** — `quark:red_corundum` · н
+- [ ] **Red Corundum Cluster** — `quark:red_corundum_cluster` · н
+- [ ] **Red Corundum Lamp** — `quark:red_corundum_lamp` · н
+- [ ] **Red Corundum Sheet** — `quark:red_corundum_pane` · н
+- [ ] **Red Crystal Lamp** — `quark:red_crystal_lamp` · н
+- [ ] **Red Framed Glass** — `quark:red_framed_glass` · н
+- [ ] **Red Framed Glass Pane** — `quark:red_framed_glass_pane` · н
+- [ ] **Red Nether Brick Vertical Slab** — `quark:red_nether_brick_vertical_slab` · н
+- [ ] **Red Sandstone Bricks** — `quark:red_sandstone_bricks` · н
+- [ ] **Red Sandstone Brick Slab** — `quark:red_sandstone_bricks_slab` · н
+- [ ] **Red Sandstone Brick Stairs** — `quark:red_sandstone_bricks_stairs` · н
+- [ ] **Red Sandstone Brick Vertical Slab** — `quark:red_sandstone_bricks_vertical_slab` · н
+- [ ] **Red Sandstone Brick Wall** — `quark:red_sandstone_bricks_wall` · н
+- [ ] **Red Sandstone Vertical Slab** — `quark:red_sandstone_vertical_slab` · н
+- [ ] **Red Glass Shard** — `quark:red_shard` · н
+- [ ] **Red Terracotta Shingles** — `quark:red_shingles` · н
+- [ ] **Red Terracotta Shingle Slab** — `quark:red_shingles_slab` · н
+- [ ] **Red Terracotta Shingle Stairs** — `quark:red_shingles_stairs` · н
+- [ ] **Red Terracotta Shingle Vertical Slab** — `quark:red_shingles_vertical_slab` · н
+- [ ] **Red Stool** — `quark:red_stool` · н
+- [ ] **Redstone Randomizer** — `quark:redstone_randomizer` · н
+- [ ] **Rope Coil** — `quark:rope` · н
+- [ ] **Rusty Iron Plate** — `quark:rusty_iron_plate` · к
+- [ ] **Rusty Iron Plate Slab** — `quark:rusty_iron_plate_slab` · н
+- [ ] **Rusty Iron Plate Stairs** — `quark:rusty_iron_plate_stairs` · н
+- [ ] **Rusty Iron Plate Vertical Slab** — `quark:rusty_iron_plate_vertical_slab` · н
+- [ ] **Sandstone Bricks** — `quark:sandstone_bricks` · н
+- [ ] **Sandstone Brick Slab** — `quark:sandstone_bricks_slab` · н
+- [ ] **Sandstone Brick Stairs** — `quark:sandstone_bricks_stairs` · н
+- [ ] **Sandstone Brick Vertical Slab** — `quark:sandstone_bricks_vertical_slab` · н
+- [ ] **Sandstone Brick Wall** — `quark:sandstone_bricks_wall` · н
+- [ ] **Sandstone Vertical Slab** — `quark:sandstone_vertical_slab` · н
+- [ ] **Seed Pouch** — `quark:seed_pouch` · н
+- [ ] **Shale** — `quark:shale` · н
+- [ ] **Shale Bricks** — `quark:shale_bricks` · н
+- [ ] **Shale Brick Slab** — `quark:shale_bricks_slab` · н
+- [ ] **Shale Brick Stairs** — `quark:shale_bricks_stairs` · н
+- [ ] **Shale Brick Vertical Slab** — `quark:shale_bricks_vertical_slab` · н
+- [ ] **Shale Brick Wall** — `quark:shale_bricks_wall` · н
+- [ ] **Shale Pillar** — `quark:shale_pillar` · н
+- [ ] **Shale Slab** — `quark:shale_slab` · н
+- [ ] **Shale Stairs** — `quark:shale_stairs` · н
+- [ ] **Shale Vertical Slab** — `quark:shale_vertical_slab` · н
+- [ ] **Shale Wall** — `quark:shale_wall` · н
+- [ ] **Shiba Spawn Egg** — `quark:shiba_spawn_egg` · н
+- [ ] **Terracotta Shingles** — `quark:shingles` · н
+- [ ] **Terracotta Shingle Slab** — `quark:shingles_slab` · н
+- [ ] **Terracotta Shingle Stairs** — `quark:shingles_stairs` · н
+- [ ] **Terracotta Shingle Vertical Slab** — `quark:shingles_vertical_slab` · н
+- [ ] **Bucket of Slime** — `quark:slime_in_a_bucket` · н
+- [ ] **Smooth Quartz Vertical Slab** — `quark:smooth_quartz_vertical_slab` · н
+- [ ] **Smooth Red Sandstone Vertical Slab** — `quark:smooth_red_sandstone_vertical_slab` · н
+- [ ] **Smooth Sandstone Vertical Slab** — `quark:smooth_sandstone_vertical_slab` · н
+- [ ] **Smooth Soul Sandstone** — `quark:smooth_soul_sandstone` · н
+- [ ] **Smooth Soul Sandstone Slab** — `quark:smooth_soul_sandstone_slab` · н
+- [ ] **Smooth Soul Sandstone Stairs** — `quark:smooth_soul_sandstone_stairs` · н
+- [ ] **Smooth Soul Sandstone Vertical Slab** — `quark:smooth_soul_sandstone_vertical_slab` · н
+- [ ] **Smooth Stone Vertical Slab** — `quark:smooth_stone_vertical_slab` · н
+- [ ] **Soul Bead** — `quark:soul_bead` · н
+- [ ] **Soul Sandstone** — `quark:soul_sandstone` · н
+- [ ] **Soul Sandstone Bricks** — `quark:soul_sandstone_bricks` · н
+- [ ] **Soul Sandstone Brick Slab** — `quark:soul_sandstone_bricks_slab` · н
+- [ ] **Soul Sandstone Brick Stairs** — `quark:soul_sandstone_bricks_stairs` · н
+- [ ] **Soul Sandstone Brick Vertical Slab** — `quark:soul_sandstone_bricks_vertical_slab` · н
+- [ ] **Soul Sandstone Brick Wall** — `quark:soul_sandstone_bricks_wall` · н
+- [ ] **Soul Sandstone Slab** — `quark:soul_sandstone_slab` · н
+- [ ] **Soul Sandstone Stairs** — `quark:soul_sandstone_stairs` · н
+- [ ] **Soul Sandstone Vertical Slab** — `quark:soul_sandstone_vertical_slab` · н
+- [ ] **Soul Sandstone Wall** — `quark:soul_sandstone_wall` · н
+- [ ] **Spruce Bookshelf** — `quark:spruce_bookshelf` · н
+- [ ] **Spruce Chest** — `quark:spruce_chest` · н
+- [ ] **Spruce Leaf Hedge** — `quark:spruce_hedge` · н
+- [ ] **Spruce Ladder** — `quark:spruce_ladder` · н
+- [ ] **Spruce Leaf Carpet** — `quark:spruce_leaf_carpet` · н
+- [ ] **Spruce Post** — `quark:spruce_post` · н
+- [ ] **Spruce Trapped Chest** — `quark:spruce_trapped_chest` · н
+- [ ] **Spruce Vertical Slab** — `quark:spruce_vertical_slab` · н
+- [ ] **Stick Stack** — `quark:stick_block` · н
+- [ ] **Stone Brick Lamp** — `quark:stone_brick_lamp` · н
+- [ ] **Stone Brick Vertical Slab** — `quark:stone_brick_vertical_slab` · н
+- [ ] **Stone Lamp** — `quark:stone_lamp` · н
+- [ ] **Stone Vertical Slab** — `quark:stone_vertical_slab` · н
+- [ ] **Stoneling Spawn Egg** — `quark:stoneling_spawn_egg` · н
+- [ ] **Stripped Acacia Post** — `quark:stripped_acacia_post` · н
+- [ ] **Stripped Ashen Log** — `quark:stripped_ancient_log` · к
+- [ ] **Stripped Ashen Post** — `quark:stripped_ancient_post` · н
+- [ ] **Stripped Ashen Wood** — `quark:stripped_ancient_wood` · к
+- [ ] **Stripped Azalea Log** — `quark:stripped_azalea_log` · к
+- [ ] **Stripped Azalea Post** — `quark:stripped_azalea_post` · н
+- [ ] **Stripped Azalea Wood** — `quark:stripped_azalea_wood` · к
+- [ ] **Stripped Bamboo Post** — `quark:stripped_bamboo_post` · н
+- [ ] **Stripped Birch Post** — `quark:stripped_birch_post` · н
+- [ ] **Stripped Trumpet Log** — `quark:stripped_blossom_log` · к
+- [ ] **Stripped Trumpet Post** — `quark:stripped_blossom_post` · н
+- [ ] **Stripped Trumpet Wood** — `quark:stripped_blossom_wood` · к
+- [ ] **Stripped Cherry Post** — `quark:stripped_cherry_post` · н
+- [ ] **Stripped Crimson Post** — `quark:stripped_crimson_post` · н
+- [ ] **Stripped Dark Oak Post** — `quark:stripped_dark_oak_post` · н
+- [ ] **Stripped Jungle Post** — `quark:stripped_jungle_post` · н
+- [ ] **Stripped Mangrove Post** — `quark:stripped_mangrove_post` · н
+- [ ] **Stripped Oak Post** — `quark:stripped_oak_post` · н
+- [ ] **Stripped Spruce Post** — `quark:stripped_spruce_post` · н
+- [ ] **Stripped Warped Post** — `quark:stripped_warped_post` · н
+- [ ] **Sturdy Stone** — `quark:sturdy_stone` · н
+- [ ] **Sugar Cane Bundle** — `quark:sugar_cane_block` · н
+- [ ] **Thatch** — `quark:thatch` · н
+- [ ] **Thatch Slab** — `quark:thatch_slab` · н
+- [ ] **Thatch Stairs** — `quark:thatch_stairs` · н
+- [ ] **Thatch Vertical Slab** — `quark:thatch_vertical_slab` · н
+- [ ] **Tiny Potato** — `quark:tiny_potato` · н
+- [ ] **Torch Arrow** — `quark:torch_arrow` · н
+- [ ] **Oretoise Spawn Egg** — `quark:toretoise_spawn_egg` · н
+- [ ] **Trowel** — `quark:trowel` · н
+- [ ] **Tuff Bricks** — `quark:tuff_bricks` · н
+- [ ] **Tuff Brick Slab** — `quark:tuff_bricks_slab` · н
+- [ ] **Tuff Brick Stairs** — `quark:tuff_bricks_stairs` · н
+- [ ] **Tuff Brick Vertical Slab** — `quark:tuff_bricks_vertical_slab` · н
+- [ ] **Tuff Brick Wall** — `quark:tuff_bricks_wall` · н
+- [ ] **Tuff Pillar** — `quark:tuff_pillar` · н
+- [ ] **Tuff Slab** — `quark:tuff_slab` · н
+- [ ] **Tuff Stairs** — `quark:tuff_stairs` · н
+- [ ] **Tuff Vertical Slab** — `quark:tuff_vertical_slab` · н
+- [ ] **Tuff Wall** — `quark:tuff_wall` · н
+- [ ] **Vertical Acacia Planks** — `quark:vertical_acacia_planks` · н
+- [ ] **Vertical Ashen Planks** — `quark:vertical_ancient_planks` · н
+- [ ] **Vertical Azalea Planks** — `quark:vertical_azalea_planks` · н
+- [ ] **Vertical Bamboo Planks** — `quark:vertical_bamboo_planks` · н
+- [ ] **Vertical Birch Planks** — `quark:vertical_birch_planks` · н
+- [ ] **Vertical Trumpet Planks** — `quark:vertical_blossom_planks` · н
+- [ ] **Vertical Cherry Planks** — `quark:vertical_cherry_planks` · н
+- [ ] **Vertical Crimson Planks** — `quark:vertical_crimson_planks` · н
+- [ ] **Vertical Dark Oak Planks** — `quark:vertical_dark_oak_planks` · н
+- [ ] **Vertical Jungle Planks** — `quark:vertical_jungle_planks` · н
+- [ ] **Vertical Mangrove Planks** — `quark:vertical_mangrove_planks` · н
+- [ ] **Vertical Oak Planks** — `quark:vertical_oak_planks` · н
+- [ ] **Vertical Spruce Planks** — `quark:vertical_spruce_planks` · н
+- [ ] **Vertical Warped Planks** — `quark:vertical_warped_planks` · н
+- [ ] **Violet Corundum** — `quark:violet_corundum` · н
+- [ ] **Violet Corundum Cluster** — `quark:violet_corundum_cluster` · н
+- [ ] **Violet Corundum Lamp** — `quark:violet_corundum_lamp` · н
+- [ ] **Violet Corundum Sheet** — `quark:violet_corundum_pane` · н
+- [ ] **Violet Crystal Lamp** — `quark:violet_crystal_lamp` · н
+- [ ] **Warped Bookshelf** — `quark:warped_bookshelf` · н
+- [ ] **Warped Chest** — `quark:warped_chest` · н
+- [ ] **Warped Ladder** — `quark:warped_ladder` · н
+- [ ] **Warped Post** — `quark:warped_post` · н
+- [ ] **Warped Trapped Chest** — `quark:warped_trapped_chest` · н
+- [ ] **Warped Vertical Slab** — `quark:warped_vertical_slab` · н
+- [ ] **Waxed Black Corundum** — `quark:waxed_black_corundum` · н
+- [ ] **Waxed Blue Corundum** — `quark:waxed_blue_corundum` · н
+- [ ] **Waxed Cut Copper Vertical Slab** — `quark:waxed_cut_copper_vertical_slab` · н
+- [ ] **Waxed Exposed Cut Copper Vertical Slab** — `quark:waxed_exposed_cut_copper_vertical_slab` · н
+- [ ] **Waxed Green Corundum** — `quark:waxed_green_corundum` · н
+- [ ] **Waxed Indigo Corundum** — `quark:waxed_indigo_corundum` · н
+- [ ] **Waxed Orange Corundum** — `quark:waxed_orange_corundum` · н
+- [ ] **Waxed Oxidized Cut Copper Vertical Slab** — `quark:waxed_oxidized_cut_copper_vertical_slab` · н
+- [ ] **Waxed Red Corundum** — `quark:waxed_red_corundum` · н
+- [ ] **Waxed Violet Corundum** — `quark:waxed_violet_corundum` · н
+- [ ] **Waxed Weathered Cut Copper Vertical Slab** — `quark:waxed_weathered_cut_copper_vertical_slab` · н
+- [ ] **Waxed White Corundum** — `quark:waxed_white_corundum` · н
+- [ ] **Waxed Yellow Corundum** — `quark:waxed_yellow_corundum` · н
+- [ ] **Weather Detector** — `quark:weather_sensor` · н
+- [ ] **Weathered Cut Copper Vertical Slab** — `quark:weathered_cut_copper_vertical_slab` · н
+- [ ] **White Corundum** — `quark:white_corundum` · н
+- [ ] **White Corundum Cluster** — `quark:white_corundum_cluster` · н
+- [ ] **White Corundum Lamp** — `quark:white_corundum_lamp` · н
+- [ ] **White Corundum Sheet** — `quark:white_corundum_pane` · н
+- [ ] **White Crystal Lamp** — `quark:white_crystal_lamp` · н
+- [ ] **White Framed Glass** — `quark:white_framed_glass` · н
+- [ ] **White Framed Glass Pane** — `quark:white_framed_glass_pane` · н
+- [ ] **White Glass Shard** — `quark:white_shard` · н
+- [ ] **White Terracotta Shingles** — `quark:white_shingles` · н
+- [ ] **White Terracotta Shingle Slab** — `quark:white_shingles_slab` · н
+- [ ] **White Terracotta Shingle Stairs** — `quark:white_shingles_stairs` · н
+- [ ] **White Terracotta Shingle Vertical Slab** — `quark:white_shingles_vertical_slab` · н
+- [ ] **White Stool** — `quark:white_stool` · н
+- [ ] **Wraith Spawn Egg** — `quark:wraith_spawn_egg` · н
+- [ ] **Sunny Trumpet Leaf Hedge** — `quark:yellow_blossom_hedge` · н
+- [ ] **Sunny Trumpet Leaf Carpet** — `quark:yellow_blossom_leaf_carpet` · н
+- [ ] **Sunny Trumpet Leaves** — `quark:yellow_blossom_leaves` · н
+- [ ] **Sunny Trumpet Sapling** — `quark:yellow_blossom_sapling` · н
+- [ ] **Yellow Corundum** — `quark:yellow_corundum` · н
+- [ ] **Yellow Corundum Cluster** — `quark:yellow_corundum_cluster` · н
+- [ ] **Yellow Corundum Lamp** — `quark:yellow_corundum_lamp` · н
+- [ ] **Yellow Corundum Sheet** — `quark:yellow_corundum_pane` · н
+- [ ] **Yellow Crystal Lamp** — `quark:yellow_crystal_lamp` · н
+- [ ] **Yellow Framed Glass** — `quark:yellow_framed_glass` · н
+- [ ] **Yellow Framed Glass Pane** — `quark:yellow_framed_glass_pane` · н
+- [ ] **Yellow Glass Shard** — `quark:yellow_shard` · н
+- [ ] **Yellow Terracotta Shingles** — `quark:yellow_shingles` · н
+- [ ] **Yellow Terracotta Shingle Slab** — `quark:yellow_shingles_slab` · н
+- [ ] **Yellow Terracotta Shingle Stairs** — `quark:yellow_shingles_stairs` · н
+- [ ] **Yellow Terracotta Shingle Vertical Slab** — `quark:yellow_shingles_vertical_slab` · н
+- [ ] **Yellow Stool** — `quark:yellow_stool` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

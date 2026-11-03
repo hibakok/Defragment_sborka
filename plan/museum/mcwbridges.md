@@ -1,0 +1,159 @@
+# Музей: Macaw's Bridges (mcwbridges)
+
+Предметов: 146 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 146 предметов.*
+
+- [ ] **Acacia Bridge Support** — `mcwbridges:acacia_bridge_pier` · н
+- [ ] **Acacia Bridge** — `mcwbridges:acacia_log_bridge_middle` · н
+- [ ] **Acacia Bridge Stair** — `mcwbridges:acacia_log_bridge_stair` · н
+- [ ] **Acacia Rail Bridge** — `mcwbridges:acacia_rail_bridge` · н
+- [ ] **Rope Acacia Bridge Stair** — `mcwbridges:acacia_rope_bridge_stair` · н
+- [ ] **Andesite Bridge** — `mcwbridges:andesite_bridge` · н
+- [ ] **Andesite Bridge Pier** — `mcwbridges:andesite_bridge_pier` · н
+- [ ] **Andesite Bridge Stair** — `mcwbridges:andesite_bridge_stair` · н
+- [ ] **Asian Red Bridge** — `mcwbridges:asian_red_bridge` · н
+- [ ] **Asian Red Bridge Pier** — `mcwbridges:asian_red_bridge_pier` · н
+- [ ] **Asian Red Bridge Stair** — `mcwbridges:asian_red_bridge_stair` · н
+- [ ] **Balustrade Andesite Bridge** — `mcwbridges:balustrade_andesite_bridge` · н
+- [ ] **Balustrade Blackstone Bridge** — `mcwbridges:balustrade_blackstone_bridge` · н
+- [ ] **Balustrade Bricks Bridge** — `mcwbridges:balustrade_bricks_bridge` · н
+- [ ] **Balustrade Cobblestone Bridge** — `mcwbridges:balustrade_cobblestone_bridge` · н
+- [ ] **Balustrade Deepslate Bricks Bridge** — `mcwbridges:balustrade_deepslate_bricks_bridge` · н
+- [ ] **Balustrade Deepslate Tiles Bridge** — `mcwbridges:balustrade_deepslate_tiles_bridge` · н
+- [ ] **Balustrade Diorite Bridge** — `mcwbridges:balustrade_diorite_bridge` · н
+- [ ] **Balustrade End Stone Bricks Bridge** — `mcwbridges:balustrade_end_stone_bricks_bridge` · н
+- [ ] **Balustrade Granite Bridge** — `mcwbridges:balustrade_granite_bridge` · н
+- [ ] **Balustrade Mossy Cobblestone Bridge** — `mcwbridges:balustrade_mossy_cobblestone_bridge` · н
+- [ ] **Balustrade Mossy Stone Bricks Bridge** — `mcwbridges:balustrade_mossy_stone_bricks_bridge` · н
+- [ ] **Balustrade Mud Bricks Bridge** — `mcwbridges:balustrade_mud_bricks_bridge` · н
+- [ ] **Balustrade Nether Bricks Bridge** — `mcwbridges:balustrade_nether_bricks_bridge` · н
+- [ ] **Balustrade Red Sandstone Bridge** — `mcwbridges:balustrade_orange_sandstone_bridge` · н
+- [ ] **Balustrade Prismarine Bricks Bridge** — `mcwbridges:balustrade_prismarine_bricks_bridge` · н
+- [ ] **Balustrade Sandstone Bridge** — `mcwbridges:balustrade_sandstone_bridge` · н
+- [ ] **Balustrade Stone Bricks Bridge** — `mcwbridges:balustrade_stone_bricks_bridge` · н
+- [ ] **Bamboo Bridge** — `mcwbridges:bamboo_bridge` · н
+- [ ] **Bamboo Bridge Support** — `mcwbridges:bamboo_bridge_pier` · н
+- [ ] **Bamboo Bridge Stair** — `mcwbridges:bamboo_bridge_stair` · н
+- [ ] **Birch Bridge Support** — `mcwbridges:birch_bridge_pier` · н
+- [ ] **Birch Bridge** — `mcwbridges:birch_log_bridge_middle` · н
+- [ ] **Birch Bridge Stair** — `mcwbridges:birch_log_bridge_stair` · н
+- [ ] **Birch Rail Bridge** — `mcwbridges:birch_rail_bridge` · н
+- [ ] **Rope Birch Bridge Stair** — `mcwbridges:birch_rope_bridge_stair` · н
+- [ ] **Blackstone Bridge** — `mcwbridges:blackstone_bridge` · н
+- [ ] **Blackstone Bridge Support** — `mcwbridges:blackstone_bridge_pier` · н
+- [ ] **Blackstone Bridge Stair** — `mcwbridges:blackstone_bridge_stair` · н
+- [ ] **Brick Bridge** — `mcwbridges:brick_bridge` · н
+- [ ] **Brick Bridge Support** — `mcwbridges:brick_bridge_pier` · н
+- [ ] **Brick Bridge Stair** — `mcwbridges:brick_bridge_stair` · н
+- [ ] **Bridge Lantern** — `mcwbridges:bridge_lantern` · н
+- [ ] **Bridge Torch** — `mcwbridges:bridge_torch` · н
+- [ ] **Cherry Bridge Support** — `mcwbridges:cherry_bridge_pier` · н
+- [ ] **Cherry Bridge** — `mcwbridges:cherry_log_bridge_middle` · н
+- [ ] **Cherry Bridge Stair** — `mcwbridges:cherry_log_bridge_stair` · н
+- [ ] **Cherry Rail Bridge** — `mcwbridges:cherry_rail_bridge` · н
+- [ ] **Rope Cherry Bridge Stair** — `mcwbridges:cherry_rope_bridge_stair` · н
+- [ ] **Cobblestone Bridge** — `mcwbridges:cobblestone_bridge` · н
+- [ ] **Cobblestone Bridge Pier** — `mcwbridges:cobblestone_bridge_pier` · н
+- [ ] **Cobblestone Bridge Stair** — `mcwbridges:cobblestone_bridge_stair` · н
+- [ ] **Crimson Bridge Support** — `mcwbridges:crimson_bridge_pier` · н
+- [ ] **Crimson Bridge** — `mcwbridges:crimson_log_bridge_middle` · н
+- [ ] **Crimson Bridge Stair** — `mcwbridges:crimson_log_bridge_stair` · н
+- [ ] **Crimson Rail Bridge** — `mcwbridges:crimson_rail_bridge` · н
+- [ ] **Rope Crimson Bridge Stair** — `mcwbridges:crimson_rope_bridge_stair` · н
+- [ ] **Dark Oak Bridge Support** — `mcwbridges:dark_oak_bridge_pier` · н
+- [ ] **Dark Oak Bridge** — `mcwbridges:dark_oak_log_bridge_middle` · н
+- [ ] **Dark Oak Bridge Stair** — `mcwbridges:dark_oak_log_bridge_stair` · н
+- [ ] **Dark Oak Rail Bridge** — `mcwbridges:dark_oak_rail_bridge` · н
+- [ ] **Rope Dark Oak Bridge Stair** — `mcwbridges:dark_oak_rope_bridge_stair` · н
+- [ ] **Deepslate Brick Bridge** — `mcwbridges:deepslate_brick_bridge` · н
+- [ ] **Deepslate Brick Bridge Support** — `mcwbridges:deepslate_brick_bridge_pier` · н
+- [ ] **Deepslate Brick Bridge Stair** — `mcwbridges:deepslate_brick_bridge_stair` · н
+- [ ] **Deepslate Tile Bridge** — `mcwbridges:deepslate_tile_bridge` · н
+- [ ] **Deepslate Tile Bridge Support** — `mcwbridges:deepslate_tile_bridge_pier` · н
+- [ ] **Deepslate Tile Bridge Stair** — `mcwbridges:deepslate_tile_bridge_stair` · н
+- [ ] **Diorite Bridge** — `mcwbridges:diorite_bridge` · н
+- [ ] **Diorite Bridge Pier** — `mcwbridges:diorite_bridge_pier` · н
+- [ ] **Diorite Bridge Stair** — `mcwbridges:diorite_bridge_stair` · н
+- [ ] **Dry Bamboo Bridge** — `mcwbridges:dry_bamboo_bridge` · н
+- [ ] **Dry Bamboo Bridge Support** — `mcwbridges:dry_bamboo_bridge_pier` · н
+- [ ] **Dry Bamboo Bridge Stair** — `mcwbridges:dry_bamboo_bridge_stair` · н
+- [ ] **End Stone Bricks Bridge** — `mcwbridges:end_stone_bricks_bridge` · н
+- [ ] **End Stone Bricks Bridge Pier** — `mcwbridges:end_stone_bricks_bridge_pier` · н
+- [ ] **End Stone Bricks Bridge Stair** — `mcwbridges:end_stone_bricks_bridge_stair` · н
+- [ ] **Glass Bridge** — `mcwbridges:glass_bridge` · н
+- [ ] **Glass Bridge Pier** — `mcwbridges:glass_bridge_pier` · н
+- [ ] **Glass Bridge Stair** — `mcwbridges:glass_bridge_stair` · н
+- [ ] **Granite Bridge** — `mcwbridges:granite_bridge` · н
+- [ ] **Granite Bridge Pier** — `mcwbridges:granite_bridge_pier` · н
+- [ ] **Granite Bridge Stair** — `mcwbridges:granite_bridge_stair` · н
+- [ ] **Iron Bridge** — `mcwbridges:iron_bridge` · н
+- [ ] **Iron Bridge Support** — `mcwbridges:iron_bridge_pier` · н
+- [ ] **Iron Bridge Stair** — `mcwbridges:iron_bridge_stair` · н
+- [ ] **Jungle Bridge Support** — `mcwbridges:jungle_bridge_pier` · н
+- [ ] **Jungle Bridge** — `mcwbridges:jungle_log_bridge_middle` · н
+- [ ] **Jungle Bridge Stair** — `mcwbridges:jungle_log_bridge_stair` · н
+- [ ] **Jungle Rail Bridge** — `mcwbridges:jungle_rail_bridge` · н
+- [ ] **Rope Jungle Bridge Stair** — `mcwbridges:jungle_rope_bridge_stair` · н
+- [ ] **Mangrove Bridge Support** — `mcwbridges:mangrove_bridge_pier` · н
+- [ ] **Mangrove Bridge** — `mcwbridges:mangrove_log_bridge_middle` · н
+- [ ] **Mangrove Bridge Stair** — `mcwbridges:mangrove_log_bridge_stair` · н
+- [ ] **Mangrove Rail Bridge** — `mcwbridges:mangrove_rail_bridge` · н
+- [ ] **Rope Mangrove Bridge Stair** — `mcwbridges:mangrove_rope_bridge_stair` · н
+- [ ] **Mossy Cobblestone Bridge** — `mcwbridges:mossy_cobblestone_bridge` · н
+- [ ] **Mossy Cobblestone Bridge Pier** — `mcwbridges:mossy_cobblestone_bridge_pier` · н
+- [ ] **Mossy Cobblestone Bridge Stair** — `mcwbridges:mossy_cobblestone_bridge_stair` · н
+- [ ] **Mossy Stone Brick Bridge** — `mcwbridges:mossy_stone_brick_bridge` · н
+- [ ] **Mossy Stone Bridge Support** — `mcwbridges:mossy_stone_bridge_pier` · н
+- [ ] **Mossy Stone Bridge Stair** — `mcwbridges:mossy_stone_bridge_stair` · н
+- [ ] **Mud Brick Bridge** — `mcwbridges:mud_brick_bridge` · н
+- [ ] **Mud Brick Bridge Support** — `mcwbridges:mud_brick_bridge_pier` · н
+- [ ] **Mud Brick Bridge Stair** — `mcwbridges:mud_brick_bridge_stair` · н
+- [ ] **Nether Bricks Bridge** — `mcwbridges:nether_bricks_bridge` · н
+- [ ] **Nether Bricks Bridge Pier** — `mcwbridges:nether_bricks_bridge_pier` · н
+- [ ] **Nether Bricks Bridge Stair** — `mcwbridges:nether_bricks_bridge_stair` · н
+- [ ] **Oak Bridge Support** — `mcwbridges:oak_bridge_pier` · н
+- [ ] **Oak Bridge** — `mcwbridges:oak_log_bridge_middle` · н
+- [ ] **Oak Bridge Stair** — `mcwbridges:oak_log_bridge_stair` · н
+- [ ] **Oak Rail Bridge** — `mcwbridges:oak_rail_bridge` · н
+- [ ] **Rope Oak Bridge Stair** — `mcwbridges:oak_rope_bridge_stair` · н
+- [ ] **Red Sandstone Bridge** — `mcwbridges:orange_sandstone_bridge` · н
+- [ ] **Pliers** — `mcwbridges:pliers` · н
+- [ ] **Prismarine Bricks Bridge** — `mcwbridges:prismarine_bricks_bridge` · н
+- [ ] **Prismarine Bricks Bridge Pier** — `mcwbridges:prismarine_bricks_bridge_pier` · н
+- [ ] **Prismarine Bricks Bridge Stair** — `mcwbridges:prismarine_bricks_bridge_stair` · н
+- [ ] **Red Sandstone Bridge Support** — `mcwbridges:red_sandstone_bridge_pier` · н
+- [ ] **Red Sandstone Bridge Stair** — `mcwbridges:red_sandstone_bridge_stair` · н
+- [ ] **Rope Acacia Bridge** — `mcwbridges:rope_acacia_bridge` · н
+- [ ] **Rope Birch Bridge** — `mcwbridges:rope_birch_bridge` · н
+- [ ] **Rope Cherry Bridge** — `mcwbridges:rope_cherry_bridge` · н
+- [ ] **Rope Crimson Bridge** — `mcwbridges:rope_crimson_bridge` · н
+- [ ] **Rope Dark Oak Bridge** — `mcwbridges:rope_dark_oak_bridge` · н
+- [ ] **Rope Jungle Bridge** — `mcwbridges:rope_jungle_bridge` · н
+- [ ] **Rope Mangrove Bridge** — `mcwbridges:rope_mangrove_bridge` · н
+- [ ] **Rope Oak Bridge** — `mcwbridges:rope_oak_bridge` · н
+- [ ] **Rope Spruce Bridge** — `mcwbridges:rope_spruce_bridge` · н
+- [ ] **Rope Warped Bridge** — `mcwbridges:rope_warped_bridge` · н
+- [ ] **Sandstone Bridge** — `mcwbridges:sandstone_bridge` · н
+- [ ] **Sandstone Bridge Support** — `mcwbridges:sandstone_bridge_pier` · н
+- [ ] **Sandstone Bridge Stair** — `mcwbridges:sandstone_bridge_stair` · н
+- [ ] **Spruce Bridge Support** — `mcwbridges:spruce_bridge_pier` · н
+- [ ] **Spruce Bridge** — `mcwbridges:spruce_log_bridge_middle` · н
+- [ ] **Spruce Bridge Stair** — `mcwbridges:spruce_log_bridge_stair` · н
+- [ ] **Spruce Rail Bridge** — `mcwbridges:spruce_rail_bridge` · н
+- [ ] **Rope Spruce Bridge Stair** — `mcwbridges:spruce_rope_bridge_stair` · н
+- [ ] **Stone Brick Bridge** — `mcwbridges:stone_brick_bridge` · н
+- [ ] **Stone Brick Bridge Stair** — `mcwbridges:stone_brick_bridge_stair` · н
+- [ ] **Stone Bridge Support** — `mcwbridges:stone_bridge_pier` · н
+- [ ] **Warped Bridge Support** — `mcwbridges:warped_bridge_pier` · н
+- [ ] **Warped Bridge** — `mcwbridges:warped_log_bridge_middle` · н
+- [ ] **Warped Bridge Stair** — `mcwbridges:warped_log_bridge_stair` · н
+- [ ] **Warped Rail Bridge** — `mcwbridges:warped_rail_bridge` · н
+- [ ] **Rope Warped Bridge Stair** — `mcwbridges:warped_rope_bridge_stair` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

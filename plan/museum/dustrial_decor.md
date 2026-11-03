@@ -1,0 +1,124 @@
+# Музей: 'Dustrial Decor (dustrial_decor)
+
+Предметов: 111 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 111 предметов.*
+
+- [ ] **Anchor** — `dustrial_decor:anchor` · н
+- [ ] **Barbed Chain Link Fence** — `dustrial_decor:barbed_chain_link_fence` · н
+- [ ] **Barbed Iron Bars** — `dustrial_decor:barbed_iron_bars` · н
+- [ ] **Black Light** — `dustrial_decor:black_light` · н
+- [ ] **Blue Neon Light** — `dustrial_decor:blue_neon_light` · н
+- [ ] **Bolted Industrial Iron Block** — `dustrial_decor:bolted_industrial_iron_block` · н
+- [ ] **Bolted Industrial Iron Slab** — `dustrial_decor:bolted_industrial_iron_slab` · н
+- [ ] **Bolted Industrial Iron Stairs** — `dustrial_decor:bolted_industrial_iron_stairs` · н
+- [ ] **Bolted Industrial Iron Vertical Slab** — `dustrial_decor:bolted_industrial_iron_vertical_slab` · н
+- [ ] **Cardboard** — `dustrial_decor:cardboard` · н
+- [ ] **Cardboard Boots** — `dustrial_decor:cardboard_boots` · н
+- [ ] **Cardboard Box** — `dustrial_decor:cardboard_box` · н
+- [ ] **Cardboard Chestplate** — `dustrial_decor:cardboard_chestplate` · н
+- [ ] **Cardboard Door** — `dustrial_decor:cardboard_door` · н
+- [ ] **Cardboard Helmet** — `dustrial_decor:cardboard_helmet` · н
+- [ ] **Cardboard Leggings** — `dustrial_decor:cardboard_leggings` · н
+- [ ] **Cardboard Scrap** — `dustrial_decor:cardboard_scrap` · н
+- [ ] **Cardboard Trapdoor** — `dustrial_decor:cardboard_trapdoor` · н
+- [ ] **Cast Iron Balustrade** — `dustrial_decor:cast_iron_balustrade` · н
+- [ ] **Cast Iron Billet** — `dustrial_decor:cast_iron_billet` · н
+- [ ] **Cast Iron Block** — `dustrial_decor:cast_iron_block` · н
+- [ ] **Cast Iron Brick Slab** — `dustrial_decor:cast_iron_brick_slab` · н
+- [ ] **Cast Iron Brick Stairs** — `dustrial_decor:cast_iron_brick_stairs` · н
+- [ ] **Cast Iron Brick Vertical Slab** — `dustrial_decor:cast_iron_brick_vertical_slab` · н
+- [ ] **Cast Iron Bricks** — `dustrial_decor:cast_iron_bricks` · н
+- [ ] **Cast Iron Pillar** — `dustrial_decor:cast_iron_pillar` · н
+- [ ] **Chain Link Door** — `dustrial_decor:chain_door` · н
+- [ ] **Chain Link Fence** — `dustrial_decor:chain_link_fence` · н
+- [ ] **Chain Link Trapdoor** — `dustrial_decor:chain_trapdoor` · н
+- [ ] **Cinder Block** — `dustrial_decor:cinder_block` · н
+- [ ] **Cinder Brick Slab** — `dustrial_decor:cinder_brick_slab` · н
+- [ ] **Cinder Brick Stairs** — `dustrial_decor:cinder_brick_stairs` · н
+- [ ] **Cinder Brick Vertical Slab** — `dustrial_decor:cinder_brick_vertical_slab` · н
+- [ ] **Cinder Bricks** — `dustrial_decor:cinder_bricks` · н
+- [ ] **Cyan Neon Light** — `dustrial_decor:cyan_neon_light` · н
+- [ ] **Engraved Cast Iron Block** — `dustrial_decor:engraved_cast_iron_block` · н
+- [ ] **Folded Cardboard** — `dustrial_decor:folded_cardboard` · н
+- [ ] **Gold Chain** — `dustrial_decor:gold_chain` · н
+- [ ] **Green Neon Light** — `dustrial_decor:green_neon_light` · н
+- [ ] **Hook** — `dustrial_decor:hook` · н
+- [ ] **Industrial Iron Billet** — `dustrial_decor:industrial_iron_billet` · н
+- [ ] **Industrial Iron Block** — `dustrial_decor:industrial_iron_block` · н
+- [ ] **Industrial Iron Door** — `dustrial_decor:industrial_iron_door` · н
+- [ ] **Industrial Iron Pillar** — `dustrial_decor:industrial_iron_pillar` · н
+- [ ] **Industrial Iron Trapdoor** — `dustrial_decor:industrial_iron_trapdoor` · н
+- [ ] **Iron Bar Door** — `dustrial_decor:iron_bar_door` · н
+- [ ] **Iron Bar Trapdoor** — `dustrial_decor:iron_bar_trapdoor` · н
+- [ ] **Large Chain** — `dustrial_decor:large_chain` · н
+- [ ] **Large Cursed Lantern** — `dustrial_decor:large_cursed_lantern` · н
+- [ ] **Large Ender Lantern** — `dustrial_decor:large_ender_lantern` · н
+- [ ] **Large Glowlight Lantern** — `dustrial_decor:large_glow_lantern` · н
+- [ ] **Large Gold Chain** — `dustrial_decor:large_gold_chain` · н
+- [ ] **Large Ice Chain** — `dustrial_decor:large_ice_chain` · н
+- [ ] **Large Lantern** — `dustrial_decor:large_lantern` · н
+- [ ] **Large Redstone Lantern** — `dustrial_decor:large_redstone_lantern` · н
+- [ ] **Large Soul Lantern** — `dustrial_decor:large_soul_lantern` · н
+- [ ] **Mini Padded Block** — `dustrial_decor:mini_padded_block` · н
+- [ ] **Mini Padded Slab** — `dustrial_decor:mini_padded_slab` · н
+- [ ] **Mini Padded Stairs** — `dustrial_decor:mini_padded_stairs` · н
+- [ ] **Mini Padded Vertical Slab** — `dustrial_decor:mini_padded_vertical_slab` · н
+- [ ] **Orange Neon Light** — `dustrial_decor:orange_neon_light` · н
+- [ ] **Padded Block** — `dustrial_decor:padded_block` · н
+- [ ] **Padded Door** — `dustrial_decor:padded_door` · н
+- [ ] **Padded Trapdoor** — `dustrial_decor:padded_trapdoor` · н
+- [ ] **Pink Neon Light** — `dustrial_decor:pink_neon_light` · н
+- [ ] **Polished Cinder Block** — `dustrial_decor:polished_cinder_block` · н
+- [ ] **Purple Neon Light** — `dustrial_decor:purple_neon_light` · н
+- [ ] **Rainbow Neon Light** — `dustrial_decor:rainbow_neon_light` · н
+- [ ] **Red Neon Light** — `dustrial_decor:red_neon_light` · н
+- [ ] **Redstone Lantern** — `dustrial_decor:redstone_lantern` · н
+- [ ] **Rusty Iron Block** — `dustrial_decor:rusty_iron_block` · н
+- [ ] **Rusty Iron Door** — `dustrial_decor:rusty_iron_door` · н
+- [ ] **Rusty Iron Ingot** — `dustrial_decor:rusty_iron_ingot` · н
+- [ ] **Rusty Iron Nugget** — `dustrial_decor:rusty_iron_nugget` · н
+- [ ] **Rusty Iron Trapdoor** — `dustrial_decor:rusty_iron_trapdoor` · н
+- [ ] **Rusty Sheet Metal** — `dustrial_decor:rusty_sheet_metal` · н
+- [ ] **Rusty Sheet Metal Door** — `dustrial_decor:rusty_sheet_metal_door` · н
+- [ ] **Rusty Sheet Metal Paneling** — `dustrial_decor:rusty_sheet_metal_paneling` · н
+- [ ] **Rusty Sheet Metal Plating** — `dustrial_decor:rusty_sheet_metal_plating` · н
+- [ ] **Rusty Sheet Metal Plating Slab** — `dustrial_decor:rusty_sheet_metal_plating_slab` · н
+- [ ] **Rusty Sheet Metal Plating Stairs** — `dustrial_decor:rusty_sheet_metal_plating_stairs` · н
+- [ ] **Rusty Sheet Metal Plating Vertical Slab** — `dustrial_decor:rusty_sheet_metal_plating_vertical_slab` · н
+- [ ] **Rusty Sheet Metal Siding** — `dustrial_decor:rusty_sheet_metal_siding` · н
+- [ ] **Rusty Sheet Metal Trapdoor** — `dustrial_decor:rusty_sheet_metal_trapdoor` · н
+- [ ] **Rusty Sheet Metal Treading** — `dustrial_decor:rusty_sheet_metal_treading` · н
+- [ ] **Rusty Sheet Metal Treading Slab** — `dustrial_decor:rusty_sheet_metal_treading_slab` · н
+- [ ] **Rusty Sheet Metal Treading Stairs** — `dustrial_decor:rusty_sheet_metal_treading_stairs` · н
+- [ ] **Rusty Sheet Metal Treading Vertical Slab** — `dustrial_decor:rusty_sheet_metal_treading_vertical_slab` · н
+- [ ] **Rusty Sheet Metal Walling** — `dustrial_decor:rusty_sheet_metal_walling` · н
+- [ ] **Sheet Metal** — `dustrial_decor:sheet_metal` · н
+- [ ] **Sheet Metal Door** — `dustrial_decor:sheet_metal_door` · н
+- [ ] **Sheet Metal Paneling** — `dustrial_decor:sheet_metal_paneling` · н
+- [ ] **Sheet Metal Plating** — `dustrial_decor:sheet_metal_plating` · н
+- [ ] **Sheet Metal Plating Slab** — `dustrial_decor:sheet_metal_plating_slab` · н
+- [ ] **Sheet Metal Plating Stairs** — `dustrial_decor:sheet_metal_plating_stairs` · н
+- [ ] **Sheet Metal Plating Vertical Slab** — `dustrial_decor:sheet_metal_plating_vertical_slab` · н
+- [ ] **Sheet Metal Siding** — `dustrial_decor:sheet_metal_siding` · н
+- [ ] **Sheet Metal Trapdoor** — `dustrial_decor:sheet_metal_trapdoor` · н
+- [ ] **Sheet Metal Treading** — `dustrial_decor:sheet_metal_treading` · н
+- [ ] **Sheet Metal Treading Slab** — `dustrial_decor:sheet_metal_treading_slab` · н
+- [ ] **Sheet Metal Treading Stairs** — `dustrial_decor:sheet_metal_treading_stairs` · н
+- [ ] **Sheet Metal Treading Vertical Slab** — `dustrial_decor:sheet_metal_treading_vertical_slab` · н
+- [ ] **Sheet Metal Walling** — `dustrial_decor:sheet_metal_walling` · н
+- [ ] **Smooth Cardboard** — `dustrial_decor:smooth_cardboard` · н
+- [ ] **Smooth Cardboard Slab** — `dustrial_decor:smooth_cardboard_slab` · н
+- [ ] **Smooth Cardboard Stairs** — `dustrial_decor:smooth_cardboard_stairs` · н
+- [ ] **Smooth Cardboard Vertical Slab** — `dustrial_decor:smooth_cardboard_vertical_slab` · н
+- [ ] **Wrapped Chains** — `dustrial_decor:wrapped_chains` · н
+- [ ] **Wrapped Gold Chains** — `dustrial_decor:wrapped_gold_chains` · н
+- [ ] **Wrapped Ice Chains** — `dustrial_decor:wrapped_ice_chains` · н
+- [ ] **Yellow Neon Light** — `dustrial_decor:yellow_neon_light` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

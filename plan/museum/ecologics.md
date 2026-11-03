@@ -1,0 +1,128 @@
+# Музей: Ecologics (ecologics)
+
+Предметов: 115 · крафтимых по данным: 9 (7%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 115 предметов.*
+
+- [ ] **Azalea Boat** — `ecologics:azalea_boat` · н
+- [ ] **Azalea Button** — `ecologics:azalea_button` · н
+- [ ] **Azalea Boat with Chest** — `ecologics:azalea_chest_boat` · н
+- [ ] **Azalea Door** — `ecologics:azalea_door` · н
+- [ ] **Azalea Fence** — `ecologics:azalea_fence` · н
+- [ ] **Azalea Fence Gate** — `ecologics:azalea_fence_gate` · н
+- [ ] **Azalea Flower** — `ecologics:azalea_flower` · н
+- [ ] **Azalea Hanging Sign** — `ecologics:azalea_hanging_sign` · н
+- [ ] **Azalea Log** — `ecologics:azalea_log` · н
+- [ ] **Azalea Planks** — `ecologics:azalea_planks` · к
+- [ ] **Azalea Pressure Plate** — `ecologics:azalea_pressure_plate` · н
+- [ ] **Azalea Sign** — `ecologics:azalea_sign` · н
+- [ ] **Azalea Slab** — `ecologics:azalea_slab` · н
+- [ ] **Azalea Stairs** — `ecologics:azalea_stairs` · н
+- [ ] **Azalea Trapdoor** — `ecologics:azalea_trapdoor` · н
+- [ ] **Azalea Wall Hanging Sign** — `ecologics:azalea_wall_hanging_sign` · н
+- [ ] **Azalea Wall Sign** — `ecologics:azalea_wall_sign` · н
+- [ ] **Azalea Wood** — `ecologics:azalea_wood` · н
+- [ ] **Camel Spawn Egg** — `ecologics:camel_spawn_egg` · н
+- [ ] **Coconut** — `ecologics:coconut` · н
+- [ ] **Coconut Boat** — `ecologics:coconut_boat` · н
+- [ ] **Coconut Button** — `ecologics:coconut_button` · н
+- [ ] **Coconut Boat with Chest** — `ecologics:coconut_chest_boat` · н
+- [ ] **Coconut Crab Spawn Egg** — `ecologics:coconut_crab_spawn_egg` · н
+- [ ] **Coconut Door** — `ecologics:coconut_door` · н
+- [ ] **Coconut Fence** — `ecologics:coconut_fence` · н
+- [ ] **Coconut Fence Gate** — `ecologics:coconut_fence_gate` · н
+- [ ] **Coconut Hanging Sign** — `ecologics:coconut_hanging_sign` · н
+- [ ] **Coconut Husk** — `ecologics:coconut_husk` · н
+- [ ] **Coconut Leaves** — `ecologics:coconut_leaves` · н
+- [ ] **Coconut Log** — `ecologics:coconut_log` · н
+- [ ] **Coconut Planks** — `ecologics:coconut_planks` · к
+- [ ] **Coconut Pressure Plate** — `ecologics:coconut_pressure_plate` · н
+- [ ] **Coconut Seedling** — `ecologics:coconut_seedling` · н
+- [ ] **Coconut Sign** — `ecologics:coconut_sign` · н
+- [ ] **Coconut Slab** — `ecologics:coconut_slab` · н
+- [ ] **Coconut Slice** — `ecologics:coconut_slice` · н
+- [ ] **Coconut Stairs** — `ecologics:coconut_stairs` · н
+- [ ] **Coconut Trapdoor** — `ecologics:coconut_trapdoor` · н
+- [ ] **Coconut Wall Hanging Sign** — `ecologics:coconut_wall_hanging_sign` · н
+- [ ] **Coconut Wall Sign** — `ecologics:coconut_wall_sign` · н
+- [ ] **Coconut Wood** — `ecologics:coconut_wood` · н
+- [ ] **Cooked Prickly Pear** — `ecologics:cooked_prickly_pear` · н
+- [ ] **Crab Claw** — `ecologics:crab_claw` · н
+- [ ] **Crab Meat** — `ecologics:crab_meat` · н
+- [ ] **Flowering Azalea Boat** — `ecologics:flowering_azalea_boat` · н
+- [ ] **Flowering Azalea Boat with Chest** — `ecologics:flowering_azalea_chest_boat` · н
+- [ ] **Flowering Azalea Door** — `ecologics:flowering_azalea_door` · н
+- [ ] **Flowering Azalea Fence** — `ecologics:flowering_azalea_fence` · н
+- [ ] **Flowering Azalea Fence Gate** — `ecologics:flowering_azalea_fence_gate` · н
+- [ ] **Flowering Azalea Hanging Sign** — `ecologics:flowering_azalea_hanging_sign` · н
+- [ ] **Flowering Azalea Log** — `ecologics:flowering_azalea_log` · н
+- [ ] **Flowering Azalea Planks** — `ecologics:flowering_azalea_planks` · н
+- [ ] **Flowering Azalea Sign** — `ecologics:flowering_azalea_sign` · н
+- [ ] **Flowering Azalea Slab** — `ecologics:flowering_azalea_slab` · н
+- [ ] **Flowering Azalea Stairs** — `ecologics:flowering_azalea_stairs` · н
+- [ ] **Flowering Azalea Trapdoor** — `ecologics:flowering_azalea_trapdoor` · н
+- [ ] **Flowering Azalea Wall Hanging Sign** — `ecologics:flowering_azalea_wall_hanging_sign` · н
+- [ ] **Flowering Azalea Wall Sign** — `ecologics:flowering_azalea_wall_sign` · н
+- [ ] **Flowering Azalea Wood** — `ecologics:flowering_azalea_wood` · н
+- [ ] **Hanging Coconut** — `ecologics:hanging_coconut` · н
+- [ ] **Ice Brick Slab** — `ecologics:ice_brick_slab` · н
+- [ ] **Ice Brick Stairs** — `ecologics:ice_brick_stairs` · н
+- [ ] **Ice Brick Wall** — `ecologics:ice_brick_wall` · н
+- [ ] **Ice Bricks** — `ecologics:ice_bricks` · н
+- [ ] **Moss Layer** — `ecologics:moss_layer` · н
+- [ ] **Music Disc** — `ecologics:music_disc_coconut` · н
+- [ ] **Penguin Feather** — `ecologics:penguin_feather` · н
+- [ ] **Penguin Spawn Egg** — `ecologics:penguin_spawn_egg` · н
+- [ ] **Pot** — `ecologics:pot` · н
+- [ ] **Potted Azalea Flower** — `ecologics:potted_azalea_flower` · н
+- [ ] **Potted Coconut Seedling** — `ecologics:potted_coconut_seedling` · н
+- [ ] **Potted Walnut Sapling** — `ecologics:potted_walnut_sapling` · н
+- [ ] **Prickly Pear** — `ecologics:prickly_pear` · н
+- [ ] **Sandcastle** — `ecologics:sandcastle` · н
+- [ ] **Seashell** — `ecologics:seashell` · н
+- [ ] **Seashell Block** — `ecologics:seashell_block` · н
+- [ ] **Seashell Tile Slab** — `ecologics:seashell_tile_slab` · н
+- [ ] **Seashell Tile Stairs** — `ecologics:seashell_tile_stairs` · н
+- [ ] **Seashell Tile Wall** — `ecologics:seashell_tile_wall` · н
+- [ ] **Seashell Tiles** — `ecologics:seashell_tiles` · н
+- [ ] **Snow Brick Slab** — `ecologics:snow_brick_slab` · н
+- [ ] **Snow Brick Stairs** — `ecologics:snow_brick_stairs` · н
+- [ ] **Snow Brick Wall** — `ecologics:snow_brick_wall` · н
+- [ ] **Snow Bricks** — `ecologics:snow_bricks` · н
+- [ ] **Squirrel Spawn Egg** — `ecologics:squirrel_spawn_egg` · н
+- [ ] **Stripped Azalea Log** — `ecologics:stripped_azalea_log` · к
+- [ ] **Stripped Azalea Wood** — `ecologics:stripped_azalea_wood` · к
+- [ ] **Stripped Coconut Log** — `ecologics:stripped_coconut_log` · к
+- [ ] **Stripped Coconut Wood** — `ecologics:stripped_coconut_wood` · к
+- [ ] **Stripped Walnut Log** — `ecologics:stripped_walnut_log` · к
+- [ ] **Stripped Walnut Wood** — `ecologics:stripped_walnut_wood` · к
+- [ ] **Surface Moss** — `ecologics:surface_moss` · н
+- [ ] **Thin Ice** — `ecologics:thin_ice` · н
+- [ ] **Tropical Stew** — `ecologics:tropical_stew` · н
+- [ ] **Walnut** — `ecologics:walnut` · н
+- [ ] **Walnut Boat** — `ecologics:walnut_boat` · н
+- [ ] **Walnut Button** — `ecologics:walnut_button` · н
+- [ ] **Walnut Boat with Chest** — `ecologics:walnut_chest_boat` · н
+- [ ] **Walnut Door** — `ecologics:walnut_door` · н
+- [ ] **Walnut Fence** — `ecologics:walnut_fence` · н
+- [ ] **Walnut Fence Gate** — `ecologics:walnut_fence_gate` · н
+- [ ] **Walnut Hanging Sign** — `ecologics:walnut_hanging_sign` · н
+- [ ] **Walnut Leaves** — `ecologics:walnut_leaves` · н
+- [ ] **Walnut Log** — `ecologics:walnut_log` · н
+- [ ] **Walnut Planks** — `ecologics:walnut_planks` · к
+- [ ] **Walnut Pressure Plate** — `ecologics:walnut_pressure_plate` · н
+- [ ] **Walnut Sapling** — `ecologics:walnut_sapling` · н
+- [ ] **Walnut Sign** — `ecologics:walnut_sign` · н
+- [ ] **Walnut Slab** — `ecologics:walnut_slab` · н
+- [ ] **Walnut Stairs** — `ecologics:walnut_stairs` · н
+- [ ] **Walnut Trapdoor** — `ecologics:walnut_trapdoor` · н
+- [ ] **Walnut Wall Hanging Sign** — `ecologics:walnut_wall_hanging_sign` · н
+- [ ] **Walnut Wall Sign** — `ecologics:walnut_wall_sign` · н
+- [ ] **Walnut Wood** — `ecologics:walnut_wood` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

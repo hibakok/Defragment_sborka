@@ -1,0 +1,314 @@
+# Музей: Forbidden & Arcanus (forbidden_arcanus)
+
+Предметов: 301 · крафтимых по данным: 169 (56%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 301 предметов.*
+
+- [ ] **Aquatic Dragon Scale** — `forbidden_arcanus:aquatic_dragon_scale` · к
+- [ ] **Arcane Bone Meal** — `forbidden_arcanus:arcane_bone_meal` · к
+- [ ] **Arcane Chiseled Darkstone** — `forbidden_arcanus:arcane_chiseled_darkstone` · к
+- [ ] **Arcane Chiseled Polished Darkstone** — `forbidden_arcanus:arcane_chiseled_polished_darkstone` · к
+- [ ] **Arcane Crystal** — `forbidden_arcanus:arcane_crystal` · к
+- [ ] **Arcane Crystal Block** — `forbidden_arcanus:arcane_crystal_block` · к
+- [ ] **Arcane Crystal Dust** — `forbidden_arcanus:arcane_crystal_dust` · к
+- [ ] **Arcane Crystal Dust Speck** — `forbidden_arcanus:arcane_crystal_dust_speck` · н
+- [ ] **Arcane Crystal Obelisk** — `forbidden_arcanus:arcane_crystal_obelisk` · н
+- [ ] **Arcane Crystal Ore** — `forbidden_arcanus:arcane_crystal_ore` · н
+- [ ] **Arcane Dark Stone** — `forbidden_arcanus:arcane_dark_stone` · н
+- [ ] **Arcane Dragon Egg** — `forbidden_arcanus:arcane_dragon_egg` · к
+- [ ] **Arcane Edelwood Door** — `forbidden_arcanus:arcane_edelwood_door` · к
+- [ ] **Arcane Edelwood Planks** — `forbidden_arcanus:arcane_edelwood_planks` · к
+- [ ] **Arcane Edelwood Trapdoor** — `forbidden_arcanus:arcane_edelwood_trapdoor` · к
+- [ ] **Arcane Polished Darkstone** — `forbidden_arcanus:arcane_polished_darkstone` · к
+- [ ] **Arcane Polished Darkstone Pillar** — `forbidden_arcanus:arcane_polished_darkstone_pillar` · к
+- [ ] **Arcane Polished Darkstone Rod** — `forbidden_arcanus:arcane_polished_darkstone_rod` · к
+- [ ] **Arcane Polished Darkstone Slab** — `forbidden_arcanus:arcane_polished_darkstone_slab` · к
+- [ ] **Arcane Polished Darkstone Stairs** — `forbidden_arcanus:arcane_polished_darkstone_stairs` · к
+- [ ] **Arcane Polished Darkstone Wall** — `forbidden_arcanus:arcane_polished_darkstone_wall` · к
+- [ ] **Artisan Relic** — `forbidden_arcanus:artisan_relic` · н
+- [ ] **Aureal Bottle** — `forbidden_arcanus:aureal_bottle` · к
+- [ ] **Aurum Boat** — `forbidden_arcanus:aurum_boat` · к
+- [ ] **Aurum Button** — `forbidden_arcanus:aurum_button` · к
+- [ ] **Aurum Boat with Chest** — `forbidden_arcanus:aurum_chest_boat` · к
+- [ ] **Aurum Door** — `forbidden_arcanus:aurum_door` · к
+- [ ] **Aurum Fence** — `forbidden_arcanus:aurum_fence` · к
+- [ ] **Aurum Fence Gate** — `forbidden_arcanus:aurum_fence_gate` · к
+- [ ] **Aurum Leaves** — `forbidden_arcanus:aurum_leaves` · н
+- [ ] **Aurum Log** — `forbidden_arcanus:aurum_log` · н
+- [ ] **Aurum Planks** — `forbidden_arcanus:aurum_planks` · к
+- [ ] **Aurum Pressure Plate** — `forbidden_arcanus:aurum_pressure_plate` · к
+- [ ] **Aurum Sapling** — `forbidden_arcanus:aurum_sapling` · н
+- [ ] **Aurum Sign** — `forbidden_arcanus:aurum_sign` · н
+- [ ] **Aurum Slab** — `forbidden_arcanus:aurum_slab` · к
+- [ ] **Aurum Stairs** — `forbidden_arcanus:aurum_stairs` · к
+- [ ] **Aurum Trapdoor** — `forbidden_arcanus:aurum_trapdoor` · к
+- [ ] **Aurum Wood** — `forbidden_arcanus:aurum_wood` · к
+- [ ] **Bat Soup** — `forbidden_arcanus:bat_soup` · к
+- [ ] **Bat Wing** — `forbidden_arcanus:bat_wing` · н
+- [ ] **Black Hole** — `forbidden_arcanus:black_hole` · н
+- [ ] **Blacksmith Gavel Head** — `forbidden_arcanus:blacksmith_gavel_head` · к
+- [ ] **Boom Arrow** — `forbidden_arcanus:boom_arrow` · к
+- [ ] **Carved Cherry Planks** — `forbidden_arcanus:carved_cherry_planks` · н
+- [ ] **Carved Edelwood Log** — `forbidden_arcanus:carved_edelwood_log` · н
+- [ ] **Cherry Boat** — `forbidden_arcanus:cherry_boat` · н
+- [ ] **Cherry Button** — `forbidden_arcanus:cherry_button` · н
+- [ ] **Cherry Boat with Chest** — `forbidden_arcanus:cherry_chest_boat` · н
+- [ ] **Cherry Door** — `forbidden_arcanus:cherry_door` · н
+- [ ] **Cherry Fence** — `forbidden_arcanus:cherry_fence` · н
+- [ ] **Cherry Fence Gate** — `forbidden_arcanus:cherry_fence_gate` · н
+- [ ] **Cherry Flower Vines** — `forbidden_arcanus:cherry_flower_vines` · н
+- [ ] **Cherry Leaf Carpet** — `forbidden_arcanus:cherry_leaf_carpet` · н
+- [ ] **Cherry Leaves** — `forbidden_arcanus:cherry_leaves` · н
+- [ ] **Cherry Log** — `forbidden_arcanus:cherry_log` · н
+- [ ] **Cherry Peach** — `forbidden_arcanus:cherry_peach` · н
+- [ ] **Cherry Planks** — `forbidden_arcanus:cherry_planks` · н
+- [ ] **Cherry Pressure Plate** — `forbidden_arcanus:cherry_pressure_plate` · н
+- [ ] **Cherry Sapling** — `forbidden_arcanus:cherry_sapling` · н
+- [ ] **Cherry Sign** — `forbidden_arcanus:cherry_sign` · н
+- [ ] **Cherry Slab** — `forbidden_arcanus:cherry_slab` · н
+- [ ] **Cherry Stairs** — `forbidden_arcanus:cherry_stairs` · н
+- [ ] **Cherry Trapdoor** — `forbidden_arcanus:cherry_trapdoor` · н
+- [ ] **Cherry Wood** — `forbidden_arcanus:cherry_wood` · н
+- [ ] **Chiseled Arcane Polished Darkstone** — `forbidden_arcanus:chiseled_arcane_polished_darkstone` · к
+- [ ] **Chiseled Polished Darkstone** — `forbidden_arcanus:chiseled_polished_darkstone` · к
+- [ ] **Clibano Core** — `forbidden_arcanus:clibano_core` · к
+- [ ] **Clibano Multiblock** — `forbidden_arcanus:clibano_multiblock` · н
+- [ ] **Cloth** — `forbidden_arcanus:cloth` · к
+- [ ] **Cooked Tentacle** — `forbidden_arcanus:cooked_tentacle` · к
+- [ ] **Corrupt Soul** — `forbidden_arcanus:corrupt_soul` · н
+- [ ] **Corrupted Arcane Crystal** — `forbidden_arcanus:corrupted_arcane_crystal` · к
+- [ ] **Corrupted Arcane Crystal Block** — `forbidden_arcanus:corrupted_arcane_crystal_block` · к
+- [ ] **Corrupted Arcane Crystal Obelisk** — `forbidden_arcanus:corrupted_arcane_crystal_obelisk` · н
+- [ ] **Corrupted Pixie** — `forbidden_arcanus:corrupted_pixie` · к
+- [ ] **Corrupti Dust** — `forbidden_arcanus:corrupti_dust` · к
+- [ ] **Cracked Polished Darkstone Bricks** — `forbidden_arcanus:cracked_polished_darkstone_bricks` · к
+- [ ] **Crescent Moon** — `forbidden_arcanus:crescent_moon` · н
+- [ ] **Crimson Stone** — `forbidden_arcanus:crimson_stone` · н
+- [ ] **Cut Soulless Sandstone** — `forbidden_arcanus:cut_soulless_sandstone` · к
+- [ ] **Cut Soulless Sandstone Slab** — `forbidden_arcanus:cut_soulless_sandstone_slab` · к
+- [ ] **Dark Matter** — `forbidden_arcanus:dark_matter` · к
+- [ ] **Dark Nether Star** — `forbidden_arcanus:dark_nether_star` · к
+- [ ] **Dark Nether Star Block** — `forbidden_arcanus:dark_nether_star_block` · к
+- [ ] **Dark Rune** — `forbidden_arcanus:dark_rune` · к
+- [ ] **Dark Rune Bag** — `forbidden_arcanus:dark_rune_bag` · н
+- [ ] **Dark Rune Block** — `forbidden_arcanus:dark_rune_block` · к
+- [ ] **Dark Runic Glass** — `forbidden_arcanus:dark_runic_glass` · к
+- [ ] **Dark Runic Glass Pane** — `forbidden_arcanus:dark_runic_glass_pane` · к
+- [ ] **Darkstone** — `forbidden_arcanus:darkstone` · н
+- [ ] **Darkstone Pedestal** — `forbidden_arcanus:darkstone_pedestal` · к
+- [ ] **Darkstone Slab** — `forbidden_arcanus:darkstone_slab` · к
+- [ ] **Darkstone Stairs** — `forbidden_arcanus:darkstone_stairs` · к
+- [ ] **Darkstone Upgrade Smithing Template** — `forbidden_arcanus:darkstone_upgrade_smithing_template` · к
+- [ ] **Darkstone Wall** — `forbidden_arcanus:darkstone_wall` · к
+- [ ] **Deepslate Arcane Crystal Ore** — `forbidden_arcanus:deepslate_arcane_crystal_ore` · н
+- [ ] **Deorum Axe** — `forbidden_arcanus:deorum_axe` · н
+- [ ] **Deorum Blacksmith Gavel** — `forbidden_arcanus:deorum_blacksmith_gavel` · н
+- [ ] **Deorum Block** — `forbidden_arcanus:deorum_block` · к
+- [ ] **Deorum Chain** — `forbidden_arcanus:deorum_chain` · к
+- [ ] **Deorum Door** — `forbidden_arcanus:deorum_door` · к
+- [ ] **Deorum Glass** — `forbidden_arcanus:deorum_glass` · к
+- [ ] **Deorum Glass Pane** — `forbidden_arcanus:deorum_glass_pane` · к
+- [ ] **Deorum Hoe** — `forbidden_arcanus:deorum_hoe` · н
+- [ ] **Deorum Ingot** — `forbidden_arcanus:deorum_ingot` · к
+- [ ] **Deorum Lantern** — `forbidden_arcanus:deorum_lantern` · к
+- [ ] **Deorum Nugget** — `forbidden_arcanus:deorum_nugget` · к
+- [ ] **Deorum Pickaxe** — `forbidden_arcanus:deorum_pickaxe` · н
+- [ ] **Deorum Pressure Plate** — `forbidden_arcanus:deorum_pressure_plate` · к
+- [ ] **Deorum Shovel** — `forbidden_arcanus:deorum_shovel` · н
+- [ ] **Deorum Soul Lantern** — `forbidden_arcanus:deorum_soul_lantern` · к
+- [ ] **Deorum Sword** — `forbidden_arcanus:deorum_sword` · н
+- [ ] **Deorum Trapdoor** — `forbidden_arcanus:deorum_trapdoor` · к
+- [ ] **Diamond Blacksmith Gavel** — `forbidden_arcanus:diamond_blacksmith_gavel` · к
+- [ ] **Divine Pact** — `forbidden_arcanus:divine_pact` · н
+- [ ] **Draco Arcanus Arrow** — `forbidden_arcanus:draco_arcanus_arrow` · к
+- [ ] **Draco Arcanus Axe** — `forbidden_arcanus:draco_arcanus_axe` · к
+- [ ] **Draco Arcanus Boots** — `forbidden_arcanus:draco_arcanus_boots` · к
+- [ ] **Draco Arcanus Chestplate** — `forbidden_arcanus:draco_arcanus_chestplate` · к
+- [ ] **Draco Arcanus Helmet** — `forbidden_arcanus:draco_arcanus_helmet` · к
+- [ ] **Draco Arcanus Hoe** — `forbidden_arcanus:draco_arcanus_hoe` · к
+- [ ] **Draco Arcanus Leggings** — `forbidden_arcanus:draco_arcanus_leggings` · к
+- [ ] **Draco Arcanus Pickaxe** — `forbidden_arcanus:draco_arcanus_pickaxe` · к
+- [ ] **Draco Arcanus Scepter** — `forbidden_arcanus:draco_arcanus_scepter` · к
+- [ ] **Draco Arcanus Shovel** — `forbidden_arcanus:draco_arcanus_shovel` · к
+- [ ] **Draco Arcanus Staff** — `forbidden_arcanus:draco_arcanus_staff` · к
+- [ ] **Draco Arcanus Sword** — `forbidden_arcanus:draco_arcanus_sword` · к
+- [ ] **Dragon Scale** — `forbidden_arcanus:dragon_scale` · к
+- [ ] **Edelwood Bucket of Allay** — `forbidden_arcanus:edelwood_allay_bucket` · н
+- [ ] **Edelwood Bucket of Axolotl** — `forbidden_arcanus:edelwood_axolotl_bucket` · н
+- [ ] **Edelwood Bucket of Bat** — `forbidden_arcanus:edelwood_bat_bucket` · н
+- [ ] **Edelwood Bucket of Bat Soup** — `forbidden_arcanus:edelwood_bat_soup_bucket` · к
+- [ ] **Edelwood Bucket of Bee** — `forbidden_arcanus:edelwood_bee_bucket` · н
+- [ ] **Edelwood Bucket of Beetroot Soup** — `forbidden_arcanus:edelwood_beetroot_soup_bucket` · к
+- [ ] **Edelwood Boat** — `forbidden_arcanus:edelwood_boat` · к
+- [ ] **Edelwood Branch** — `forbidden_arcanus:edelwood_branch` · н
+- [ ] **Edelwood Bucket** — `forbidden_arcanus:edelwood_bucket` · к
+- [ ] **Edelwood Button** — `forbidden_arcanus:edelwood_button` · к
+- [ ] **Edelwood Boat with Chest** — `forbidden_arcanus:edelwood_chest_boat` · к
+- [ ] **Edelwood Bucket of Chicken** — `forbidden_arcanus:edelwood_chicken_bucket` · н
+- [ ] **Edelwood Bucket of Cod** — `forbidden_arcanus:edelwood_cod_bucket` · н
+- [ ] **Edelwood Door** — `forbidden_arcanus:edelwood_door` · к
+- [ ] **Edelwood Fence** — `forbidden_arcanus:edelwood_fence` · к
+- [ ] **Edelwood Fence Gate** — `forbidden_arcanus:edelwood_fence_gate` · к
+- [ ] **Edelwood Bucket of Glow Squid** — `forbidden_arcanus:edelwood_glow_squid_bucket` · н
+- [ ] **Edelwood Ladder** — `forbidden_arcanus:edelwood_ladder` · к
+- [ ] **Edelwood Lava Bucket** — `forbidden_arcanus:edelwood_lava_bucket` · н
+- [ ] **Edelwood Log** — `forbidden_arcanus:edelwood_log` · н
+- [ ] **Edelwood Bucket of Magma Cube** — `forbidden_arcanus:edelwood_magma_cube_bucket` · н
+- [ ] **Edelwood Milk Bucket** — `forbidden_arcanus:edelwood_milk_bucket` · н
+- [ ] **Edelwood Bucket of Mushroom Stew** — `forbidden_arcanus:edelwood_mushroom_stew_bucket` · к
+- [ ] **Edelwood Oil** — `forbidden_arcanus:edelwood_oil` · н
+- [ ] **Edelwood Planks** — `forbidden_arcanus:edelwood_planks` · к
+- [ ] **Edelwood Powder Snow Bucket** — `forbidden_arcanus:edelwood_powder_snow_bucket` · н
+- [ ] **Edelwood Pressure Plate** — `forbidden_arcanus:edelwood_pressure_plate` · к
+- [ ] **Edelwood Bucket of Pufferfish** — `forbidden_arcanus:edelwood_pufferfish_bucket` · н
+- [ ] **Edelwood Bucket of Salmon** — `forbidden_arcanus:edelwood_salmon_bucket` · н
+- [ ] **Edelwood Sign** — `forbidden_arcanus:edelwood_sign` · н
+- [ ] **Edelwood Slab** — `forbidden_arcanus:edelwood_slab` · к
+- [ ] **Edelwood Bucket of Slime** — `forbidden_arcanus:edelwood_slime_bucket` · н
+- [ ] **Edelwood Bucket of Squid** — `forbidden_arcanus:edelwood_squid_bucket` · н
+- [ ] **Edelwood Stairs** — `forbidden_arcanus:edelwood_stairs` · к
+- [ ] **Edelwood Stick** — `forbidden_arcanus:edelwood_stick` · н
+- [ ] **Edelwood Bucket of Strider** — `forbidden_arcanus:edelwood_strider_bucket` · н
+- [ ] **Edelwood Bucket of Suspicious Stew** — `forbidden_arcanus:edelwood_suspicious_stew_bucket` · н
+- [ ] **Edelwood Trapdoor** — `forbidden_arcanus:edelwood_trapdoor` · к
+- [ ] **Edelwood Bucket of Tropical Fish** — `forbidden_arcanus:edelwood_tropical_fish_bucket` · н
+- [ ] **Edelwood Water Bucket** — `forbidden_arcanus:edelwood_water_bucket` · н
+- [ ] **Elementarium** — `forbidden_arcanus:elementarium` · н
+- [ ] **Enchanted Soul** — `forbidden_arcanus:enchanted_soul` · н
+- [ ] **Ender Pearl Fragment** — `forbidden_arcanus:ender_pearl_fragment` · к
+- [ ] **Enhancer Relic** — `forbidden_arcanus:enhancer` · н
+- [ ] **Eternal Obsidian Skull** — `forbidden_arcanus:eternal_obsidian_skull` · н
+- [ ] **Eternal Stella** — `forbidden_arcanus:eternal_stella` · н
+- [ ] **Ferrognetic Mixture** — `forbidden_arcanus:ferrognetic_mixture` · н
+- [ ] **Forbiddenmicon** — `forbidden_arcanus:forbiddenmicon` · н
+- [ ] **Fungyss** — `forbidden_arcanus:fungyss` · н
+- [ ] **Fungyss Block** — `forbidden_arcanus:fungyss_block` · н
+- [ ] **Fungyss Button** — `forbidden_arcanus:fungyss_button` · к
+- [ ] **Fungyss Door** — `forbidden_arcanus:fungyss_door` · к
+- [ ] **Fungyss Fence** — `forbidden_arcanus:fungyss_fence` · к
+- [ ] **Fungyss Fence Gate** — `forbidden_arcanus:fungyss_fence_gate` · к
+- [ ] **Fungyss Hyphae** — `forbidden_arcanus:fungyss_hyphae` · к
+- [ ] **Fungyss Planks** — `forbidden_arcanus:fungyss_planks` · к
+- [ ] **Fungyss Pressure Plate** — `forbidden_arcanus:fungyss_pressure_plate` · к
+- [ ] **Fungyss Sign** — `forbidden_arcanus:fungyss_sign` · н
+- [ ] **Fungyss Slab** — `forbidden_arcanus:fungyss_slab` · к
+- [ ] **Fungyss Stairs** — `forbidden_arcanus:fungyss_stairs` · к
+- [ ] **Fungyss Stem** — `forbidden_arcanus:fungyss_stem` · н
+- [ ] **Fungyss Trapdoor** — `forbidden_arcanus:fungyss_trapdoor` · к
+- [ ] **Gilded Darkstone** — `forbidden_arcanus:gilded_darkstone` · н
+- [ ] **Golden Blacksmith Gavel** — `forbidden_arcanus:golden_blacksmith_gavel` · к
+- [ ] **Golden Dragon Scale** — `forbidden_arcanus:golden_dragon_scale` · к
+- [ ] **Golden Feather** — `forbidden_arcanus:golden_feather` · к
+- [ ] **Golden Orchid** — `forbidden_arcanus:golden_orchid` · н
+- [ ] **Golden Orchid Seeds** — `forbidden_arcanus:golden_orchid_seeds` · к
+- [ ] **Growing Edelwood** — `forbidden_arcanus:growing_edelwood` · н
+- [ ] **Hephaestus Forge** — `forbidden_arcanus:hephaestus_forge` · н
+- [ ] **Iron Blacksmith Gavel** — `forbidden_arcanus:iron_blacksmith_gavel` · к
+- [ ] **Lens of Veritatis** — `forbidden_arcanus:lens_of_veritatis` · к
+- [ ] **Magical Farmland** — `forbidden_arcanus:magical_farmland` · н
+- [ ] **Magnetized Darkstone Pedestal** — `forbidden_arcanus:magnetized_darkstone_pedestal` · н
+- [ ] **Maledictus Pact** — `forbidden_arcanus:maledictus_pact` · н
+- [ ] **Mortem Boots** — `forbidden_arcanus:mortem_boots` · к
+- [ ] **Mortem Chestplate** — `forbidden_arcanus:mortem_chestplate` · к
+- [ ] **Mortem Helmet** — `forbidden_arcanus:mortem_helmet` · к
+- [ ] **Mortem Leggings** — `forbidden_arcanus:mortem_leggings` · к
+- [ ] **Mundabitur Dust** — `forbidden_arcanus:mundabitur_dust` · к
+- [ ] **Mystical Dagger** — `forbidden_arcanus:mystical_dagger` · к
+- [ ] **Netherite Blacksmith Gavel** — `forbidden_arcanus:netherite_blacksmith_gavel` · н
+- [ ] **Nipa** — `forbidden_arcanus:nipa` · н
+- [ ] **Nuggety Aurum Leaves** — `forbidden_arcanus:nuggety_aurum_leaves` · н
+- [ ] **Obsidian Ingot** — `forbidden_arcanus:obsidian_ingot` · к
+- [ ] **Obsidian Skull** — `forbidden_arcanus:obsidian_skull` · к
+- [ ] **Obsidian Skull Shield** — `forbidden_arcanus:obsidian_skull_shield` · н
+- [ ] **Obsidian With Iron** — `forbidden_arcanus:obsidian_with_iron` · к
+- [ ] **Orb Of Temporary Flight** — `forbidden_arcanus:orb_of_temporary_flight` · н
+- [ ] **Petrified Root** — `forbidden_arcanus:petrified_root` · н
+- [ ] **Pixie** — `forbidden_arcanus:pixie` · н
+- [ ] **Polished Darkstone** — `forbidden_arcanus:polished_darkstone` · к
+- [ ] **Polished Darkstone Brick Slab** — `forbidden_arcanus:polished_darkstone_brick_slab` · к
+- [ ] **Polished Darkstone Brick Stairs** — `forbidden_arcanus:polished_darkstone_brick_stairs` · к
+- [ ] **Polished Darkstone Brick Wall** — `forbidden_arcanus:polished_darkstone_brick_wall` · к
+- [ ] **Polished Darkstone Bricks** — `forbidden_arcanus:polished_darkstone_bricks` · к
+- [ ] **Polished Darkstone Button** — `forbidden_arcanus:polished_darkstone_button` · к
+- [ ] **Polished Darkstone Pressure Plate** — `forbidden_arcanus:polished_darkstone_pressure_plate` · к
+- [ ] **Polished Darkstone Slab** — `forbidden_arcanus:polished_darkstone_slab` · к
+- [ ] **Polished Darkstone Stairs** — `forbidden_arcanus:polished_darkstone_stairs` · к
+- [ ] **Polished Darkstone Wall** — `forbidden_arcanus:polished_darkstone_wall` · к
+- [ ] **Polished Soulless Sandstone** — `forbidden_arcanus:polished_soulless_sandstone` · к
+- [ ] **Polished Soulless Sandstone Slab** — `forbidden_arcanus:polished_soulless_sandstone_slab` · к
+- [ ] **Polished Soulless Sandstone Stairs** — `forbidden_arcanus:polished_soulless_sandstone_stairs` · к
+- [ ] **Potted Aurum Sapling** — `forbidden_arcanus:potted_aurum_sapling` · н
+- [ ] **Potted Cherry Sapling** — `forbidden_arcanus:potted_cherry_sapling` · н
+- [ ] **Potted Growing Edelwood** — `forbidden_arcanus:potted_growing_edelwood` · н
+- [ ] **Potted Yellow Orchid** — `forbidden_arcanus:potted_yellow_orchid` · н
+- [ ] **Processed Obsidian Block** — `forbidden_arcanus:processed_obsidian_block` · к
+- [ ] **Purifying Soap** — `forbidden_arcanus:purifying_soap` · к
+- [ ] **Quantum Catcher** — `forbidden_arcanus:quantum_catcher` · к
+- [ ] **Reinforced Deorum Axe** — `forbidden_arcanus:reinforced_deorum_axe` · н
+- [ ] **Reinforced Deorum Blacksmith Gavel** — `forbidden_arcanus:reinforced_deorum_blacksmith_gavel` · н
+- [ ] **Reinforced Deorum Hoe** — `forbidden_arcanus:reinforced_deorum_hoe` · н
+- [ ] **Reinforced Deorum Pickaxe** — `forbidden_arcanus:reinforced_deorum_pickaxe` · н
+- [ ] **Reinforced Deorum Shovel** — `forbidden_arcanus:reinforced_deorum_shovel` · н
+- [ ] **Reinforced Deorum Sword** — `forbidden_arcanus:reinforced_deorum_sword` · н
+- [ ] **Rotten Leather** — `forbidden_arcanus:rotten_leather` · к
+- [ ] **Rune** — `forbidden_arcanus:rune` · к
+- [ ] **Rune Bag** — `forbidden_arcanus:rune_bag` · н
+- [ ] **Rune Block** — `forbidden_arcanus:rune_block` · к
+- [ ] **Runic Chiseled Polished Darkstone** — `forbidden_arcanus:runic_chiseled_polished_darkstone` · к
+- [ ] **Runic Darkstone** — `forbidden_arcanus:runic_darkstone` · н
+- [ ] **Runic Deepslate** — `forbidden_arcanus:runic_deepslate` · н
+- [ ] **Runic Glass** — `forbidden_arcanus:runic_glass` · к
+- [ ] **Runic Glass Pane** — `forbidden_arcanus:runic_glass_pane` · к
+- [ ] **Runic Stone** — `forbidden_arcanus:runic_stone` · н
+- [ ] **Sanity Meter** — `forbidden_arcanus:sanity_meter` · к
+- [ ] **Sea Prism** — `forbidden_arcanus:sea_prism` · н
+- [ ] **Shiny Zombie Arm** — `forbidden_arcanus:shiny_zombie_arm` · н
+- [ ] **Silver Dragon Scale** — `forbidden_arcanus:silver_dragon_scale` · к
+- [ ] **Slimec Pickaxe** — `forbidden_arcanus:slimec_pickaxe` · к
+- [ ] **Smelter Prism** — `forbidden_arcanus:smelter_prism` · н
+- [ ] **Soul** — `forbidden_arcanus:soul` · н
+- [ ] **Soul Crimson Stone** — `forbidden_arcanus:soul_crimson_stone` · н
+- [ ] **Soul Extractor** — `forbidden_arcanus:soul_extractor` · к
+- [ ] **Soulless Sand** — `forbidden_arcanus:soulless_sand` · н
+- [ ] **Soulless Sandstone** — `forbidden_arcanus:soulless_sandstone` · к
+- [ ] **Soulless Sandstone Slab** — `forbidden_arcanus:soulless_sandstone_slab` · к
+- [ ] **Soulless Sandstone Stairs** — `forbidden_arcanus:soulless_sandstone_stairs` · к
+- [ ] **Soulless Sandstone Wall** — `forbidden_arcanus:soulless_sandstone_wall` · к
+- [ ] **Spawner Scrap** — `forbidden_arcanus:spawner_scrap` · н
+- [ ] **Spectral Eye Amulet** — `forbidden_arcanus:spectral_eye_amulet` · к
+- [ ] **Splash Aureal Bottle** — `forbidden_arcanus:splash_aureal_bottle` · н
+- [ ] **Stella Arcanum** — `forbidden_arcanus:stella_arcanum` · н
+- [ ] **Stellarite Block** — `forbidden_arcanus:stellarite_block` · к
+- [ ] **Stellarite Piece** — `forbidden_arcanus:stellarite_piece` · к
+- [ ] **Stone Blacksmith Gavel** — `forbidden_arcanus:stone_blacksmith_gavel` · к
+- [ ] **Strange Root** — `forbidden_arcanus:strange_root` · н
+- [ ] **Stripped Aurum Log** — `forbidden_arcanus:stripped_aurum_log` · к
+- [ ] **Stripped Aurum Wood** — `forbidden_arcanus:stripped_aurum_wood` · к
+- [ ] **Stripped Cherry Log** — `forbidden_arcanus:stripped_cherry_log` · н
+- [ ] **Stripped Cherry Wood** — `forbidden_arcanus:stripped_cherry_wood` · н
+- [ ] **Stripped Edelwood Log** — `forbidden_arcanus:stripped_edelwood_log` · н
+- [ ] **Tentacle** — `forbidden_arcanus:tentacle` · н
+- [ ] **Terrastomp Prism** — `forbidden_arcanus:terrastomp_prism` · н
+- [ ] **Test Tube** — `forbidden_arcanus:test_tube` · к
+- [ ] **Thin Cherry Log** — `forbidden_arcanus:thin_cherry_log` · н
+- [ ] **Tiled Polished Darkstone Bricks** — `forbidden_arcanus:tiled_polished_darkstone_bricks` · к
+- [ ] **Tyr Boots** — `forbidden_arcanus:tyr_boots` · к
+- [ ] **Tyr Chestplate** — `forbidden_arcanus:tyr_chestplate` · к
+- [ ] **Tyr Helmet** — `forbidden_arcanus:tyr_helmet` · к
+- [ ] **Tyr Leggings** — `forbidden_arcanus:tyr_leggings` · к
+- [ ] **Utrem Jar** — `forbidden_arcanus:utrem_jar` · к
+- [ ] **Wax** — `forbidden_arcanus:wax` · к
+- [ ] **Wet Purifying Soap** — `forbidden_arcanus:wet_purifying_soap` · н
+- [ ] **Whirlwind Prism** — `forbidden_arcanus:whirlwind_prism` · н
+- [ ] **Wooden Blacksmith Gavel** — `forbidden_arcanus:wooden_blacksmith_gavel` · к
+- [ ] **Xpetrified Orb** — `forbidden_arcanus:xpetrified_orb` · н
+- [ ] **Xpetrified Ore** — `forbidden_arcanus:xpetrified_ore` · н
+- [ ] **Yellow Orchid** — `forbidden_arcanus:yellow_orchid` · н
+- [ ] **Zombie Arm** — `forbidden_arcanus:zombie_arm` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

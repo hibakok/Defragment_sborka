@@ -1,0 +1,485 @@
+# Музей: Create: Steam 'n' Rails (railways)
+
+Предметов: 1022 · крафтимых по данным: 604 (59%) · файлов: 3
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+## Часть 2 из 3
+
+*В части: 470 предметов.*
+
+- [ ] **Cherry Train Track** — `railways:track_cherry` · к
+- [ ] **Narrow Cherry Train Track** — `railways:track_cherry_narrow` · к
+- [ ] **Wide Cherry Train Track** — `railways:track_cherry_wide` · к
+- [ ] **Train Coupler** — `railways:track_coupler` · к
+- [ ] **Narrow Andesite Train Track** — `railways:track_create_andesite_narrow` · к
+- [ ] **Wide Andesite Train Track** — `railways:track_create_andesite_wide` · к
+- [ ] **Rose Train Track** — `railways:track_create_dd_rose` · к
+- [ ] **Narrow Rose Train Track** — `railways:track_create_dd_rose_narrow` · к
+- [ ] **Wide Rose Train Track** — `railways:track_create_dd_rose_wide` · к
+- [ ] **Rubber Train Track** — `railways:track_create_dd_rubber` · к
+- [ ] **Narrow Rubber Train Track** — `railways:track_create_dd_rubber_narrow` · к
+- [ ] **Wide Rubber Train Track** — `railways:track_create_dd_rubber_wide` · к
+- [ ] **Smoked Train Track** — `railways:track_create_dd_smoked` · к
+- [ ] **Narrow Smoked Train Track** — `railways:track_create_dd_smoked_narrow` · к
+- [ ] **Wide Smoked Train Track** — `railways:track_create_dd_smoked_wide` · к
+- [ ] **Spirit Train Track** — `railways:track_create_dd_spirit` · к
+- [ ] **Narrow Spirit Train Track** — `railways:track_create_dd_spirit_narrow` · к
+- [ ] **Wide Spirit Train Track** — `railways:track_create_dd_spirit_wide` · к
+- [ ] **Crimson Train Track** — `railways:track_crimson` · к
+- [ ] **Narrow Crimson Train Track** — `railways:track_crimson_narrow` · к
+- [ ] **Wide Crimson Train Track** — `railways:track_crimson_wide` · к
+- [ ] **Dark Oak Train Track** — `railways:track_dark_oak` · к
+- [ ] **Narrow Dark Oak Train Track** — `railways:track_dark_oak_narrow` · к
+- [ ] **Wide Dark Oak Train Track** — `railways:track_dark_oak_wide` · к
+- [ ] **Ender Train Track** — `railways:track_ender` · к
+- [ ] **Narrow Ender Train Track** — `railways:track_ender_narrow` · к
+- [ ] **Wide Ender Train Track** — `railways:track_ender_wide` · к
+- [ ] **Edified Train Track** — `railways:track_hexcasting_edified` · к
+- [ ] **Narrow Edified Train Track** — `railways:track_hexcasting_edified_narrow` · к
+- [ ] **Wide Edified Train Track** — `railways:track_hexcasting_edified_wide` · к
+- [ ] **Incomplete Acacia Track** — `railways:track_incomplete_acacia` · н
+- [ ] **Incomplete Narrow Acacia Track** — `railways:track_incomplete_acacia_narrow` · н
+- [ ] **Incomplete Wide Acacia Track** — `railways:track_incomplete_acacia_wide` · н
+- [ ] **Incomplete Bamboo Track** — `railways:track_incomplete_bamboo` · н
+- [ ] **Incomplete Narrow Bamboo Track** — `railways:track_incomplete_bamboo_narrow` · н
+- [ ] **Incomplete Wide Bamboo Track** — `railways:track_incomplete_bamboo_wide` · н
+- [ ] **Incomplete Dead Track** — `railways:track_incomplete_biomesoplenty_dead` · н
+- [ ] **Incomplete Narrow Dead Track** — `railways:track_incomplete_biomesoplenty_dead_narrow` · н
+- [ ] **Incomplete Wide Dead Track** — `railways:track_incomplete_biomesoplenty_dead_wide` · н
+- [ ] **Incomplete Fir Track** — `railways:track_incomplete_biomesoplenty_fir` · н
+- [ ] **Incomplete Narrow Fir Track** — `railways:track_incomplete_biomesoplenty_fir_narrow` · н
+- [ ] **Incomplete Wide Fir Track** — `railways:track_incomplete_biomesoplenty_fir_wide` · н
+- [ ] **Incomplete Hellbark Track** — `railways:track_incomplete_biomesoplenty_hellbark` · н
+- [ ] **Incomplete Narrow Hellbark Track** — `railways:track_incomplete_biomesoplenty_hellbark_narrow` · н
+- [ ] **Incomplete Wide Hellbark Track** — `railways:track_incomplete_biomesoplenty_hellbark_wide` · н
+- [ ] **Incomplete Jacaranda Track** — `railways:track_incomplete_biomesoplenty_jacaranda` · н
+- [ ] **Incomplete Narrow Jacaranda Track** — `railways:track_incomplete_biomesoplenty_jacaranda_narrow` · н
+- [ ] **Incomplete Wide Jacaranda Track** — `railways:track_incomplete_biomesoplenty_jacaranda_wide` · н
+- [ ] **Incomplete Magic Track** — `railways:track_incomplete_biomesoplenty_magic` · н
+- [ ] **Incomplete Narrow Magic Track** — `railways:track_incomplete_biomesoplenty_magic_narrow` · н
+- [ ] **Incomplete Wide Magic Track** — `railways:track_incomplete_biomesoplenty_magic_wide` · н
+- [ ] **Incomplete Mahogany Track** — `railways:track_incomplete_biomesoplenty_mahogany` · н
+- [ ] **Incomplete Narrow Mahogany Track** — `railways:track_incomplete_biomesoplenty_mahogany_narrow` · н
+- [ ] **Incomplete Wide Mahogany Track** — `railways:track_incomplete_biomesoplenty_mahogany_wide` · н
+- [ ] **Incomplete Palm Track** — `railways:track_incomplete_biomesoplenty_palm` · н
+- [ ] **Incomplete Narrow Palm Track** — `railways:track_incomplete_biomesoplenty_palm_narrow` · н
+- [ ] **Incomplete Wide Palm Track** — `railways:track_incomplete_biomesoplenty_palm_wide` · н
+- [ ] **Incomplete Redwood Track** — `railways:track_incomplete_biomesoplenty_redwood` · н
+- [ ] **Incomplete Narrow Redwood Track** — `railways:track_incomplete_biomesoplenty_redwood_narrow` · н
+- [ ] **Incomplete Wide Redwood Track** — `railways:track_incomplete_biomesoplenty_redwood_wide` · н
+- [ ] **Incomplete Umbran Track** — `railways:track_incomplete_biomesoplenty_umbran` · н
+- [ ] **Incomplete Narrow Umbran Track** — `railways:track_incomplete_biomesoplenty_umbran_narrow` · н
+- [ ] **Incomplete Wide Umbran Track** — `railways:track_incomplete_biomesoplenty_umbran_wide` · н
+- [ ] **Incomplete Willow Track** — `railways:track_incomplete_biomesoplenty_willow` · н
+- [ ] **Incomplete Narrow Willow Track** — `railways:track_incomplete_biomesoplenty_willow_narrow` · н
+- [ ] **Incomplete Wide Willow Track** — `railways:track_incomplete_biomesoplenty_willow_wide` · н
+- [ ] **Incomplete Birch Track** — `railways:track_incomplete_birch` · н
+- [ ] **Incomplete Narrow Birch Track** — `railways:track_incomplete_birch_narrow` · н
+- [ ] **Incomplete Wide Birch Track** — `railways:track_incomplete_birch_wide` · н
+- [ ] **Incomplete Blackstone Track** — `railways:track_incomplete_blackstone` · н
+- [ ] **Incomplete Narrow Blackstone Track** — `railways:track_incomplete_blackstone_narrow` · н
+- [ ] **Incomplete Wide Blackstone Track** — `railways:track_incomplete_blackstone_wide` · н
+- [ ] **Incomplete Bluebright Track** — `railways:track_incomplete_blue_skies_bluebright` · н
+- [ ] **Incomplete Narrow Bluebright Track** — `railways:track_incomplete_blue_skies_bluebright_narrow` · н
+- [ ] **Incomplete Wide Bluebright Track** — `railways:track_incomplete_blue_skies_bluebright_wide` · н
+- [ ] **Incomplete Dusk Track** — `railways:track_incomplete_blue_skies_dusk` · н
+- [ ] **Incomplete Narrow Dusk Track** — `railways:track_incomplete_blue_skies_dusk_narrow` · н
+- [ ] **Incomplete Wide Dusk Track** — `railways:track_incomplete_blue_skies_dusk_wide` · н
+- [ ] **Incomplete Frostbright Track** — `railways:track_incomplete_blue_skies_frostbright` · н
+- [ ] **Incomplete Narrow Frostbright Track** — `railways:track_incomplete_blue_skies_frostbright_narrow` · н
+- [ ] **Incomplete Wide Frostbright Track** — `railways:track_incomplete_blue_skies_frostbright_wide` · н
+- [ ] **Incomplete Lunar Track** — `railways:track_incomplete_blue_skies_lunar` · н
+- [ ] **Incomplete Narrow Lunar Track** — `railways:track_incomplete_blue_skies_lunar_narrow` · н
+- [ ] **Incomplete Wide Lunar Track** — `railways:track_incomplete_blue_skies_lunar_wide` · н
+- [ ] **Incomplete Maple Track** — `railways:track_incomplete_blue_skies_maple` · н
+- [ ] **Incomplete Narrow Maple Track** — `railways:track_incomplete_blue_skies_maple_narrow` · н
+- [ ] **Incomplete Wide Maple Track** — `railways:track_incomplete_blue_skies_maple_wide` · н
+- [ ] **Incomplete Starlit Track** — `railways:track_incomplete_blue_skies_starlit` · н
+- [ ] **Incomplete Narrow Starlit Track** — `railways:track_incomplete_blue_skies_starlit_narrow` · н
+- [ ] **Incomplete Wide Starlit Track** — `railways:track_incomplete_blue_skies_starlit_wide` · н
+- [ ] **Incomplete Aspen Track** — `railways:track_incomplete_byg_aspen` · н
+- [ ] **Incomplete Narrow Aspen Track** — `railways:track_incomplete_byg_aspen_narrow` · н
+- [ ] **Incomplete Wide Aspen Track** — `railways:track_incomplete_byg_aspen_wide` · н
+- [ ] **Incomplete Baobab Track** — `railways:track_incomplete_byg_baobab` · н
+- [ ] **Incomplete Narrow Baobab Track** — `railways:track_incomplete_byg_baobab_narrow` · н
+- [ ] **Incomplete Wide Baobab Track** — `railways:track_incomplete_byg_baobab_wide` · н
+- [ ] **Incomplete Blue Enchanted Track** — `railways:track_incomplete_byg_blue_enchanted` · н
+- [ ] **Incomplete Narrow Blue Enchanted Track** — `railways:track_incomplete_byg_blue_enchanted_narrow` · н
+- [ ] **Incomplete Wide Blue Enchanted Track** — `railways:track_incomplete_byg_blue_enchanted_wide` · н
+- [ ] **Incomplete Bulbis Track** — `railways:track_incomplete_byg_bulbis` · н
+- [ ] **Incomplete Narrow Bulbis Track** — `railways:track_incomplete_byg_bulbis_narrow` · н
+- [ ] **Incomplete Wide Bulbis Track** — `railways:track_incomplete_byg_bulbis_wide` · н
+- [ ] **Incomplete Cika Track** — `railways:track_incomplete_byg_cika` · н
+- [ ] **Incomplete Narrow Cika Track** — `railways:track_incomplete_byg_cika_narrow` · н
+- [ ] **Incomplete Wide Cika Track** — `railways:track_incomplete_byg_cika_wide` · н
+- [ ] **Incomplete Cypress Track** — `railways:track_incomplete_byg_cypress` · н
+- [ ] **Incomplete Narrow Cypress Track** — `railways:track_incomplete_byg_cypress_narrow` · н
+- [ ] **Incomplete Wide Cypress Track** — `railways:track_incomplete_byg_cypress_wide` · н
+- [ ] **Incomplete Ebony Track** — `railways:track_incomplete_byg_ebony` · н
+- [ ] **Incomplete Narrow Ebony Track** — `railways:track_incomplete_byg_ebony_narrow` · н
+- [ ] **Incomplete Wide Ebony Track** — `railways:track_incomplete_byg_ebony_wide` · н
+- [ ] **Incomplete Embur Track** — `railways:track_incomplete_byg_embur` · н
+- [ ] **Incomplete Narrow Embur Track** — `railways:track_incomplete_byg_embur_narrow` · н
+- [ ] **Incomplete Wide Embur Track** — `railways:track_incomplete_byg_embur_wide` · н
+- [ ] **Incomplete Ether Track** — `railways:track_incomplete_byg_ether` · н
+- [ ] **Incomplete Narrow Ether Track** — `railways:track_incomplete_byg_ether_narrow` · н
+- [ ] **Incomplete Wide Ether Track** — `railways:track_incomplete_byg_ether_wide` · н
+- [ ] **Incomplete Fir Track** — `railways:track_incomplete_byg_fir` · н
+- [ ] **Incomplete Narrow Fir Track** — `railways:track_incomplete_byg_fir_narrow` · н
+- [ ] **Incomplete Wide Fir Track** — `railways:track_incomplete_byg_fir_wide` · н
+- [ ] **Incomplete Green Enchanted Track** — `railways:track_incomplete_byg_green_enchanted` · н
+- [ ] **Incomplete Narrow Green Enchanted Track** — `railways:track_incomplete_byg_green_enchanted_narrow` · н
+- [ ] **Incomplete Wide Green Enchanted Track** — `railways:track_incomplete_byg_green_enchanted_wide` · н
+- [ ] **Incomplete Holly Track** — `railways:track_incomplete_byg_holly` · н
+- [ ] **Incomplete Narrow Holly Track** — `railways:track_incomplete_byg_holly_narrow` · н
+- [ ] **Incomplete Wide Holly Track** — `railways:track_incomplete_byg_holly_wide` · н
+- [ ] **Incomplete Imparius Track** — `railways:track_incomplete_byg_imparius` · н
+- [ ] **Incomplete Narrow Imparius Track** — `railways:track_incomplete_byg_imparius_narrow` · н
+- [ ] **Incomplete Wide Imparius Track** — `railways:track_incomplete_byg_imparius_wide` · н
+- [ ] **Incomplete Jacaranda Track** — `railways:track_incomplete_byg_jacaranda` · н
+- [ ] **Incomplete Narrow Jacaranda Track** — `railways:track_incomplete_byg_jacaranda_narrow` · н
+- [ ] **Incomplete Wide Jacaranda Track** — `railways:track_incomplete_byg_jacaranda_wide` · н
+- [ ] **Incomplete Lament Track** — `railways:track_incomplete_byg_lament` · н
+- [ ] **Incomplete Narrow Lament Track** — `railways:track_incomplete_byg_lament_narrow` · н
+- [ ] **Incomplete Wide Lament Track** — `railways:track_incomplete_byg_lament_wide` · н
+- [ ] **Incomplete Mahogany Track** — `railways:track_incomplete_byg_mahogany` · н
+- [ ] **Incomplete Narrow Mahogany Track** — `railways:track_incomplete_byg_mahogany_narrow` · н
+- [ ] **Incomplete Wide Mahogany Track** — `railways:track_incomplete_byg_mahogany_wide` · н
+- [ ] **Incomplete Maple Track** — `railways:track_incomplete_byg_maple` · н
+- [ ] **Incomplete Narrow Maple Track** — `railways:track_incomplete_byg_maple_narrow` · н
+- [ ] **Incomplete Wide Maple Track** — `railways:track_incomplete_byg_maple_wide` · н
+- [ ] **Incomplete Nightshade Track** — `railways:track_incomplete_byg_nightshade` · н
+- [ ] **Incomplete Narrow Nightshade Track** — `railways:track_incomplete_byg_nightshade_narrow` · н
+- [ ] **Incomplete Wide Nightshade Track** — `railways:track_incomplete_byg_nightshade_wide` · н
+- [ ] **Incomplete Palm Track** — `railways:track_incomplete_byg_palm` · н
+- [ ] **Incomplete Narrow Palm Track** — `railways:track_incomplete_byg_palm_narrow` · н
+- [ ] **Incomplete Wide Palm Track** — `railways:track_incomplete_byg_palm_wide` · н
+- [ ] **Incomplete Pine Track** — `railways:track_incomplete_byg_pine` · н
+- [ ] **Incomplete Narrow Pine Track** — `railways:track_incomplete_byg_pine_narrow` · н
+- [ ] **Incomplete Wide Pine Track** — `railways:track_incomplete_byg_pine_wide` · н
+- [ ] **Incomplete Rainbow Eucalyptus Track** — `railways:track_incomplete_byg_rainbow_eucalyptus` · н
+- [ ] **Incomplete Narrow Rainbow Eucalyptus Track** — `railways:track_incomplete_byg_rainbow_eucalyptus_narrow` · н
+- [ ] **Incomplete Wide Rainbow Eucalyptus Track** — `railways:track_incomplete_byg_rainbow_eucalyptus_wide` · н
+- [ ] **Incomplete Redwood Track** — `railways:track_incomplete_byg_redwood` · н
+- [ ] **Incomplete Narrow Redwood Track** — `railways:track_incomplete_byg_redwood_narrow` · н
+- [ ] **Incomplete Wide Redwood Track** — `railways:track_incomplete_byg_redwood_wide` · н
+- [ ] **Incomplete Skyris Track** — `railways:track_incomplete_byg_skyris` · н
+- [ ] **Incomplete Narrow Skyris Track** — `railways:track_incomplete_byg_skyris_narrow` · н
+- [ ] **Incomplete Wide Skyris Track** — `railways:track_incomplete_byg_skyris_wide` · н
+- [ ] **Incomplete Sythian Track** — `railways:track_incomplete_byg_sythian` · н
+- [ ] **Incomplete Narrow Sythian Track** — `railways:track_incomplete_byg_sythian_narrow` · н
+- [ ] **Incomplete Wide Sythian Track** — `railways:track_incomplete_byg_sythian_wide` · н
+- [ ] **Incomplete White Mangrove Track** — `railways:track_incomplete_byg_white_mangrove` · н
+- [ ] **Incomplete Narrow White Mangrove Track** — `railways:track_incomplete_byg_white_mangrove_narrow` · н
+- [ ] **Incomplete Wide White Mangrove Track** — `railways:track_incomplete_byg_white_mangrove_wide` · н
+- [ ] **Incomplete Willow Track** — `railways:track_incomplete_byg_willow` · н
+- [ ] **Incomplete Narrow Willow Track** — `railways:track_incomplete_byg_willow_narrow` · н
+- [ ] **Incomplete Wide Willow Track** — `railways:track_incomplete_byg_willow_wide` · н
+- [ ] **Incomplete Witch Hazel Track** — `railways:track_incomplete_byg_witch_hazel` · н
+- [ ] **Incomplete Narrow Witch Hazel Track** — `railways:track_incomplete_byg_witch_hazel_narrow` · н
+- [ ] **Incomplete Wide Witch Hazel Track** — `railways:track_incomplete_byg_witch_hazel_wide` · н
+- [ ] **Incomplete Zelkova Track** — `railways:track_incomplete_byg_zelkova` · н
+- [ ] **Incomplete Narrow Zelkova Track** — `railways:track_incomplete_byg_zelkova_narrow` · н
+- [ ] **Incomplete Wide Zelkova Track** — `railways:track_incomplete_byg_zelkova_wide` · н
+- [ ] **Incomplete Cherry Track** — `railways:track_incomplete_cherry` · н
+- [ ] **Incomplete Narrow Cherry Track** — `railways:track_incomplete_cherry_narrow` · н
+- [ ] **Incomplete Wide Cherry Track** — `railways:track_incomplete_cherry_wide` · н
+- [ ] **Incomplete Narrow Andesite Track** — `railways:track_incomplete_create_andesite_narrow` · н
+- [ ] **Incomplete Wide Andesite Track** — `railways:track_incomplete_create_andesite_wide` · н
+- [ ] **Incomplete Rose Track** — `railways:track_incomplete_create_dd_rose` · н
+- [ ] **Incomplete Narrow Rose Track** — `railways:track_incomplete_create_dd_rose_narrow` · н
+- [ ] **Incomplete Wide Rose Track** — `railways:track_incomplete_create_dd_rose_wide` · н
+- [ ] **Incomplete Rubber Track** — `railways:track_incomplete_create_dd_rubber` · н
+- [ ] **Incomplete Narrow Rubber Track** — `railways:track_incomplete_create_dd_rubber_narrow` · н
+- [ ] **Incomplete Wide Rubber Track** — `railways:track_incomplete_create_dd_rubber_wide` · н
+- [ ] **Incomplete Smoked Track** — `railways:track_incomplete_create_dd_smoked` · н
+- [ ] **Incomplete Narrow Smoked Track** — `railways:track_incomplete_create_dd_smoked_narrow` · н
+- [ ] **Incomplete Wide Smoked Track** — `railways:track_incomplete_create_dd_smoked_wide` · н
+- [ ] **Incomplete Spirit Track** — `railways:track_incomplete_create_dd_spirit` · н
+- [ ] **Incomplete Narrow Spirit Track** — `railways:track_incomplete_create_dd_spirit_narrow` · н
+- [ ] **Incomplete Wide Spirit Track** — `railways:track_incomplete_create_dd_spirit_wide` · н
+- [ ] **Incomplete Crimson Track** — `railways:track_incomplete_crimson` · н
+- [ ] **Incomplete Narrow Crimson Track** — `railways:track_incomplete_crimson_narrow` · н
+- [ ] **Incomplete Wide Crimson Track** — `railways:track_incomplete_crimson_wide` · н
+- [ ] **Incomplete Dark Oak Track** — `railways:track_incomplete_dark_oak` · н
+- [ ] **Incomplete Narrow Dark Oak Track** — `railways:track_incomplete_dark_oak_narrow` · н
+- [ ] **Incomplete Wide Dark Oak Track** — `railways:track_incomplete_dark_oak_wide` · н
+- [ ] **Incomplete Ender Track** — `railways:track_incomplete_ender` · н
+- [ ] **Incomplete Narrow Ender Track** — `railways:track_incomplete_ender_narrow` · н
+- [ ] **Incomplete Wide Ender Track** — `railways:track_incomplete_ender_wide` · н
+- [ ] **Incomplete Edified Track** — `railways:track_incomplete_hexcasting_edified` · н
+- [ ] **Incomplete Narrow Edified Track** — `railways:track_incomplete_hexcasting_edified_narrow` · н
+- [ ] **Incomplete Wide Edified Track** — `railways:track_incomplete_hexcasting_edified_wide` · н
+- [ ] **Incomplete Jungle Track** — `railways:track_incomplete_jungle` · н
+- [ ] **Incomplete Narrow Jungle Track** — `railways:track_incomplete_jungle_narrow` · н
+- [ ] **Incomplete Wide Jungle Track** — `railways:track_incomplete_jungle_wide` · н
+- [ ] **Incomplete Mangrove Track** — `railways:track_incomplete_mangrove` · н
+- [ ] **Incomplete Narrow Mangrove Track** — `railways:track_incomplete_mangrove_narrow` · н
+- [ ] **Incomplete Wide Mangrove Track** — `railways:track_incomplete_mangrove_wide` · н
+- [ ] **Incomplete Monorail Track** — `railways:track_incomplete_monorail` · н
+- [ ] **Incomplete Aspen Track** — `railways:track_incomplete_natures_spirit_aspen` · н
+- [ ] **Incomplete Narrow Aspen Track** — `railways:track_incomplete_natures_spirit_aspen_narrow` · н
+- [ ] **Incomplete Wide Aspen Track** — `railways:track_incomplete_natures_spirit_aspen_wide` · н
+- [ ] **Incomplete Cypress Track** — `railways:track_incomplete_natures_spirit_cypress` · н
+- [ ] **Incomplete Narrow Cypress Track** — `railways:track_incomplete_natures_spirit_cypress_narrow` · н
+- [ ] **Incomplete Wide Cypress Track** — `railways:track_incomplete_natures_spirit_cypress_wide` · н
+- [ ] **Incomplete Fir Track** — `railways:track_incomplete_natures_spirit_fir` · н
+- [ ] **Incomplete Narrow Fir Track** — `railways:track_incomplete_natures_spirit_fir_narrow` · н
+- [ ] **Incomplete Wide Fir Track** — `railways:track_incomplete_natures_spirit_fir_wide` · н
+- [ ] **Incomplete Ghaf Track** — `railways:track_incomplete_natures_spirit_ghaf` · н
+- [ ] **Incomplete Narrow Ghaf Track** — `railways:track_incomplete_natures_spirit_ghaf_narrow` · н
+- [ ] **Incomplete Wide Ghaf Track** — `railways:track_incomplete_natures_spirit_ghaf_wide` · н
+- [ ] **Incomplete Joshua Track** — `railways:track_incomplete_natures_spirit_joshua` · н
+- [ ] **Incomplete Narrow Joshua Track** — `railways:track_incomplete_natures_spirit_joshua_narrow` · н
+- [ ] **Incomplete Wide Joshua Track** — `railways:track_incomplete_natures_spirit_joshua_wide` · н
+- [ ] **Incomplete Maple Track** — `railways:track_incomplete_natures_spirit_maple` · н
+- [ ] **Incomplete Narrow Maple Track** — `railways:track_incomplete_natures_spirit_maple_narrow` · н
+- [ ] **Incomplete Wide Maple Track** — `railways:track_incomplete_natures_spirit_maple_wide` · н
+- [ ] **Incomplete Olive Track** — `railways:track_incomplete_natures_spirit_olive` · н
+- [ ] **Incomplete Narrow Olive Track** — `railways:track_incomplete_natures_spirit_olive_narrow` · н
+- [ ] **Incomplete Wide Olive Track** — `railways:track_incomplete_natures_spirit_olive_wide` · н
+- [ ] **Incomplete Palo Verde Track** — `railways:track_incomplete_natures_spirit_palo_verde` · н
+- [ ] **Incomplete Narrow Palo Verde Track** — `railways:track_incomplete_natures_spirit_palo_verde_narrow` · н
+- [ ] **Incomplete Wide Palo Verde Track** — `railways:track_incomplete_natures_spirit_palo_verde_wide` · н
+- [ ] **Incomplete Redwood Track** — `railways:track_incomplete_natures_spirit_redwood` · н
+- [ ] **Incomplete Narrow Redwood Track** — `railways:track_incomplete_natures_spirit_redwood_narrow` · н
+- [ ] **Incomplete Wide Redwood Track** — `railways:track_incomplete_natures_spirit_redwood_wide` · н
+- [ ] **Incomplete Sugi Track** — `railways:track_incomplete_natures_spirit_sugi` · н
+- [ ] **Incomplete Narrow Sugi Track** — `railways:track_incomplete_natures_spirit_sugi_narrow` · н
+- [ ] **Incomplete Wide Sugi Track** — `railways:track_incomplete_natures_spirit_sugi_wide` · н
+- [ ] **Incomplete Willow Track** — `railways:track_incomplete_natures_spirit_willow` · н
+- [ ] **Incomplete Narrow Willow Track** — `railways:track_incomplete_natures_spirit_willow_narrow` · н
+- [ ] **Incomplete Wide Willow Track** — `railways:track_incomplete_natures_spirit_willow_wide` · н
+- [ ] **Incomplete Wisteria Track** — `railways:track_incomplete_natures_spirit_wisteria` · н
+- [ ] **Incomplete Narrow Wisteria Track** — `railways:track_incomplete_natures_spirit_wisteria_narrow` · н
+- [ ] **Incomplete Wide Wisteria Track** — `railways:track_incomplete_natures_spirit_wisteria_wide` · н
+- [ ] **Incomplete Oak Track** — `railways:track_incomplete_oak` · н
+- [ ] **Incomplete Narrow Oak Track** — `railways:track_incomplete_oak_narrow` · н
+- [ ] **Incomplete Wide Oak Track** — `railways:track_incomplete_oak_wide` · н
+- [ ] **Incomplete Phantom Track** — `railways:track_incomplete_phantom` · н
+- [ ] **Incomplete Ashen Track** — `railways:track_incomplete_quark_ancient` · н
+- [ ] **Incomplete Narrow Ashen Track** — `railways:track_incomplete_quark_ancient_narrow` · н
+- [ ] **Incomplete Wide Ashen Track** — `railways:track_incomplete_quark_ancient_wide` · н
+- [ ] **Incomplete Azalea Track** — `railways:track_incomplete_quark_azalea` · н
+- [ ] **Incomplete Narrow Azalea Track** — `railways:track_incomplete_quark_azalea_narrow` · н
+- [ ] **Incomplete Wide Azalea Track** — `railways:track_incomplete_quark_azalea_wide` · н
+- [ ] **Incomplete Trumpet Track** — `railways:track_incomplete_quark_blossom` · н
+- [ ] **Incomplete Narrow Trumpet Track** — `railways:track_incomplete_quark_blossom_narrow` · н
+- [ ] **Incomplete Wide Trumpet Track** — `railways:track_incomplete_quark_blossom_wide` · н
+- [ ] **Incomplete Spruce Track** — `railways:track_incomplete_spruce` · н
+- [ ] **Incomplete Narrow Spruce Track** — `railways:track_incomplete_spruce_narrow` · н
+- [ ] **Incomplete Wide Spruce Track** — `railways:track_incomplete_spruce_wide` · н
+- [ ] **Incomplete Stripped Bamboo Track** — `railways:track_incomplete_stripped_bamboo` · н
+- [ ] **Incomplete Narrow Stripped Bamboo Track** — `railways:track_incomplete_stripped_bamboo_narrow` · н
+- [ ] **Incomplete Wide Stripped Bamboo Track** — `railways:track_incomplete_stripped_bamboo_wide` · н
+- [ ] **Incomplete Acacia Track** — `railways:track_incomplete_tfc_acacia` · н
+- [ ] **Incomplete Narrow Acacia Track** — `railways:track_incomplete_tfc_acacia_narrow` · н
+- [ ] **Incomplete Wide Acacia Track** — `railways:track_incomplete_tfc_acacia_wide` · н
+- [ ] **Incomplete Ash Track** — `railways:track_incomplete_tfc_ash` · н
+- [ ] **Incomplete Narrow Ash Track** — `railways:track_incomplete_tfc_ash_narrow` · н
+- [ ] **Incomplete Wide Ash Track** — `railways:track_incomplete_tfc_ash_wide` · н
+- [ ] **Incomplete Aspen Track** — `railways:track_incomplete_tfc_aspen` · н
+- [ ] **Incomplete Narrow Aspen Track** — `railways:track_incomplete_tfc_aspen_narrow` · н
+- [ ] **Incomplete Wide Aspen Track** — `railways:track_incomplete_tfc_aspen_wide` · н
+- [ ] **Incomplete Birch Track** — `railways:track_incomplete_tfc_birch` · н
+- [ ] **Incomplete Narrow Birch Track** — `railways:track_incomplete_tfc_birch_narrow` · н
+- [ ] **Incomplete Wide Birch Track** — `railways:track_incomplete_tfc_birch_wide` · н
+- [ ] **Incomplete Blackwood Track** — `railways:track_incomplete_tfc_blackwood` · н
+- [ ] **Incomplete Narrow Blackwood Track** — `railways:track_incomplete_tfc_blackwood_narrow` · н
+- [ ] **Incomplete Wide Blackwood Track** — `railways:track_incomplete_tfc_blackwood_wide` · н
+- [ ] **Incomplete Chestnut Track** — `railways:track_incomplete_tfc_chestnut` · н
+- [ ] **Incomplete Narrow Chestnut Track** — `railways:track_incomplete_tfc_chestnut_narrow` · н
+- [ ] **Incomplete Wide Chestnut Track** — `railways:track_incomplete_tfc_chestnut_wide` · н
+- [ ] **Incomplete Douglas Fir Track** — `railways:track_incomplete_tfc_douglas_fir` · н
+- [ ] **Incomplete Narrow Douglas Fir Track** — `railways:track_incomplete_tfc_douglas_fir_narrow` · н
+- [ ] **Incomplete Wide Douglas Fir Track** — `railways:track_incomplete_tfc_douglas_fir_wide` · н
+- [ ] **Incomplete Hickory Track** — `railways:track_incomplete_tfc_hickory` · н
+- [ ] **Incomplete Narrow Hickory Track** — `railways:track_incomplete_tfc_hickory_narrow` · н
+- [ ] **Incomplete Wide Hickory Track** — `railways:track_incomplete_tfc_hickory_wide` · н
+- [ ] **Incomplete Kapok Track** — `railways:track_incomplete_tfc_kapok` · н
+- [ ] **Incomplete Narrow Kapok Track** — `railways:track_incomplete_tfc_kapok_narrow` · н
+- [ ] **Incomplete Wide Kapok Track** — `railways:track_incomplete_tfc_kapok_wide` · н
+- [ ] **Incomplete Mangrove Track** — `railways:track_incomplete_tfc_mangrove` · н
+- [ ] **Incomplete Narrow Mangrove Track** — `railways:track_incomplete_tfc_mangrove_narrow` · н
+- [ ] **Incomplete Wide Mangrove Track** — `railways:track_incomplete_tfc_mangrove_wide` · н
+- [ ] **Incomplete Maple Track** — `railways:track_incomplete_tfc_maple` · н
+- [ ] **Incomplete Narrow Maple Track** — `railways:track_incomplete_tfc_maple_narrow` · н
+- [ ] **Incomplete Wide Maple Track** — `railways:track_incomplete_tfc_maple_wide` · н
+- [ ] **Incomplete Oak Track** — `railways:track_incomplete_tfc_oak` · н
+- [ ] **Incomplete Narrow Oak Track** — `railways:track_incomplete_tfc_oak_narrow` · н
+- [ ] **Incomplete Wide Oak Track** — `railways:track_incomplete_tfc_oak_wide` · н
+- [ ] **Incomplete Palm Track** — `railways:track_incomplete_tfc_palm` · н
+- [ ] **Incomplete Narrow Palm Track** — `railways:track_incomplete_tfc_palm_narrow` · н
+- [ ] **Incomplete Wide Palm Track** — `railways:track_incomplete_tfc_palm_wide` · н
+- [ ] **Incomplete Pine Track** — `railways:track_incomplete_tfc_pine` · н
+- [ ] **Incomplete Narrow Pine Track** — `railways:track_incomplete_tfc_pine_narrow` · н
+- [ ] **Incomplete Wide Pine Track** — `railways:track_incomplete_tfc_pine_wide` · н
+- [ ] **Incomplete Rosewood Track** — `railways:track_incomplete_tfc_rosewood` · н
+- [ ] **Incomplete Narrow Rosewood Track** — `railways:track_incomplete_tfc_rosewood_narrow` · н
+- [ ] **Incomplete Wide Rosewood Track** — `railways:track_incomplete_tfc_rosewood_wide` · н
+- [ ] **Incomplete Sequoia Track** — `railways:track_incomplete_tfc_sequoia` · н
+- [ ] **Incomplete Narrow Sequoia Track** — `railways:track_incomplete_tfc_sequoia_narrow` · н
+- [ ] **Incomplete Wide Sequoia Track** — `railways:track_incomplete_tfc_sequoia_wide` · н
+- [ ] **Incomplete Spruce Track** — `railways:track_incomplete_tfc_spruce` · н
+- [ ] **Incomplete Narrow Spruce Track** — `railways:track_incomplete_tfc_spruce_narrow` · н
+- [ ] **Incomplete Wide Spruce Track** — `railways:track_incomplete_tfc_spruce_wide` · н
+- [ ] **Incomplete Sycamore Track** — `railways:track_incomplete_tfc_sycamore` · н
+- [ ] **Incomplete Narrow Sycamore Track** — `railways:track_incomplete_tfc_sycamore_narrow` · н
+- [ ] **Incomplete Wide Sycamore Track** — `railways:track_incomplete_tfc_sycamore_wide` · н
+- [ ] **Incomplete White Cedar Track** — `railways:track_incomplete_tfc_white_cedar` · н
+- [ ] **Incomplete Narrow White Cedar Track** — `railways:track_incomplete_tfc_white_cedar_narrow` · н
+- [ ] **Incomplete Wide White Cedar Track** — `railways:track_incomplete_tfc_white_cedar_wide` · н
+- [ ] **Incomplete Willow Track** — `railways:track_incomplete_tfc_willow` · н
+- [ ] **Incomplete Narrow Willow Track** — `railways:track_incomplete_tfc_willow_narrow` · н
+- [ ] **Incomplete Wide Willow Track** — `railways:track_incomplete_tfc_willow_wide` · н
+- [ ] **Incomplete Tieless Track** — `railways:track_incomplete_tieless` · н
+- [ ] **Incomplete Narrow Tieless Track** — `railways:track_incomplete_tieless_narrow` · н
+- [ ] **Incomplete Wide Tieless Track** — `railways:track_incomplete_tieless_wide` · н
+- [ ] **Incomplete Canopy Track** — `railways:track_incomplete_twilightforest_canopy` · н
+- [ ] **Incomplete Narrow Canopy Track** — `railways:track_incomplete_twilightforest_canopy_narrow` · н
+- [ ] **Incomplete Wide Canopy Track** — `railways:track_incomplete_twilightforest_canopy_wide` · н
+- [ ] **Incomplete Darkwood Track** — `railways:track_incomplete_twilightforest_darkwood` · н
+- [ ] **Incomplete Narrow Darkwood Track** — `railways:track_incomplete_twilightforest_darkwood_narrow` · н
+- [ ] **Incomplete Wide Darkwood Track** — `railways:track_incomplete_twilightforest_darkwood_wide` · н
+- [ ] **Incomplete Mangrove Track** — `railways:track_incomplete_twilightforest_mangrove` · н
+- [ ] **Incomplete Narrow Mangrove Track** — `railways:track_incomplete_twilightforest_mangrove_narrow` · н
+- [ ] **Incomplete Wide Mangrove Track** — `railways:track_incomplete_twilightforest_mangrove_wide` · н
+- [ ] **Incomplete Minewood Track** — `railways:track_incomplete_twilightforest_minewood` · н
+- [ ] **Incomplete Narrow Minewood Track** — `railways:track_incomplete_twilightforest_minewood_narrow` · н
+- [ ] **Incomplete Wide Minewood Track** — `railways:track_incomplete_twilightforest_minewood_wide` · н
+- [ ] **Incomplete Sortingwood Track** — `railways:track_incomplete_twilightforest_sortingwood` · н
+- [ ] **Incomplete Narrow Sortingwood Track** — `railways:track_incomplete_twilightforest_sortingwood_narrow` · н
+- [ ] **Incomplete Wide Sortingwood Track** — `railways:track_incomplete_twilightforest_sortingwood_wide` · н
+- [ ] **Incomplete Timewood Track** — `railways:track_incomplete_twilightforest_timewood` · н
+- [ ] **Incomplete Narrow Timewood Track** — `railways:track_incomplete_twilightforest_timewood_narrow` · н
+- [ ] **Incomplete Wide Timewood Track** — `railways:track_incomplete_twilightforest_timewood_wide` · н
+- [ ] **Incomplete Transwood Track** — `railways:track_incomplete_twilightforest_transwood` · н
+- [ ] **Incomplete Narrow Transwood Track** — `railways:track_incomplete_twilightforest_transwood_narrow` · н
+- [ ] **Incomplete Wide Transwood Track** — `railways:track_incomplete_twilightforest_transwood_wide` · н
+- [ ] **Incomplete Twilight Oak Track** — `railways:track_incomplete_twilightforest_twilight_oak` · н
+- [ ] **Incomplete Narrow Twilight Oak Track** — `railways:track_incomplete_twilightforest_twilight_oak_narrow` · н
+- [ ] **Incomplete Wide Twilight Oak Track** — `railways:track_incomplete_twilightforest_twilight_oak_wide` · н
+- [ ] **Incomplete Warped Track** — `railways:track_incomplete_warped` · н
+- [ ] **Incomplete Narrow Warped Track** — `railways:track_incomplete_warped_narrow` · н
+- [ ] **Incomplete Wide Warped Track** — `railways:track_incomplete_warped_wide` · н
+- [ ] **Jungle Train Track** — `railways:track_jungle` · к
+- [ ] **Narrow Jungle Train Track** — `railways:track_jungle_narrow` · к
+- [ ] **Wide Jungle Train Track** — `railways:track_jungle_wide` · к
+- [ ] **Mangrove Train Track** — `railways:track_mangrove` · к
+- [ ] **Narrow Mangrove Train Track** — `railways:track_mangrove_narrow` · к
+- [ ] **Wide Mangrove Train Track** — `railways:track_mangrove_wide` · к
+- [ ] **Monorail Train Track** — `railways:track_monorail` · к
+- [ ] **Aspen Train Track** — `railways:track_natures_spirit_aspen` · к
+- [ ] **Narrow Aspen Train Track** — `railways:track_natures_spirit_aspen_narrow` · к
+- [ ] **Wide Aspen Train Track** — `railways:track_natures_spirit_aspen_wide` · к
+- [ ] **Cypress Train Track** — `railways:track_natures_spirit_cypress` · к
+- [ ] **Narrow Cypress Train Track** — `railways:track_natures_spirit_cypress_narrow` · к
+- [ ] **Wide Cypress Train Track** — `railways:track_natures_spirit_cypress_wide` · к
+- [ ] **Fir Train Track** — `railways:track_natures_spirit_fir` · к
+- [ ] **Narrow Fir Train Track** — `railways:track_natures_spirit_fir_narrow` · к
+- [ ] **Wide Fir Train Track** — `railways:track_natures_spirit_fir_wide` · к
+- [ ] **Ghaf Train Track** — `railways:track_natures_spirit_ghaf` · к
+- [ ] **Narrow Ghaf Train Track** — `railways:track_natures_spirit_ghaf_narrow` · к
+- [ ] **Wide Ghaf Train Track** — `railways:track_natures_spirit_ghaf_wide` · к
+- [ ] **Joshua Train Track** — `railways:track_natures_spirit_joshua` · к
+- [ ] **Narrow Joshua Train Track** — `railways:track_natures_spirit_joshua_narrow` · к
+- [ ] **Wide Joshua Train Track** — `railways:track_natures_spirit_joshua_wide` · к
+- [ ] **Maple Train Track** — `railways:track_natures_spirit_maple` · к
+- [ ] **Narrow Maple Train Track** — `railways:track_natures_spirit_maple_narrow` · к
+- [ ] **Wide Maple Train Track** — `railways:track_natures_spirit_maple_wide` · к
+- [ ] **Olive Train Track** — `railways:track_natures_spirit_olive` · к
+- [ ] **Narrow Olive Train Track** — `railways:track_natures_spirit_olive_narrow` · к
+- [ ] **Wide Olive Train Track** — `railways:track_natures_spirit_olive_wide` · к
+- [ ] **Palo Verde Train Track** — `railways:track_natures_spirit_palo_verde` · к
+- [ ] **Narrow Palo Verde Train Track** — `railways:track_natures_spirit_palo_verde_narrow` · к
+- [ ] **Wide Palo Verde Train Track** — `railways:track_natures_spirit_palo_verde_wide` · к
+- [ ] **Redwood Train Track** — `railways:track_natures_spirit_redwood` · к
+- [ ] **Narrow Redwood Train Track** — `railways:track_natures_spirit_redwood_narrow` · к
+- [ ] **Wide Redwood Train Track** — `railways:track_natures_spirit_redwood_wide` · к
+- [ ] **Sugi Train Track** — `railways:track_natures_spirit_sugi` · к
+- [ ] **Narrow Sugi Train Track** — `railways:track_natures_spirit_sugi_narrow` · к
+- [ ] **Wide Sugi Train Track** — `railways:track_natures_spirit_sugi_wide` · к
+- [ ] **Willow Train Track** — `railways:track_natures_spirit_willow` · к
+- [ ] **Narrow Willow Train Track** — `railways:track_natures_spirit_willow_narrow` · к
+- [ ] **Wide Willow Train Track** — `railways:track_natures_spirit_willow_wide` · к
+- [ ] **Wisteria Train Track** — `railways:track_natures_spirit_wisteria` · к
+- [ ] **Narrow Wisteria Train Track** — `railways:track_natures_spirit_wisteria_narrow` · к
+- [ ] **Wide Wisteria Train Track** — `railways:track_natures_spirit_wisteria_wide` · к
+- [ ] **Oak Train Track** — `railways:track_oak` · к
+- [ ] **Narrow Oak Train Track** — `railways:track_oak_narrow` · к
+- [ ] **Wide Oak Train Track** — `railways:track_oak_wide` · к
+- [ ] **Phantom Train Track** — `railways:track_phantom` · к
+- [ ] **Ashen Train Track** — `railways:track_quark_ancient` · к
+- [ ] **Narrow Ashen Train Track** — `railways:track_quark_ancient_narrow` · к
+- [ ] **Wide Ashen Train Track** — `railways:track_quark_ancient_wide` · к
+- [ ] **Azalea Train Track** — `railways:track_quark_azalea` · к
+- [ ] **Narrow Azalea Train Track** — `railways:track_quark_azalea_narrow` · к
+- [ ] **Wide Azalea Train Track** — `railways:track_quark_azalea_wide` · к
+- [ ] **Trumpet Train Track** — `railways:track_quark_blossom` · к
+- [ ] **Narrow Trumpet Train Track** — `railways:track_quark_blossom_narrow` · к
+- [ ] **Wide Trumpet Train Track** — `railways:track_quark_blossom_wide` · к
+- [ ] **Spruce Train Track** — `railways:track_spruce` · к
+- [ ] **Narrow Spruce Train Track** — `railways:track_spruce_narrow` · к
+- [ ] **Wide Spruce Train Track** — `railways:track_spruce_wide` · к
+- [ ] **Stripped Bamboo Train Track** — `railways:track_stripped_bamboo` · к
+- [ ] **Narrow Stripped Bamboo Train Track** — `railways:track_stripped_bamboo_narrow` · к
+- [ ] **Wide Stripped Bamboo Train Track** — `railways:track_stripped_bamboo_wide` · к
+- [ ] **Andesite Track Switch** — `railways:track_switch_andesite` · к
+- [ ] **Brass Track Switch** — `railways:track_switch_brass` · к
+- [ ] **Acacia Train Track** — `railways:track_tfc_acacia` · к
+- [ ] **Narrow Acacia Train Track** — `railways:track_tfc_acacia_narrow` · к
+- [ ] **Wide Acacia Train Track** — `railways:track_tfc_acacia_wide` · к
+- [ ] **Ash Train Track** — `railways:track_tfc_ash` · к
+- [ ] **Narrow Ash Train Track** — `railways:track_tfc_ash_narrow` · к
+- [ ] **Wide Ash Train Track** — `railways:track_tfc_ash_wide` · к
+- [ ] **Aspen Train Track** — `railways:track_tfc_aspen` · к
+- [ ] **Narrow Aspen Train Track** — `railways:track_tfc_aspen_narrow` · к
+- [ ] **Wide Aspen Train Track** — `railways:track_tfc_aspen_wide` · к
+- [ ] **Birch Train Track** — `railways:track_tfc_birch` · к
+- [ ] **Narrow Birch Train Track** — `railways:track_tfc_birch_narrow` · к
+- [ ] **Wide Birch Train Track** — `railways:track_tfc_birch_wide` · к
+- [ ] **Blackwood Train Track** — `railways:track_tfc_blackwood` · к
+- [ ] **Narrow Blackwood Train Track** — `railways:track_tfc_blackwood_narrow` · к
+- [ ] **Wide Blackwood Train Track** — `railways:track_tfc_blackwood_wide` · к
+- [ ] **Chestnut Train Track** — `railways:track_tfc_chestnut` · к
+- [ ] **Narrow Chestnut Train Track** — `railways:track_tfc_chestnut_narrow` · к
+- [ ] **Wide Chestnut Train Track** — `railways:track_tfc_chestnut_wide` · к
+- [ ] **Douglas Fir Train Track** — `railways:track_tfc_douglas_fir` · к
+- [ ] **Narrow Douglas Fir Train Track** — `railways:track_tfc_douglas_fir_narrow` · к
+- [ ] **Wide Douglas Fir Train Track** — `railways:track_tfc_douglas_fir_wide` · к
+- [ ] **Hickory Train Track** — `railways:track_tfc_hickory` · к
+- [ ] **Narrow Hickory Train Track** — `railways:track_tfc_hickory_narrow` · к
+- [ ] **Wide Hickory Train Track** — `railways:track_tfc_hickory_wide` · к
+- [ ] **Kapok Train Track** — `railways:track_tfc_kapok` · к
+- [ ] **Narrow Kapok Train Track** — `railways:track_tfc_kapok_narrow` · к
+- [ ] **Wide Kapok Train Track** — `railways:track_tfc_kapok_wide` · к
+- [ ] **Mangrove Train Track** — `railways:track_tfc_mangrove` · к
+- [ ] **Narrow Mangrove Train Track** — `railways:track_tfc_mangrove_narrow` · к
+- [ ] **Wide Mangrove Train Track** — `railways:track_tfc_mangrove_wide` · к
+- [ ] **Maple Train Track** — `railways:track_tfc_maple` · к
+- [ ] **Narrow Maple Train Track** — `railways:track_tfc_maple_narrow` · к
+- [ ] **Wide Maple Train Track** — `railways:track_tfc_maple_wide` · к
+- [ ] **Oak Train Track** — `railways:track_tfc_oak` · к
+- [ ] **Narrow Oak Train Track** — `railways:track_tfc_oak_narrow` · к
+- [ ] **Wide Oak Train Track** — `railways:track_tfc_oak_wide` · к
+- [ ] **Palm Train Track** — `railways:track_tfc_palm` · к
+- [ ] **Narrow Palm Train Track** — `railways:track_tfc_palm_narrow` · к
+- [ ] **Wide Palm Train Track** — `railways:track_tfc_palm_wide` · к
+- [ ] **Pine Train Track** — `railways:track_tfc_pine` · к
+- [ ] **Narrow Pine Train Track** — `railways:track_tfc_pine_narrow` · к
+- [ ] **Wide Pine Train Track** — `railways:track_tfc_pine_wide` · к
+- [ ] **Rosewood Train Track** — `railways:track_tfc_rosewood` · к
+- [ ] **Narrow Rosewood Train Track** — `railways:track_tfc_rosewood_narrow` · к
+- [ ] **Wide Rosewood Train Track** — `railways:track_tfc_rosewood_wide` · к
+- [ ] **Sequoia Train Track** — `railways:track_tfc_sequoia` · к
+- [ ] **Narrow Sequoia Train Track** — `railways:track_tfc_sequoia_narrow` · к
+- [ ] **Wide Sequoia Train Track** — `railways:track_tfc_sequoia_wide` · к
+- [ ] **Spruce Train Track** — `railways:track_tfc_spruce` · к
+- [ ] **Narrow Spruce Train Track** — `railways:track_tfc_spruce_narrow` · к
+- [ ] **Wide Spruce Train Track** — `railways:track_tfc_spruce_wide` · к
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

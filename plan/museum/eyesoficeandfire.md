@@ -1,0 +1,16 @@
+# Музей: Eyes of Ice and Fire (eyesoficeandfire)
+
+Предметов: 3 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 3 предметов.*
+
+- [ ] **Eye of Fire Dragon** — `eyesoficeandfire:eye_of_fire_dragon` · н
+- [ ] **Eye of Ice Dragon** — `eyesoficeandfire:eye_of_ice_dragon` · н
+- [ ] **Eye of Lightning Dragon** — `eyesoficeandfire:eye_of_lightning_dragon` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

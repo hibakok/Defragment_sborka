@@ -1,0 +1,141 @@
+# Музей: The Graveyard (graveyard)
+
+Предметов: 128 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 128 предметов.*
+
+- [ ] **Acacia Coffin** — `graveyard:acacia_coffin` · н
+- [ ] **Acolyte Spawn Egg** — `graveyard:acolyte_spawn_egg` · н
+- [ ] **Altar** — `graveyard:altar` · н
+- [ ] **Corrupted Deepslate Center** — `graveyard:altar_center` · н
+- [ ] **Corrupted Deepslate Corner** — `graveyard:altar_corner` · н
+- [ ] **Corrupted Deepslate Side** — `graveyard:altar_side` · н
+- [ ] **Bamboo Coffin** — `graveyard:bamboo_coffin` · н
+- [ ] **Birch Coffin** — `graveyard:birch_coffin` · н
+- [ ] **Staff of Nortoq'gul** — `graveyard:black_bone_staff` · н
+- [ ] **Black Glazed Urn** — `graveyard:black_urn` · н
+- [ ] **Blackstone Gravestone** — `graveyard:blackstone_gravestone` · н
+- [ ] **Blue Glazed Urn** — `graveyard:blue_urn` · н
+- [ ] **Bone Dagger** — `graveyard:bone_dagger` · н
+- [ ] **Defeated Skeleton** — `graveyard:bone_remains` · н
+- [ ] **Bricks Gravestone** — `graveyard:bricks_gravestone` · н
+- [ ] **Brown Glazed Urn** — `graveyard:brown_urn` · н
+- [ ] **Candle Holder** — `graveyard:candle_holder` · н
+- [ ] **Cherry Coffin** — `graveyard:cherry_coffin` · н
+- [ ] **Cobblestone Gravestone** — `graveyard:cobblestone_gravestone` · н
+- [ ] **Corrupted Pillager Spawn Egg** — `graveyard:corrupted_pillager_spawn_egg` · н
+- [ ] **Corrupted Vindicator Spawn Egg** — `graveyard:corrupted_vindicator_spawn_egg` · н
+- [ ] **Corruption** — `graveyard:corruption` · н
+- [ ] **Cracked Polished Blackstone Gravestone** — `graveyard:cracked_blackstone_gravestone` · н
+- [ ] **Creeper Skeleton** — `graveyard:creeper_skeleton` · н
+- [ ] **Crimson Coffin** — `graveyard:crimson_coffin` · н
+- [ ] **Staff of Mynakta'gul** — `graveyard:cyan_bone_staff` · н
+- [ ] **Cyan Glazed Urn** — `graveyard:cyan_urn` · н
+- [ ] **Dark Iron Bars** — `graveyard:dark_iron_bars` · н
+- [ ] **Dark Iron Block** — `graveyard:dark_iron_block` · н
+- [ ] **Dark Iron Door** — `graveyard:dark_iron_door` · н
+- [ ] **Dark Iron Ingot** — `graveyard:dark_iron_ingot` · н
+- [ ] **Dark Iron Trapdoor** — `graveyard:dark_iron_trapdoor` · н
+- [ ] **Dark Oak Coffin** — `graveyard:dark_oak_coffin` · н
+- [ ] **Deepslate Gravestone** — `graveyard:deepslate_gravestone` · н
+- [ ] **Fire Brazier** — `graveyard:fire_brazier` · н
+- [ ] **Ghoul Spawn Egg** — `graveyard:ghoul_spawn_egg` · н
+- [ ] **Gilded Blackstone Gravestone** — `graveyard:gilded_blackstone_gravestone` · н
+- [ ] **Polished Basalt Gravestone** — `graveyard:gravestone` · н
+- [ ] **Gray Glazed Urn** — `graveyard:gray_urn` · н
+- [ ] **Green Glazed Urn** — `graveyard:green_urn` · н
+- [ ] **Hanged Skeleton** — `graveyard:hanged_skeleton` · н
+- [ ] **Hanged Wither Skeleton** — `graveyard:hanged_wither_skeleton` · н
+- [ ] **"Incarnated Evil" by Rotch Gwylt** — `graveyard:incarnated_evil_music_disc` · н
+- [ ] **Jungle Coffin** — `graveyard:jungle_coffin` · н
+- [ ] **Laterally Lying Skeleton** — `graveyard:laterally_lying_skeleton` · н
+- [ ] **Laterally Lying Wither Skeleton** — `graveyard:laterally_lying_wither_skeleton` · н
+- [ ] **Leaning Skeleton** — `graveyard:leaning_skeleton` · н
+- [ ] **Leaning Wither Skeleton** — `graveyard:leaning_wither_skeleton` · н
+- [ ] **Corrupted Champion Spawn Egg** — `graveyard:lich_spawn_egg` · н
+- [ ] **Light Blue Glazed Urn** — `graveyard:light_blue_urn` · н
+- [ ] **Light Gray Glazed Urn** — `graveyard:light_gray_urn` · н
+- [ ] **Lime Glazed Urn** — `graveyard:lime_urn` · н
+- [ ] **Ominous Bone Staff Fragment** — `graveyard:lower_bone_staff` · н
+- [ ] **Lying Skeleton** — `graveyard:lying_skeleton` · н
+- [ ] **Lying Wither Skeleton** — `graveyard:lying_wither_skeleton` · н
+- [ ] **Magenta Glazed Urn** — `graveyard:magenta_urn` · н
+- [ ] **Mangrove Coffin** — `graveyard:mangrove_coffin` · н
+- [ ] **Ominous Bone Staff Fragment** — `graveyard:middle_bone_staff` · н
+- [ ] **Mossy Cobblestone Gravestone** — `graveyard:mossy_cobblestone_gravestone` · н
+- [ ] **Mossy Stone Bricks Gravestone** — `graveyard:mossy_stone_bricks_gravestone` · н
+- [ ] **Nameless Hanged Spawn Egg** — `graveyard:nameless_hanged_spawn_egg` · н
+- [ ] **Nightmare Spawn Egg** — `graveyard:nightmare_spawn_egg` · н
+- [ ] **Oak Coffin** — `graveyard:oak_coffin` · н
+- [ ] **Orange Glazed Urn** — `graveyard:orange_urn` · н
+- [ ] **Ossuary** — `graveyard:ossuary` · н
+- [ ] **Small Pillar** — `graveyard:pedestal` · н
+- [ ] **Pink Glazed Urn** — `graveyard:pink_urn` · н
+- [ ] **Staff of Xaphnok'gul** — `graveyard:purple_bone_staff` · н
+- [ ] **Purple Glazed Urn** — `graveyard:purple_urn` · н
+- [ ] **Quartz Bricks Gravestone** — `graveyard:quartz_bricks_gravestone` · н
+- [ ] **Reaper Spawn Egg** — `graveyard:reaper_spawn_egg` · н
+- [ ] **Staff of Azrata'gul** — `graveyard:red_bone_staff` · н
+- [ ] **Red Sandstone Gravestone** — `graveyard:red_sandstone_gravestone` · н
+- [ ] **Red Glazed Urn** — `graveyard:red_urn` · н
+- [ ] **Revenant Spawn Egg** — `graveyard:revenant_spawn_egg` · н
+- [ ] **Sandstone Gravestone** — `graveyard:sandstone_gravestone` · н
+- [ ] **Sarcophagus** — `graveyard:sarcophagus` · н
+- [ ] **Skeleton Creeper Spawn Egg** — `graveyard:skeleton_creeper_spawn_egg` · н
+- [ ] **Skeleton Hand** — `graveyard:skeleton_hand` · н
+- [ ] **Skull on Pike** — `graveyard:skull_on_pike` · н
+- [ ] **Skull Pile** — `graveyard:skull_pile` · н
+- [ ] **Skull and Rib Cage** — `graveyard:skull_with_rib_cage` · н
+- [ ] **Small Black Urn** — `graveyard:small_black_urn` · н
+- [ ] **Small Blue Urn** — `graveyard:small_blue_urn` · н
+- [ ] **Small Brown Urn** — `graveyard:small_brown_urn` · н
+- [ ] **Small Cyan Urn** — `graveyard:small_cyan_urn` · н
+- [ ] **Small Gray Urn** — `graveyard:small_gray_urn` · н
+- [ ] **Small Green Urn** — `graveyard:small_green_urn` · н
+- [ ] **Small Light Blue Urn** — `graveyard:small_light_blue_urn` · н
+- [ ] **Small Light Gray Urn** — `graveyard:small_light_gray_urn` · н
+- [ ] **Small Lime Urn** — `graveyard:small_lime_urn` · н
+- [ ] **Small Magenta Urn** — `graveyard:small_magenta_urn` · н
+- [ ] **Small Orange Urn** — `graveyard:small_orange_urn` · н
+- [ ] **Small Pink Urn** — `graveyard:small_pink_urn` · н
+- [ ] **Small Purple Urn** — `graveyard:small_purple_urn` · н
+- [ ] **Small Red Urn** — `graveyard:small_red_urn` · н
+- [ ] **Small White Urn** — `graveyard:small_white_urn` · н
+- [ ] **Small Yellow Urn** — `graveyard:small_yellow_urn` · н
+- [ ] **Soul Fire Brazier** — `graveyard:soul_fire_brazier` · н
+- [ ] **Spruce Coffin** — `graveyard:spruce_coffin` · н
+- [ ] **Stone Bricks Gravestone** — `graveyard:stone_bricks_gravestone` · н
+- [ ] **Andesite** — `graveyard:tg_andesite` · н
+- [ ] **Coarse Dirt** — `graveyard:tg_coarse_dirt` · н
+- [ ] **Deepslate** — `graveyard:tg_deepslate` · н
+- [ ] **Diorite** — `graveyard:tg_diorite` · н
+- [ ] **Dirt** — `graveyard:tg_dirt` · н
+- [ ] **Granite** — `graveyard:tg_granite` · н
+- [ ] **Grass Block** — `graveyard:tg_grass_block` · н
+- [ ] **Moss Block** — `graveyard:tg_moss_block` · н
+- [ ] **Podzol** — `graveyard:tg_podzol` · н
+- [ ] **Rooted Dirt** — `graveyard:tg_rooted_dirt` · н
+- [ ] **Stone** — `graveyard:tg_stone` · н
+- [ ] **Tuff** — `graveyard:tg_tuff` · н
+- [ ] **Torso Pile** — `graveyard:torso_pile` · н
+- [ ] **Ominous Bone Staff Fragment** — `graveyard:upper_bone_staff` · н
+- [ ] **Ceramics** — `graveyard:vase_block` · н
+- [ ] **Vial of Blood** — `graveyard:vial_of_blood` · н
+- [ ] **Warped Coffin** — `graveyard:warped_coffin` · н
+- [ ] **Staff of Zatraq'gul** — `graveyard:white_bone_staff` · н
+- [ ] **White Glazed Urn** — `graveyard:white_urn` · н
+- [ ] **Defeated Wither Skeleton** — `graveyard:wither_bone_remains` · н
+- [ ] **Wither Skeleton Hand** — `graveyard:wither_skeleton_hand` · н
+- [ ] **Wither Skull on Pike** — `graveyard:wither_skull_on_pike` · н
+- [ ] **Wither Skull Pile** — `graveyard:wither_skull_pile` · н
+- [ ] **Wither Skull and Rib Cage** — `graveyard:wither_skull_with_rib_cage` · н
+- [ ] **Wither Torso Pile** — `graveyard:wither_torso_pile` · н
+- [ ] **Wraith Spawn Egg** — `graveyard:wraith_spawn_egg` · н
+- [ ] **Yellow Glazed Urn** — `graveyard:yellow_urn` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

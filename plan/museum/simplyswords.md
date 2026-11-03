@@ -1,0 +1,168 @@
+# Музей: Simply Swords (simplyswords)
+
+Предметов: 155 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 155 предметов.*
+
+- [ ] **Arcanethyst** — `simplyswords:arcanethyst` · н
+- [ ] **Awakened Lichblade** — `simplyswords:awakened_lichblade` · н
+- [ ] **Awakening LV: %d ** — `simplyswords:awakening` · н
+- [ ] **Bramblethorn** — `simplyswords:bramblethorn` · н
+- [ ] **Brimstone Claymore** — `simplyswords:brimstone_claymore` · н
+- [ ] **Caelestis** — `simplyswords:caelestis` · н
+- [ ] **Contained Remnant** — `simplyswords:contained_remnant` · н
+- [ ] **Stabilised and contained energy** — `simplyswords:contained_remnant_description` · н
+- [ ] **sourced from remnants.** — `simplyswords:contained_remnant_description2` · н
+- [ ] **Its form appears to be changing** — `simplyswords:contained_remnant_description3` · н
+- [ ] **when in close proximity to you.** — `simplyswords:contained_remnant_description4` · н
+- [ ] **Keeping this item in your inventory** — `simplyswords:contained_remnant_description5` · н
+- [ ] **may yield further insights.** — `simplyswords:contained_remnant_description6` · н
+- [ ] **Try keeping this in your inventory** — `simplyswords:contained_remnant_description7` · н
+- [ ] **alongside a Runic Tablet while** — `simplyswords:contained_remnant_description8` · н
+- [ ] **exploring the End dimension.** — `simplyswords:contained_remnant_description9` · н
+- [ ] **Decaying relic** — `simplyswords:decaying_relic` · н
+- [ ] **Diamond Chakram** — `simplyswords:diamond_chakram` · н
+- [ ] **Diamond Claymore** — `simplyswords:diamond_claymore` · н
+- [ ] **Diamond Cutlass** — `simplyswords:diamond_cutlass` · н
+- [ ] **Diamond Glaive** — `simplyswords:diamond_glaive` · н
+- [ ] **Diamond Greataxe** — `simplyswords:diamond_greataxe` · н
+- [ ] **Diamond Greathammer** — `simplyswords:diamond_greathammer` · н
+- [ ] **Diamond Halberd** — `simplyswords:diamond_halberd` · н
+- [ ] **Diamond Katana** — `simplyswords:diamond_katana` · н
+- [ ] **Diamond Longsword** — `simplyswords:diamond_longsword` · н
+- [ ] **Diamond Rapier** — `simplyswords:diamond_rapier` · н
+- [ ] **Diamond Sai** — `simplyswords:diamond_sai` · н
+- [ ] **Diamond Scythe** — `simplyswords:diamond_scythe` · н
+- [ ] **Diamond Spear** — `simplyswords:diamond_spear` · н
+- [ ] **Diamond Twinblade** — `simplyswords:diamond_twinblade` · н
+- [ ] **Diamond Warglaive** — `simplyswords:diamond_warglaive` · н
+- [ ] **Dormant Relic** — `simplyswords:dormant_relic` · н
+- [ ] **Dreadtide** — `simplyswords:dreadtide` · н
+- [ ] **Emberblade** — `simplyswords:emberblade` · н
+- [ ] **Emberlash** — `simplyswords:emberlash` · н
+- [ ] **Empowered Remnant** — `simplyswords:empowered_remnant` · н
+- [ ] **[ empty nether socket ]** — `simplyswords:empty_nether_slot` · н
+- [ ] **[ empty rune socket ]** — `simplyswords:empty_runic_slot` · н
+- [ ] **Enigma** — `simplyswords:enigma` · н
+- [ ] **[ runefused gem ]** — `simplyswords:filled_runic_slot` · н
+- [ ] **Flamewind** — `simplyswords:flamewind` · н
+- [ ] **Frostfall** — `simplyswords:frostfall` · н
+- [ ] **Can be socketed into a matching** — `simplyswords:gem_description` · н
+- [ ] **gem socket on a unique weapon.** — `simplyswords:gem_description2` · н
+- [ ] **Gold Chakram** — `simplyswords:gold_chakram` · н
+- [ ] **Gold Claymore** — `simplyswords:gold_claymore` · н
+- [ ] **Gold Cutlass** — `simplyswords:gold_cutlass` · н
+- [ ] **Gold Glaive** — `simplyswords:gold_glaive` · н
+- [ ] **Gold Greataxe** — `simplyswords:gold_greataxe` · н
+- [ ] **Gold Greathammer** — `simplyswords:gold_greathammer` · н
+- [ ] **Gold Halberd** — `simplyswords:gold_halberd` · н
+- [ ] **Gold Katana** — `simplyswords:gold_katana` · н
+- [ ] **Gold Longsword** — `simplyswords:gold_longsword` · н
+- [ ] **Gold Rapier** — `simplyswords:gold_rapier` · н
+- [ ] **Gold Sai** — `simplyswords:gold_sai` · н
+- [ ] **Gold Scythe** — `simplyswords:gold_scythe` · н
+- [ ] **Gold Spear** — `simplyswords:gold_spear` · н
+- [ ] **Gold Twinblade** — `simplyswords:gold_twinblade` · н
+- [ ] **Gold Warglaive** — `simplyswords:gold_warglaive` · н
+- [ ] **Greater** — `simplyswords:greater_runic_power` · н
+- [ ] **Harbinger** — `simplyswords:harbinger` · н
+- [ ] **Hearthflame** — `simplyswords:hearthflame` · н
+- [ ] **Hiveheart** — `simplyswords:hiveheart` · н
+- [ ] **Icewhisper** — `simplyswords:icewhisper` · н
+- [ ] **Iron Chakram** — `simplyswords:iron_chakram` · н
+- [ ] **Iron Claymore** — `simplyswords:iron_claymore` · н
+- [ ] **Iron Cutlass** — `simplyswords:iron_cutlass` · н
+- [ ] **Iron Glaive** — `simplyswords:iron_glaive` · н
+- [ ] **Iron Greataxe** — `simplyswords:iron_greataxe` · н
+- [ ] **Iron Greathammer** — `simplyswords:iron_greathammer` · н
+- [ ] **Iron Halberd** — `simplyswords:iron_halberd` · н
+- [ ] **Iron Katana** — `simplyswords:iron_katana` · н
+- [ ] **Iron Longsword** — `simplyswords:iron_longsword` · н
+- [ ] **Iron Rapier** — `simplyswords:iron_rapier` · н
+- [ ] **Iron Sai** — `simplyswords:iron_sai` · н
+- [ ] **Iron Scythe** — `simplyswords:iron_scythe` · н
+- [ ] **Iron Spear** — `simplyswords:iron_spear` · н
+- [ ] **Iron Twinblade** — `simplyswords:iron_twinblade` · н
+- [ ] **Iron Warglaive** — `simplyswords:iron_warglaive` · н
+- [ ] **Livyatan** — `simplyswords:livyatan` · н
+- [ ] **Magiblade** — `simplyswords:magiblade` · н
+- [ ] **Enchanted Estoc** — `simplyswords:magic_estoc` · н
+- [ ] **Magiscythe** — `simplyswords:magiscythe` · н
+- [ ] **Magispear** — `simplyswords:magispear` · н
+- [ ] **Mjolnir** — `simplyswords:mjolnir` · н
+- [ ] **Molten Edge** — `simplyswords:molten_edge` · н
+- [ ] **Netherfused Gem** — `simplyswords:netherfused_gem` · н
+- [ ] **Netherite Chakram** — `simplyswords:netherite_chakram` · н
+- [ ] **Netherite Claymore** — `simplyswords:netherite_claymore` · н
+- [ ] **Netherite Cutlass** — `simplyswords:netherite_cutlass` · н
+- [ ] **Netherite Glaive** — `simplyswords:netherite_glaive` · н
+- [ ] **Netherite Greataxe** — `simplyswords:netherite_greataxe` · н
+- [ ] **Netherite Greathammer** — `simplyswords:netherite_greathammer` · н
+- [ ] **Netherite Halberd** — `simplyswords:netherite_halberd` · н
+- [ ] **Netherite Katana** — `simplyswords:netherite_katana` · н
+- [ ] **Netherite Longsword** — `simplyswords:netherite_longsword` · н
+- [ ] **Netherite Rapier** — `simplyswords:netherite_rapier` · н
+- [ ] **Netherite Sai** — `simplyswords:netherite_sai` · н
+- [ ] **Netherite Scythe** — `simplyswords:netherite_scythe` · н
+- [ ] **Netherite Spear** — `simplyswords:netherite_spear` · н
+- [ ] **Netherite Twinblade** — `simplyswords:netherite_twinblade` · н
+- [ ] **Netherite Warglaive** — `simplyswords:netherite_warglaive` · н
+- [ ] **On Right Click:** — `simplyswords:onrightclick` · н
+- [ ] **Hold Right Click:** — `simplyswords:onrightclickheld` · н
+- [ ] **Smith with a Runic Tablet or** — `simplyswords:remnant_description` · н
+- [ ] **Netherite Ingot to create a gem** — `simplyswords:remnant_description2` · н
+- [ ] **that can be socketed into unique** — `simplyswords:remnant_description3` · н
+- [ ] **weapons.** — `simplyswords:remnant_description4` · н
+- [ ] **Ribboncleaver** — `simplyswords:ribboncleaver` · н
+- [ ] **Righteous Relic** — `simplyswords:righteous_relic` · н
+- [ ] **Runefused Gem** — `simplyswords:runefused_gem` · н
+- [ ] **Runefused Power:** — `simplyswords:runefused_power` · н
+- [ ] **Runic Chakram** — `simplyswords:runic_chakram` · н
+- [ ] **Runic Claymore** — `simplyswords:runic_claymore` · н
+- [ ] **Runic Cutlass** — `simplyswords:runic_cutlass` · н
+- [ ] **Runic Glaive** — `simplyswords:runic_glaive` · н
+- [ ] **Runic Greataxe** — `simplyswords:runic_greataxe` · н
+- [ ] **Runic Greathammer** — `simplyswords:runic_greathammer` · н
+- [ ] **Runic Halberd** — `simplyswords:runic_halberd` · н
+- [ ] **Runic Katana** — `simplyswords:runic_katana` · н
+- [ ] **Runic Longsword** — `simplyswords:runic_longsword` · н
+- [ ] **Runic Rapier** — `simplyswords:runic_rapier` · н
+- [ ] **Runic Sai** — `simplyswords:runic_sai` · н
+- [ ] **Runic Scythe** — `simplyswords:runic_scythe` · н
+- [ ] **Runic Spear** — `simplyswords:runic_spear` · н
+- [ ] **Runic Tablet** — `simplyswords:runic_tablet` · н
+- [ ] **Runic Twinblade** — `simplyswords:runic_twinblade` · н
+- [ ] **Runic Warglaive** — `simplyswords:runic_warglaive` · н
+- [ ] **Shadowsting** — `simplyswords:shadowsting` · н
+- [ ] **Slumbering Lichblade** — `simplyswords:slumbering_lichblade` · н
+- [ ] **Soulkeeper** — `simplyswords:soulkeeper` · н
+- [ ] **Soul Pyre** — `simplyswords:soulpyre` · н
+- [ ] **Soulrender** — `simplyswords:soulrender` · н
+- [ ] **Soulstealer** — `simplyswords:soulstealer` · н
+- [ ] **Star's Edge** — `simplyswords:stars_edge` · н
+- [ ] **Stormbringer** — `simplyswords:stormbringer` · н
+- [ ] **Storm's Edge** — `simplyswords:storms_edge` · н
+- [ ] **Sunfire** — `simplyswords:sunfire` · н
+- [ ] **Sword on a Stick** — `simplyswords:sword_on_a_stick` · н
+- [ ] **Tainted Relic** — `simplyswords:tainted_relic` · н
+- [ ] **Tampered Remnant** — `simplyswords:tampered_remnant` · н
+- [ ] **It appears to have been tampered** — `simplyswords:tampered_remnant_description3` · н
+- [ ] **with somehow...** — `simplyswords:tampered_remnant_description4` · н
+- [ ] **Tempest** — `simplyswords:tempest` · н
+- [ ] **Thunderbrand** — `simplyswords:thunderbrand` · н
+- [ ] **Longsword of the Plague** — `simplyswords:toxic_longsword` · н
+- [ ] **Twilight** — `simplyswords:twilight` · н
+- [ ] **Twisted Blade** — `simplyswords:twisted_blade` · н
+- [ ] **Waking Lichblade** — `simplyswords:waking_lichblade` · н
+- [ ] **The Watcher** — `simplyswords:watcher_claymore` · н
+- [ ] **Watching Warglaive** — `simplyswords:watching_warglaive` · н
+- [ ] **Waxweaver** — `simplyswords:waxweaver` · н
+- [ ] **Whisperwind** — `simplyswords:whisperwind` · н
+- [ ] **Wickpiercer** — `simplyswords:wickpiercer` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.

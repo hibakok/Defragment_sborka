@@ -1,0 +1,302 @@
+# Музей: Samurai Dynasty (samurai_dynasty)
+
+Предметов: 289 · крафтимых по данным: 0 (0%) · файлов: 1
+
+> Файл сгенерирован (tools/pipeline/museum_all.py). Руками менять ТОЛЬКО галочки `- [ ]` → `- [x]`: перегенерация сохраняет галочки, остальное перезаписывает.
+
+Маркер: · к — рецепт в данных (фабрика возможна); · в — ваниль (JEI); · н — лут/дроп/данж.
+
+*В части: 289 предметов.*
+
+- [ ] **Akaname Spawn Egg** — `samurai_dynasty:akaname_spawn_egg` · н
+- [ ] **Akaname Tongue** — `samurai_dynasty:akaname_tongue` · н
+- [ ] **Amethyst-Coated Steel Ingot** — `samurai_dynasty:amethyst_ingot` · н
+- [ ] **Amethyst Samurai Boots** — `samurai_dynasty:amethyst_samurai_boots` · н
+- [ ] **Amethyst Samurai Chestplate** — `samurai_dynasty:amethyst_samurai_chestplate` · н
+- [ ] **Amethyst Samurai Helmet** — `samurai_dynasty:amethyst_samurai_helmet` · н
+- [ ] **Amethyst Samurai Leggings** — `samurai_dynasty:amethyst_samurai_leggings` · н
+- [ ] **Aquamarine** — `samurai_dynasty:aquamarine` · н
+- [ ] **Block of Aquamarine** — `samurai_dynasty:aquamarine_block` · н
+- [ ] **Aquamarine Ore** — `samurai_dynasty:aquamarine_ore` · н
+- [ ] **Aquamarine Samurai Boots** — `samurai_dynasty:blue_samurai_boots` · н
+- [ ] **Light Aquamarine Samurai Boots** — `samurai_dynasty:blue_samurai_boots_light` · н
+- [ ] **Master Aquamarine Samurai Boots** — `samurai_dynasty:blue_samurai_boots_master` · н
+- [ ] **Aquamarine Samurai Chestplate** — `samurai_dynasty:blue_samurai_chestplate` · н
+- [ ] **Light Aquamarine Samurai Chestplate** — `samurai_dynasty:blue_samurai_chestplate_light` · н
+- [ ] **Master Aquamarine Samurai Chestplate** — `samurai_dynasty:blue_samurai_chestplate_master` · н
+- [ ] **Aquamarine Samurai Helmet** — `samurai_dynasty:blue_samurai_helmet` · н
+- [ ] **Light Aquamarine Samurai Helmet** — `samurai_dynasty:blue_samurai_helmet_light` · н
+- [ ] **Master Aquamarine Samurai Helmet** — `samurai_dynasty:blue_samurai_helmet_master` · н
+- [ ] **Aquamarine Samurai Leggings** — `samurai_dynasty:blue_samurai_leggings` · н
+- [ ] **Light Aquamarine Samurai Leggings** — `samurai_dynasty:blue_samurai_leggings_light` · н
+- [ ] **Master Aquamarine Samurai Leggings** — `samurai_dynasty:blue_samurai_leggings_master` · н
+- [ ] **Mechanical Armor Repair Kit** — `samurai_dynasty:brass_repair_kit` · н
+- [ ] **Mechanical Samurai Boots** — `samurai_dynasty:brass_samurai_boots` · н
+- [ ] **Mechanical Samurai Chestplate** — `samurai_dynasty:brass_samurai_chestplate` · н
+- [ ] **Mechanical Samurai Helmet** — `samurai_dynasty:brass_samurai_helmet` · н
+- [ ] **Mechanical Samurai Leggings** — `samurai_dynasty:brass_samurai_leggings` · н
+- [ ] **Bullet** — `samurai_dynasty:bullet` · н
+- [ ] **Chiseled Pattern Spirit Stone Bricks** — `samurai_dynasty:chiseled_pattern_spirit_stone_bricks` · н
+- [ ] **Chiseled Spirit Stone Bricks** — `samurai_dynasty:chiseled_spirit_stone_bricks` · н
+- [ ] **Cloth** — `samurai_dynasty:cloth` · н
+- [ ] **Deepslate Aquamarine Ore** — `samurai_dynasty:deepslate_aquamarine_ore` · н
+- [ ] **Deepslate Jade Ore** — `samurai_dynasty:deepslate_jade_ore` · н
+- [ ] **Deepslate Onyx Ore** — `samurai_dynasty:deepslate_onyx_ore` · н
+- [ ] **Deepslate Ruby Ore** — `samurai_dynasty:deepslate_ruby_ore` · н
+- [ ] **Deepslate Silver Ore** — `samurai_dynasty:deepslate_silver_ore` · н
+- [ ] **Diamond Ninja Boots** — `samurai_dynasty:diamond_ninja_boots` · н
+- [ ] **Diamond Ninja Robe** — `samurai_dynasty:diamond_ninja_chestplate` · н
+- [ ] **Diamond Ninja Mask** — `samurai_dynasty:diamond_ninja_helmet` · н
+- [ ] **Diamond Ninja Pants** — `samurai_dynasty:diamond_ninja_leggings` · н
+- [ ] **Diamond Samurai Boots** — `samurai_dynasty:diamond_samurai_boots` · н
+- [ ] **Light Diamond Samurai Boots** — `samurai_dynasty:diamond_samurai_boots_light` · н
+- [ ] **Master Diamond Samurai Boots** — `samurai_dynasty:diamond_samurai_boots_master` · н
+- [ ] **Diamond Samurai Chestplate** — `samurai_dynasty:diamond_samurai_chestplate` · н
+- [ ] **Light Diamond Samurai Chestplate** — `samurai_dynasty:diamond_samurai_chestplate_light` · н
+- [ ] **Master Diamond Samurai Chestplate** — `samurai_dynasty:diamond_samurai_chestplate_master` · н
+- [ ] **Diamond Samurai Helmet** — `samurai_dynasty:diamond_samurai_helmet` · н
+- [ ] **Light Diamond Samurai Helmet** — `samurai_dynasty:diamond_samurai_helmet_light` · н
+- [ ] **Master Diamond Samurai Helmet** — `samurai_dynasty:diamond_samurai_helmet_master` · н
+- [ ] **Diamond Samurai Leggings** — `samurai_dynasty:diamond_samurai_leggings` · н
+- [ ] **Light Diamond Samurai Leggings** — `samurai_dynasty:diamond_samurai_leggings_light` · н
+- [ ] **Master Diamond Samurai Leggings** — `samurai_dynasty:diamond_samurai_leggings_master` · н
+- [ ] **Draco Arcanus Boots** — `samurai_dynasty:draco_samurai_boots` · н
+- [ ] **Draco Arcanus Chesplate** — `samurai_dynasty:draco_samurai_chestplate` · н
+- [ ] **Draco Arcanus Helmet** — `samurai_dynasty:draco_samurai_helmet` · н
+- [ ] **Draco Arcanus Leggings** — `samurai_dynasty:draco_samurai_leggings` · н
+- [ ] **Dragon Spirit Stone Bricks** — `samurai_dynasty:dragon_spirit_stone` · н
+- [ ] **Enenra Spawn Egg** — `samurai_dynasty:enenra_spawn_egg` · н
+- [ ] **Etyrite Samurai Boots** — `samurai_dynasty:etyrite_samurai_boots` · н
+- [ ] **Etyrite Samurai Chestplate** — `samurai_dynasty:etyrite_samurai_chestplate` · н
+- [ ] **Etyrite Samurai Helmet** — `samurai_dynasty:etyrite_samurai_helmet` · н
+- [ ] **Etyrite Samurai Leggings** — `samurai_dynasty:etyrite_samurai_leggings` · н
+- [ ] **Gold Ninja Boots** — `samurai_dynasty:gold_ninja_boots` · н
+- [ ] **Gold Ninja Robe** — `samurai_dynasty:gold_ninja_chestplate` · н
+- [ ] **Gold Ninja Mask** — `samurai_dynasty:gold_ninja_helmet` · н
+- [ ] **Gold Ninja Pants** — `samurai_dynasty:gold_ninja_leggings` · н
+- [ ] **Gold Samurai Boots** — `samurai_dynasty:gold_samurai_boots` · н
+- [ ] **Light Gold Samurai Boots** — `samurai_dynasty:gold_samurai_boots_light` · н
+- [ ] **Master Gold Samurai Boots** — `samurai_dynasty:gold_samurai_boots_master` · н
+- [ ] **Gold Samurai Chestplate** — `samurai_dynasty:gold_samurai_chestplate` · н
+- [ ] **Light Gold Samurai Chestplate** — `samurai_dynasty:gold_samurai_chestplate_light` · н
+- [ ] **Master Gold Samurai Chestplate** — `samurai_dynasty:gold_samurai_chestplate_master` · н
+- [ ] **Gold Samurai Helmet** — `samurai_dynasty:gold_samurai_helmet` · н
+- [ ] **Light Gold Samurai Helmet** — `samurai_dynasty:gold_samurai_helmet_light` · н
+- [ ] **Master Gold Samurai Helmet** — `samurai_dynasty:gold_samurai_helmet_master` · н
+- [ ] **Gold Samurai Leggings** — `samurai_dynasty:gold_samurai_leggings` · н
+- [ ] **Light Gold Samurai Leggings** — `samurai_dynasty:gold_samurai_leggings_light` · н
+- [ ] **Master Gold Samurai Leggings** — `samurai_dynasty:gold_samurai_leggings_master` · н
+- [ ] **Onyx Samurai Boots** — `samurai_dynasty:gray_samurai_boots` · н
+- [ ] **Light Onyx Samurai Boots** — `samurai_dynasty:gray_samurai_boots_light` · н
+- [ ] **Master Onyx Samurai Boots** — `samurai_dynasty:gray_samurai_boots_master` · н
+- [ ] **Onyx Samurai Chestplate** — `samurai_dynasty:gray_samurai_chestplate` · н
+- [ ] **Light Onyx Samurai Chestplate** — `samurai_dynasty:gray_samurai_chestplate_light` · н
+- [ ] **Master Onyx Samurai Chestplate** — `samurai_dynasty:gray_samurai_chestplate_master` · н
+- [ ] **Onyx Samurai Helmet** — `samurai_dynasty:gray_samurai_helmet` · н
+- [ ] **Light Onyx Samurai Helmet** — `samurai_dynasty:gray_samurai_helmet_light` · н
+- [ ] **Master Onyx Samurai Helmet** — `samurai_dynasty:gray_samurai_helmet_master` · н
+- [ ] **Onyx Samurai Leggings** — `samurai_dynasty:gray_samurai_leggings` · н
+- [ ] **Light Onyx Samurai Leggings** — `samurai_dynasty:gray_samurai_leggings_light` · н
+- [ ] **Master Onyx Samurai Leggings** — `samurai_dynasty:gray_samurai_leggings_master` · н
+- [ ] **Jade Samurai Boots** — `samurai_dynasty:green_samurai_boots` · н
+- [ ] **Light Jade Samurai Boots** — `samurai_dynasty:green_samurai_boots_light` · н
+- [ ] **Master Jade Samurai Boots** — `samurai_dynasty:green_samurai_boots_master` · н
+- [ ] **Jade Samurai Chestplate** — `samurai_dynasty:green_samurai_chestplate` · н
+- [ ] **Light Jade Samurai Chestplate** — `samurai_dynasty:green_samurai_chestplate_light` · н
+- [ ] **Master Jade Samurai Chestplate** — `samurai_dynasty:green_samurai_chestplate_master` · н
+- [ ] **Jade Samurai Helmet** — `samurai_dynasty:green_samurai_helmet` · н
+- [ ] **Light Jade Samurai Helmet** — `samurai_dynasty:green_samurai_helmet_light` · н
+- [ ] **Master Jade Samurai Helmet** — `samurai_dynasty:green_samurai_helmet_master` · н
+- [ ] **Jade Samurai Leggings** — `samurai_dynasty:green_samurai_leggings` · н
+- [ ] **Light Jade Samurai Leggings** — `samurai_dynasty:green_samurai_leggings_light` · н
+- [ ] **Master Jade Samurai Leggings** — `samurai_dynasty:green_samurai_leggings_master` · н
+- [ ] **Iron Ninja Boots** — `samurai_dynasty:iron_ninja_boots` · н
+- [ ] **Iron Ninja Robe** — `samurai_dynasty:iron_ninja_chestplate` · н
+- [ ] **Iron Ninja Mask** — `samurai_dynasty:iron_ninja_helmet` · н
+- [ ] **Iron Ninja Pants** — `samurai_dynasty:iron_ninja_leggings` · н
+- [ ] **Iron Samurai Boots** — `samurai_dynasty:iron_samurai_boots` · н
+- [ ] **Light Iron Samurai Boots** — `samurai_dynasty:iron_samurai_boots_light` · н
+- [ ] **Master Iron Samurai Boots** — `samurai_dynasty:iron_samurai_boots_master` · н
+- [ ] **Iron Samurai Chestplate** — `samurai_dynasty:iron_samurai_chestplate` · н
+- [ ] **Light Iron Samurai Chestplate** — `samurai_dynasty:iron_samurai_chestplate_light` · н
+- [ ] **Master Iron Samurai Chestplate** — `samurai_dynasty:iron_samurai_chestplate_master` · н
+- [ ] **Iron Samurai Helmet** — `samurai_dynasty:iron_samurai_helmet` · н
+- [ ] **Light Iron Samurai Helmet** — `samurai_dynasty:iron_samurai_helmet_light` · н
+- [ ] **Master Iron Samurai Helmet** — `samurai_dynasty:iron_samurai_helmet_master` · н
+- [ ] **Iron Samurai Leggings** — `samurai_dynasty:iron_samurai_leggings` · н
+- [ ] **Light Iron Samurai Leggings** — `samurai_dynasty:iron_samurai_leggings_light` · н
+- [ ] **Master Iron Samurai Leggings** — `samurai_dynasty:iron_samurai_leggings_master` · н
+- [ ] **Jade** — `samurai_dynasty:jade` · н
+- [ ] **Block of Jade** — `samurai_dynasty:jade_block` · н
+- [ ] **Jade Ore** — `samurai_dynasty:jade_ore` · н
+- [ ] **Jorogumo Eye** — `samurai_dynasty:jorogumo_eye` · н
+- [ ] **Jorogumo Spawn Egg** — `samurai_dynasty:jorogumo_spawn_egg` · н
+- [ ] **Kama** — `samurai_dynasty:kama` · н
+- [ ] **Netherite Kama** — `samurai_dynasty:kama_netherite` · н
+- [ ] **Kamayari** — `samurai_dynasty:kamayari` · н
+- [ ] **Netherite Kamayari** — `samurai_dynasty:kamayari_netherite` · н
+- [ ] **Katana** — `samurai_dynasty:katana` · н
+- [ ] **Akaname Katana** — `samurai_dynasty:katana_akaname` · н
+- [ ] **Katana Handle** — `samurai_dynasty:katana_handle` · н
+- [ ] **Jorogumo Katana** — `samurai_dynasty:katana_jorogumo` · н
+- [ ] **Kitsune Katana** — `samurai_dynasty:katana_kitsune` · н
+- [ ] **Onibi Katana** — `samurai_dynasty:katana_kitsune_blue` · н
+- [ ] **Netherite Katana** — `samurai_dynasty:katana_netherite` · н
+- [ ] **Oni Katana** — `samurai_dynasty:katana_oni` · н
+- [ ] **Kawauso Spawn Egg** — `samurai_dynasty:kawauso_spawn_egg` · н
+- [ ] **Kawauso Statue** — `samurai_dynasty:kawauso_statue` · н
+- [ ] **Kimono Robe** — `samurai_dynasty:kimono` · н
+- [ ] **Kitsune Hide** — `samurai_dynasty:kitsune_hide` · н
+- [ ] **Kitsune Mask** — `samurai_dynasty:kitsune_mask` · н
+- [ ] **Two-Tailed Fox Spawn Egg** — `samurai_dynasty:kitsune_small_spawn_egg` · н
+- [ ] **Kitsune Spawn Egg** — `samurai_dynasty:kitsune_spawn_egg` · н
+- [ ] **Kitsune Tail** — `samurai_dynasty:kitsune_tail` · н
+- [ ] **Knive Handle** — `samurai_dynasty:knive_handle` · н
+- [ ] **Komainu Spawn Egg** — `samurai_dynasty:komainu_spawn_egg` · н
+- [ ] **Komainu Statue** — `samurai_dynasty:komainu_statue` · н
+- [ ] **Kunai** — `samurai_dynasty:kunai` · н
+- [ ] **Netherite Kunai** — `samurai_dynasty:kunai_netherite` · н
+- [ ] **Living Samurai Boots** — `samurai_dynasty:living_samurai_boots` · н
+- [ ] **Living Samurai Chestplate** — `samurai_dynasty:living_samurai_chestplate` · н
+- [ ] **Living Samurai Helmet** — `samurai_dynasty:living_samurai_helmet` · н
+- [ ] **Living Samurai Leggings** — `samurai_dynasty:living_samurai_leggings` · н
+- [ ] **Battlemage Samurai Boots** — `samurai_dynasty:mage_samurai_boots` · н
+- [ ] **Battlemage Samurai Chestplate** — `samurai_dynasty:mage_samurai_chestplate` · н
+- [ ] **Battlemage Samurai Helmet** — `samurai_dynasty:mage_samurai_helmet` · н
+- [ ] **Battlemage Samurai Leggings** — `samurai_dynasty:mage_samurai_leggings` · н
+- [ ] **Amethyst Samurai Helmet** — `samurai_dynasty:mask_amethyst_samurai_helmet` · н
+- [ ] **Netherite Samurai Helmet** — `samurai_dynasty:mask_netherite_samurai_helmet` · н
+- [ ] **Quartz Samurai Helmet** — `samurai_dynasty:mask_quartz_samurai_helmet` · н
+- [ ] **Straw Hat** — `samurai_dynasty:mask_straw_hat` · н
+- [ ] **Mosaic Spirit Stone Bricks** — `samurai_dynasty:mosaic_spirit_stone_bricks` · н
+- [ ] **Mossy Spirit Stone Brick Slab** — `samurai_dynasty:mossy_spirit_stone_brick_slab` · н
+- [ ] **Mossy Spirit Stone Brick Stairs** — `samurai_dynasty:mossy_spirit_stone_brick_stairs` · н
+- [ ] **Mossy Spirit Stone Brick Wall** — `samurai_dynasty:mossy_spirit_stone_brick_wall` · н
+- [ ] **Mossy Spirit Stone Bricks** — `samurai_dynasty:mossy_spirit_stone_bricks` · н
+- [ ] **Nagamaki** — `samurai_dynasty:nagamaki` · н
+- [ ] **Netherite Nagamaki** — `samurai_dynasty:nagamaki_netherite` · н
+- [ ] **Naginata** — `samurai_dynasty:naginata` · н
+- [ ] **Netherite Naginata** — `samurai_dynasty:naginata_netherite` · н
+- [ ] **Neptunium Armor Repair Kit** — `samurai_dynasty:neptunium_repair_kit` · н
+- [ ] **Neptunium Samurai Boots** — `samurai_dynasty:neptunium_samurai_boots` · н
+- [ ] **Neptunium Samurai Chestplate** — `samurai_dynasty:neptunium_samurai_chestplate` · н
+- [ ] **Neptunium Samurai Helmet** — `samurai_dynasty:neptunium_samurai_helmet` · н
+- [ ] **Neptunium Samurai Leggings** — `samurai_dynasty:neptunium_samurai_leggings` · н
+- [ ] **Netherite Ninja Boots** — `samurai_dynasty:netherite_ninja_boots` · н
+- [ ] **Netherite Ninja Robe** — `samurai_dynasty:netherite_ninja_chestplate` · н
+- [ ] **Netherite Ninja Mask** — `samurai_dynasty:netherite_ninja_helmet` · н
+- [ ] **Netherite Ninja Pants** — `samurai_dynasty:netherite_ninja_leggings` · н
+- [ ] **Netherite Samurai Boots** — `samurai_dynasty:netherite_samurai_boots` · н
+- [ ] **Light Netherite Samurai Boots** — `samurai_dynasty:netherite_samurai_boots_light` · н
+- [ ] **Master Netherite Samurai Boots** — `samurai_dynasty:netherite_samurai_boots_master` · н
+- [ ] **Netherite Samurai Chestplate** — `samurai_dynasty:netherite_samurai_chestplate` · н
+- [ ] **Light Netherite Samurai Chestplate** — `samurai_dynasty:netherite_samurai_chestplate_light` · н
+- [ ] **Master Netherite Samurai Chestplate** — `samurai_dynasty:netherite_samurai_chestplate_master` · н
+- [ ] **Netherite Samurai Helmet** — `samurai_dynasty:netherite_samurai_helmet` · н
+- [ ] **Light Netherite Samurai Helmet** — `samurai_dynasty:netherite_samurai_helmet_light` · н
+- [ ] **Master Netherite Samurai Helmet** — `samurai_dynasty:netherite_samurai_helmet_master` · н
+- [ ] **Netherite Samurai Leggings** — `samurai_dynasty:netherite_samurai_leggings` · н
+- [ ] **Light Netherite Samurai Leggings** — `samurai_dynasty:netherite_samurai_leggings_light` · н
+- [ ] **Master Netherite Samurai Leggings** — `samurai_dynasty:netherite_samurai_leggings_master` · н
+- [ ] **Ninja Pants** — `samurai_dynasty:ninja_leggings` · н
+- [ ] **Odachi** — `samurai_dynasty:odachi` · н
+- [ ] **Netherite Odachi** — `samurai_dynasty:odachi_netherite` · н
+- [ ] **Oni Horn** — `samurai_dynasty:oni_horn` · н
+- [ ] **Oni Mask** — `samurai_dynasty:oni_mask` · н
+- [ ] **Oni Spawn Egg** — `samurai_dynasty:oni_spawn_egg` · н
+- [ ] **Onibi Spawn Egg** — `samurai_dynasty:onibi_spawn_egg` · н
+- [ ] **Onyx** — `samurai_dynasty:onyx` · н
+- [ ] **Block of Onyx** — `samurai_dynasty:onyx_block` · н
+- [ ] **Onyx Ore** — `samurai_dynasty:onyx_ore` · н
+- [ ] **Path Spirit Stone Bricks** — `samurai_dynasty:path_spirit_stone_bricks` · н
+- [ ] **Mossy Pattern Spirit Stone Bricks** — `samurai_dynasty:pattern_mossy_spirit_stone_bricks` · н
+- [ ] **Pattern Spirit Stone Bricks** — `samurai_dynasty:pattern_spirit_stone_bricks` · н
+- [ ] **Polished Spirit Stone** — `samurai_dynasty:polished_spirit_stone` · н
+- [ ] **Polished Spirit Stone Slab** — `samurai_dynasty:polished_spirit_stone_slab` · н
+- [ ] **Polished Spirit Stone Stairs** — `samurai_dynasty:polished_spirit_stone_stairs` · н
+- [ ] **Polished Spirit Stone Wall** — `samurai_dynasty:polished_spirit_stone_wall` · н
+- [ ] **Quartz-Coated Steel Ingot** — `samurai_dynasty:quartz_ingot` · н
+- [ ] **Quartz Samurai Boots** — `samurai_dynasty:quartz_samurai_boots` · н
+- [ ] **Quartz Samurai Chestplate** — `samurai_dynasty:quartz_samurai_chestplate` · н
+- [ ] **Quartz Samurai Helmet** — `samurai_dynasty:quartz_samurai_helmet` · н
+- [ ] **Quartz Samurai Leggings** — `samurai_dynasty:quartz_samurai_leggings` · н
+- [ ] **Raw Silver** — `samurai_dynasty:raw_silver` · н
+- [ ] **Ruby Samurai Boots** — `samurai_dynasty:red_samurai_boots` · н
+- [ ] **Light Ruby Samurai Boots** — `samurai_dynasty:red_samurai_boots_light` · н
+- [ ] **Master Ruby Samurai Boots** — `samurai_dynasty:red_samurai_boots_master` · н
+- [ ] **Ruby Samurai Chestplate** — `samurai_dynasty:red_samurai_chestplate` · н
+- [ ] **Light Ruby Samurai Chestplate** — `samurai_dynasty:red_samurai_chestplate_light` · н
+- [ ] **Master Ruby Samurai Chestplate** — `samurai_dynasty:red_samurai_chestplate_master` · н
+- [ ] **Ruby Samurai Helmet** — `samurai_dynasty:red_samurai_helmet` · н
+- [ ] **Light Ruby Samurai Helmet** — `samurai_dynasty:red_samurai_helmet_light` · н
+- [ ] **Master Ruby Samurai Helmet** — `samurai_dynasty:red_samurai_helmet_master` · н
+- [ ] **Ruby Samurai Leggings** — `samurai_dynasty:red_samurai_leggings` · н
+- [ ] **Light Ruby Samurai Leggings** — `samurai_dynasty:red_samurai_leggings_light` · н
+- [ ] **Master Ruby Samurai Leggings** — `samurai_dynasty:red_samurai_leggings_master` · н
+- [ ] **Ruby** — `samurai_dynasty:ruby` · н
+- [ ] **Block of Ruby** — `samurai_dynasty:ruby_block` · н
+- [ ] **Ruby Ore** — `samurai_dynasty:ruby_ore` · н
+- [ ] **Sai** — `samurai_dynasty:sai` · н
+- [ ] **Netherite Sai** — `samurai_dynasty:sai_netherite` · н
+- [ ] **Warden Samurai Boots** — `samurai_dynasty:sculk_samurai_boots` · н
+- [ ] **Warden Samurai Chestplate** — `samurai_dynasty:sculk_samurai_chestplate` · н
+- [ ] **Warden Samurai Helmet** — `samurai_dynasty:sculk_samurai_helmet` · н
+- [ ] **Warden Samurai Leggings** — `samurai_dynasty:sculk_samurai_leggings` · н
+- [ ] **Tekko-Kagi** — `samurai_dynasty:shuko` · н
+- [ ] **Netherite Tekko-Kagi** — `samurai_dynasty:shuko_netherite` · н
+- [ ] **Shuriken** — `samurai_dynasty:shuriken` · н
+- [ ] **Block of Silver** — `samurai_dynasty:silver_block` · н
+- [ ] **Silver Ingot** — `samurai_dynasty:silver_ingot` · н
+- [ ] **Silver Nugget** — `samurai_dynasty:silver_nugget` · н
+- [ ] **Silver Ore** — `samurai_dynasty:silver_ore` · н
+- [ ] **Spear Handle** — `samurai_dynasty:spear_handle` · н
+- [ ] **Onibi Flame** — `samurai_dynasty:spirit_flame` · н
+- [ ] **Spirit Stone Bricks** — `samurai_dynasty:spirit_stone` · н
+- [ ] **Spirit Stone** — `samurai_dynasty:spirit_stone_base` · н
+- [ ] **Spirit Stone Brick Slab** — `samurai_dynasty:spirit_stone_slab` · н
+- [ ] **Spirit Stone Brick Stairs** — `samurai_dynasty:spirit_stone_stairs` · н
+- [ ] **Spirit Stone Brick Wall** — `samurai_dynasty:spirit_stone_wall` · н
+- [ ] **Spirit Smithing Template** — `samurai_dynasty:spirit_upgrade_smithing_template` · н
+- [ ] **Block of Steel** — `samurai_dynasty:steel_block` · н
+- [ ] **Steel Boots** — `samurai_dynasty:steel_boots` · н
+- [ ] **Steel Chestplate** — `samurai_dynasty:steel_chestplate` · н
+- [ ] **Steel Helmet** — `samurai_dynasty:steel_helmet` · н
+- [ ] **Steel Ingot** — `samurai_dynasty:steel_ingot` · н
+- [ ] **Steel Leggings** — `samurai_dynasty:steel_leggings` · н
+- [ ] **Steel Ninja Boots** — `samurai_dynasty:steel_ninja_boots` · н
+- [ ] **Steel Ninja Robe** — `samurai_dynasty:steel_ninja_chestplate` · н
+- [ ] **Steel Ninja Mask** — `samurai_dynasty:steel_ninja_helmet` · н
+- [ ] **Steel Ninja Pants** — `samurai_dynasty:steel_ninja_leggings` · н
+- [ ] **Steel Nugget** — `samurai_dynasty:steel_nugget` · н
+- [ ] **Stone Roof Slope** — `samurai_dynasty:stone_roof` · н
+- [ ] **Stone Roof Corner** — `samurai_dynasty:stone_roof_corner` · н
+- [ ] **Stone Roof Top** — `samurai_dynasty:stone_roof_top` · н
+- [ ] **Straw Hat** — `samurai_dynasty:straw_hat` · н
+- [ ] **Tanegashima** — `samurai_dynasty:tanegashima` · н
+- [ ] **Tanuki Spawn Egg** — `samurai_dynasty:tanuki_spawn_egg` · н
+- [ ] **Tanuki Statue** — `samurai_dynasty:tanuki_statue` · н
+- [ ] **Tetsubo** — `samurai_dynasty:tetsubo` · н
+- [ ] **Netherite Tetsubo** — `samurai_dynasty:tetsubo_netherite` · н
+- [ ] **Tonbukiri** — `samurai_dynasty:tonbukiri` · н
+- [ ] **Netherite Tonbukiri** — `samurai_dynasty:tonbukiri_netherite` · н
+- [ ] **Tyr Samurai Boots** — `samurai_dynasty:tyr_samurai_boots` · н
+- [ ] **Tyr Samurai Chestplate** — `samurai_dynasty:tyr_samurai_chestplate` · н
+- [ ] **Tyr Samurai Helmet** — `samurai_dynasty:tyr_samurai_helmet` · н
+- [ ] **Tyr Samurai Leggings** — `samurai_dynasty:tyr_samurai_leggings` · н
+- [ ] **Wakizashi** — `samurai_dynasty:wakizashi` · н
+- [ ] **Netherite Wakizashi** — `samurai_dynasty:wakizashi_netherite` · н
+- [ ] **Silver Samurai Boots** — `samurai_dynasty:white_samurai_boots` · н
+- [ ] **Light Silver Samurai Boots** — `samurai_dynasty:white_samurai_boots_light` · н
+- [ ] **Master Silver Samurai Boots** — `samurai_dynasty:white_samurai_boots_master` · н
+- [ ] **Silver Samurai Chestplate** — `samurai_dynasty:white_samurai_chestplate` · н
+- [ ] **Light Silver Samurai Chestplate** — `samurai_dynasty:white_samurai_chestplate_light` · н
+- [ ] **Master Silver Samurai Chestplate** — `samurai_dynasty:white_samurai_chestplate_master` · н
+- [ ] **Silver Samurai Helmet** — `samurai_dynasty:white_samurai_helmet` · н
+- [ ] **Light Silver Samurai Helmet** — `samurai_dynasty:white_samurai_helmet_light` · н
+- [ ] **Master Silver Samurai Helmet** — `samurai_dynasty:white_samurai_helmet_master` · н
+- [ ] **Silver Samurai Leggings** — `samurai_dynasty:white_samurai_leggings` · н
+- [ ] **Light Silver Samurai Leggings** — `samurai_dynasty:white_samurai_leggings_light` · н
+- [ ] **Master Silver Samurai Leggings** — `samurai_dynasty:white_samurai_leggings_master` · н
+
+---
+Источник имён: data/items.jsonl; рецептов: data/recipes/*.jsonl + data/kubejs/.
